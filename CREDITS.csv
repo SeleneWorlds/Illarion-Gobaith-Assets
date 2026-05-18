@@ -6,7 +6,9 @@ client/textures/illarion/items/amethyst_uncut.png,CC0,BlayTheNinth; Melissa Krau
 client/textures/illarion/items/apple.png,CC0,Tanya Riarey,https://opengameart.org/content/2d-game-icons-fruits-vegetables
 client/textures/illarion/items/armor.png,CC0,Flare,https://opengameart.org/content/cc0-torso-wear-icons
 client/textures/illarion/items/arrow.png,CC0,Dungeon Crawl Stone Soup,https://opengameart.org/content/cc0-ranged-icons
+client/textures/illarion/items/ash.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/bag.png,CC0,Melissa Krautheim,https://opengameart.org/content/fantasy-magic-set
+client/textures/illarion/items/ball_of_wool.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/banane.png,CC0,Tanya Riarey,https://opengameart.org/content/2d-game-icons-fruits-vegetables
 client/textures/illarion/items/basket.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/berries.png,CC0,Tanya Riarey,https://opengameart.org/content/2d-game-icons-fruits-vegetables
@@ -20,10 +22,10 @@ client/textures/illarion/items/bluestone.png,CC0,BlayTheNinth; Melissa Krautheim
 client/textures/illarion/items/bluestone_uncut.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/fantasy-crystal-set
 client/textures/illarion/items/bolt.png,CC0,Dungeon Crawl Stone Soup,https://opengameart.org/content/cc0-ranged-icons
 client/textures/illarion/items/book.png,CC0,Melissa Krautheim,https://opengameart.org/content/fantasy-magic-set
-client/textures/illarion/items/boots_chain.png,Flare,https://opengameart.org/content/cc0-footgear-icons
-client/textures/illarion/items/boots_leather.png,Flare,https://opengameart.org/content/cc0-footgear-icons
-client/textures/illarion/items/boots_plate.png,Flare,https://opengameart.org/content/cc0-footgear-icons
-client/textures/illarion/items/boots_robe.png,Flare,https://opengameart.org/content/cc0-footgear-icons
+client/textures/illarion/items/boots_chain.png,CC0,Flare,https://opengameart.org/content/cc0-footgear-icons
+client/textures/illarion/items/boots_leather.png,CC0,Flare,https://opengameart.org/content/cc0-footgear-icons
+client/textures/illarion/items/boots_plate.png,CC0,Flare,https://opengameart.org/content/cc0-footgear-icons
+client/textures/illarion/items/boots_robe.png,CC0,Flare,https://opengameart.org/content/cc0-footgear-icons
 client/textures/illarion/items/bottle.png,CC0,BlayTheNinth; Melissa Krautheim,https://opengameart.org/content/fantasy-magic-set
 client/textures/illarion/items/bow.png,CC0,Dungeon Crawl Stone Soup,https://opengameart.org/content/cc0-ranged-icons
 client/textures/illarion/items/bowl.png,CC0,Dungeon Crawl Stone Soup,https://opengameart.org/content/cc0-tableware-icons
@@ -39,13 +41,16 @@ client/textures/illarion/items/cauldron.png,CC0,Melissa Krautheim,https://openga
 client/textures/illarion/items/cereals.png,CC0,ScratchIO,https://opengameart.org/content/2d-cereals
 client/textures/illarion/items/chainmail.png,CC0,Flare,https://opengameart.org/content/cc0-torso-wear-icons
 client/textures/illarion/items/cherries.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
+client/textures/illarion/items/clay.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/cloth.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/club.png,CC0,Flare,https://opengameart.org/content/cc0-club-icons
+client/textures/illarion/items/coal.png,CC0,Melissa Krautheim,https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/coarse_sand.png,CC0,BlayTheNinth; ScratchIO,https://seleneworlds.com; https://opengameart.org/content/2d-cereals
 client/textures/illarion/items/comb.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
 client/textures/illarion/items/cookies.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
 client/textures/illarion/items/copper_coins.png,CC0,BlayTheNinth;Dungeon Crawl Stone Soup,https://seleneworlds.com; https://opengameart.org/content/cc0-currency-icons
 client/textures/illarion/items/copper_ingot.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
+client/textures/illarion/items/copper_ore.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/crossbow.png,CC0,Dungeon Crawl Stone Soup,https://opengameart.org/content/cc0-ranged-icons
 client/textures/illarion/items/crown.png,CC0,Bonsaiheldin,https://opengameart.org/content/gold-treasure-icons-16x16
 client/textures/illarion/items/crucible.png,CC0,BlayTheNinth; Idylwild,https://seleneworlds.com; https://opengameart.org/content/idylwilds-arcanum
@@ -75,6 +80,7 @@ client/textures/illarion/items/gloves_leather.png,CC0,Flare,https://opengameart.
 client/textures/illarion/items/gloves_plate.png,CC0,Flare,https://opengameart.org/content/cc0-hand-wear-icons
 client/textures/illarion/items/gold_coins.png,CC0,Dungeon Crawl Stone Soup,https://opengameart.org/content/cc0-currency-icons
 client/textures/illarion/items/gold_ingot.png,CC0,Melissa Krautheim,https://opengameart.org/content/resource-pack-1
+client/textures/illarion/items/gold_ore.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/grains.png,CC0,ScratchIO,https://opengameart.org/content/2d-cereals
 client/textures/illarion/items/green_blood.png,CC0,AntumDeluge,https://opengameart.org/content/blood-splatters
 client/textures/illarion/items/green_potion.png,CC0,Melissa Krautheim,https://opengameart.org/content/fantasy-magic-set
@@ -87,6 +93,7 @@ client/textures/illarion/items/herb.png,CC0,Idylwild,https://opengameart.org/con
 client/textures/illarion/items/horn.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
 client/textures/illarion/items/invisible_item.png,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/items/iron_ingot.png,CC0,Melissa Krautheim,https://opengameart.org/content/resource-pack-1
+client/textures/illarion/items/iron_ore.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/iron_plate.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/key.png,CC0,7Soul1,https://www.deviantart.com/7soul1/art/129892453
 client/textures/illarion/items/lamp_oil.png,CC0,BlayTheNinth; Melissa Krautheim,https://opengameart.org/content/fantasy-magic-set
@@ -94,17 +101,19 @@ client/textures/illarion/items/lantern.png,CC0,Dungeon Crawl Stone Soup,https://
 client/textures/illarion/items/lantern_lit.png,CC0,Dungeon Crawl Stone Soup,https://opengameart.org/content/cc0-light-icons
 client/textures/illarion/items/leather.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/leather_armor.png,CC0,Flare,https://opengameart.org/content/cc0-torso-wear-icons
-client/textures/illarion/items/leggings_chain.png,Flare,https://opengameart.org/content/cc0-leggings-icons
-client/textures/illarion/items/leggings_cloth.png,BlayTheNinth; Flare,https://seleneworlds.com; https://opengameart.org/content/cc0-leggings-icons
-client/textures/illarion/items/leggings_leather.png,Flare,https://opengameart.org/content/cc0-leggings-icons
-client/textures/illarion/items/leggings_plate.png,Flare,https://opengameart.org/content/cc0-leggings-icons
+client/textures/illarion/items/leggings_chain.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
+client/textures/illarion/items/leggings_cloth.png,CC0,BlayTheNinth; Flare,https://seleneworlds.com; https://opengameart.org/content/cc0-leggings-icons
+client/textures/illarion/items/leggings_leather.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
+client/textures/illarion/items/leggings_plate.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
 client/textures/illarion/items/lockpicks.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
+client/textures/illarion/items/logs.png,CC0,Melissa Krautheim,https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/longbow.png,CC0,Dungeon Crawl Stone Soup,https://opengameart.org/content/cc0-ranged-icons
 client/textures/illarion/items/lute.png,CC0,OpenClipArt,https://opengameart.org/content/cc0-music-icons
 client/textures/illarion/items/magic_bow.png,CC0,Dungeon Crawl Stone Soup,https://opengameart.org/content/cc0-ranged-icons
 client/textures/illarion/items/mandarine.png,CC0,Tanya Riarey,https://opengameart.org/content/2d-game-icons-fruits-vegetables
 client/textures/illarion/items/medal.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
 client/textures/illarion/items/merinium_ingot.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
+client/textures/illarion/items/merinium_ore.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/mirror.png,CC0,BlayTheNinth; Idylwild,https://seleneworlds.com; https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/mold.png,CC0,bluecarrot16,https://opengameart.org/node/98209
 client/textures/illarion/items/mortar_and_pestle.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-arcanum
@@ -123,19 +132,7 @@ client/textures/illarion/items/peel.png,CC0,BlayTheNinth;Idylwild,https://selene
 client/textures/illarion/items/pie.png,CC0,bluecarrot16,https://opengameart.org/node/98209
 client/textures/illarion/items/pincers.png,CC0,Glitch,https://opengameart.org/content/100-glitch-icons
 client/textures/illarion/items/pipe.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
-client/textures/illarion/items/logs.png,CC0,Melissa Krautheim,https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/planks.png,CC0,Melissa Krautheim,https://opengameart.org/content/resource-pack-1
-client/textures/illarion/items/coal.png,CC0,Melissa Krautheim,https://opengameart.org/content/resource-pack-1
-client/textures/illarion/items/clay.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
-client/textures/illarion/items/copper_ore.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
-client/textures/illarion/items/iron_ore.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
-client/textures/illarion/items/gold_ore.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
-client/textures/illarion/items/merinium_ore.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
-client/textures/illarion/items/stones.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
-client/textures/illarion/items/sand.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
-client/textures/illarion/items/ash.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
-client/textures/illarion/items/wool.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
-client/textures/illarion/items/ball_of_wool.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/plate.png,CC0,BlayTheNinth; Idylwild,https://seleneworlds.com; https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/plate_dish.png,CC0,BlayTheNinth; Idylwild,https://seleneworlds.com; https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/poison_arrow.png,CC0,Dungeon Crawl Stone Soup,https://opengameart.org/content/cc0-ranged-icons
@@ -152,7 +149,8 @@ client/textures/illarion/items/root.png,CC0,AntumDeluge,https://opengameart.org/
 client/textures/illarion/items/rope.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/ruby.png,CC0,Melissa Krautheim,https://opengameart.org/content/fantasy-crystal-set
 client/textures/illarion/items/ruby_uncut.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/fantasy-crystal-set
-client/textures/illarion/items/sandals.png,Flare,https://opengameart.org/content/cc0-footgear-icons
+client/textures/illarion/items/sand.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
+client/textures/illarion/items/sandals.png,CC0,Flare,https://opengameart.org/content/cc0-footgear-icons
 client/textures/illarion/items/sausage.png,CC0,jetrel,https://opengameart.org/node/4531
 client/textures/illarion/items/scissors.png,CC0,BlayTheNinth; OpenClipArt,https://seleneworlds.com; https://opengameart.org/content/cc0-tool-icons
 client/textures/illarion/items/scroll.png,CC0,Melissa Krautheim,https://opengameart.org/content/fantasy-magic-set
@@ -165,10 +163,11 @@ client/textures/illarion/items/shovel.png,CC0,Idylwild,https://opengameart.org/c
 client/textures/illarion/items/shovelhead.png,CC0,BlayTheNinth; Idylwild,https://seleneworlds.com; https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/silver_coins.png,CC0,BlayTheNinth;Dungeon Crawl Stone Soup,https://seleneworlds.com; https://opengameart.org/content/cc0-currency-icons
 client/textures/illarion/items/silver_ingot.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
-client/textures/illarion/items/skirt.png,Flare,https://opengameart.org/content/cc0-leggings-icons
+client/textures/illarion/items/skirt.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
 client/textures/illarion/items/sling.png,CC0,Dungeon Crawl Stone Soup,https://opengameart.org/content/cc0-ranged-icons
 client/textures/illarion/items/smoked_fish.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/soup.png,CC0,BlayTheNinth; Dungeon Crawl Stone Soup,https://seleneworlds.com; https://opengameart.org/content/cc0-tableware-icons
+client/textures/illarion/items/stones.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/sugarcane.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/sword.png,CC0,Melissa Krautheim,https://opengameart.org/content/fantasy-sword-set
 client/textures/illarion/items/thread.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
@@ -184,8 +183,9 @@ client/textures/illarion/items/unknownItem.png,CC0,twiswist,https://opengameart.
 client/textures/illarion/items/wax.png,CC0,bluecarrot16,https://opengameart.org/node/98209
 client/textures/illarion/items/wheat.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/wind_arrow.png,CC0,BlayTheNinth; Dungeon Crawl Stone Soup,https://seleneworlds.com; https://opengameart.org/content/cc0-ranged-icons
-client/textures/illarion/items/wood_nails.png,CC0,Thartum Project; Glitch,https://seleneworlds.com; https://opengameart.org/content/100-glitch-icons
+client/textures/illarion/items/wood_nails.png,CC0,BlayTheNinth; Glitch,https://seleneworlds.com; https://opengameart.org/content/100-glitch-icons
 client/textures/illarion/items/wood_plane.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
+client/textures/illarion/items/wool.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
 client/textures/illarion/tiles/*,see tiles/,see tiles/,see tiles/
 client/textures/illarion/tiles/invisible.png,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/tiles/unknownTile.png,CC0,twiswist,https://opengameart.org/content/inventory-filter-icons
@@ -244,17 +244,34 @@ models/aggressive_mobs/spider.blend,CC0,Mesh2Motion,https://app.mesh2motion.org
 models/aggressive_mobs/wasp.blend,CC0,Gary Monsey; MikeMoon,https://opengameart.org/content/modified-wasp; https://opengameart.org/content/3d-hornetwasp
 models/aggressive_mobs/wolf.blend,CC0,Mesh2Motion; NewDLC,https://app.mesh2motion.org; https://opengameart.org/content/3d-wolf
 models/aggressive_mobs/zombie.blend,CC0,Lucian Pavel,https://opengameart.org/content/mobile-ready-zombie
-models/chars/human_male/human_male.blend,CC0,System G6,https://opengameart.org/content/modular-rpg-characters
-models/chars/human_female/human_female.blend,CC0,System G6,https://opengameart.org/content/modular-rpg-characters
 models/chars/dwarf_male/dwarf_male.blend,CC0,BlayTheNinth; System G6,https://seleneworlds.com; https://opengameart.org/content/modular-rpg-characters
+models/chars/human_female/human_female.blend,CC0,System G6,https://opengameart.org/content/modular-rpg-characters
+models/chars/human_male/human_male.blend,CC0,System G6,https://opengameart.org/content/modular-rpg-characters
 models/chars/lizard/lizard.blend,CC0,BlayTheNinth; System G6,https://seleneworlds.com; https://opengameart.org/content/modular-rpg-characters
+models/crafting_stations/anvil/anvil.blend,CC0,jazztickets,https://opengameart.org/content/anvil-3
+models/crafting_stations/baking_oven/baking_oven.blend,CC0,BlayTheNinth; CC0 Textures,https://seleneworlds.com; https://cc0-textures.com/t/cc0t-bricks-080-c
+models/crafting_stations/blast_furnace.blend,CC0,BlayTheNinth; CC0 Textures,https://seleneworlds.com; https://cc0-textures.com/t/cc0t-bricks-080-c
+models/crafting_stations/carpentry_table/carpentry_table.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/crafting_stations/chandler_table/chandler_table.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/crafting_stations/furnace/furnace.blend,CC0,BlayTheNinth; CC0 Textures,https://seleneworlds.com; https://cc0-textures.com/t/cc0t-bricks-080-c
+models/crafting_stations/grindstone.blend,CC0,Daniel Andersson,https://opengameart.org/content/medieval-smith-pack
+models/crafting_stations/loom/loom.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/crafting_stations/mage_desk/mage_desk.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/crafting_stations/millstone.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/crafting_stations/oilpress.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/crafting_stations/sieve.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/crafting_stations/smoker/smoker.blend,CC0,BlayTheNinth; CC0 Textures,https://seleneworlds.com; https://cc0-textures.com/t/cc0t-bricks-080-c
+models/crafting_stations/spinning_wheel.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/crafting_stations/tailoring_table/tailoring_table.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/crafting_stations/tanning_frame/tanning_frame.blend,CC0,Daniel Andersson,https://opengameart.org/content/medieval-props-pack-3
+models/crafting_stations/tanning_frame/tanning_frame_empty.blend,CC0,BlayTheNinth; Daniel Andersson,https://seleneworlds.com; https://opengameart.org/content/medieval-props-pack-3
 models/crops/cabbage/*,CC0,BlayTheNinth,https://seleneworlds.com
 models/crops/carrots/*,CC0,BlayTheNinth; Rattel,https://seleneworlds.com; https://opengameart.org/content/hand-painted-carrot
-models/crops/onions/*,CC0,BlayTheNinth; Rattel,https://seleneworlds.com; https://opengameart.org/content/hand-painted-carrot
 models/crops/grapes/*,CC0,BlayTheNinth; EasyTree,https://seleneworlds.com; https://extensions.blender.org/add-ons/easy-tree/
-models/crops/tobacco/*,CC0,BlayTheNinth; EasyTree,https://seleneworlds.com; https://extensions.blender.org/add-ons/easy-tree/
 models/crops/hops/*,CC0,BlayTheNinth; EasyTree,https://seleneworlds.com; https://extensions.blender.org/add-ons/easy-tree/
+models/crops/onions/*,CC0,BlayTheNinth; Rattel,https://seleneworlds.com; https://opengameart.org/content/hand-painted-carrot
 models/crops/sugarcanes/*,CC0,BlayTheNinth,https://seleneworlds.com
+models/crops/tobacco/*,CC0,BlayTheNinth; EasyTree,https://seleneworlds.com; https://extensions.blender.org/add-ons/easy-tree/
 models/crops/tomatoes/*,CC0,BlayTheNinth; EasyTree,https://seleneworlds.com; https://extensions.blender.org/add-ons/easy-tree/
 models/crops/wheat/*,CC0,BlayTheNinth; ScratchIO,https://seleneworlds.com; https://opengameart.org/content/2d-cereals
 models/foliage/azalea.blend,CC0,Yughues,https://opengameart.org/content/free-handpainted-plants
@@ -276,20 +293,6 @@ models/foliage/rosemary.blend,CC0,Yughues,https://opengameart.org/content/free-h
 models/foliage/snowcandle.blend,CC0,Yughues,https://opengameart.org/content/free-handpainted-plants
 models/foliage/sunflowers.blend,CC0,BlayTheNinth; para,https://seleneworlds.com; https://opengameart.org/content/paramecijs-vegetation-base-texture-pack
 models/furniture/altar/altar.blend,CC0,eugeneloza,https://opengameart.org/content/opendungeons-altar
-models/crafting_stations/anvil/anvil.blend,CC0,jazztickets,https://opengameart.org/content/anvil-3
-models/crafting_stations/baking_oven/baking_oven.blend,CC0,BlayTheNinth; CC0 Textures,https://seleneworlds.com; https://cc0-textures.com/t/cc0t-bricks-080-c
-models/crafting_stations/blast_furnace.blend,CC0,BlayTheNinth; CC0 Textures,https://seleneworlds.com; https://cc0-textures.com/t/cc0t-bricks-080-c
-models/crafting_stations/furnace/furnace.blend,CC0,BlayTheNinth; CC0 Textures,https://seleneworlds.com; https://cc0-textures.com/t/cc0t-bricks-080-c
-models/crafting_stations/smoker/smoker.blend,CC0,BlayTheNinth; CC0 Textures,https://seleneworlds.com; https://cc0-textures.com/t/cc0t-bricks-080-c
-models/crafting_stations/carpentry_table/carpentry_table.blend,CC0,BlayTheNinth,https://seleneworlds.com
-models/crafting_stations/chandler_table/chandler_table.blend,CC0,BlayTheNinth,https://seleneworlds.com
-models/crafting_stations/loom/loom.blend,CC0,BlayTheNinth,https://seleneworlds.com
-models/crafting_stations/mage_desk/mage_desk.blend,CC0,BlayTheNinth,https://seleneworlds.com
-models/crafting_stations/oilpress.blend,CC0,BlayTheNinth,https://seleneworlds.com
-models/crafting_stations/millstone.blend,CC0,BlayTheNinth,https://seleneworlds.com
-models/crafting_stations/spinning_wheel.blend,CC0,BlayTheNinth,https://seleneworlds.com
-models/crafting_stations/tailoring_table/tailoring_table.blend,CC0,BlayTheNinth,https://seleneworlds.com
-models/crafting_stations/sieve.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/furniture/barrel/barrel.blend,CC0,mastahcez,https://opengameart.org/content/crate-barrel-bundle
 models/furniture/bed/bed.blend,CC0,Clint Bellanger,https://opengameart.org/content/bed-low-poly
 models/furniture/bookshelf/bookshelf.blend,CC0,Paul Wortmann,https://opengameart.org/content/old-bookshelf-with-books
@@ -299,16 +302,15 @@ models/furniture/candle/candle_holder.blend,CC0,BlayTheNinth; marcoscuro1,https:
 models/furniture/candle/candle_stand.blend,CC0,AnyRPG,https://opengameart.org/content/medieval-candles
 models/furniture/candle/candle_stick.blend,CC0,AnyRPG,https://opengameart.org/content/medieval-candles
 models/furniture/chair/chair.blend,CC0,AnyRPG,https://opengameart.org/content/medieval-furniture-0
+models/furniture/chair/fancy_chair.blend,CC0,Colorado Stark,https://opengameart.org/content/chair-2
 models/furniture/chest/chest.blend,CC0,KillGorack,https://opengameart.org/content/treasure-chest-6
 models/furniture/coffin.blend,CC0,Paul Wortmann,https://opengameart.org/content/coffin-0
-models/furniture/chair/fancy_chair.blend,CC0,Colorado Stark,https://opengameart.org/content/chair-2
-models/crafting_stations/grindstone.blend,CC0,Daniel Andersson,https://opengameart.org/content/medieval-smith-pack
-models/structures/ladder/ladder.blend,CC0,Simon Lübeß,https://opengameart.org/content/simple-ladder
+models/furniture/fireplace/fireplace.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/furniture/lectern/lectern.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/furniture/lever/lever.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/furniture/millstone.blend,CC0,BlayTheNinth,https://seleneworlds.com
-models/structures/dock/dock.blend,CC0,BlayTheNinth,https://seleneworlds.com
-models/structures/bridge/bridge.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/furniture/mirror/mirror.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/furniture/painting/painting.blend,CC0,BlayTheNinth; Cethiel,https://seleneworlds.com; https://opengameart.org/content/angel-shield-effect
-models/furniture/vase/potted_plant.blend,CC0,BlayTheNinth; rubberduck; rubberduck,https://seleneworlds.com; https://opengameart.org/content/free-plant-pack; https://opengameart.org/content/free-mug-pack-1
 models/furniture/sculpture/sculpture.blend,CC0,BlayTheNinth; CC0 Textures; AnthonyMyers,https://seleneworlds.com; https://cc0-textures.com/t/st-calacatta-aria-polished-marble; https://opengameart.org/content/sara-3
 models/furniture/sieve.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/furniture/stool.blend,CC0,BlayTheNinth,https://seleneworlds.com
@@ -316,6 +318,7 @@ models/furniture/table/table.blend,CC0,System G6,https://opengameart.org/content
 models/furniture/table/table_round.blend,CC0,System G6,https://opengameart.org/content/medieval-tavern-props-pack
 models/furniture/throne/throne.blend,CC0,eugeneloza,https://opengameart.org/content/opendungeons-redwood-throne
 models/furniture/toilet.blend,CC0,BlayTheNinth; jazztickets,https://seleneworlds.com; https://opengameart.org/content/toilet
+models/furniture/vase/potted_plant.blend,CC0,BlayTheNinth; rubberduck; rubberduck,https://seleneworlds.com; https://opengameart.org/content/free-plant-pack; https://opengameart.org/content/free-mug-pack-1
 models/furniture/vase/vase.blend,CC0,rubberduck,https://opengameart.org/content/free-mug-pack-1
 models/furniture/wall_torch/wall_torch.blend,CC0,System G6,https://opengameart.org/content/medieval-tavern-props-pack
 models/furniture/wine_barrel/wine_barrel.blend,CC0,BlayTheNinth; mastahcez,https://seleneworlds.com; https://opengameart.org/content/crate-barrel-bundle
@@ -325,23 +328,24 @@ models/items/hammer/hammerhead.blend,CC0,BlayTheNinth; System G6,https://selenew
 models/items/handle/handle.blend,CC0,BlayTheNinth; kev93,https://seleneworlds.com; https://opengameart.org/content/low-poly-axe-0
 models/items/mace/mace.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
 models/items/pickaxe/pickaxe.blend,CC0,System G6,https://opengameart.org/content/medieval-tools-pack
+models/items/rolling_pin/rolling_pin.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/saw/saw.blend,CC0,System G6,https://opengameart.org/content/medieval-tools-pack
 models/items/scythe/scythe.blend,CC0,System G6,https://opengameart.org/content/medieval-tools-pack
 models/items/sickle/sickle.blend,CC0,System G6,https://opengameart.org/content/medieval-tools-pack
 models/items/snowball/snowball.blend,CC0,oceancucumber,https://opengameart.org/content/low-poly-snow-ball
-models/items/rolling_pin/rolling_pin.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/misc/beehive.blend,CC0,BlayTheNinth,https://seleneworlds.com
-models/misc/cobweb.blend,CC0,p0ss,https://opengameart.org/content/spider-webs
-models/misc/rotting_skeleton.blend,CC0,BlayTheNinth; Gord Goodwin,https://seleneworlds.com; https://opengameart.org/content/skeleton-with-rig
 models/misc/bonepile/bonepile.blend,CC0,BlayTheNinth; Paul Wortmann,https://seleneworlds.com; https://opengameart.org/content/spiked-head-and-skull
+models/misc/cobweb.blend,CC0,p0ss,https://opengameart.org/content/spider-webs
+models/misc/dead_sheep.blend,CC0,BlayTheNinth; quaternius,https://seleneworlds.com; https://opengameart.org/content/lowpoly-animated-farm-animal-pack
+models/misc/rotting_skeleton.blend,CC0,BlayTheNinth; Gord Goodwin,https://seleneworlds.com; https://opengameart.org/content/skeleton-with-rig
 models/misc/skull/skull.blend,CC0,BlayTheNinth; Paul Wortmann,https://seleneworlds.com; https://opengameart.org/content/spiked-head-and-skull
+models/misc/spike_trap/spike_trap.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/passive_mobs/cow.blend,CC0,quaternius,https://opengameart.org/content/lowpoly-animated-farm-animal-pack
 models/passive_mobs/deer.blend,CC0,CDmir,https://opengameart.org/content/old-deer-male
 models/passive_mobs/pig.blend,CC0,quaternius,https://opengameart.org/content/lowpoly-animated-farm-animal-pack
 models/passive_mobs/pug.blend,CC0,quaternius,https://opengameart.org/content/lowpoly-animated-farm-animal-pack
 models/passive_mobs/rabbit.blend,CC0,CDmir,https://opengameart.org/content/rabbit-0
 models/passive_mobs/sheep.blend,CC0,quaternius,https://opengameart.org/content/lowpoly-animated-farm-animal-pack
-models/misc/dead_sheep.blend,CC0,BlayTheNinth; quaternius,https://seleneworlds.com; https://opengameart.org/content/lowpoly-animated-farm-animal-pack
 models/rocks/marker_stone.blend,CC0,BlayTheNinth; rubberduck,https://seleneworlds.com; https://opengameart.org/content/more-handpainted-rocks
 models/rocks/rock_01.blend,CC0,Yughues,https://opengameart.org/content/rocks-0
 models/rocks/rock_02.blend,CC0,Yughues,https://opengameart.org/content/rocks-0
@@ -351,39 +355,35 @@ models/rocks/rock_05.blend,CC0,Yughues,https://opengameart.org/content/rocks-0
 models/rocks/small_rock_01.blend,CC0,rubberduck,https://opengameart.org/content/more-handpainted-rocks
 models/rocks/small_rock_02.blend,CC0,rubberduck,https://opengameart.org/content/more-handpainted-rocks
 models/rocks/small_rock_03.blend,CC0,rubberduck,https://opengameart.org/content/more-handpainted-rocks
+models/rocks/stalagmites/stalagmites.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/structures/banner_pole/banner_pole.blend,CC0,BlayTheNinth; Cethiel,https://seleneworlds.com; https://opengameart.org/content/angel-shield-effect
+models/structures/battlements/battlements.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/structures/battlements/battlements_corner.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/structures/bridge/bridge.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/structures/campfire/campfire.blend,CC0,System G6,https://opengameart.org/content/medieval-props-pack
 models/structures/campfire/campfire_wood.blend,CC0,Saraskau,https://opengameart.org/content/low-poly-camping-assets
 models/structures/campfire/cauldron.blend,CC0,Saraskau,https://opengameart.org/content/low-poly-camping-assets
+models/structures/cart/cart.blend,CC0,System G6,https://opengameart.org/content/medieval-props-pack
 models/structures/column/column.blend,CC0,XaosXV,https://opengameart.org/content/toscan-column-low-poly
 models/structures/dead_tree_trunk/dead_tree.blend,CC0,System G6,https://opengameart.org/content/medieval-props-pack
-models/structures/cart/cart.blend,CC0,System G6,https://opengameart.org/content/medieval-props-pack
+models/structures/dock/dock.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/structures/fountain/fountain_basin.blend,CC0,AnyRPG,https://opengameart.org/content/medieval-fountains
 models/structures/fountain/fountain_round.blend,CC0,AnyRPG,https://opengameart.org/content/medieval-fountains
 models/structures/gravestone/gravestone_01.blend,CC0,AssetQuest,https://opengameart.org/content/low-poly-halloween-kit
 models/structures/gravestone/gravestone_02.blend,CC0,AssetQuest,https://opengameart.org/content/low-poly-halloween-kit
 models/structures/gravestone/gravestone_03.blend,CC0,AssetQuest,https://opengameart.org/content/low-poly-halloween-kit
-models/structures/statue/knight_statue.blend,CC0,yd,https://opengameart.org/content/knight-statue
-models/structures/signpost/signpost.blend,CC0,AnyRPG,https://opengameart.org/content/medieval-signs
-models/structures/skullpost/skullpost.blend,CC0,Paul Wortmann,https://opengameart.org/content/spiked-head-and-skull
+models/structures/hole/hole.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/structures/ladder/ladder.blend,CC0,Simon Lübeß,https://opengameart.org/content/simple-ladder
 models/structures/portal/portal.blend,CC0,HippoDevelopment,https://opengameart.org/content/low-poly-portal
-models/structures/stonewall/*,CC0,BlayTheNinth; Texture Haven,https://seleneworlds.com; https://cc0-textures.com/t/th-aerial-rocks-02
-models/crafting_stations/tanning_frame/tanning_frame.blend,CC0,Daniel Andersson,https://opengameart.org/content/medieval-props-pack-3
-models/crafting_stations/tanning_frame/tanning_frame_empty.blend,CC0,BlayTheNinth; Daniel Andersson,https://seleneworlds.com; https://opengameart.org/content/medieval-props-pack-3
-models/misc/spike_trap/spike_trap.blend,CC0,BlayTheNinth,https://seleneworlds.com
-models/furniture/lectern/lectern.blend,CC0,BlayTheNinth,https://seleneworlds.com
-models/furniture/lever/lever.blend,CC0,BlayTheNinth,https://seleneworlds.com
-models/furniture/fireplace/fireplace.blend,CC0,BlayTheNinth,https://seleneworlds.com
-models/furniture/mirror/mirror.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/structures/roof/roof.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/structures/roof/roof_corner.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/structures/roof_ledge/roof_ledge.blend,CC0,BlayTheNinth,https://seleneworlds.com
-models/structures/tower_roof/tower_roof.blend,CC0,BlayTheNinth,https://seleneworlds.com
-models/structures/battlements/battlements.blend,CC0,BlayTheNinth,https://seleneworlds.com
-models/structures/battlements/battlements_corner.blend,CC0,BlayTheNinth,https://seleneworlds.com
-models/rocks/stalagmites/stalagmites.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/structures/scarecrow/scarecrow.blend,CC0,BlayTheNinth,https://seleneworlds.com
-models/structures/hole/hole.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/structures/signpost/signpost.blend,CC0,AnyRPG,https://opengameart.org/content/medieval-signs
+models/structures/skullpost/skullpost.blend,CC0,Paul Wortmann,https://opengameart.org/content/spiked-head-and-skull
+models/structures/statue/knight_statue.blend,CC0,yd,https://opengameart.org/content/knight-statue
+models/structures/stonewall/*,CC0,BlayTheNinth; Texture Haven,https://seleneworlds.com; https://cc0-textures.com/t/th-aerial-rocks-02
+models/structures/tower_roof/tower_roof.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/structures/well.blend,CC0,Iconoclast,https://opengameart.org/content/covered-well
 models/trees/*/*,CC0,BlayTheNinth; Mish7913; EasyTree,https://seleneworlds.com; https://opengameart.org/content/stump; https://extensions.blender.org/add-ons/easy-tree/
 models/trees/palm.blend,CC0,FabinhoSC,https://opengameart.org/content/exotic-palms-lowpoly-style
@@ -410,6 +410,6 @@ tiles/road.png,CC0,Texture Haven,https://cc0-textures.com/t/th-cobblestone-floor
 tiles/rocks.png,CC0,Texture Haven,https://cc0-textures.com/t/th-coral-fort-wall-02
 tiles/roof.png,CC0,Texture Haven,https://cc0-textures.com/t/th-roof-tiles-14
 tiles/sand.png,CC0,BlayTheNinth; CC0 Textures,https://seleneworlds.com; https://cc0-textures.com/t/cc0t-ground-055-s-small
-tiles/snow.png,CC0,CC0 Textures; https://cc0-textures.com/t/cc0t-snow-003
+tiles/snow.png,CC0,CC0 Textures,https://cc0-textures.com/t/cc0t-snow-003
 tiles/wall.png,CC0,Share Textures,https://cc0-textures.com/t/st-concrete-27
 tiles/water/*.png,CC0,BlayTheNinth,https://seleneworlds.com
