@@ -1,0 +1,11 @@
+{
+  "type": "simple",
+  "sortLayerOffset": 300,
+  "surfaceOffsetY": 0,
+  "offsetX": 2,
+  "offsetY": -5,
+  "texture": "client/textures/illarion/items/helmet.png",
+  "metadata": {
+    "itemId": 2291
+  }
+}

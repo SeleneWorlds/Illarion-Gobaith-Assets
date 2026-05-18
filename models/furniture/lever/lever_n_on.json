@@ -1,0 +1,8 @@
+{
+  "model": "lever.blend",
+  "sprites": "illarion/items/item_436",
+  "visual": "items/item_436",
+  "direction": "north",
+  "scale": 1,
+  "include": ["Base", "RoundBase", "LeverStart"]
+}

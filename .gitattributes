@@ -1,0 +1,34 @@
+# Default: normalize text files to LF in repo and checkout as LF
+* text=auto eol=lf
+
+# Explicit text formats
+*.csv  text
+*.html text
+*.iml  text
+*.json text
+*.md   text
+*.py   text
+*.xml  text
+
+# Binary assets
+*.blend binary
+*.jpg   binary
+*.mid   binary
+*.ogg   binary
+*.png   binary
+*.xcf   binary
+
+# Shell scripts
+*.sh text eol=lf
+
+# Windows scripts
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+
+# GitHub Actions / YAML
+*.yml  text
+*.yaml text
+
+# Prevent huge binary diffs
+*.png  -diff
+*.jpg  -diff

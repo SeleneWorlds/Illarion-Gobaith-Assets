@@ -1,0 +1,7 @@
+{
+  "model": "cabbage.blend",
+  "sprites": "illarion/items/item_289",
+  "visual": "items/item_289",
+  "direction": "south",
+  "scale": 1.0
+}

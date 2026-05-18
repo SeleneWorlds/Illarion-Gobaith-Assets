@@ -1,0 +1,33 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 302,
+  "offsetX": 1,
+  "offsetY": -22,
+  "textures": [
+    "client/textures/illarion/effects/explo-0.png",
+    "client/textures/illarion/effects/explo-1.png",
+    "client/textures/illarion/effects/explo-2.png",
+    "client/textures/illarion/effects/explo-3.png",
+    "client/textures/illarion/effects/explo-4.png",
+    "client/textures/illarion/effects/explo-5.png",
+    "client/textures/illarion/effects/explo-6.png",
+    "client/textures/illarion/effects/explo-7.png",
+    "client/textures/illarion/effects/explo-8.png",
+    "client/textures/illarion/effects/explo-9.png",
+    "client/textures/illarion/effects/explo-10.png",
+    "client/textures/illarion/effects/explo-11.png",
+    "client/textures/illarion/effects/explo-12.png",
+    "client/textures/illarion/effects/explo-13.png",
+    "client/textures/illarion/effects/explo-14.png",
+    "client/textures/illarion/effects/explo-15.png",
+    "client/textures/illarion/effects/explo-16.png",
+    "client/textures/illarion/effects/explo-17.png",
+    "client/textures/illarion/effects/explo-18.png",
+    "client/textures/illarion/effects/explo-19.png"
+  ],
+  "duration": 2,
+  "instanced": true,
+  "metadata": {
+    "gfxId": 44
+  }
+}

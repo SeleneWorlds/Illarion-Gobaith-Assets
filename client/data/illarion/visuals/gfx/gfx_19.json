@@ -1,0 +1,20 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 302,
+  "offsetX": 9,
+  "offsetY": -17,
+  "textures": [
+    "client/textures/illarion/effects/mace-0.png",
+    "client/textures/illarion/effects/mace-1.png",
+    "client/textures/illarion/effects/mace-2.png",
+    "client/textures/illarion/effects/mace-3.png",
+    "client/textures/illarion/effects/mace-4.png",
+    "client/textures/illarion/effects/mace-5.png",
+    "client/textures/illarion/effects/mace-6.png"
+  ],
+  "duration": 0.4666666666666667,
+  "instanced": true,
+  "metadata": {
+    "gfxId": 19
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "type": "simple",
+  "texture": "forest.png",
+  "sprites": "illarion/tiles/tile_9",
+  "visual": "tiles/tile_9",
+  "transitions": true
+}

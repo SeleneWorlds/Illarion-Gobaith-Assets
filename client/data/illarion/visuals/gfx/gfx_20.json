@@ -1,0 +1,19 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 302,
+  "offsetX": 5,
+  "offsetY": -26,
+  "textures": [
+    "client/textures/illarion/effects/dagger-0.png",
+    "client/textures/illarion/effects/dagger-1.png",
+    "client/textures/illarion/effects/dagger-2.png",
+    "client/textures/illarion/effects/dagger-3.png",
+    "client/textures/illarion/effects/dagger-4.png",
+    "client/textures/illarion/effects/dagger-5.png"
+  ],
+  "duration": 0.4,
+  "instanced": true,
+  "metadata": {
+    "gfxId": 20
+  }
+}

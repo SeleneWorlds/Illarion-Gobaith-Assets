@@ -1,0 +1,8 @@
+{
+  "model": "grapes.blend",
+  "sprites": "illarion/items/item_387",
+  "visual": "items/item_387",
+  "direction": "south",
+  "include": ["Sapling", "Fruits"],
+  "scale": 1.0
+}

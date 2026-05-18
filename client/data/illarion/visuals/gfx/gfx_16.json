@@ -1,0 +1,30 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 302,
+  "offsetX": 20,
+  "offsetY": -79,
+  "textures": [
+    "client/textures/illarion/effects/rain-0.png",
+    "client/textures/illarion/effects/rain-1.png",
+    "client/textures/illarion/effects/rain-2.png",
+    "client/textures/illarion/effects/rain-3.png",
+    "client/textures/illarion/effects/rain-4.png",
+    "client/textures/illarion/effects/rain-5.png",
+    "client/textures/illarion/effects/rain-6.png",
+    "client/textures/illarion/effects/rain-7.png",
+    "client/textures/illarion/effects/rain-8.png",
+    "client/textures/illarion/effects/rain-9.png",
+    "client/textures/illarion/effects/rain-10.png",
+    "client/textures/illarion/effects/rain-11.png",
+    "client/textures/illarion/effects/rain-12.png",
+    "client/textures/illarion/effects/rain-13.png",
+    "client/textures/illarion/effects/rain-14.png",
+    "client/textures/illarion/effects/rain-15.png",
+    "client/textures/illarion/effects/rain-16.png"
+  ],
+  "duration": 2.833333333333333,
+  "instanced": true,
+  "metadata": {
+    "gfxId": 16
+  }
+}

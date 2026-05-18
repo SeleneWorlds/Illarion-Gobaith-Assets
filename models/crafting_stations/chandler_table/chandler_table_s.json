@@ -1,0 +1,7 @@
+{
+  "model": "chandler_table.blend",
+  "sprites": "illarion/items/item_428",
+  "visual": "items/item_428",
+  "direction": "south",
+  "scale": 1
+}

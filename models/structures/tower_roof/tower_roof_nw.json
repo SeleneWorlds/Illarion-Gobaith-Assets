@@ -1,0 +1,7 @@
+{
+  "model": "tower_roof.blend",
+  "sprites": "illarion/items/item_351",
+  "visual": "items/item_351",
+  "direction": "west",
+  "scale": 1
+}

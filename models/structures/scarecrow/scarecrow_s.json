@@ -1,0 +1,7 @@
+{
+  "model": "scarecrow.blend",
+  "sprites": "illarion/items/item_2862",
+  "visual": "items/item_2862",
+  "direction": "south",
+  "scale": 1
+}

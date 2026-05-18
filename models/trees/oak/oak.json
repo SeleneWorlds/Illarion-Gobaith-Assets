@@ -1,0 +1,8 @@
+{
+  "model": "oak.blend",
+  "sprites": "illarion/items/item_1809",
+  "visual": "items/item_1809",
+  "direction": "south",
+  "scale": 1.0,
+  "include": ["Stump", "Tree"]
+}

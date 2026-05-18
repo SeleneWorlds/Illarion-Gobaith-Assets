@@ -1,0 +1,16 @@
+{
+  "model": "../wall_door.blend",
+  "sprites": "illarion/items/item_653",
+  "visual": "items/item_653",
+  "offsetX": -14,
+  "offsetY": -5,
+  "materials": {
+    "Wall": {
+      "Diffuse": "diffuse.jpg",
+      "Normal": "normal.jpg",
+      "Displacement": "displacement.jpg",
+      "Roughness": "roughness.jpg"
+    }
+  },
+  "direction": "north"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "simple",
+  "sortLayerOffset": 300,
+  "surfaceOffsetY": 0,
+  "offsetX": 2,
+  "offsetY": -8,
+  "texture": "client/textures/illarion/items/leather_armor.png",
+  "metadata": {
+    "itemId": 364
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 302,
+  "offsetX": 2,
+  "offsetY": -13,
+  "textures": [
+    "client/textures/illarion/effects/fireball-0.png",
+    "client/textures/illarion/effects/fireball-1.png",
+    "client/textures/illarion/effects/fireball-2.png",
+    "client/textures/illarion/effects/fireball-3.png",
+    "client/textures/illarion/effects/fireball-4.png",
+    "client/textures/illarion/effects/fireball-5.png",
+    "client/textures/illarion/effects/fireball-6.png",
+    "client/textures/illarion/effects/fireball-7.png",
+    "client/textures/illarion/effects/fireball-8.png",
+    "client/textures/illarion/effects/fireball-9.png",
+    "client/textures/illarion/effects/fireball-10.png"
+  ],
+  "duration": 2.2,
+  "instanced": true,
+  "metadata": {
+    "gfxId": 9
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 302,
+  "offsetX": -10,
+  "offsetY": -37,
+  "textures": [
+    "client/textures/illarion/effects/spell-0.png",
+    "client/textures/illarion/effects/spell-1.png",
+    "client/textures/illarion/effects/spell-2.png",
+    "client/textures/illarion/effects/spell-3.png",
+    "client/textures/illarion/effects/spell-4.png",
+    "client/textures/illarion/effects/spell-5.png",
+    "client/textures/illarion/effects/spell-6.png",
+    "client/textures/illarion/effects/spell-7.png",
+    "client/textures/illarion/effects/spell-8.png",
+    "client/textures/illarion/effects/spell-9.png",
+    "client/textures/illarion/effects/spell-10.png",
+    "client/textures/illarion/effects/spell-11.png",
+    "client/textures/illarion/effects/spell-12.png",
+    "client/textures/illarion/effects/spell-13.png",
+    "client/textures/illarion/effects/spell-14.png",
+    "client/textures/illarion/effects/spell-15.png",
+    "client/textures/illarion/effects/spell-16.png",
+    "client/textures/illarion/effects/spell-17.png",
+    "client/textures/illarion/effects/spell-18.png"
+  ],
+  "duration": 3.1666666666666665,
+  "instanced": true,
+  "metadata": {
+    "gfxId": 6
+  }
+}

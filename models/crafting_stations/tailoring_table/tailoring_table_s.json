@@ -1,0 +1,7 @@
+{
+  "model": "tailoring_table.blend",
+  "sprites": "illarion/items/item_103",
+  "visual": "items/item_103",
+  "direction": "south",
+  "scale": 1
+}

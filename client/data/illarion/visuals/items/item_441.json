@@ -1,0 +1,31 @@
+{
+  "type": "animator",
+  "animator": "humanoid",
+  "sortLayerOffset": 301,
+  "animations": {
+    "armatureaction.001/north": {
+      "textures": [
+        "client/textures/illarion/items/item_441/ArmatureAction.001/north/0001.png"
+      ],
+      "offsetX": -57,
+      "offsetY": -35,
+      "duration": 0.06666666666666667
+    },
+    "armatureaction.002/north": {
+      "textures": [
+        "client/textures/illarion/items/item_441/ArmatureAction.002/north/0001.png"
+      ],
+      "offsetX": -57,
+      "offsetY": -35,
+      "duration": 0.06666666666666667
+    },
+    "armatureaction/north": {
+      "textures": [
+        "client/textures/illarion/items/item_441/ArmatureAction/north/0001.png"
+      ],
+      "offsetX": -57,
+      "offsetY": -35,
+      "duration": 0.06666666666666667
+    }
+  }
+}

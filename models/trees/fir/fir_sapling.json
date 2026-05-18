@@ -1,0 +1,8 @@
+{
+  "model": "fir.blend",
+  "sprites": "illarion/items/item_150",
+  "visual": "items/item_150",
+  "direction": "south",
+  "scale": 1.0,
+  "include": ["Sapling"]
+}

@@ -1,0 +1,14 @@
+{
+  "model": "../wall_block.blend",
+  "sprites": "illarion/items/item_3088",
+  "visual": "items/item_3088",
+  "materials": {
+    "Wall": {
+      "Diffuse": "diffuse.png",
+      "Normal": "normal.png",
+      "Displacement": "displacement.png",
+      "Roughness": "roughness.png"
+    }
+  },
+  "direction": "south"
+}

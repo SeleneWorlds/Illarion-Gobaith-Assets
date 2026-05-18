@@ -1,0 +1,7 @@
+{
+  "model": "wall_torch.blend",
+  "sprites": "illarion/items/item_401",
+  "visual": "items/item_401",
+  "direction": "south",
+  "scale": 1
+}

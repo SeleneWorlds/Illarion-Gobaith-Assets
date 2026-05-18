@@ -1,0 +1,7 @@
+{
+  "model": "spike_trap.blend",
+  "sprites": "illarion/items/item_379",
+  "visual": "items/item_379",
+  "direction": "west",
+  "scale": 1
+}

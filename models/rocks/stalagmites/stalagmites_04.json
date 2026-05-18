@@ -1,0 +1,7 @@
+{
+  "model": "stalagmites.blend",
+  "sprites": "illarion/items/item_3100",
+  "visual": "items/item_3100",
+  "direction": "west",
+  "scale": 1
+}

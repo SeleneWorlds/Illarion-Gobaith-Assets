@@ -1,0 +1,79 @@
+{
+  "type": "animator",
+  "animator": "humanoid",
+  "sortLayerOffset": 301,
+  "metadata": {
+    "raceId": 14,
+    "typeId": 0
+  },
+  "animations": {
+    "stationary/north": {
+      "textures": [
+        "client/textures/illarion/chars/rotworm-0.png"
+      ],
+      "offsetX": 0,
+      "offsetY": -12
+    },
+    "walk/north": {
+      "textures": [
+        "client/textures/illarion/chars/rotworm-0.png",
+        "client/textures/illarion/chars/rotworm-1.png",
+        "client/textures/illarion/chars/rotworm-2.png"
+      ],
+      "offsetX": 0,
+      "offsetY": -12,
+      "duration": 0.30000000000000004
+    },
+    "stationary/east": {
+      "textures": [
+        "client/textures/illarion/chars/rotworm-0.png"
+      ],
+      "offsetX": 1,
+      "offsetY": -10
+    },
+    "walk/east": {
+      "textures": [
+        "client/textures/illarion/chars/rotworm-0.png",
+        "client/textures/illarion/chars/rotworm-1.png",
+        "client/textures/illarion/chars/rotworm-2.png"
+      ],
+      "offsetX": 1,
+      "offsetY": -10,
+      "duration": 0.30000000000000004
+    },
+    "stationary/south": {
+      "textures": [
+        "client/textures/illarion/chars/rotworm-0.png"
+      ],
+      "offsetX": 2,
+      "offsetY": -10
+    },
+    "walk/south": {
+      "textures": [
+        "client/textures/illarion/chars/rotworm-0.png",
+        "client/textures/illarion/chars/rotworm-1.png",
+        "client/textures/illarion/chars/rotworm-2.png"
+      ],
+      "offsetX": 2,
+      "offsetY": -10,
+      "duration": 0.30000000000000004
+    },
+    "stationary/west": {
+      "textures": [
+        "client/textures/illarion/chars/rotworm-0.png"
+      ],
+      "offsetX": 1,
+      "offsetY": -9
+    },
+    "walk/west": {
+      "textures": [
+        "client/textures/illarion/chars/rotworm-0.png",
+        "client/textures/illarion/chars/rotworm-1.png",
+        "client/textures/illarion/chars/rotworm-2.png"
+      ],
+      "offsetX": 1,
+      "offsetY": -9,
+      "duration": 0.30000000000000004
+    }
+  }
+}

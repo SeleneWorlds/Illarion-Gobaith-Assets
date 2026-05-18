@@ -1,0 +1,7 @@
+{
+  "model": "tomatoes_ripe.blend",
+  "sprites": "illarion/items/item_540",
+  "visual": "items/item_540",
+  "direction": "south",
+  "scale": 1.0
+}

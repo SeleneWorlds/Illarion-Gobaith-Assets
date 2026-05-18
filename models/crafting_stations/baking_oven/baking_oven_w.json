@@ -1,0 +1,7 @@
+{
+  "model": "baking_oven.blend",
+  "sprites": "illarion/items/item_119",
+  "visual": "items/item_119",
+  "direction": "west",
+  "scale": 1
+}

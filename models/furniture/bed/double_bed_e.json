@@ -1,0 +1,7 @@
+{
+  "model": "bed.blend",
+  "sprites": "illarion/items/item_742",
+  "visual": "items/item_742",
+  "direction": "east",
+  "scale": 0.75
+}

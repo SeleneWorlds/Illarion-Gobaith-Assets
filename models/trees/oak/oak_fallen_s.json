@@ -1,0 +1,8 @@
+{
+  "model": "oak.blend",
+  "sprites": "illarion/items/item_578",
+  "visual": "items/item_578",
+  "direction": "south",
+  "scale": 1.0,
+  "include": ["FallenTree"]
+}

@@ -1,0 +1,7 @@
+{
+  "model": "mace.blend",
+  "sprites": "illarion/items/item_230",
+  "visual": "items/item_230",
+  "direction": "west",
+  "scale": 1
+}

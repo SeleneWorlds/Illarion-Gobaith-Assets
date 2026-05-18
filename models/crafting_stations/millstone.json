@@ -1,0 +1,7 @@
+{
+  "model": "millstone.blend",
+  "sprites": "illarion/items/item_250",
+  "visual": "items/item_250",
+  "direction": "west",
+  "scale": 1
+}

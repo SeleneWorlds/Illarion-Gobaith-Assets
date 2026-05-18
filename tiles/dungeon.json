@@ -1,0 +1,7 @@
+{
+  "type": "simple",
+  "texture": "dungeon.png",
+  "sprites": "illarion/tiles/tile_15",
+  "visual": "tiles/tile_15",
+  "transitions": true
+}

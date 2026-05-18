@@ -1,0 +1,8 @@
+{
+  "model": "fir.blend",
+  "sprites": "illarion/items/item_574",
+  "visual": "items/item_574",
+  "direction": "south",
+  "scale": 1.0,
+  "include": ["FallenTree"]
+}

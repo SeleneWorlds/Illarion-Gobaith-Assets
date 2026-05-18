@@ -1,0 +1,7 @@
+{
+  "model": "hedge.blend",
+  "sprites": "illarion/items/item_301",
+  "visual": "items/item_301",
+  "direction": "south",
+  "scale": 0.05
+}

@@ -1,0 +1,7 @@
+{
+  "model": "knight_statue.blend",
+  "sprites": "illarion/items/item_440",
+  "visual": "items/item_440",
+  "direction": "east",
+  "scale": 0.6
+}

@@ -1,0 +1,16 @@
+{
+  "type": "variants",
+  "sortLayerOffset": 300,
+  "surfaceOffsetY": 0,
+  "offsetX": -1,
+  "offsetY": -6,
+  "textures": [
+    "client/textures/illarion/items/blood-0.png",
+    "client/textures/illarion/items/blood-1.png",
+    "client/textures/illarion/items/blood-2.png",
+    "client/textures/illarion/items/blood-3.png"
+  ],
+  "metadata": {
+    "itemId": "3101"
+  }
+}

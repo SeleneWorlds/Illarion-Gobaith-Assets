@@ -1,0 +1,7 @@
+{
+  "model": "fireplace.blend",
+  "sprites": "illarion/items/item_269",
+  "visual": "items/item_269",
+  "direction": "west",
+  "scale": 1
+}

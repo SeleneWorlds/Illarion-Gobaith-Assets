@@ -1,0 +1,7 @@
+{
+  "model": "rock_01.blend",
+  "sprites": "illarion/items/item_232",
+  "visual": "items/item_232",
+  "direction": "south",
+  "scale": 1
+}

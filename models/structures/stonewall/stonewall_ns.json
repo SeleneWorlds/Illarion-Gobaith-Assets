@@ -1,0 +1,7 @@
+{
+  "model": "stonewall.blend",
+  "sprites": "illarion/items/item_877",
+  "visual": "items/item_877",
+  "direction": "south",
+  "scale": 1
+}

@@ -1,0 +1,7 @@
+{
+  "model": "mage_desk.blend",
+  "sprites": "illarion/items/item_551",
+  "visual": "items/item_551",
+  "direction": "south",
+  "scale": 1
+}

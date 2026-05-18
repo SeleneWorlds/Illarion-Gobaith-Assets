@@ -1,0 +1,7 @@
+{
+  "model": "hammer.blend",
+  "sprites": "illarion/items/item_23",
+  "visual": "items/item_23",
+  "direction": "west",
+  "scale": 1
+}

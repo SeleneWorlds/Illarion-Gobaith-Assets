@@ -1,0 +1,7 @@
+{
+  "model": "grass_01.blend",
+  "sprites": "illarion/items/item_1783",
+  "visual": "items/item_1783",
+  "direction": "south",
+  "scale": 1.0
+}

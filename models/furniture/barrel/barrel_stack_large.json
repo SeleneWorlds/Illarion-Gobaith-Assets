@@ -1,0 +1,7 @@
+{
+  "model": "barrel.blend",
+  "sprites": "illarion/items/item_513",
+  "visual": "items/item_513",
+  "direction": "west",
+  "scale": 0.75
+}

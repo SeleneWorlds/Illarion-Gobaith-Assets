@@ -1,0 +1,7 @@
+{
+  "model": "candle_stand.blend",
+  "sprites": "illarion/items/item_2856",
+  "visual": "items/item_2856",
+  "direction": "south",
+  "scale": 0.55
+}

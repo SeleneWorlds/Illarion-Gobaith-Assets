@@ -1,0 +1,8 @@
+{
+  "model": "grapes.blend",
+  "sprites": "illarion/items/item_386",
+  "visual": "items/item_386",
+  "direction": "south",
+  "scale": 1.0,
+  "exclude": ["Fruits"]
+}

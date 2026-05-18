@@ -1,0 +1,7 @@
+{
+  "type": "simple",
+  "texture": "rocks.png",
+  "sprites": "illarion/tiles/tile_2",
+  "visual": "tiles/tile_2",
+  "transitions": true
+}

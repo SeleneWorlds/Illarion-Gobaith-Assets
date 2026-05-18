@@ -1,0 +1,7 @@
+{
+  "model": "tobacco_01.blend",
+  "sprites": "illarion/items/item_774",
+  "visual": "items/item_774",
+  "direction": "south",
+  "scale": 1.0
+}

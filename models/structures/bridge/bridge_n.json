@@ -1,0 +1,9 @@
+{
+  "model": "bridge.blend",
+  "sprites": "illarion/items/item_612",
+  "visual": "items/item_612",
+  "direction": "north",
+  "scale": 1,
+  "surfaceOffsetY": 10,
+  "include": ["EdgeBeams", "EdgePlanks"]
+}

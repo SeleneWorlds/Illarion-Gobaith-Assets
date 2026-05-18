@@ -1,0 +1,7 @@
+{
+  "model": "portal.blend",
+  "sprites": "illarion/items/item_797",
+  "visual": "items/item_797",
+  "direction": "south",
+  "scale": 1
+}

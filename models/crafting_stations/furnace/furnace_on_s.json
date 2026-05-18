@@ -1,0 +1,6 @@
+{
+  "model": "furnace.blend",
+  "sprites": "illarion/items/item_2835",
+  "visual": "items/item_2835",
+  "direction": "south"
+}

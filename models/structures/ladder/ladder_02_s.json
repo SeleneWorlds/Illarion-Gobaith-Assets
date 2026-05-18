@@ -1,0 +1,7 @@
+{
+  "model": "ladder.blend",
+  "sprites": "illarion/items/item_35",
+  "visual": "items/item_35",
+  "direction": "south",
+  "scale": 1
+}

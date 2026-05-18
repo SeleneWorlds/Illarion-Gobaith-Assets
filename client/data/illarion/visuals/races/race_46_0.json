@@ -1,0 +1,99 @@
+{
+  "type": "animator",
+  "animator": "humanoid",
+  "sortLayerOffset": 301,
+  "metadata": {
+    "raceId": 46,
+    "typeId": 0
+  },
+  "animations": {
+    "stationary/north": {
+      "textures": [
+        "client/textures/illarion/chars/FGnomN-0.png"
+      ],
+      "offsetX": 2,
+      "offsetY": -5
+    },
+    "walk/north": {
+      "textures": [
+        "client/textures/illarion/chars/FGnomN-0.png",
+        "client/textures/illarion/chars/FGnomN-1.png",
+        "client/textures/illarion/chars/FGnomN-2.png",
+        "client/textures/illarion/chars/FGnomN-3.png",
+        "client/textures/illarion/chars/FGnomN-4.png",
+        "client/textures/illarion/chars/FGnomN-5.png",
+        "client/textures/illarion/chars/FGnomN-6.png",
+        "client/textures/illarion/chars/FGnomN-7.png"
+      ],
+      "offsetX": 2,
+      "offsetY": -5,
+      "duration": 0.8
+    },
+    "stationary/east": {
+      "textures": [
+        "client/textures/illarion/chars/FGnomO-0.png"
+      ],
+      "offsetX": 1,
+      "offsetY": -8
+    },
+    "walk/east": {
+      "textures": [
+        "client/textures/illarion/chars/FGnomO-0.png",
+        "client/textures/illarion/chars/FGnomO-1.png",
+        "client/textures/illarion/chars/FGnomO-2.png",
+        "client/textures/illarion/chars/FGnomO-3.png",
+        "client/textures/illarion/chars/FGnomO-4.png",
+        "client/textures/illarion/chars/FGnomO-5.png",
+        "client/textures/illarion/chars/FGnomO-6.png",
+        "client/textures/illarion/chars/FGnomO-7.png"
+      ],
+      "offsetX": 1,
+      "offsetY": -8,
+      "duration": 0.8
+    },
+    "stationary/south": {
+      "textures": [
+        "client/textures/illarion/chars/FGnomS-0.png"
+      ],
+      "offsetX": -1,
+      "offsetY": -5
+    },
+    "walk/south": {
+      "textures": [
+        "client/textures/illarion/chars/FGnomS-0.png",
+        "client/textures/illarion/chars/FGnomS-1.png",
+        "client/textures/illarion/chars/FGnomS-2.png",
+        "client/textures/illarion/chars/FGnomS-3.png",
+        "client/textures/illarion/chars/FGnomS-4.png",
+        "client/textures/illarion/chars/FGnomS-5.png",
+        "client/textures/illarion/chars/FGnomS-6.png",
+        "client/textures/illarion/chars/FGnomS-7.png"
+      ],
+      "offsetX": -1,
+      "offsetY": -5,
+      "duration": 0.8
+    },
+    "stationary/west": {
+      "textures": [
+        "client/textures/illarion/chars/FGnomW-0.png"
+      ],
+      "offsetX": -3,
+      "offsetY": -4
+    },
+    "walk/west": {
+      "textures": [
+        "client/textures/illarion/chars/FGnomW-0.png",
+        "client/textures/illarion/chars/FGnomW-1.png",
+        "client/textures/illarion/chars/FGnomW-2.png",
+        "client/textures/illarion/chars/FGnomW-3.png",
+        "client/textures/illarion/chars/FGnomW-4.png",
+        "client/textures/illarion/chars/FGnomW-5.png",
+        "client/textures/illarion/chars/FGnomW-6.png",
+        "client/textures/illarion/chars/FGnomW-7.png"
+      ],
+      "offsetX": -3,
+      "offsetY": -4,
+      "duration": 0.8
+    }
+  }
+}

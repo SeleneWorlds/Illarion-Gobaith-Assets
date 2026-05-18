@@ -1,0 +1,18 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 302,
+  "offsetX": -1,
+  "offsetY": -46,
+  "textures": [
+    "client/textures/illarion/effects/fire_field-0.png",
+    "client/textures/illarion/effects/fire_field-1.png",
+    "client/textures/illarion/effects/fire_field-2.png",
+    "client/textures/illarion/effects/fire_field-3.png",
+    "client/textures/illarion/effects/fire_field-4.png"
+  ],
+  "duration": 0.25,
+  "instanced": true,
+  "metadata": {
+    "gfxId": 38
+  }
+}

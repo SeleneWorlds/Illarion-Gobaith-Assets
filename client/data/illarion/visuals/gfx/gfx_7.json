@@ -1,0 +1,23 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 302,
+  "offsetX": 5,
+  "offsetY": -102,
+  "textures": [
+    "client/textures/illarion/effects/wind-0.png",
+    "client/textures/illarion/effects/wind-1.png",
+    "client/textures/illarion/effects/wind-2.png",
+    "client/textures/illarion/effects/wind-3.png",
+    "client/textures/illarion/effects/wind-4.png",
+    "client/textures/illarion/effects/wind-5.png",
+    "client/textures/illarion/effects/wind-6.png",
+    "client/textures/illarion/effects/wind-7.png",
+    "client/textures/illarion/effects/wind-8.png",
+    "client/textures/illarion/effects/wind-9.png"
+  ],
+  "duration": 1.6666666666666665,
+  "instanced": true,
+  "metadata": {
+    "gfxId": 7
+  }
+}

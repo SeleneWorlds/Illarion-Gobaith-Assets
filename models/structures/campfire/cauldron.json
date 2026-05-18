@@ -1,0 +1,7 @@
+{
+  "model": "cauldron.blend",
+  "sprites": "illarion/items/item_2488",
+  "visual": "items/item_2488",
+  "direction": "south",
+  "scale": 0.6
+}

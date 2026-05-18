@@ -1,0 +1,7 @@
+{
+  "model": "dead_tree.blend",
+  "sprites": "illarion/items/item_2170",
+  "visual": "items/item_2170",
+  "direction": "south",
+  "scale": 1
+}

@@ -1,0 +1,7 @@
+{
+  "model": "sunflowers.blend",
+  "sprites": "illarion/items/item_1791",
+  "visual": "items/item_1791",
+  "direction": "west",
+  "scale": 1.0
+}

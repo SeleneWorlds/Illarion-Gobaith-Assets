@@ -1,0 +1,7 @@
+{
+  "model": "fancy_chair.blend",
+  "sprites": "illarion/items/item_218",
+  "visual": "items/item_218",
+  "direction": "south",
+  "scale": 0.4
+}

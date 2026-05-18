@@ -1,0 +1,21 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 300,
+  "surfaceOffsetY": 0,
+  "offsetX": 5,
+  "offsetY": -7,
+  "textures": [
+    "client/textures/illarion/items/wind-0.png",
+    "client/textures/illarion/items/wind-1.png",
+    "client/textures/illarion/items/wind-2.png",
+    "client/textures/illarion/items/wind-3.png",
+    "client/textures/illarion/items/wind-4.png",
+    "client/textures/illarion/items/wind-5.png",
+    "client/textures/illarion/items/wind-6.png",
+    "client/textures/illarion/items/wind-7.png"
+  ],
+  "duration": 0.6666666666666666,
+  "metadata": {
+    "itemId": "373"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "model": "battlements.blend",
+  "sprites": "illarion/items/item_673",
+  "visual": "items/item_673",
+  "direction": "south",
+  "scale": 1
+}

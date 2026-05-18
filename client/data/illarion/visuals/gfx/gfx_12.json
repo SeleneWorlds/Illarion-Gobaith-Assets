@@ -1,0 +1,24 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 302,
+  "offsetX": 3,
+  "offsetY": -12,
+  "textures": [
+    "client/textures/illarion/effects/fizzle-0.png",
+    "client/textures/illarion/effects/fizzle-1.png",
+    "client/textures/illarion/effects/fizzle-2.png",
+    "client/textures/illarion/effects/fizzle-3.png",
+    "client/textures/illarion/effects/fizzle-4.png",
+    "client/textures/illarion/effects/fizzle-5.png",
+    "client/textures/illarion/effects/fizzle-6.png",
+    "client/textures/illarion/effects/fizzle-7.png",
+    "client/textures/illarion/effects/fizzle-8.png",
+    "client/textures/illarion/effects/fizzle-9.png",
+    "client/textures/illarion/effects/fizzle-10.png"
+  ],
+  "duration": 0.7333333333333333,
+  "instanced": true,
+  "metadata": {
+    "gfxId": 12
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "type": "simple",
+  "texture": "road.png",
+  "sprites": "illarion/tiles/tile_7",
+  "visual": "tiles/tile_7",
+  "transitions": true
+}

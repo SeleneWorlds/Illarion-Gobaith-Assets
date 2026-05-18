@@ -1,0 +1,10 @@
+{
+  "type": "simple",
+  "offsetX": 0,
+  "offsetY": -18,
+  "texture": "client/textures/illarion/tiles/tile_15_ovl-6.png",
+  "metadata": {
+    "tileId": 15,
+    "overlayId": 6
+  }
+}

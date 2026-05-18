@@ -1,0 +1,29 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 302,
+  "offsetX": 4,
+  "offsetY": -20,
+  "textures": [
+    "client/textures/illarion/effects/glowing-0.png",
+    "client/textures/illarion/effects/glowing-1.png",
+    "client/textures/illarion/effects/glowing-2.png",
+    "client/textures/illarion/effects/glowing-3.png",
+    "client/textures/illarion/effects/glowing-4.png",
+    "client/textures/illarion/effects/glowing-5.png",
+    "client/textures/illarion/effects/glowing-6.png",
+    "client/textures/illarion/effects/glowing-7.png",
+    "client/textures/illarion/effects/glowing-8.png",
+    "client/textures/illarion/effects/glowing-9.png",
+    "client/textures/illarion/effects/glowing-10.png",
+    "client/textures/illarion/effects/glowing-11.png",
+    "client/textures/illarion/effects/glowing-12.png",
+    "client/textures/illarion/effects/glowing-13.png",
+    "client/textures/illarion/effects/glowing-14.png",
+    "client/textures/illarion/effects/glowing-15.png"
+  ],
+  "duration": 3.466666666666667,
+  "instanced": true,
+  "metadata": {
+    "gfxId": 31
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "model": "../wall_window.blend",
+  "sprites": "illarion/items/item_705",
+  "visual": "items/item_705",
+  "materials": {
+    "Wall": {
+      "Diffuse": "diffuse.jpg",
+      "Normal": "normal.jpg",
+      "Displacement": "displacement.jpg",
+      "Roughness": "roughness.jpg"
+    }
+  },
+  "offsetX": -12,
+  "offsetY": -4,
+  "direction": "north"
+}

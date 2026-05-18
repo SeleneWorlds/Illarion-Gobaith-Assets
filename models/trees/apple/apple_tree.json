@@ -1,0 +1,8 @@
+{
+  "model": "apple_tree.blend",
+  "sprites": "illarion/items/item_14",
+  "visual": "items/item_14",
+  "direction": "south",
+  "scale": 1.0,
+  "include": ["Stump", "Tree", "Fruits"]
+}

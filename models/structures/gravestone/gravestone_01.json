@@ -1,0 +1,7 @@
+{
+  "model": "gravestone_01.blend",
+  "sprites": "illarion/items/item_519",
+  "visual": "items/item_519",
+  "direction": "south",
+  "scale": 1
+}

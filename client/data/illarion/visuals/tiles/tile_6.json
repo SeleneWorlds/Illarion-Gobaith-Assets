@@ -1,0 +1,28 @@
+{
+  "type": "animated",
+  "offsetX": 0,
+  "offsetY": -18,
+  "textures": [
+    "client/textures/illarion/tiles/tile_6-0.png",
+    "client/textures/illarion/tiles/tile_6-1.png",
+    "client/textures/illarion/tiles/tile_6-2.png",
+    "client/textures/illarion/tiles/tile_6-3.png",
+    "client/textures/illarion/tiles/tile_6-4.png",
+    "client/textures/illarion/tiles/tile_6-5.png",
+    "client/textures/illarion/tiles/tile_6-6.png",
+    "client/textures/illarion/tiles/tile_6-7.png",
+    "client/textures/illarion/tiles/tile_6-8.png",
+    "client/textures/illarion/tiles/tile_6-9.png",
+    "client/textures/illarion/tiles/tile_6-10.png",
+    "client/textures/illarion/tiles/tile_6-11.png",
+    "client/textures/illarion/tiles/tile_6-12.png",
+    "client/textures/illarion/tiles/tile_6-13.png",
+    "client/textures/illarion/tiles/tile_6-14.png",
+    "client/textures/illarion/tiles/tile_6-15.png"
+  ],
+  "duration": 12,
+  "metadata": {
+    "tileId": 6,
+    "mapColorIndex": 4
+  }
+}

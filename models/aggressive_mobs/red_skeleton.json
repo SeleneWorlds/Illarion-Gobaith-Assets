@@ -1,0 +1,6 @@
+{
+  "sprites": "illarion/chars/race_11_1",
+  "visual": "races/race_11_1",
+  "animations": ["Idle", "Walk"],
+  "directions": ["north", "east", "south", "west"]
+}

@@ -1,0 +1,7 @@
+{
+  "type": "simple",
+  "texture": "grass.png",
+  "sprites": "illarion/tiles/tile_11",
+  "visual": "tiles/tile_11",
+  "transitions": true
+}

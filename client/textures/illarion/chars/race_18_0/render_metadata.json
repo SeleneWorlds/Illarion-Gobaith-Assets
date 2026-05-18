@@ -1,0 +1,149 @@
+{
+  "resolution": {
+    "width": 256,
+    "height": 256
+  },
+  "fps": 15,
+  "actions": {
+    "Idle": {
+      "north": {
+        "crop": {
+          "x": 91,
+          "y": 106,
+          "width": 70,
+          "height": 84
+        },
+        "ground": {
+          "x": 39.961706454495214,
+          "y": 65.8427517730853
+        },
+        "outputSize": {
+          "width": 70,
+          "height": 84
+        },
+        "frames": 76
+      },
+      "east": {
+        "crop": {
+          "x": 94,
+          "y": 106,
+          "width": 71,
+          "height": 84
+        },
+        "ground": {
+          "x": 30.953719365409526,
+          "y": 65.77370959282388
+        },
+        "outputSize": {
+          "width": 71,
+          "height": 84
+        },
+        "frames": 76
+      },
+      "south": {
+        "crop": {
+          "x": 94,
+          "y": 107,
+          "width": 72,
+          "height": 85
+        },
+        "ground": {
+          "x": 31.00655862738509,
+          "y": 61.47534508769519
+        },
+        "outputSize": {
+          "width": 72,
+          "height": 85
+        },
+        "frames": 76
+      },
+      "west": {
+        "crop": {
+          "x": 90,
+          "y": 107,
+          "width": 72,
+          "height": 85
+        },
+        "ground": {
+          "x": 41.08160157942052,
+          "y": 61.47481365551539
+        },
+        "outputSize": {
+          "width": 72,
+          "height": 85
+        },
+        "frames": 76
+      }
+    },
+    "Walk": {
+      "north": {
+        "crop": {
+          "x": 92,
+          "y": 108,
+          "width": 73,
+          "height": 84
+        },
+        "ground": {
+          "x": 38.961706454495214,
+          "y": 63.8427517730853
+        },
+        "outputSize": {
+          "width": 73,
+          "height": 84
+        },
+        "frames": 33
+      },
+      "east": {
+        "crop": {
+          "x": 91,
+          "y": 108,
+          "width": 73,
+          "height": 84
+        },
+        "ground": {
+          "x": 33.953719365409526,
+          "y": 63.77370959282388
+        },
+        "outputSize": {
+          "width": 73,
+          "height": 84
+        },
+        "frames": 33
+      },
+      "south": {
+        "crop": {
+          "x": 90,
+          "y": 106,
+          "width": 74,
+          "height": 86
+        },
+        "ground": {
+          "x": 35.00655862738509,
+          "y": 62.47534508769519
+        },
+        "outputSize": {
+          "width": 74,
+          "height": 86
+        },
+        "frames": 33
+      },
+      "west": {
+        "crop": {
+          "x": 92,
+          "y": 106,
+          "width": 74,
+          "height": 86
+        },
+        "ground": {
+          "x": 39.08160157942052,
+          "y": 62.47481365551539
+        },
+        "outputSize": {
+          "width": 74,
+          "height": 86
+        },
+        "frames": 33
+      }
+    }
+  }
+}

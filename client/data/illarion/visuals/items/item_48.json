@@ -1,0 +1,11 @@
+{
+  "type": "simple",
+  "sortLayerOffset": 300,
+  "surfaceOffsetY": 0,
+  "offsetX": 0,
+  "offsetY": -12,
+  "texture": "client/textures/illarion/items/gloves_leather.png",
+  "metadata": {
+    "itemId": 48
+  }
+}

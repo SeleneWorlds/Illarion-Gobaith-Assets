@@ -1,0 +1,9 @@
+{
+  "model": "roof_ledge.blend",
+  "sprites": "illarion/items/item_432",
+  "visual": "items/item_432",
+  "direction": "east",
+  "offsetX": -38,
+  "offsetY": -22,
+  "scale": 1
+}

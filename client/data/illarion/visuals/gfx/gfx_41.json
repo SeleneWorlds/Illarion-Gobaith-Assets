@@ -1,0 +1,33 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 302,
+  "offsetX": 7,
+  "offsetY": -42,
+  "textures": [
+    "client/textures/illarion/effects/stars-0.png",
+    "client/textures/illarion/effects/stars-1.png",
+    "client/textures/illarion/effects/stars-2.png",
+    "client/textures/illarion/effects/stars-3.png",
+    "client/textures/illarion/effects/stars-4.png",
+    "client/textures/illarion/effects/stars-5.png",
+    "client/textures/illarion/effects/stars-6.png",
+    "client/textures/illarion/effects/stars-7.png",
+    "client/textures/illarion/effects/stars-8.png",
+    "client/textures/illarion/effects/stars-9.png",
+    "client/textures/illarion/effects/stars-10.png",
+    "client/textures/illarion/effects/stars-11.png",
+    "client/textures/illarion/effects/stars-12.png",
+    "client/textures/illarion/effects/stars-13.png",
+    "client/textures/illarion/effects/stars-14.png",
+    "client/textures/illarion/effects/stars-15.png",
+    "client/textures/illarion/effects/stars-16.png",
+    "client/textures/illarion/effects/stars-17.png",
+    "client/textures/illarion/effects/stars-18.png",
+    "client/textures/illarion/effects/stars-19.png"
+  ],
+  "duration": 5,
+  "instanced": true,
+  "metadata": {
+    "gfxId": 41
+  }
+}

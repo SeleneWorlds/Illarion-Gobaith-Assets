@@ -1,0 +1,8 @@
+{
+  "model": "naldor_tree.blend",
+  "sprites": "illarion/items/item_591",
+  "visual": "items/item_591",
+  "direction": "south",
+  "scale": 1.0,
+  "include": ["Sapling"]
+}

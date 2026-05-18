@@ -1,0 +1,7 @@
+{
+  "model": "carpentry_table.blend",
+  "sprites": "illarion/items/item_725",
+  "visual": "items/item_725",
+  "direction": "west",
+  "scale": 1
+}

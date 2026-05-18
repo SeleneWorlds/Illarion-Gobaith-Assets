@@ -1,0 +1,7 @@
+{
+  "type": "simple",
+  "texture": "snow.png",
+  "sprites": "illarion/tiles/tile_10",
+  "visual": "tiles/tile_10",
+  "transitions": true
+}

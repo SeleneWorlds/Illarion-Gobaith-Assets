@@ -1,0 +1,7 @@
+{
+  "model": "rotting_skeleton.blend",
+  "sprites": "illarion/items/item_2937",
+  "visual": "items/item_2937",
+  "direction": "west",
+  "scale": 1
+}

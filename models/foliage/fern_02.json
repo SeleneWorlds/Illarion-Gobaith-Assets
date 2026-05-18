@@ -1,0 +1,16 @@
+{
+  "type": "variants",
+  "sprites": "illarion/items/item_1812",
+  "visual": "items/item_1812",
+  "variants": [
+    {
+      "model": "fern_01.blend",
+      "scale": 1
+    },
+    {
+      "model": "fern_02.blend",
+      "scale": 1
+    }
+  ],
+  "direction": "south"
+}

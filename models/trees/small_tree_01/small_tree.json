@@ -1,0 +1,8 @@
+{
+  "model": "small_tree.blend",
+  "sprites": "illarion/items/item_1807",
+  "visual": "items/item_1807",
+  "direction": "south",
+  "scale": 1.0,
+  "include": ["Stump", "Tree"]
+}

@@ -1,0 +1,7 @@
+{
+  "model": "cart.blend",
+  "sprites": "illarion/items/item_506",
+  "visual": "items/item_506",
+  "direction": "west",
+  "scale": 1
+}

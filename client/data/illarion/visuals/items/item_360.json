@@ -1,0 +1,27 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 300,
+  "surfaceOffsetY": 0,
+  "offsetX": -3,
+  "offsetY": -65,
+  "textures": [
+    "client/textures/illarion/items/ice-0.png",
+    "client/textures/illarion/items/ice-1.png",
+    "client/textures/illarion/items/ice-2.png",
+    "client/textures/illarion/items/ice-3.png",
+    "client/textures/illarion/items/ice-4.png",
+    "client/textures/illarion/items/ice-5.png",
+    "client/textures/illarion/items/ice-6.png",
+    "client/textures/illarion/items/ice-7.png",
+    "client/textures/illarion/items/ice-8.png",
+    "client/textures/illarion/items/ice-9.png",
+    "client/textures/illarion/items/ice-10.png",
+    "client/textures/illarion/items/ice-11.png",
+    "client/textures/illarion/items/ice-12.png",
+    "client/textures/illarion/items/ice-13.png"
+  ],
+  "duration": 0.9333333333333333,
+  "metadata": {
+    "itemId": "360"
+  }
+}

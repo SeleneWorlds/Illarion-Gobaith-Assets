@@ -1,0 +1,19 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 302,
+  "offsetX": 5,
+  "offsetY": -108,
+  "textures": [
+    "client/textures/illarion/effects/blitz-0.png",
+    "client/textures/illarion/effects/blitz-1.png",
+    "client/textures/illarion/effects/blitz-2.png",
+    "client/textures/illarion/effects/blitz-3.png",
+    "client/textures/illarion/effects/blitz-4.png",
+    "client/textures/illarion/effects/blitz-5.png"
+  ],
+  "duration": 0.5,
+  "instanced": true,
+  "metadata": {
+    "gfxId": 2
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "model": "fountain_round.blend",
+  "sprites": "illarion/items/item_631",
+  "visual": "items/item_631",
+  "direction": "south",
+  "scale": 0.6
+}

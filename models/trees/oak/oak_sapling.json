@@ -1,0 +1,8 @@
+{
+  "model": "oak.blend",
+  "sprites": "illarion/items/item_589",
+  "visual": "items/item_589",
+  "direction": "south",
+  "scale": 1.0,
+  "include": ["Sapling"]
+}

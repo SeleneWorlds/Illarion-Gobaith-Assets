@@ -1,0 +1,8 @@
+{
+  "model": "broadleaf_tree.blend",
+  "sprites": "illarion/items/item_593",
+  "visual": "items/item_593",
+  "direction": "east",
+  "scale": 1.0,
+  "include": ["FallenTree"]
+}

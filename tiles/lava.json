@@ -1,0 +1,7 @@
+{
+  "type": "simple",
+  "texture": "lava.png",
+  "sprites": "illarion/tiles/tile_5",
+  "visual": "tiles/tile_5",
+  "transitions": true
+}

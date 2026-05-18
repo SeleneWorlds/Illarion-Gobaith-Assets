@@ -1,0 +1,7 @@
+{
+  "model": "bookshelf.blend",
+  "sprites": "illarion/items/item_267",
+  "visual": "items/item_267",
+  "direction": "west",
+  "scale": 0.35
+}

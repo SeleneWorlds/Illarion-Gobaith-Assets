@@ -1,0 +1,7 @@
+{
+  "model": "blast_furnace.blend",
+  "sprites": "illarion/items/item_313",
+  "visual": "items/item_313",
+  "direction": "west",
+  "scale": 1
+}

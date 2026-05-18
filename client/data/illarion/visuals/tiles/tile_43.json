@@ -1,0 +1,10 @@
+{
+  "type": "simple",
+  "offsetX": 0,
+  "offsetY": -18,
+  "texture": "client/textures/illarion/tiles/tile_43.png",
+  "metadata": {
+    "tileId": 43,
+    "mapColorIndex": 6
+  }
+}

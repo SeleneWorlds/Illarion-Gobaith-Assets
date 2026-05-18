@@ -1,0 +1,7 @@
+{
+  "model": "cobweb.blend",
+  "sprites": "illarion/items/item_3093",
+  "visual": "items/item_3093",
+  "direction": "east",
+  "scale": 1
+}

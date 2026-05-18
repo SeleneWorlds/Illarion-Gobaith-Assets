@@ -1,0 +1,7 @@
+{
+  "model": "../painting/painting.blend",
+  "sprites": "illarion/items/item_2905",
+  "visual": "items/item_2905",
+  "direction": "south",
+  "scale": 1
+}

@@ -1,0 +1,17 @@
+{
+  "model": "../wall.blend",
+  "sprites": "illarion/items/item_700",
+  "visual": "items/item_700",
+  "materials": {
+    "Wall": {
+      "Diffuse": "diffuse.jpg",
+      "Normal": "normal.jpg",
+      "Displacement": "displacement.jpg",
+      "Roughness": "roughness.jpg"
+    }
+  },
+  "alphaMask": "wall_mask_ns.png",
+  "offsetX": 14,
+  "offsetY": -19,
+  "direction": "south"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 302,
+  "offsetX": -2,
+  "offsetY": -166,
+  "textures": [
+    "client/textures/illarion/effects/sun-0.png",
+    "client/textures/illarion/effects/sun-1.png",
+    "client/textures/illarion/effects/sun-2.png",
+    "client/textures/illarion/effects/sun-3.png",
+    "client/textures/illarion/effects/sun-4.png",
+    "client/textures/illarion/effects/sun-5.png",
+    "client/textures/illarion/effects/sun-6.png",
+    "client/textures/illarion/effects/sun-7.png"
+  ],
+  "duration": 1.3333333333333333,
+  "instanced": true,
+  "metadata": {
+    "gfxId": 46
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 302,
+  "offsetX": 0,
+  "offsetY": -17,
+  "textures": [
+    "client/textures/illarion/effects/claw-0.png",
+    "client/textures/illarion/effects/claw-1.png",
+    "client/textures/illarion/effects/claw-2.png",
+    "client/textures/illarion/effects/claw-3.png",
+    "client/textures/illarion/effects/claw-4.png",
+    "client/textures/illarion/effects/claw-5.png",
+    "client/textures/illarion/effects/claw-6.png"
+  ],
+  "duration": 0.35000000000000003,
+  "instanced": true,
+  "metadata": {
+    "gfxId": 21
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "model": "altar.blend",
+  "sprites": "illarion/items/item_1880",
+  "visual": "items/item_1880",
+  "direction": "west",
+  "scale": 0.75
+}

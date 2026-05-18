@@ -1,0 +1,7 @@
+{
+  "type": "simple",
+  "texture": "marble.png",
+  "sprites": "illarion/tiles/tile_55",
+  "visual": "tiles/tile_55",
+  "transitions": true
+}

@@ -1,0 +1,8 @@
+{
+  "model": "axe.blend",
+  "sprites": "illarion/items/item_2526",
+  "visual": "items/item_2526",
+  "direction": "west",
+  "scale": 1,
+  "include": ["Head"]
+}

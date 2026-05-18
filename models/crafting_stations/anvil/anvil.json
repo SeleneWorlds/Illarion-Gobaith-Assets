@@ -1,0 +1,7 @@
+{
+  "model": "anvil.blend",
+  "sprites": "illarion/items/item_172",
+  "visual": "items/item_172",
+  "direction": "west",
+  "scale": 0.75
+}

@@ -1,0 +1,11 @@
+{
+  "type": "simple",
+  "sortLayerOffset": 300,
+  "surfaceOffsetY": 0,
+  "offsetX": 0,
+  "offsetY": -8,
+  "texture": "client/textures/illarion/items/iron_ingot.png",
+  "metadata": {
+    "itemId": 2535
+  }
+}

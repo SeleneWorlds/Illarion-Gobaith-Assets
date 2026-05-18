@@ -1,0 +1,8 @@
+{
+  "model": "naldor_tree.blend",
+  "sprites": "illarion/items/item_1804",
+  "visual": "items/item_1804",
+  "direction": "south",
+  "scale": 1.0,
+  "include": ["Stump", "Tree"]
+}

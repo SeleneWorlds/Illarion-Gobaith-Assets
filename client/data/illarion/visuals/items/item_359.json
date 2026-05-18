@@ -1,0 +1,21 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 300,
+  "surfaceOffsetY": 0,
+  "offsetX": -1,
+  "offsetY": -25,
+  "textures": [
+    "client/textures/illarion/items/flamme-0.png",
+    "client/textures/illarion/items/flamme-1.png",
+    "client/textures/illarion/items/flamme-2.png",
+    "client/textures/illarion/items/flamme-3.png",
+    "client/textures/illarion/items/flamme-4.png",
+    "client/textures/illarion/items/flamme-5.png",
+    "client/textures/illarion/items/flamme-6.png",
+    "client/textures/illarion/items/flamme-7.png"
+  ],
+  "duration": 2,
+  "metadata": {
+    "itemId": "359"
+  }
+}

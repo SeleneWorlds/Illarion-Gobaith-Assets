@@ -1,0 +1,36 @@
+{
+  "type": "variants",
+  "sprites": "illarion/items/item_273",
+  "visual": "items/item_273",
+  "variants": [
+    {
+      "model": "azalea.blend",
+      "scale": 1
+    },
+    {
+      "model": "bellflower.blend",
+      "scale": 1
+    },
+    {
+      "model": "blue_wildflower.blend",
+      "scale": 1
+    },
+    {
+      "model": "dry_sprig.blend",
+      "scale": 1
+    },
+    {
+      "model": "lavender.blend",
+      "scale": 1
+    },
+    {
+      "model": "rosemary.blend",
+      "scale": 1
+    },
+    {
+      "model": "snowcandle.blend",
+      "scale": 1
+    }
+  ],
+  "direction": "south"
+}

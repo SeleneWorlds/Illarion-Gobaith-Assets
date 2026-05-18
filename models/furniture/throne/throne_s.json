@@ -1,0 +1,7 @@
+{
+  "model": "throne.blend",
+  "sprites": "illarion/items/item_2915",
+  "visual": "items/item_2915",
+  "direction": "south",
+  "scale": 0.4
+}

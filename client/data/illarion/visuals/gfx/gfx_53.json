@@ -1,0 +1,28 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 302,
+  "offsetX": 0,
+  "offsetY": -55,
+  "textures": [
+    "client/textures/illarion/effects/scotty-0.png",
+    "client/textures/illarion/effects/scotty-1.png",
+    "client/textures/illarion/effects/scotty-2.png",
+    "client/textures/illarion/effects/scotty-3.png",
+    "client/textures/illarion/effects/scotty-4.png",
+    "client/textures/illarion/effects/scotty-5.png",
+    "client/textures/illarion/effects/scotty-6.png",
+    "client/textures/illarion/effects/scotty-7.png",
+    "client/textures/illarion/effects/scotty-8.png",
+    "client/textures/illarion/effects/scotty-9.png",
+    "client/textures/illarion/effects/scotty-10.png",
+    "client/textures/illarion/effects/scotty-11.png",
+    "client/textures/illarion/effects/scotty-12.png",
+    "client/textures/illarion/effects/scotty-13.png",
+    "client/textures/illarion/effects/scotty-14.png"
+  ],
+  "duration": 2.5,
+  "instanced": true,
+  "metadata": {
+    "gfxId": 53
+  }
+}

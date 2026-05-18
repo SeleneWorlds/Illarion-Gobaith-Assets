@@ -1,0 +1,7 @@
+{
+  "model": "skullpost.blend",
+  "sprites": "illarion/items/item_2925",
+  "visual": "items/item_2925",
+  "direction": "east",
+  "scale": 0.5
+}

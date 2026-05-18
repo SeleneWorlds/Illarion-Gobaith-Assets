@@ -1,0 +1,17 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 300,
+  "surfaceOffsetY": 0,
+  "offsetX": 4,
+  "offsetY": -47,
+  "textures": [
+    "client/textures/illarion/items/light-0.png",
+    "client/textures/illarion/items/light-1.png",
+    "client/textures/illarion/items/light-2.png",
+    "client/textures/illarion/items/light-3.png"
+  ],
+  "duration": 1,
+  "metadata": {
+    "itemId": "467"
+  }
+}

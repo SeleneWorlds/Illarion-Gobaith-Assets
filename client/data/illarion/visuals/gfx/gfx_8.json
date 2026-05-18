@@ -1,0 +1,33 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 302,
+  "offsetX": 2,
+  "offsetY": -12,
+  "textures": [
+    "client/textures/illarion/effects/giftwolke-0.png",
+    "client/textures/illarion/effects/giftwolke-1.png",
+    "client/textures/illarion/effects/giftwolke-2.png",
+    "client/textures/illarion/effects/giftwolke-3.png",
+    "client/textures/illarion/effects/giftwolke-4.png",
+    "client/textures/illarion/effects/giftwolke-5.png",
+    "client/textures/illarion/effects/giftwolke-6.png",
+    "client/textures/illarion/effects/giftwolke-7.png",
+    "client/textures/illarion/effects/giftwolke-8.png",
+    "client/textures/illarion/effects/giftwolke-9.png",
+    "client/textures/illarion/effects/giftwolke-10.png",
+    "client/textures/illarion/effects/giftwolke-11.png",
+    "client/textures/illarion/effects/giftwolke-12.png",
+    "client/textures/illarion/effects/giftwolke-13.png",
+    "client/textures/illarion/effects/giftwolke-14.png",
+    "client/textures/illarion/effects/giftwolke-15.png",
+    "client/textures/illarion/effects/giftwolke-16.png",
+    "client/textures/illarion/effects/giftwolke-17.png",
+    "client/textures/illarion/effects/giftwolke-18.png",
+    "client/textures/illarion/effects/giftwolke-19.png"
+  ],
+  "duration": 5,
+  "instanced": true,
+  "metadata": {
+    "gfxId": 8
+  }
+}

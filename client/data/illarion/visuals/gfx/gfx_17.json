@@ -1,0 +1,21 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 302,
+  "offsetX": 7,
+  "offsetY": -28,
+  "textures": [
+    "client/textures/illarion/effects/sword-0.png",
+    "client/textures/illarion/effects/sword-1.png",
+    "client/textures/illarion/effects/sword-2.png",
+    "client/textures/illarion/effects/sword-3.png",
+    "client/textures/illarion/effects/sword-4.png",
+    "client/textures/illarion/effects/sword-5.png",
+    "client/textures/illarion/effects/sword-6.png",
+    "client/textures/illarion/effects/sword-7.png"
+  ],
+  "duration": 0.5333333333333333,
+  "instanced": true,
+  "metadata": {
+    "gfxId": 17
+  }
+}

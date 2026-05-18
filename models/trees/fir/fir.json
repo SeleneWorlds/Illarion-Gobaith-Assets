@@ -1,0 +1,8 @@
+{
+  "model": "fir.blend",
+  "sprites": "illarion/items/item_308",
+  "visual": "items/item_308",
+  "direction": "south",
+  "scale": 1.0,
+  "include": ["Stump", "Tree", "TreeTrunk"]
+}

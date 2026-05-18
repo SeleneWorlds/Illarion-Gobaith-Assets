@@ -1,0 +1,8 @@
+*_proprietary.*
+__pycache__
+
+# Blender backup files
+*.blend[0-9]
+*.blend[0-9][0-9]
+
+visual-comparison.html

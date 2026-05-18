@@ -1,0 +1,7 @@
+{
+  "model": "carrots_02.blend",
+  "sprites": "illarion/items/item_2491",
+  "visual": "items/item_2491",
+  "direction": "south",
+  "scale": 1.0
+}

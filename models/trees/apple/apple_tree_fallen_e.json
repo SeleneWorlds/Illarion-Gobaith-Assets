@@ -1,0 +1,8 @@
+{
+  "model": "apple_tree.blend",
+  "sprites": "illarion/items/item_561",
+  "visual": "items/item_561",
+  "direction": "east",
+  "scale": 1.0,
+  "include": ["FallenTree"]
+}

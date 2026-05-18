@@ -1,0 +1,79 @@
+{
+  "resolution": {
+    "width": 256,
+    "height": 256
+  },
+  "fps": 15,
+  "actions": {
+    "Crawl": {
+      "north": {
+        "crop": {
+          "x": 64,
+          "y": 79,
+          "width": 128,
+          "height": 98
+        },
+        "ground": {
+          "x": 56.7376708984375,
+          "y": 71.5114974975586
+        },
+        "outputSize": {
+          "width": 128,
+          "height": 98
+        },
+        "frames": 21
+      },
+      "east": {
+        "crop": {
+          "x": 64,
+          "y": 80,
+          "width": 128,
+          "height": 96
+        },
+        "ground": {
+          "x": 43.565589904785156,
+          "y": 69.67723083496094
+        },
+        "outputSize": {
+          "width": 128,
+          "height": 96
+        },
+        "frames": 21
+      },
+      "south": {
+        "crop": {
+          "x": 64,
+          "y": 82,
+          "width": 128,
+          "height": 92
+        },
+        "ground": {
+          "x": 43.80793762207031,
+          "y": 58.41710662841797
+        },
+        "outputSize": {
+          "width": 128,
+          "height": 92
+        },
+        "frames": 21
+      },
+      "west": {
+        "crop": {
+          "x": 63,
+          "y": 80,
+          "width": 129,
+          "height": 96
+        },
+        "ground": {
+          "x": 57.972442626953125,
+          "y": 61.83082580566406
+        },
+        "outputSize": {
+          "width": 129,
+          "height": 96
+        },
+        "frames": 21
+      }
+    }
+  }
+}

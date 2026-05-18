@@ -1,0 +1,6 @@
+{
+  "type": "simple",
+  "texture": "carpet.png",
+  "sprites": "illarion/tiles/tile_51",
+  "visual": "tiles/tile_51"
+}

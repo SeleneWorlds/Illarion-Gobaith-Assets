@@ -1,0 +1,7 @@
+{
+  "model": "chest.blend",
+  "sprites": "illarion/items/item_1361",
+  "visual": "items/item_1361",
+  "direction": "south",
+  "scale": 1
+}

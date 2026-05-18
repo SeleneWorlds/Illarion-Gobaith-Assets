@@ -1,0 +1,7 @@
+{
+  "model": "vase.blend",
+  "sprites": "illarion/items/item_75",
+  "visual": "items/item_75",
+  "direction": "south",
+  "scale": 0.4
+}

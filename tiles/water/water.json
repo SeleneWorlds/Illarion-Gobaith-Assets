@@ -1,0 +1,24 @@
+{
+  "type": "animated",
+  "textures": [
+    "water/frame_0000.png",
+    "water/frame_0001.png",
+    "water/frame_0002.png",
+    "water/frame_0003.png",
+    "water/frame_0004.png",
+    "water/frame_0005.png",
+    "water/frame_0006.png",
+    "water/frame_0007.png",
+    "water/frame_0008.png",
+    "water/frame_0009.png",
+    "water/frame_0010.png",
+    "water/frame_0011.png",
+    "water/frame_0012.png",
+    "water/frame_0013.png",
+    "water/frame_0014.png",
+    "water/frame_0015.png"
+  ],
+  "duration": 24.75,
+  "sprites": "illarion/tiles/tile_6",
+  "visual": "tiles/tile_6"
+}

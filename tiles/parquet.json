@@ -1,0 +1,6 @@
+{
+  "type": "simple",
+  "texture": "parquet.png",
+  "sprites": "illarion/tiles/tile_40",
+  "visual": "tiles/tile_40"
+}

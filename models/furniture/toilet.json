@@ -1,0 +1,7 @@
+{
+  "model": "toilet.blend",
+  "sprites": "illarion/items/item_60",
+  "visual": "items/item_60",
+  "direction": "west",
+  "scale": 1
+}

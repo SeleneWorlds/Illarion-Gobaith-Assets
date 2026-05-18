@@ -1,0 +1,30 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 302,
+  "offsetX": 7,
+  "offsetY": -103,
+  "textures": [
+    "client/textures/illarion/effects/demfire-0.png",
+    "client/textures/illarion/effects/demfire-1.png",
+    "client/textures/illarion/effects/demfire-2.png",
+    "client/textures/illarion/effects/demfire-3.png",
+    "client/textures/illarion/effects/demfire-4.png",
+    "client/textures/illarion/effects/demfire-5.png",
+    "client/textures/illarion/effects/demfire-6.png",
+    "client/textures/illarion/effects/demfire-7.png",
+    "client/textures/illarion/effects/demfire-8.png",
+    "client/textures/illarion/effects/demfire-9.png",
+    "client/textures/illarion/effects/demfire-10.png",
+    "client/textures/illarion/effects/demfire-11.png",
+    "client/textures/illarion/effects/demfire-12.png",
+    "client/textures/illarion/effects/demfire-13.png",
+    "client/textures/illarion/effects/demfire-14.png",
+    "client/textures/illarion/effects/demfire-15.png",
+    "client/textures/illarion/effects/demfire-16.png"
+  ],
+  "duration": 4.25,
+  "instanced": true,
+  "metadata": {
+    "gfxId": 5
+  }
+}

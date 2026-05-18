@@ -1,0 +1,21 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 302,
+  "offsetX": 19,
+  "offsetY": -9,
+  "textures": [
+    "client/textures/illarion/effects/blood-0.png",
+    "client/textures/illarion/effects/blood-1.png",
+    "client/textures/illarion/effects/blood-2.png",
+    "client/textures/illarion/effects/blood-3.png",
+    "client/textures/illarion/effects/blood-4.png",
+    "client/textures/illarion/effects/blood-5.png",
+    "client/textures/illarion/effects/blood-6.png",
+    "client/textures/illarion/effects/blood-7.png"
+  ],
+  "duration": 0.5333333333333333,
+  "instanced": true,
+  "metadata": {
+    "gfxId": 13
+  }
+}

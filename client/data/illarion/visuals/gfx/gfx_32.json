@@ -1,0 +1,26 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 302,
+  "offsetX": 7,
+  "offsetY": -104,
+  "textures": [
+    "client/textures/illarion/effects/fall-0.png",
+    "client/textures/illarion/effects/fall-1.png",
+    "client/textures/illarion/effects/fall-2.png",
+    "client/textures/illarion/effects/fall-3.png",
+    "client/textures/illarion/effects/fall-4.png",
+    "client/textures/illarion/effects/fall-5.png",
+    "client/textures/illarion/effects/fall-6.png",
+    "client/textures/illarion/effects/fall-7.png",
+    "client/textures/illarion/effects/fall-8.png",
+    "client/textures/illarion/effects/fall-9.png",
+    "client/textures/illarion/effects/fall-10.png",
+    "client/textures/illarion/effects/fall-11.png",
+    "client/textures/illarion/effects/fall-12.png"
+  ],
+  "duration": 2.1666666666666665,
+  "instanced": true,
+  "metadata": {
+    "gfxId": 32
+  }
+}

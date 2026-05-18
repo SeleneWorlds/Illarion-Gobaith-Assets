@@ -1,0 +1,8 @@
+{
+  "model": "cherry_tree.blend",
+  "sprites": "illarion/items/item_567",
+  "visual": "items/item_567",
+  "direction": "west",
+  "scale": 1.0,
+  "include": ["FallenTree"]
+}

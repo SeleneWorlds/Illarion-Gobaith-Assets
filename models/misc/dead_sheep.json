@@ -1,0 +1,7 @@
+{
+  "model": "dead_sheep.blend",
+  "sprites": "illarion/items/item_173",
+  "visual": "items/item_173",
+  "direction": "west",
+  "scale": 1.0
+}

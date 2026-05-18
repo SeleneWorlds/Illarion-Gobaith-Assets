@@ -1,0 +1,7 @@
+{
+  "model": "mushroom_stalk_01.blend",
+  "sprites": "illarion/items/item_423",
+  "visual": "items/item_423",
+  "direction": "south",
+  "scale": 1.0
+}

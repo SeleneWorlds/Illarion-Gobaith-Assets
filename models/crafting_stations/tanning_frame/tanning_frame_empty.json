@@ -1,0 +1,7 @@
+{
+  "model": "tanning_frame_empty.blend",
+  "sprites": "illarion/items/item_468",
+  "visual": "items/item_468",
+  "direction": "west",
+  "scale": 1
+}

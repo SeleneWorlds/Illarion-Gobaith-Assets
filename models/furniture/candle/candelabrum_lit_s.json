@@ -1,0 +1,7 @@
+{
+  "model": "candelabrum.blend",
+  "sprites": "illarion/items/item_2851",
+  "visual": "items/item_2851",
+  "direction": "south",
+  "scale": 0.55
+}

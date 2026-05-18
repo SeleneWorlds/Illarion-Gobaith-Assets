@@ -1,0 +1,24 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 302,
+  "offsetX": -7,
+  "offsetY": -38,
+  "textures": [
+    "client/textures/illarion/effects/shield-0.png",
+    "client/textures/illarion/effects/shield-1.png",
+    "client/textures/illarion/effects/shield-2.png",
+    "client/textures/illarion/effects/shield-3.png",
+    "client/textures/illarion/effects/shield-4.png",
+    "client/textures/illarion/effects/shield-5.png",
+    "client/textures/illarion/effects/shield-6.png",
+    "client/textures/illarion/effects/shield-7.png",
+    "client/textures/illarion/effects/shield-8.png",
+    "client/textures/illarion/effects/shield-9.png",
+    "client/textures/illarion/effects/shield-10.png"
+  ],
+  "duration": 0.7333333333333333,
+  "instanced": true,
+  "metadata": {
+    "gfxId": 18
+  }
+}

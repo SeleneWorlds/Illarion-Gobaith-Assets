@@ -1,0 +1,26 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 302,
+  "offsetX": -6,
+  "offsetY": -62,
+  "textures": [
+    "client/textures/illarion/effects/violett-0.png",
+    "client/textures/illarion/effects/violett-1.png",
+    "client/textures/illarion/effects/violett-2.png",
+    "client/textures/illarion/effects/violett-3.png",
+    "client/textures/illarion/effects/violett-4.png",
+    "client/textures/illarion/effects/violett-5.png",
+    "client/textures/illarion/effects/violett-6.png",
+    "client/textures/illarion/effects/violett-7.png",
+    "client/textures/illarion/effects/violett-8.png",
+    "client/textures/illarion/effects/violett-9.png",
+    "client/textures/illarion/effects/violett-10.png",
+    "client/textures/illarion/effects/violett-11.png",
+    "client/textures/illarion/effects/violett-12.png"
+  ],
+  "duration": 2.1666666666666665,
+  "instanced": true,
+  "metadata": {
+    "gfxId": 51
+  }
+}

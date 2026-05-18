@@ -1,0 +1,7 @@
+{
+  "model": "hops_ripe.blend",
+  "sprites": "illarion/items/item_732",
+  "visual": "items/item_732",
+  "direction": "south",
+  "scale": 1.0
+}

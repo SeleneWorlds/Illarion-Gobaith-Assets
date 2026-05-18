@@ -1,0 +1,7 @@
+{
+  "model": "banner_pole.blend",
+  "sprites": "illarion/items/item_512",
+  "visual": "items/item_512",
+  "direction": "south",
+  "scale": 1
+}

@@ -1,0 +1,8 @@
+{
+  "model": "conifer.blend",
+  "sprites": "illarion/items/item_582",
+  "visual": "items/item_582",
+  "direction": "south",
+  "scale": 1.0,
+  "include": ["FallenTree"]
+}

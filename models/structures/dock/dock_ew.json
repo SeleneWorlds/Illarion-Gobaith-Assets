@@ -1,0 +1,8 @@
+{
+  "model": "dock.blend",
+  "sprites": "illarion/items/item_619",
+  "visual": "items/item_619",
+  "direction": "west",
+  "scale": 1,
+  "include": ["MidBeams", "MidPlanks"]
+}

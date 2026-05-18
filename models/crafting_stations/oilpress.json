@@ -1,0 +1,7 @@
+{
+  "model": "oilpress.blend",
+  "sprites": "illarion/items/item_44",
+  "visual": "items/item_44",
+  "direction": "west",
+  "scale": 1
+}

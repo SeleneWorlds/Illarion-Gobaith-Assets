@@ -1,0 +1,26 @@
+{
+  "type": "animator",
+  "animator": "humanoid",
+  "sortLayerOffset": 301,
+  "metadata": {
+    "raceId": 7,
+    "typeId": 0
+  },
+  "animations": {
+    "stationary/north": {
+      "textures": [
+        "client/textures/illarion/chars/healer-0.png"
+      ],
+      "offsetX": 0,
+      "offsetY": -10
+    },
+    "walk/north": {
+      "textures": [
+        "client/textures/illarion/chars/healer-0.png"
+      ],
+      "offsetX": 0,
+      "offsetY": -10,
+      "duration": 0.1
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "model": "sieve.blend",
+  "sprites": "illarion/items/item_727",
+  "visual": "items/item_727",
+  "direction": "west",
+  "scale": 1
+}

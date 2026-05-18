@@ -1,0 +1,7 @@
+{
+  "model": "pickaxe.blend",
+  "sprites": "illarion/items/item_2763",
+  "visual": "items/item_2763",
+  "direction": "west",
+  "scale": 1
+}

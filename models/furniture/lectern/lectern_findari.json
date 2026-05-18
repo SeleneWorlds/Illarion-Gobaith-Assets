@@ -1,0 +1,7 @@
+{
+  "model": "lectern.blend",
+  "sprites": "illarion/items/item_3106",
+  "visual": "items/item_3106",
+  "direction": "west",
+  "scale": 1
+}

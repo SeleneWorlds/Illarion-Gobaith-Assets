@@ -1,0 +1,11 @@
+{
+  "type": "simple",
+  "sortLayerOffset": 300,
+  "surfaceOffsetY": 0,
+  "offsetX": -4,
+  "offsetY": -34,
+  "texture": "client/textures/illarion/items/magic_bow.png",
+  "metadata": {
+    "itemId": 2739
+  }
+}

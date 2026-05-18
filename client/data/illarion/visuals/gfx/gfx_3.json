@@ -1,0 +1,28 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 302,
+  "offsetX": 6,
+  "offsetY": -15,
+  "textures": [
+    "client/textures/illarion/effects/ice-0.png",
+    "client/textures/illarion/effects/ice-1.png",
+    "client/textures/illarion/effects/ice-2.png",
+    "client/textures/illarion/effects/ice-3.png",
+    "client/textures/illarion/effects/ice-4.png",
+    "client/textures/illarion/effects/ice-5.png",
+    "client/textures/illarion/effects/ice-6.png",
+    "client/textures/illarion/effects/ice-7.png",
+    "client/textures/illarion/effects/ice-8.png",
+    "client/textures/illarion/effects/ice-9.png",
+    "client/textures/illarion/effects/ice-10.png",
+    "client/textures/illarion/effects/ice-11.png",
+    "client/textures/illarion/effects/ice-12.png",
+    "client/textures/illarion/effects/ice-13.png",
+    "client/textures/illarion/effects/ice-14.png"
+  ],
+  "duration": 2.5,
+  "instanced": true,
+  "metadata": {
+    "gfxId": 3
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 302,
+  "offsetX": 12,
+  "offsetY": 5,
+  "textures": [
+    "client/textures/illarion/effects/splash-0.png",
+    "client/textures/illarion/effects/splash-1.png",
+    "client/textures/illarion/effects/splash-2.png",
+    "client/textures/illarion/effects/splash-3.png",
+    "client/textures/illarion/effects/splash-4.png",
+    "client/textures/illarion/effects/splash-5.png",
+    "client/textures/illarion/effects/splash-6.png",
+    "client/textures/illarion/effects/splash-7.png",
+    "client/textures/illarion/effects/splash-8.png",
+    "client/textures/illarion/effects/splash-9.png",
+    "client/textures/illarion/effects/splash-10.png",
+    "client/textures/illarion/effects/splash-11.png",
+    "client/textures/illarion/effects/splash-12.png",
+    "client/textures/illarion/effects/splash-13.png",
+    "client/textures/illarion/effects/splash-14.png"
+  ],
+  "duration": 2.5,
+  "instanced": true,
+  "metadata": {
+    "gfxId": 45
+  }
+}

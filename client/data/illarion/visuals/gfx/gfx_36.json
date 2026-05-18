@@ -1,0 +1,33 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 302,
+  "offsetX": -1,
+  "offsetY": -72,
+  "textures": [
+    "client/textures/illarion/effects/flamestrike-0.png",
+    "client/textures/illarion/effects/flamestrike-1.png",
+    "client/textures/illarion/effects/flamestrike-2.png",
+    "client/textures/illarion/effects/flamestrike-3.png",
+    "client/textures/illarion/effects/flamestrike-4.png",
+    "client/textures/illarion/effects/flamestrike-5.png",
+    "client/textures/illarion/effects/flamestrike-6.png",
+    "client/textures/illarion/effects/flamestrike-7.png",
+    "client/textures/illarion/effects/flamestrike-8.png",
+    "client/textures/illarion/effects/flamestrike-9.png",
+    "client/textures/illarion/effects/flamestrike-10.png",
+    "client/textures/illarion/effects/flamestrike-11.png",
+    "client/textures/illarion/effects/flamestrike-12.png",
+    "client/textures/illarion/effects/flamestrike-13.png",
+    "client/textures/illarion/effects/flamestrike-14.png",
+    "client/textures/illarion/effects/flamestrike-15.png",
+    "client/textures/illarion/effects/flamestrike-16.png",
+    "client/textures/illarion/effects/flamestrike-17.png",
+    "client/textures/illarion/effects/flamestrike-18.png",
+    "client/textures/illarion/effects/flamestrike-19.png"
+  ],
+  "duration": 4,
+  "instanced": true,
+  "metadata": {
+    "gfxId": 36
+  }
+}

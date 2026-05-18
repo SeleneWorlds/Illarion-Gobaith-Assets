@@ -1,0 +1,10 @@
+{
+  "type": "variants",
+  "sortLayerOffset": 300,
+  "offsetX": -4,
+  "offsetY": -11,
+  "textures": [
+    "client/textures/illarion/items/item_274-0.png",
+    "client/textures/illarion/items/item_274-1.png"
+  ]
+}

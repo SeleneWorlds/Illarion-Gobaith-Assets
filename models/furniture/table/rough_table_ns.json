@@ -1,0 +1,7 @@
+{
+  "model": "table.blend",
+  "sprites": "illarion/items/item_524",
+  "visual": "items/item_524",
+  "direction": "north",
+  "scale": 1
+}

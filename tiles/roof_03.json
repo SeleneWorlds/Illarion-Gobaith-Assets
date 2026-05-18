@@ -1,0 +1,6 @@
+{
+  "type": "simple",
+  "texture": "roof.png",
+  "sprites": "illarion/tiles/tile_56",
+  "visual": "tiles/tile_56"
+}

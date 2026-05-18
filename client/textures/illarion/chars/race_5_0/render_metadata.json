@@ -1,0 +1,225 @@
+{
+  "fps": 15,
+  "tileSize": {
+    "width": 76,
+    "height": 37
+  },
+  "entries": {
+    "idle/east": {
+      "textures": [
+        "Idle/east/0001.png",
+        "Idle/east/0002.png",
+        "Idle/east/0003.png",
+        "Idle/east/0004.png",
+        "Idle/east/0005.png",
+        "Idle/east/0006.png",
+        "Idle/east/0007.png",
+        "Idle/east/0008.png",
+        "Idle/east/0009.png",
+        "Idle/east/0010.png"
+      ],
+      "offsetX": 1,
+      "offsetY": -3,
+      "frames": 10,
+      "crop": {
+        "x": 292,
+        "y": 267,
+        "width": 25,
+        "height": 74
+      },
+      "anchor": {
+        "x": 11.392297744750977,
+        "y": 70.61152648925781
+      }
+    },
+    "idle/north": {
+      "textures": [
+        "Idle/north/0001.png",
+        "Idle/north/0002.png",
+        "Idle/north/0003.png",
+        "Idle/north/0004.png",
+        "Idle/north/0005.png",
+        "Idle/north/0006.png",
+        "Idle/north/0007.png",
+        "Idle/north/0008.png",
+        "Idle/north/0009.png",
+        "Idle/north/0010.png"
+      ],
+      "offsetX": 1,
+      "offsetY": -4,
+      "frames": 10,
+      "crop": {
+        "x": 294,
+        "y": 267,
+        "width": 23,
+        "height": 75
+      },
+      "anchor": {
+        "x": 10.765996932983398,
+        "y": 70.56957912445068
+      }
+    },
+    "idle/south": {
+      "textures": [
+        "Idle/south/0001.png",
+        "Idle/south/0002.png",
+        "Idle/south/0003.png",
+        "Idle/south/0004.png",
+        "Idle/south/0005.png",
+        "Idle/south/0006.png",
+        "Idle/south/0007.png",
+        "Idle/south/0008.png",
+        "Idle/south/0009.png",
+        "Idle/south/0010.png"
+      ],
+      "offsetX": -1,
+      "offsetY": -7,
+      "frames": 10,
+      "crop": {
+        "x": 291,
+        "y": 266,
+        "width": 23,
+        "height": 78
+      },
+      "anchor": {
+        "x": 12.23398494720459,
+        "y": 70.54486751556396
+      }
+    },
+    "idle/west": {
+      "textures": [
+        "Idle/west/0001.png",
+        "Idle/west/0002.png",
+        "Idle/west/0003.png",
+        "Idle/west/0004.png",
+        "Idle/west/0005.png",
+        "Idle/west/0006.png",
+        "Idle/west/0007.png",
+        "Idle/west/0008.png",
+        "Idle/west/0009.png",
+        "Idle/west/0010.png"
+      ],
+      "offsetX": -1,
+      "offsetY": -5,
+      "frames": 10,
+      "crop": {
+        "x": 291,
+        "y": 266,
+        "width": 25,
+        "height": 76
+      },
+      "anchor": {
+        "x": 13.607702255249023,
+        "y": 70.50293827056885
+      }
+    },
+    "walk/east": {
+      "textures": [
+        "Walk/east/0001.png",
+        "Walk/east/0002.png",
+        "Walk/east/0003.png",
+        "Walk/east/0004.png",
+        "Walk/east/0005.png",
+        "Walk/east/0006.png",
+        "Walk/east/0007.png",
+        "Walk/east/0008.png",
+        "Walk/east/0009.png",
+        "Walk/east/0010.png"
+      ],
+      "offsetX": -1,
+      "offsetY": -9,
+      "frames": 10,
+      "crop": {
+        "x": 279,
+        "y": 263,
+        "width": 50,
+        "height": 81
+      },
+      "anchor": {
+        "x": 26.2507381439209,
+        "y": 71.75236511230469
+      }
+    },
+    "walk/north": {
+      "textures": [
+        "Walk/north/0001.png",
+        "Walk/north/0002.png",
+        "Walk/north/0003.png",
+        "Walk/north/0004.png",
+        "Walk/north/0005.png",
+        "Walk/north/0006.png",
+        "Walk/north/0007.png",
+        "Walk/north/0008.png",
+        "Walk/north/0009.png",
+        "Walk/north/0010.png"
+      ],
+      "offsetX": 1,
+      "offsetY": -9,
+      "frames": 10,
+      "crop": {
+        "x": 279,
+        "y": 263,
+        "width": 50,
+        "height": 81
+      },
+      "anchor": {
+        "x": 23.74272060394287,
+        "y": 71.75236511230469
+      }
+    },
+    "walk/south": {
+      "textures": [
+        "Walk/south/0001.png",
+        "Walk/south/0002.png",
+        "Walk/south/0003.png",
+        "Walk/south/0004.png",
+        "Walk/south/0005.png",
+        "Walk/south/0006.png",
+        "Walk/south/0007.png",
+        "Walk/south/0008.png",
+        "Walk/south/0009.png",
+        "Walk/south/0010.png"
+      ],
+      "offsetX": -1,
+      "offsetY": -9,
+      "frames": 10,
+      "crop": {
+        "x": 279,
+        "y": 265,
+        "width": 50,
+        "height": 77
+      },
+      "anchor": {
+        "x": 26.25729751586914,
+        "y": 68.07553958892822
+      }
+    },
+    "walk/west": {
+      "textures": [
+        "Walk/west/0001.png",
+        "Walk/west/0002.png",
+        "Walk/west/0003.png",
+        "Walk/west/0004.png",
+        "Walk/west/0005.png",
+        "Walk/west/0006.png",
+        "Walk/west/0007.png",
+        "Walk/west/0008.png",
+        "Walk/west/0009.png",
+        "Walk/west/0010.png"
+      ],
+      "offsetX": 1,
+      "offsetY": -9,
+      "frames": 10,
+      "crop": {
+        "x": 279,
+        "y": 265,
+        "width": 50,
+        "height": 77
+      },
+      "anchor": {
+        "x": 23.74924373626709,
+        "y": 68.25938320159912
+      }
+    }
+  }
+}

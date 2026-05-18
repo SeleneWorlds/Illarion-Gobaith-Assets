@@ -1,0 +1,21 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 302,
+  "offsetX": 27,
+  "offsetY": -42,
+  "textures": [
+    "client/textures/illarion/effects/bow-0.png",
+    "client/textures/illarion/effects/bow-1.png",
+    "client/textures/illarion/effects/bow-2.png",
+    "client/textures/illarion/effects/bow-3.png",
+    "client/textures/illarion/effects/bow-4.png",
+    "client/textures/illarion/effects/bow-5.png",
+    "client/textures/illarion/effects/bow-6.png",
+    "client/textures/illarion/effects/bow-7.png"
+  ],
+  "duration": 0.9333333333333333,
+  "instanced": true,
+  "metadata": {
+    "gfxId": 15
+  }
+}

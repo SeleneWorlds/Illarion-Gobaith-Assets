@@ -1,0 +1,7 @@
+{
+  "model": "marker_stone.blend",
+  "sprites": "illarion/items/item_66",
+  "visual": "items/item_66",
+  "direction": "south",
+  "scale": 1
+}

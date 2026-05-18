@@ -1,0 +1,23 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 300,
+  "surfaceOffsetY": 0,
+  "offsetX": 4,
+  "offsetY": -19,
+  "textures": [
+    "client/textures/illarion/items/giftfeld-0.png",
+    "client/textures/illarion/items/giftfeld-1.png",
+    "client/textures/illarion/items/giftfeld-2.png",
+    "client/textures/illarion/items/giftfeld-3.png",
+    "client/textures/illarion/items/giftfeld-4.png",
+    "client/textures/illarion/items/giftfeld-5.png",
+    "client/textures/illarion/items/giftfeld-6.png",
+    "client/textures/illarion/items/giftfeld-7.png",
+    "client/textures/illarion/items/giftfeld-8.png",
+    "client/textures/illarion/items/giftfeld-9.png"
+  ],
+  "duration": 0.8333333333333333,
+  "metadata": {
+    "itemId": "372"
+  }
+}

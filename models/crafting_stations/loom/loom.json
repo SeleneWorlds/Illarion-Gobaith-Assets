@@ -1,0 +1,7 @@
+{
+  "model": "loom.blend",
+  "sprites": "illarion/items/item_169",
+  "visual": "items/item_169",
+  "direction": "west",
+  "scale": 1
+}

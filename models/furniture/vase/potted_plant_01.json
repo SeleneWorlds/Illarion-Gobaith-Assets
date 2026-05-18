@@ -1,0 +1,7 @@
+{
+  "model": "potted_plant.blend",
+  "sprites": "illarion/items/item_275",
+  "visual": "items/item_275",
+  "direction": "south",
+  "scale": 1
+}

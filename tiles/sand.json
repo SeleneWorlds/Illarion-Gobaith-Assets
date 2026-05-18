@@ -1,0 +1,7 @@
+{
+  "type": "simple",
+  "texture": "sand.png",
+  "sprites": "illarion/tiles/tile_3",
+  "visual": "tiles/tile_3",
+  "transitions": true
+}

@@ -1,0 +1,7 @@
+{
+  "model": "sickle.blend",
+  "sprites": "illarion/items/item_126",
+  "visual": "items/item_126",
+  "direction": "west",
+  "scale": 1
+}

@@ -1,0 +1,7 @@
+{
+  "model": "rolling_pin.blend",
+  "sprites": "illarion/items/item_118",
+  "visual": "items/item_118",
+  "direction": "west",
+  "scale": 1
+}

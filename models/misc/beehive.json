@@ -1,0 +1,7 @@
+{
+  "model": "beehive.blend",
+  "sprites": "illarion/items/item_1005",
+  "visual": "items/item_1005",
+  "direction": "west",
+  "scale": 1
+}

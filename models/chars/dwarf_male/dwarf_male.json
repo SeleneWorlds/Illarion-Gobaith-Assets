@@ -1,0 +1,8 @@
+{
+  "model": "dwarf_male.blend",
+  "sprites": "illarion/chars/race_1_0",
+  "visual": "races/race_1_0",
+  "animations": ["Idle", "Walk"],
+  "directions": ["north", "east", "south", "west"],
+  "scale": 0.35
+}

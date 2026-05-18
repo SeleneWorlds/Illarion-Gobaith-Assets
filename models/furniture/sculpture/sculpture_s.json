@@ -1,0 +1,7 @@
+{
+  "model": "sculpture.blend",
+  "sprites": "illarion/items/item_272",
+  "visual": "items/item_272",
+  "direction": "south",
+  "scale": 1
+}

@@ -1,0 +1,9 @@
+{
+  "model": "bridge.blend",
+  "sprites": "illarion/items/item_602",
+  "visual": "items/item_602",
+  "direction": "west",
+  "scale": 1,
+  "surfaceOffsetY": 14,
+  "include": ["MidBeams", "MidPlanks", "SupportBeams", "SupportPlank"]
+}

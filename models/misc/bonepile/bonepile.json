@@ -1,0 +1,7 @@
+{
+  "model": "bonepile.blend",
+  "sprites": "illarion/items/item_498",
+  "visual": "items/item_498",
+  "direction": "west",
+  "scale": 1
+}

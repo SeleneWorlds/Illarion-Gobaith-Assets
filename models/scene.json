@@ -1,0 +1,12 @@
+{
+  "tileSize": {
+    "width": 76,
+    "height": 37
+  },
+  "lighting": {
+    "azimuth": 315,
+    "elevation": 20,
+    "strength": 10,
+    "ambientStrength": 10
+  }
+}

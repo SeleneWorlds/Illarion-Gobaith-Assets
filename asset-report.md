@@ -1,0 +1,145 @@
+# Illarion Asset Report
+
+## Summary
+
+- Total visuals: 1745
+- Duplicate uses: 592 visuals across 69 resolved sprite files
+- Missing new: 63 visuals
+
+## Duplicate Uses (69 sprite files)
+
+- `client/textures/illarion/items/robe.png` used by 54 visuals: `items/item_193`, `items/item_194`, `items/item_195`, `items/item_196`, `items/item_2377`, `items/item_2378`, `items/item_2380`, `items/item_2384`, `items/item_2416`, `items/item_2418`, `items/item_2419`, `items/item_2420`, `items/item_2421`, `items/item_368`, `items/item_385`, `items/item_547`, `items/item_548`, `items/item_55`, `items/item_558`, `items/item_800`, `items/item_801`, `items/item_802`, `items/item_803`, `items/item_804`, `items/item_805`, `items/item_806`, `items/item_807`, `items/item_808`, `items/item_809`, `items/item_810`, `items/item_811`, `items/item_812`, `items/item_813`, `items/item_814`, `items/item_815`, `items/item_816`, `items/item_817`, `items/item_818`, `items/item_819`, `items/item_820`, `items/item_833`, `items/item_834`, `items/item_835`, `items/item_836`, `items/item_837`, `items/item_838`, `items/item_845`, `items/item_846`, `items/item_847`, `items/item_848`, `items/item_849`, `items/item_850`, `items/item_851`, `items/item_852`
+- `client/textures/illarion/items/sword.png` used by 49 visuals: `items/item_1`, `items/item_123`, `items/item_189`, `items/item_190`, `items/item_204`, `items/item_206`, `items/item_25`, `items/item_2650`, `items/item_2652`, `items/item_2654`, `items/item_2655`, `items/item_2656`, `items/item_2658`, `items/item_2668`, `items/item_2671`, `items/item_2672`, `items/item_2673`, `items/item_2674`, `items/item_2675`, `items/item_2689`, `items/item_2693`, `items/item_2694`, `items/item_2697`, `items/item_27`, `items/item_2701`, `items/item_2704`, `items/item_2705`, `items/item_2731`, `items/item_2740`, `items/item_2742`, `items/item_2743`, `items/item_2746`, `items/item_2757`, `items/item_2775`, `items/item_2776`, `items/item_2777`, `items/item_2778`, `items/item_2788`, `items/item_297`, `items/item_3035`, `items/item_3036`, `items/item_389`, `items/item_398`, `items/item_444`, `items/item_78`, `items/item_84`, `items/item_85`, `items/item_91`, `items/item_98`
+- `client/textures/illarion/items/book.png` used by 37 visuals: `items/item_105`, `items/item_106`, `items/item_1060`, `items/item_1061`, `items/item_107`, `items/item_108`, `items/item_1089`, `items/item_109`, `items/item_110`, `items/item_111`, `items/item_112`, `items/item_113`, `items/item_114`, `items/item_115`, `items/item_116`, `items/item_117`, `items/item_127`, `items/item_128`, `items/item_129`, `items/item_130`, `items/item_131`, `items/item_2598`, `items/item_2602`, `items/item_2604`, `items/item_2605`, `items/item_2606`, `items/item_2607`, `items/item_2608`, `items/item_2609`, `items/item_2610`, `items/item_2615`, `items/item_2616`, `items/item_2617`, `items/item_2619`, `items/item_2620`, `items/item_2621`, `items/item_2622`
+- `client/textures/illarion/items/mug.png` used by 35 visuals: `items/item_1840`, `items/item_1841`, `items/item_1842`, `items/item_1843`, `items/item_1844`, `items/item_1853`, `items/item_1854`, `items/item_1855`, `items/item_1856`, `items/item_1857`, `items/item_1858`, `items/item_1859`, `items/item_1860`, `items/item_1861`, `items/item_1906`, `items/item_1907`, `items/item_1908`, `items/item_1909`, `items/item_1910`, `items/item_2055`, `items/item_2056`, `items/item_2057`, `items/item_2058`, `items/item_2059`, `items/item_2183`, `items/item_2184`, `items/item_2185`, `items/item_2186`, `items/item_2187`, `items/item_2188`, `items/item_2189`, `items/item_223`, `items/item_224`, `items/item_2457`, `items/item_310`
+- `client/textures/illarion/items/item_2525.png` used by 34 visuals: `items/item_207`, `items/item_208`, `items/item_209`, `items/item_227`, `items/item_2525`, `items/item_2527`, `items/item_2528`, `items/item_2530`, `items/item_2541`, `items/item_2544`, `items/item_2548`, `items/item_2549`, `items/item_2561`, `items/item_2566`, `items/item_2567`, `items/item_2570`, `items/item_2572`, `items/item_2573`, `items/item_2584`, `items/item_2585`, `items/item_2707`, `items/item_2781`, `items/item_2782`, `items/item_2783`, `items/item_2784`, `items/item_2785`, `items/item_2786`, `items/item_311`, `items/item_323`, `items/item_39`, `items/item_40`, `items/item_57`, `items/item_76`, `items/item_90`
+- `client/textures/illarion/items/item_74.png` used by 25 visuals: `items/item_124`, `items/item_188`, `items/item_192`, `items/item_205`, `items/item_229`, `items/item_2626`, `items/item_2627`, `items/item_2629`, `items/item_2635`, `items/item_2636`, `items/item_2640`, `items/item_2642`, `items/item_2645`, `items/item_2660`, `items/item_2662`, `items/item_2663`, `items/item_2711`, `items/item_2723`, `items/item_2725`, `items/item_2946`, `items/item_296`, `items/item_383`, `items/item_74`, `items/item_77`, `items/item_88`
+- `client/textures/illarion/items/flower.png` used by 19 visuals: `items/item_133`, `items/item_134`, `items/item_135`, `items/item_136`, `items/item_137`, `items/item_138`, `items/item_141`, `items/item_144`, `items/item_145`, `items/item_146`, `items/item_147`, `items/item_148`, `items/item_757`, `items/item_758`, `items/item_763`, `items/item_764`, `items/item_765`, `items/item_766`, `items/item_767`
+- `client/textures/illarion/items/armor.png` used by 18 visuals: `items/item_2357`, `items/item_2359`, `items/item_2360`, `items/item_2363`, `items/item_2364`, `items/item_2365`, `items/item_2367`, `items/item_2369`, `items/item_2389`, `items/item_2390`, `items/item_2393`, `items/item_2395`, `items/item_2400`, `items/item_2402`, `items/item_2403`, `items/item_2407`, `items/item_4`, `items/item_696`
+- `client/textures/illarion/items/red_potion.png` used by 16 visuals: `items/item_1315`, `items/item_1319`, `items/item_165`, `items/item_2496`, `items/item_2497`, `items/item_2500`, `items/item_2501`, `items/item_327`, `items/item_328`, `items/item_329`, `items/item_783`, `items/item_784`, `items/item_788`, `items/item_789`, `items/item_790`, `items/item_791`
+- `client/textures/illarion/items/key.png` used by 14 visuals: `items/item_2121`, `items/item_2122`, `items/item_2123`, `items/item_2124`, `items/item_2141`, `items/item_2144`, `items/item_2145`, `items/item_2161`, `items/item_2162`, `items/item_2556`, `items/item_2558`, `items/item_3054`, `items/item_3055`, `items/item_3056`
+- `client/textures/illarion/items/shield.png` used by 13 visuals: `items/item_18`, `items/item_19`, `items/item_20`, `items/item_2284`, `items/item_2388`, `items/item_2439`, `items/item_2445`, `items/item_2447`, `items/item_2448`, `items/item_916`, `items/item_917`, `items/item_95`, `items/item_96`
+- `client/textures/illarion/items/green_potion.png` used by 12 visuals: `items/item_1316`, `items/item_1318`, `items/item_166`, `items/item_167`, `items/item_2499`, `items/item_2502`, `items/item_330`, `items/item_331`, `items/item_59`, `items/item_785`, `items/item_786`, `items/item_787`
+- `client/textures/illarion/items/leggings_cloth.png` used by 12 visuals: `items/item_183`, `items/item_34`, `items/item_459`, `items/item_460`, `items/item_461`, `items/item_821`, `items/item_822`, `items/item_823`, `items/item_824`, `items/item_825`, `items/item_826`, `items/item_827`
+- `client/textures/illarion/items/bucket.png` used by 10 visuals: `items/item_2678`, `items/item_2679`, `items/item_2680`, `items/item_2681`, `items/item_2682`, `items/item_2683`, `items/item_51`, `items/item_517`, `items/item_518`, `items/item_52`
+- `client/textures/illarion/items/hat.png` used by 10 visuals: `items/item_356`, `items/item_357`, `items/item_358`, `items/item_370`, `items/item_371`, `items/item_828`, `items/item_829`, `items/item_830`, `items/item_831`, `items/item_832`
+- `client/textures/illarion/items/helmet.png` used by 10 visuals: `items/item_16`, `items/item_184`, `items/item_185`, `items/item_187`, `items/item_2286`, `items/item_2287`, `items/item_2290`, `items/item_2291`, `items/item_7`, `items/item_94`
+- `client/textures/illarion/items/herb.png` used by 10 visuals: `items/item_140`, `items/item_149`, `items/item_153`, `items/item_154`, `items/item_155`, `items/item_156`, `items/item_752`, `items/item_760`, `items/item_761`, `items/item_768`
+- `client/textures/illarion/items/cloth.png` used by 9 visuals: `items/item_174`, `items/item_175`, `items/item_176`, `items/item_177`, `items/item_178`, `items/item_179`, `items/item_2577`, `items/item_2579`, `items/item_54`
+- `client/textures/illarion/items/ring.png` used by 9 visuals: `items/item_235`, `items/item_2559`, `items/item_277`, `items/item_278`, `items/item_279`, `items/item_280`, `items/item_281`, `items/item_282`, `items/item_68`
+- `client/textures/illarion/items/necklace.png` used by 8 visuals: `items/item_222`, `items/item_334`, `items/item_62`, `items/item_67`, `items/item_71`, `items/item_79`, `items/item_82`, `items/item_83`
+- `client/textures/illarion/items/pincers.png` used by 8 visuals: `items/item_2140`, `items/item_2699`, `items/item_2700`, `items/item_2749`, `items/item_2750`, `items/item_2751`, `items/item_2753`, `items/item_430`
+- `client/textures/illarion/items/plate_dish.png` used by 8 visuals: `items/item_2277`, `items/item_2459`, `items/item_2922`, `items/item_554`, `items/item_555`, `items/item_556`, `items/item_557`, `items/item_559`
+- `client/textures/illarion/items/scroll.png` used by 8 visuals: `items/item_3109`, `items/item_3110`, `items/item_3111`, `items/item_3112`, `items/item_3113`, `items/item_3114`, `items/item_3115`, `items/item_3116`
+- `client/textures/illarion/items/gem_dust.png` used by 7 visuals: `items/item_446`, `items/item_447`, `items/item_448`, `items/item_449`, `items/item_450`, `items/item_451`, `items/item_452`
+- `client/textures/illarion/items/blade.png` used by 6 visuals: `items/item_2562`, `items/item_2563`, `items/item_2564`, `items/item_2565`, `items/item_2569`, `items/item_737`
+- `client/textures/illarion/items/chain_helmet.png` used by 6 visuals: `items/item_202`, `items/item_2302`, `items/item_2303`, `items/item_2441`, `items/item_2444`, `items/item_324`
+- `client/textures/illarion/items/leggings_leather.png` used by 6 visuals: `items/item_2113`, `items/item_2114`, `items/item_2193`, `items/item_2194`, `items/item_366`, `items/item_367`
+- `client/textures/illarion/items/meat.png` used by 6 visuals: `items/item_2934`, `items/item_2940`, `items/item_306`, `items/item_307`, `items/item_552`, `items/item_553`
+- `client/textures/illarion/items/mushroom.png` used by 6 visuals: `items/item_158`, `items/item_159`, `items/item_160`, `items/item_161`, `items/item_162`, `items/item_163`
+- `client/textures/illarion/items/red_berries.png` used by 6 visuals: `items/item_142`, `items/item_143`, `items/item_151`, `items/item_754`, `items/item_756`, `items/item_769`
+- `client/textures/illarion/items/skirt.png` used by 6 visuals: `items/item_839`, `items/item_840`, `items/item_841`, `items/item_842`, `items/item_843`, `items/item_844`
+- `client/textures/illarion/items/gloves_leather.png` used by 5 visuals: `items/item_2295`, `items/item_384`, `items/item_48`, `items/item_526`, `items/item_527`
+- `client/textures/illarion/items/gloves_plate.png` used by 5 visuals: `items/item_325`, `items/item_528`, `items/item_529`, `items/item_530`, `items/item_531`
+- `client/textures/illarion/items/root.png` used by 5 visuals: `items/item_152`, `items/item_157`, `items/item_728`, `items/item_762`, `items/item_772`
+- `client/textures/illarion/items/seeds.png` used by 5 visuals: `items/item_2494`, `items/item_2917`, `items/item_534`, `items/item_773`, `items/item_779`
+- `client/textures/illarion/items/shirt.png` used by 5 visuals: `items/item_180`, `items/item_181`, `items/item_182`, `items/item_457`, `items/item_458`
+- `client/textures/illarion/items/boots_plate.png` used by 4 visuals: `items/item_326`, `items/item_699`, `items/item_770`, `items/item_771`
+- `client/textures/illarion/items/bottle.png` used by 4 visuals: `items/item_1317`, `items/item_164`, `items/item_2498`, `items/item_390`
+- `client/textures/illarion/items/item_23.png` used by 4 visuals: `items/item_122`, `items/item_226`, `items/item_23`, `items/item_2709`
+- `client/textures/illarion/items/item_230.png` used by 4 visuals: `items/item_230`, `items/item_231`, `items/item_2728`, `items/item_2737`
+- `client/textures/illarion/items/leather_armor.png` used by 4 visuals: `items/item_362`, `items/item_363`, `items/item_364`, `items/item_365`
+- `client/textures/illarion/items/lockpicks.png` used by 4 visuals: `items/item_2647`, `items/item_2752`, `items/item_739`, `items/item_99`
+- `client/textures/illarion/items/logs.png` used by 4 visuals: `items/item_2560`, `items/item_3`, `items/item_543`, `items/item_544`
+- `client/textures/illarion/items/planks.png` used by 4 visuals: `items/item_2543`, `items/item_2716`, `items/item_545`, `items/item_546`
+- `client/textures/illarion/items/plate.png` used by 4 visuals: `items/item_1001`, `items/item_2031`, `items/item_2495`, `items/item_2952`
+- `client/textures/illarion/items/soup.png` used by 4 visuals: `items/item_2276`, `items/item_2278`, `items/item_2456`, `items/item_2923`
+- `client/textures/illarion/items/leggings_plate.png` used by 3 visuals: `items/item_2116`, `items/item_2117`, `items/item_2172`
+- `client/textures/illarion/items/mold.png` used by 3 visuals: `items/item_2710`, `items/item_429`, `items/item_734`
+- `client/textures/illarion/items/pie.png` used by 3 visuals: `items/item_303`, `items/item_353`, `items/item_354`
+- `client/textures/illarion/items/shortbow.png` used by 3 visuals: `items/item_2646`, `items/item_2714`, `items/item_2727`
+- `client/textures/illarion/items/berries.png` used by 2 visuals: `items/item_388`, `items/item_81`
+- `client/textures/illarion/items/boots_leather.png` used by 2 visuals: `items/item_53`, `items/item_698`
+- `client/textures/illarion/items/bow.png` used by 2 visuals: `items/item_2685`, `items/item_65`
+- `client/textures/illarion/items/bread.png` used by 2 visuals: `items/item_191`, `items/item_49`
+- `client/textures/illarion/items/bricks.png` used by 2 visuals: `items/item_2588`, `items/item_736`
+- `client/textures/illarion/items/cabbage.png` used by 2 visuals: `items/item_290`, `items/item_291`
+- `client/textures/illarion/items/chainmail.png` used by 2 visuals: `items/item_101`, `items/item_2399`
+- `client/textures/illarion/items/crucible.png` used by 2 visuals: `items/item_2747`, `items/item_2748`
+- `client/textures/illarion/items/feather.png` used by 2 visuals: `items/item_2696`, `items/item_463`
+- `client/textures/illarion/items/fish.png` used by 2 visuals: `items/item_355`, `items/item_73`
+- `client/textures/illarion/items/leggings_chain.png` used by 2 visuals: `items/item_2111`, `items/item_2112`
+- `client/textures/illarion/items/longbow.png` used by 2 visuals: `items/item_2708`, `items/item_2718`
+- `client/textures/illarion/items/magic_bow.png` used by 2 visuals: `items/item_2739`, `items/item_2780`
+- `client/textures/illarion/items/peel.png` used by 2 visuals: `items/item_121`, `items/item_312`
+- `client/textures/illarion/items/raw_hide.png` used by 2 visuals: `items/item_2586`, `items/item_69`
+- `client/textures/illarion/items/shield_round.png` used by 2 visuals: `items/item_17`, `items/item_186`
+- `client/textures/illarion/items/silver_coins.png` used by 2 visuals: `items/item_3077`, `items/item_3078`
+- `client/textures/illarion/items/stones.png` used by 2 visuals: `items/item_733`, `items/item_735`
+- `client/textures/illarion/items/trowel.png` used by 2 visuals: `items/item_100`, `items/item_382`
+
+## Missing New (63 visuals)
+
+- `gfx/gfx_11` from `client/data/illarion/visuals/gfx/gfx_11.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_11.json`, legacy preview: `client/textures/illarion/effects/platsch-0.png`)
+- `gfx/gfx_12` from `client/data/illarion/visuals/gfx/gfx_12.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_12.json`, legacy preview: `client/textures/illarion/effects/fizzle-0.png`)
+- `gfx/gfx_13` from `client/data/illarion/visuals/gfx/gfx_13.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_13.json`, legacy preview: `client/textures/illarion/effects/blood-0.png`)
+- `gfx/gfx_15` from `client/data/illarion/visuals/gfx/gfx_15.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_15.json`, legacy preview: `client/textures/illarion/effects/bow-0.png`)
+- `gfx/gfx_16` from `client/data/illarion/visuals/gfx/gfx_16.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_16.json`, legacy preview: `client/textures/illarion/effects/rain-0.png`)
+- `gfx/gfx_17` from `client/data/illarion/visuals/gfx/gfx_17.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_17.json`, legacy preview: `client/textures/illarion/effects/sword-0.png`)
+- `gfx/gfx_18` from `client/data/illarion/visuals/gfx/gfx_18.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_18.json`, legacy preview: `client/textures/illarion/effects/shield-0.png`)
+- `gfx/gfx_19` from `client/data/illarion/visuals/gfx/gfx_19.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_19.json`, legacy preview: `client/textures/illarion/effects/mace-0.png`)
+- `gfx/gfx_2` from `client/data/illarion/visuals/gfx/gfx_2.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_2.json`, legacy preview: `client/textures/illarion/effects/blitz-0.png`)
+- `gfx/gfx_20` from `client/data/illarion/visuals/gfx/gfx_20.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_20.json`, legacy preview: `client/textures/illarion/effects/dagger-0.png`)
+- `gfx/gfx_21` from `client/data/illarion/visuals/gfx/gfx_21.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_21.json`, legacy preview: `client/textures/illarion/effects/claw-0.png`)
+- `gfx/gfx_22` from `client/data/illarion/visuals/gfx/gfx_22.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_22.json`, legacy preview: `client/textures/illarion/effects/boxing-0.png`)
+- `gfx/gfx_3` from `client/data/illarion/visuals/gfx/gfx_3.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_3.json`, legacy preview: `client/textures/illarion/effects/ice-0.png`)
+- `gfx/gfx_31` from `client/data/illarion/visuals/gfx/gfx_31.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_31.json`, legacy preview: `client/textures/illarion/effects/glowing-0.png`)
+- `gfx/gfx_32` from `client/data/illarion/visuals/gfx/gfx_32.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_32.json`, legacy preview: `client/textures/illarion/effects/fall-0.png`)
+- `gfx/gfx_36` from `client/data/illarion/visuals/gfx/gfx_36.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_36.json`, legacy preview: `client/textures/illarion/effects/flamestrike-0.png`)
+- `gfx/gfx_37` from `client/data/illarion/visuals/gfx/gfx_37.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_37.json`, legacy preview: `client/textures/illarion/effects/light-0.png`)
+- `gfx/gfx_38` from `client/data/illarion/visuals/gfx/gfx_38.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_38.json`, legacy preview: `client/textures/illarion/effects/fire_field-0.png`)
+- `gfx/gfx_4` from `client/data/illarion/visuals/gfx/gfx_4.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_4.json`, legacy preview: `client/textures/illarion/effects/elffire-0.png`)
+- `gfx/gfx_41` from `client/data/illarion/visuals/gfx/gfx_41.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_41.json`, legacy preview: `client/textures/illarion/effects/stars-0.png`)
+- `gfx/gfx_44` from `client/data/illarion/visuals/gfx/gfx_44.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_44.json`, legacy preview: `client/textures/illarion/effects/explo-0.png`)
+- `gfx/gfx_45` from `client/data/illarion/visuals/gfx/gfx_45.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_45.json`, legacy preview: `client/textures/illarion/effects/splash-0.png`)
+- `gfx/gfx_46` from `client/data/illarion/visuals/gfx/gfx_46.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_46.json`, legacy preview: `client/textures/illarion/effects/sun-0.png`)
+- `gfx/gfx_5` from `client/data/illarion/visuals/gfx/gfx_5.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_5.json`, legacy preview: `client/textures/illarion/effects/demfire-0.png`)
+- `gfx/gfx_51` from `client/data/illarion/visuals/gfx/gfx_51.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_51.json`, legacy preview: `client/textures/illarion/effects/violett-0.png`)
+- `gfx/gfx_52` from `client/data/illarion/visuals/gfx/gfx_52.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_52.json`, legacy preview: `client/textures/illarion/effects/sprinkle-0.png`)
+- `gfx/gfx_53` from `client/data/illarion/visuals/gfx/gfx_53.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_53.json`, legacy preview: `client/textures/illarion/effects/scotty-0.png`)
+- `gfx/gfx_6` from `client/data/illarion/visuals/gfx/gfx_6.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_6.json`, legacy preview: `client/textures/illarion/effects/spell-0.png`)
+- `gfx/gfx_7` from `client/data/illarion/visuals/gfx/gfx_7.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_7.json`, legacy preview: `client/textures/illarion/effects/wind-0.png`)
+- `gfx/gfx_8` from `client/data/illarion/visuals/gfx/gfx_8.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_8.json`, legacy preview: `client/textures/illarion/effects/giftwolke-0.png`)
+- `gfx/gfx_9` from `client/data/illarion/visuals/gfx/gfx_9.json` (legacy JSON: `client/data/illarion/visuals/gfx/gfx_9.json`, legacy preview: `client/textures/illarion/effects/fireball-0.png`)
+- `items/item_359` from `client/data/illarion/visuals/items/item_359.json` (legacy JSON: `client/data/illarion/visuals/items/item_359.json`, legacy preview: `client/textures/illarion/items/flamme-0.png`)
+- `items/item_360` from `client/data/illarion/visuals/items/item_360.json` (legacy JSON: `client/data/illarion/visuals/items/item_360.json`, legacy preview: `client/textures/illarion/items/ice-0.png`)
+- `items/item_372` from `client/data/illarion/visuals/items/item_372.json` (legacy JSON: `client/data/illarion/visuals/items/item_372.json`, legacy preview: `client/textures/illarion/items/giftfeld-0.png`)
+- `items/item_373` from `client/data/illarion/visuals/items/item_373.json` (legacy JSON: `client/data/illarion/visuals/items/item_373.json`, legacy preview: `client/textures/illarion/items/wind-0.png`)
+- `items/item_393` from `client/data/illarion/visuals/items/item_393.json` (legacy JSON: `client/data/illarion/visuals/items/item_393.json`, legacy preview: `client/textures/illarion/items/lantern_unlit.png`)
+- `items/item_467` from `client/data/illarion/visuals/items/item_467.json` (legacy JSON: `client/data/illarion/visuals/items/item_467.json`, legacy preview: `client/textures/illarion/items/light-0.png`)
+- `labels/character` from `client/data/illarion/visuals/labels/character.json` (legacy JSON: `client/data/illarion/visuals/labels/character.json`, legacy preview: `Missing`)
+- `races/race_0_1` from `client/data/illarion/visuals/races/race_0_1.json` (legacy JSON: `client/data/illarion/visuals/races/race_0_1.json`, legacy preview: `client/textures/illarion/chars/human_f_s-6.png`)
+- `races/race_12_0` from `client/data/illarion/visuals/races/race_12_0.json` (legacy JSON: `client/data/illarion/visuals/races/race_12_0.json`, legacy preview: `client/textures/illarion/chars/beholder_s-2.png`)
+- `races/race_14_0` from `client/data/illarion/visuals/races/race_14_0.json` (legacy JSON: `client/data/illarion/visuals/races/race_14_0.json`, legacy preview: `client/textures/illarion/chars/rotworm-0.png`)
+- `races/race_15_0` from `client/data/illarion/visuals/races/race_15_0.json` (legacy JSON: `client/data/illarion/visuals/races/race_15_0.json`, legacy preview: `client/textures/illarion/chars/demon_s-10.png`)
+- `races/race_1_1` from `client/data/illarion/visuals/races/race_1_1.json` (legacy JSON: `client/data/illarion/visuals/races/race_1_1.json`, legacy preview: `client/textures/illarion/chars/dwarf_f_s-3.png`)
+- `races/race_21_0` from `client/data/illarion/visuals/races/race_21_0.json` (legacy JSON: `client/data/illarion/visuals/races/race_21_0.json`, legacy preview: `client/textures/illarion/chars/cavetroll_s-0.png`)
+- `races/race_26_0` from `client/data/illarion/visuals/races/race_26_0.json` (legacy JSON: `client/data/illarion/visuals/races/race_26_0.json`, legacy preview: `client/textures/illarion/chars/invisible-0.png`)
+- `races/race_29_0` from `client/data/illarion/visuals/races/race_29_0.json` (legacy JSON: `client/data/illarion/visuals/races/race_29_0.json`, legacy preview: `client/textures/illarion/chars/forresttroll_s-4.png`)
+- `races/race_2_0` from `client/data/illarion/visuals/races/race_2_0.json` (legacy JSON: `client/data/illarion/visuals/races/race_2_0.json`, legacy preview: `client/textures/illarion/chars/halfling_m_s-3.png`)
+- `races/race_2_1` from `client/data/illarion/visuals/races/race_2_1.json` (legacy JSON: `client/data/illarion/visuals/races/race_2_1.json`, legacy preview: `client/textures/illarion/chars/halfling_f_s-3.png`)
+- `races/race_30_0` from `client/data/illarion/visuals/races/race_30_0.json` (legacy JSON: `client/data/illarion/visuals/races/race_30_0.json`, legacy preview: `client/textures/illarion/chars/golem_s-2.png`)
+- `races/race_32_0` from `client/data/illarion/visuals/races/race_32_0.json` (legacy JSON: `client/data/illarion/visuals/races/race_32_0.json`, legacy preview: `client/textures/illarion/chars/goblin_m_s-3.png`)
+- `races/race_33_0` from `client/data/illarion/visuals/races/race_33_0.json` (legacy JSON: `client/data/illarion/visuals/races/race_33_0.json`, legacy preview: `client/textures/illarion/chars/gnoll_s-3.png`)
+- `races/race_38_0` from `client/data/illarion/visuals/races/race_38_0.json` (legacy JSON: `client/data/illarion/visuals/races/race_38_0.json`, legacy preview: `client/textures/illarion/chars/drow_f_s-3.png`)
+- `races/race_3_0` from `client/data/illarion/visuals/races/race_3_0.json` (legacy JSON: `client/data/illarion/visuals/races/race_3_0.json`, legacy preview: `client/textures/illarion/chars/elf_m_s-3.png`)
+- `races/race_3_1` from `client/data/illarion/visuals/races/race_3_1.json` (legacy JSON: `client/data/illarion/visuals/races/race_3_1.json`, legacy preview: `client/textures/illarion/chars/elf_f_s-3.png`)
+- `races/race_45_0` from `client/data/illarion/visuals/races/race_45_0.json` (legacy JSON: `client/data/illarion/visuals/races/race_45_0.json`, legacy preview: `client/textures/illarion/chars/FFairyS-0.png`)
+- `races/race_46_0` from `client/data/illarion/visuals/races/race_46_0.json` (legacy JSON: `client/data/illarion/visuals/races/race_46_0.json`, legacy preview: `client/textures/illarion/chars/FGnomS-0.png`)
+- `races/race_47_0` from `client/data/illarion/visuals/races/race_47_0.json` (legacy JSON: `client/data/illarion/visuals/races/race_47_0.json`, legacy preview: `client/textures/illarion/chars/MGnomS-0.png`)
+- `races/race_49_0` from `client/data/illarion/visuals/races/race_49_0.json` (legacy JSON: `client/data/illarion/visuals/races/race_49_0.json`, legacy preview: `client/textures/illarion/chars/FGoblinS-0.png`)
+- `races/race_4_0` from `client/data/illarion/visuals/races/race_4_0.json` (legacy JSON: `client/data/illarion/visuals/races/race_4_0.json`, legacy preview: `client/textures/illarion/chars/orc_m_s-3.png`)
+- `races/race_4_1` from `client/data/illarion/visuals/races/race_4_1.json` (legacy JSON: `client/data/illarion/visuals/races/race_4_1.json`, legacy preview: `client/textures/illarion/chars/orc_f_s-3.png`)
+- `races/race_50_0` from `client/data/illarion/visuals/races/race_50_0.json` (legacy JSON: `client/data/illarion/visuals/races/race_50_0.json`, legacy preview: `client/textures/illarion/chars/packesel_s-3.png`)
+- `races/race_7_0` from `client/data/illarion/visuals/races/race_7_0.json` (legacy JSON: `client/data/illarion/visuals/races/race_7_0.json`, legacy preview: `Missing`)
+- `races/race_8_0` from `client/data/illarion/visuals/races/race_8_0.json` (legacy JSON: `client/data/illarion/visuals/races/race_8_0.json`, legacy preview: `client/textures/illarion/chars/insects_s-0.png`)

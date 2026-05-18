@@ -1,0 +1,37 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 302,
+  "offsetX": -1,
+  "offsetY": -19,
+  "textures": [
+    "client/textures/illarion/effects/sprinkle-0.png",
+    "client/textures/illarion/effects/sprinkle-1.png",
+    "client/textures/illarion/effects/sprinkle-2.png",
+    "client/textures/illarion/effects/sprinkle-3.png",
+    "client/textures/illarion/effects/sprinkle-4.png",
+    "client/textures/illarion/effects/sprinkle-5.png",
+    "client/textures/illarion/effects/sprinkle-6.png",
+    "client/textures/illarion/effects/sprinkle-7.png",
+    "client/textures/illarion/effects/sprinkle-8.png",
+    "client/textures/illarion/effects/sprinkle-9.png",
+    "client/textures/illarion/effects/sprinkle-10.png",
+    "client/textures/illarion/effects/sprinkle-11.png",
+    "client/textures/illarion/effects/sprinkle-12.png",
+    "client/textures/illarion/effects/sprinkle-13.png",
+    "client/textures/illarion/effects/sprinkle-14.png",
+    "client/textures/illarion/effects/sprinkle-15.png",
+    "client/textures/illarion/effects/sprinkle-16.png",
+    "client/textures/illarion/effects/sprinkle-17.png",
+    "client/textures/illarion/effects/sprinkle-18.png",
+    "client/textures/illarion/effects/sprinkle-19.png",
+    "client/textures/illarion/effects/sprinkle-20.png",
+    "client/textures/illarion/effects/sprinkle-21.png",
+    "client/textures/illarion/effects/sprinkle-22.png",
+    "client/textures/illarion/effects/sprinkle-23.png"
+  ],
+  "duration": 7.199999999999999,
+  "instanced": true,
+  "metadata": {
+    "gfxId": 52
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "type": "animator",
+  "animator": "humanoid",
+  "sortLayerOffset": 301,
+  "metadata": {
+    "raceId": 8,
+    "typeId": 0
+  },
+  "animations": {
+    "stationary/north": {
+      "textures": [
+        "client/textures/illarion/chars/insects_n-0.png"
+      ],
+      "offsetX": 6,
+      "offsetY": -16
+    },
+    "walk/north": {
+      "textures": [
+        "client/textures/illarion/chars/insects_n-0.png",
+        "client/textures/illarion/chars/insects_n-1.png"
+      ],
+      "offsetX": 6,
+      "offsetY": -16,
+      "duration": 0.2
+    },
+    "stationary/east": {
+      "textures": [
+        "client/textures/illarion/chars/insects_e-0.png"
+      ],
+      "offsetX": 2,
+      "offsetY": -21
+    },
+    "walk/east": {
+      "textures": [
+        "client/textures/illarion/chars/insects_e-0.png",
+        "client/textures/illarion/chars/insects_e-1.png"
+      ],
+      "offsetX": 2,
+      "offsetY": -21,
+      "duration": 0.2
+    },
+    "stationary/south": {
+      "textures": [
+        "client/textures/illarion/chars/insects_s-0.png"
+      ],
+      "offsetX": 6,
+      "offsetY": -26
+    },
+    "walk/south": {
+      "textures": [
+        "client/textures/illarion/chars/insects_s-0.png",
+        "client/textures/illarion/chars/insects_s-1.png"
+      ],
+      "offsetX": 6,
+      "offsetY": -26,
+      "duration": 0.2
+    },
+    "stationary/west": {
+      "textures": [
+        "client/textures/illarion/chars/insects_w-0.png"
+      ],
+      "offsetX": -1,
+      "offsetY": -21
+    },
+    "walk/west": {
+      "textures": [
+        "client/textures/illarion/chars/insects_w-0.png",
+        "client/textures/illarion/chars/insects_w-1.png"
+      ],
+      "offsetX": -1,
+      "offsetY": -21,
+      "duration": 0.2
+    }
+  }
+}

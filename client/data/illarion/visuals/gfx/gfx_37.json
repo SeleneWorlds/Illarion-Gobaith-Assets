@@ -1,0 +1,34 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 302,
+  "offsetX": 2,
+  "offsetY": -97,
+  "textures": [
+    "client/textures/illarion/effects/light-0.png",
+    "client/textures/illarion/effects/light-1.png",
+    "client/textures/illarion/effects/light-2.png",
+    "client/textures/illarion/effects/light-3.png",
+    "client/textures/illarion/effects/light-4.png",
+    "client/textures/illarion/effects/light-5.png",
+    "client/textures/illarion/effects/light-6.png",
+    "client/textures/illarion/effects/light-7.png",
+    "client/textures/illarion/effects/light-8.png",
+    "client/textures/illarion/effects/light-9.png",
+    "client/textures/illarion/effects/light-10.png",
+    "client/textures/illarion/effects/light-11.png",
+    "client/textures/illarion/effects/light-12.png",
+    "client/textures/illarion/effects/light-13.png",
+    "client/textures/illarion/effects/light-14.png",
+    "client/textures/illarion/effects/light-15.png",
+    "client/textures/illarion/effects/light-16.png",
+    "client/textures/illarion/effects/light-17.png",
+    "client/textures/illarion/effects/light-18.png",
+    "client/textures/illarion/effects/light-19.png",
+    "client/textures/illarion/effects/light-20.png"
+  ],
+  "duration": 5.25,
+  "instanced": true,
+  "metadata": {
+    "gfxId": 37
+  }
+}

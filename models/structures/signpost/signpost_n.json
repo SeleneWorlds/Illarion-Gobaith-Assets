@@ -1,0 +1,7 @@
+{
+  "model": "signpost.blend",
+  "sprites": "illarion/items/item_3081",
+  "visual": "items/item_3081",
+  "direction": "north",
+  "scale": 0.5
+}

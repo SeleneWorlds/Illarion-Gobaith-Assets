@@ -1,0 +1,7 @@
+{
+  "model": "onions_02.blend",
+  "sprites": "illarion/items/item_536",
+  "visual": "items/item_536",
+  "direction": "south",
+  "scale": 1.0
+}

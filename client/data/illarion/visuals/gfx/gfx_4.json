@@ -1,0 +1,24 @@
+{
+  "type": "animated",
+  "sortLayerOffset": 302,
+  "offsetX": 4,
+  "offsetY": -10,
+  "textures": [
+    "client/textures/illarion/effects/elffire-0.png",
+    "client/textures/illarion/effects/elffire-1.png",
+    "client/textures/illarion/effects/elffire-2.png",
+    "client/textures/illarion/effects/elffire-3.png",
+    "client/textures/illarion/effects/elffire-4.png",
+    "client/textures/illarion/effects/elffire-5.png",
+    "client/textures/illarion/effects/elffire-6.png",
+    "client/textures/illarion/effects/elffire-7.png",
+    "client/textures/illarion/effects/elffire-8.png",
+    "client/textures/illarion/effects/elffire-9.png",
+    "client/textures/illarion/effects/elffire-10.png"
+  ],
+  "duration": 1.4666666666666666,
+  "instanced": true,
+  "metadata": {
+    "gfxId": 4
+  }
+}

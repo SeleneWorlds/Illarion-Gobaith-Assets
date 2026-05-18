@@ -1,0 +1,7 @@
+{
+  "model": "fountain_basin.blend",
+  "sprites": "illarion/items/item_2079",
+  "visual": "items/item_2079",
+  "direction": "south",
+  "scale": 0.6
+}

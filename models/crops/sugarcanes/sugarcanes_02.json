@@ -1,0 +1,8 @@
+{
+  "model": "sugarcanes.blend",
+  "sprites": "illarion/items/item_781",
+  "visual": "items/item_781",
+  "direction": "west",
+  "scale": 1.0,
+  "include": ["Wheat02"]
+}

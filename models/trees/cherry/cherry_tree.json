@@ -1,0 +1,8 @@
+{
+  "model": "cherry_tree.blend",
+  "sprites": "illarion/items/item_300",
+  "visual": "items/item_300",
+  "direction": "south",
+  "scale": 1.0,
+  "include": ["Stump", "Tree", "Fruits"]
+}

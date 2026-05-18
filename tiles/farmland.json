@@ -1,0 +1,7 @@
+{
+  "type": "simple",
+  "texture": "farmland.png",
+  "sprites": "illarion/tiles/tile_4",
+  "visual": "tiles/tile_4",
+  "transitions": true
+}
