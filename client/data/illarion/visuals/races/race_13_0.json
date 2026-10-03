@@ -1,0 +1,91 @@
+{
+  "type": "animator",
+  "animator": "humanoid",
+  "sortLayerOffset": 301,
+  "metadata": {
+    "raceId": 13,
+    "typeId": 0
+  },
+  "animations": {
+    "stationary/north": {
+      "textures": ["client/textures/illarion/chars/ghost_n-0.png"],
+      "offsetX": 0,
+      "offsetY": -10
+    },
+    "walk/north": {
+      "textures": [
+        "client/textures/illarion/chars/ghost_n-0.png",
+        "client/textures/illarion/chars/ghost_n-1.png",
+        "client/textures/illarion/chars/ghost_n-2.png",
+        "client/textures/illarion/chars/ghost_n-3.png",
+        "client/textures/illarion/chars/ghost_n-4.png",
+        "client/textures/illarion/chars/ghost_n-5.png",
+        "client/textures/illarion/chars/ghost_n-6.png",
+        "client/textures/illarion/chars/ghost_n-7.png"
+      ],
+      "offsetX": 0,
+      "offsetY": -10,
+      "duration": 0.8
+    },
+    "stationary/east": {
+      "textures": ["client/textures/illarion/chars/ghost_e-0.png"],
+      "offsetX": 0,
+      "offsetY": -10
+    },
+    "walk/east": {
+      "textures": [
+        "client/textures/illarion/chars/ghost_e-0.png",
+        "client/textures/illarion/chars/ghost_e-1.png",
+        "client/textures/illarion/chars/ghost_e-2.png",
+        "client/textures/illarion/chars/ghost_e-3.png",
+        "client/textures/illarion/chars/ghost_e-4.png",
+        "client/textures/illarion/chars/ghost_e-5.png",
+        "client/textures/illarion/chars/ghost_e-6.png",
+        "client/textures/illarion/chars/ghost_e-7.png"
+      ],
+      "offsetX": 0,
+      "offsetY": -10,
+      "duration": 0.8
+    },
+    "stationary/south": {
+      "textures": ["client/textures/illarion/chars/ghost_s-0.png"],
+      "offsetX": 0,
+      "offsetY": -10
+    },
+    "walk/south": {
+      "textures": [
+        "client/textures/illarion/chars/ghost_s-0.png",
+        "client/textures/illarion/chars/ghost_s-1.png",
+        "client/textures/illarion/chars/ghost_s-2.png",
+        "client/textures/illarion/chars/ghost_s-3.png",
+        "client/textures/illarion/chars/ghost_s-4.png",
+        "client/textures/illarion/chars/ghost_s-5.png",
+        "client/textures/illarion/chars/ghost_s-6.png",
+        "client/textures/illarion/chars/ghost_s-7.png"
+      ],
+      "offsetX": 0,
+      "offsetY": -10,
+      "duration": 0.8
+    },
+    "stationary/west": {
+      "textures": ["client/textures/illarion/chars/ghost_w-0.png"],
+      "offsetX": 0,
+      "offsetY": -10
+    },
+    "walk/west": {
+      "textures": [
+        "client/textures/illarion/chars/ghost_w-0.png",
+        "client/textures/illarion/chars/ghost_w-1.png",
+        "client/textures/illarion/chars/ghost_w-2.png",
+        "client/textures/illarion/chars/ghost_w-3.png",
+        "client/textures/illarion/chars/ghost_w-4.png",
+        "client/textures/illarion/chars/ghost_w-5.png",
+        "client/textures/illarion/chars/ghost_w-6.png",
+        "client/textures/illarion/chars/ghost_w-7.png"
+      ],
+      "offsetX": 0,
+      "offsetY": -10,
+      "duration": 0.8
+    }
+  }
+}
