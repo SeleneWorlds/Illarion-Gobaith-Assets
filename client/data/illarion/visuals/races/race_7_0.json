@@ -9,14 +9,14 @@
   "animations": {
     "stationary/north": {
       "textures": [
-        "client/textures/illarion/chars/healer-0.png"
+        "client/textures/illarion/chars/healer.png"
       ],
       "offsetX": 0,
       "offsetY": -10
     },
     "walk/north": {
       "textures": [
-        "client/textures/illarion/chars/healer-0.png"
+        "client/textures/illarion/chars/healer.png"
       ],
       "offsetX": 0,
       "offsetY": -10,
