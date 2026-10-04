@@ -1,4 +1,5 @@
 {
+  "occlusionFade": false,
   "type": "simple",
   "offsetX": 0,
   "offsetY": -18,
