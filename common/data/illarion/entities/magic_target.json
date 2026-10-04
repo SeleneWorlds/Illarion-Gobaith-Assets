@@ -1,0 +1,8 @@
+{
+  "components": {
+    "illarion:visual": {
+      "type": "visual",
+      "visual": "illarion:magic_target"
+    }
+  }
+}

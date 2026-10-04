@@ -1,0 +1,15 @@
+{
+  "type": "animated",
+  "textures": [
+    "client/textures/illarion/ui/mark_magic-0.png",
+    "client/textures/illarion/ui/mark_magic-1.png",
+    "client/textures/illarion/ui/mark_magic-2.png",
+    "client/textures/illarion/ui/mark_magic-3.png",
+    "client/textures/illarion/ui/mark_magic-4.png",
+    "client/textures/illarion/ui/mark_magic-5.png"
+  ],
+  "duration": 0.6,
+  "offsetX": 0,
+  "offsetY": -28,
+  "sortLayerOffset": 301
+}
