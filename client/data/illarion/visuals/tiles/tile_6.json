@@ -1,4 +1,5 @@
 {
+  "occlusionFade": false,
   "type": "animated",
   "offsetX": 0,
   "offsetY": -18,
