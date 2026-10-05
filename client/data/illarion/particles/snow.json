@@ -1,0 +1,39 @@
+{
+  "texture": "client/textures/illarion/particles/snow.png",
+  "lifetime": {
+    "min": 8.0,
+    "max": 12.0
+  },
+  "frequency": 0.006,
+  "maxParticles": 2000,
+  "speed": {
+    "start": 90,
+    "end": 65
+  },
+  "speedMinimumMultiplier": 0.65,
+  "scale": {
+    "start": 1.0,
+    "end": 0.7
+  },
+  "scaleMinimumMultiplier": 0.6,
+  "alpha": {
+    "start": 0.9,
+    "end": 0.25
+  },
+  "color": {
+    "start": "#ffffff",
+    "end": "#d7efff"
+  },
+  "angle": {
+    "min": -110,
+    "max": -70
+  },
+  "rotation": {
+    "min": 0,
+    "max": 360
+  },
+  "spawn": {
+    "type": "point"
+  },
+  "additive": false
+}
