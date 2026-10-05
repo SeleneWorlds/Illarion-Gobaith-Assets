@@ -1,5 +1,5 @@
 {
-  "texture": "client/textures/illarion/particles/rain.png",
+  "texture": "client/textures/illarion/ui/rain.png",
   "lifetime": {
     "min": 1.2,
     "max": 1.8

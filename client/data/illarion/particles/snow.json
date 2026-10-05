@@ -1,5 +1,5 @@
 {
-  "texture": "client/textures/illarion/particles/snow.png",
+  "texture": "client/textures/illarion/ui/snowflake.png",
   "lifetime": {
     "min": 8.0,
     "max": 12.0
