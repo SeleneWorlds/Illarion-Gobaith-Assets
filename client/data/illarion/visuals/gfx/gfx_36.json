@@ -2,7 +2,7 @@
   "type": "animated",
   "sortLayerOffset": 302,
   "offsetX": -1,
-  "offsetY": -72,
+  "offsetY": -13,
   "textures": [
     "client/textures/illarion/effects/flamestrike-0.png",
     "client/textures/illarion/effects/flamestrike-1.png",

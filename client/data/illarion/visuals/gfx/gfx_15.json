@@ -2,7 +2,7 @@
   "type": "animated",
   "sortLayerOffset": 302,
   "offsetX": 27,
-  "offsetY": -42,
+  "offsetY": 14,
   "textures": [
     "client/textures/illarion/effects/bow-0.png",
     "client/textures/illarion/effects/bow-1.png",

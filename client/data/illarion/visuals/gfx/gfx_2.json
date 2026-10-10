@@ -2,7 +2,7 @@
   "type": "animated",
   "sortLayerOffset": 302,
   "offsetX": 5,
-  "offsetY": -108,
+  "offsetY": -42,
   "textures": [
     "client/textures/illarion/effects/blitz-0.png",
     "client/textures/illarion/effects/blitz-1.png",

@@ -2,7 +2,7 @@
   "type": "animated",
   "sortLayerOffset": 302,
   "offsetX": 19,
-  "offsetY": -9,
+  "offsetY": -20,
   "textures": [
     "client/textures/illarion/effects/blood-0.png",
     "client/textures/illarion/effects/blood-1.png",

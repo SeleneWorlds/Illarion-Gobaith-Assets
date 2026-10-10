@@ -2,7 +2,7 @@
   "type": "animated",
   "sortLayerOffset": 302,
   "offsetX": -10,
-  "offsetY": -37,
+  "offsetY": -61,
   "textures": [
     "client/textures/illarion/effects/spell-0.png",
     "client/textures/illarion/effects/spell-1.png",

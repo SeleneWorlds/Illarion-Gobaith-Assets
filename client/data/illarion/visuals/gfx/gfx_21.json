@@ -2,7 +2,7 @@
   "type": "animated",
   "sortLayerOffset": 302,
   "offsetX": 0,
-  "offsetY": -17,
+  "offsetY": -5,
   "textures": [
     "client/textures/illarion/effects/claw-0.png",
     "client/textures/illarion/effects/claw-1.png",

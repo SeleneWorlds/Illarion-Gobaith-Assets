@@ -2,7 +2,7 @@
   "type": "animated",
   "sortLayerOffset": 302,
   "offsetX": 5,
-  "offsetY": -102,
+  "offsetY": -13,
   "textures": [
     "client/textures/illarion/effects/wind-0.png",
     "client/textures/illarion/effects/wind-1.png",

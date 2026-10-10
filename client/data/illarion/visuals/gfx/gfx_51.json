@@ -2,7 +2,7 @@
   "type": "animated",
   "sortLayerOffset": 302,
   "offsetX": -6,
-  "offsetY": -62,
+  "offsetY": -50,
   "textures": [
     "client/textures/illarion/effects/violett-0.png",
     "client/textures/illarion/effects/violett-1.png",

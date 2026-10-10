@@ -2,7 +2,7 @@
   "type": "animated",
   "sortLayerOffset": 302,
   "offsetX": 2,
-  "offsetY": -13,
+  "offsetY": -38,
   "textures": [
     "client/textures/illarion/effects/fireball-0.png",
     "client/textures/illarion/effects/fireball-1.png",

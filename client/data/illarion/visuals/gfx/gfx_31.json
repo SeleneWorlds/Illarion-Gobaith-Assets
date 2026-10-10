@@ -2,7 +2,7 @@
   "type": "animated",
   "sortLayerOffset": 302,
   "offsetX": 4,
-  "offsetY": -20,
+  "offsetY": -37,
   "textures": [
     "client/textures/illarion/effects/glowing-0.png",
     "client/textures/illarion/effects/glowing-1.png",

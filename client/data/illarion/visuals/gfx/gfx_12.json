@@ -2,7 +2,7 @@
   "type": "animated",
   "sortLayerOffset": 302,
   "offsetX": 3,
-  "offsetY": -12,
+  "offsetY": -32,
   "textures": [
     "client/textures/illarion/effects/fizzle-0.png",
     "client/textures/illarion/effects/fizzle-1.png",

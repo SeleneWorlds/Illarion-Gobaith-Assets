@@ -2,7 +2,7 @@
   "type": "animated",
   "sortLayerOffset": 302,
   "offsetX": 2,
-  "offsetY": -12,
+  "offsetY": -30,
   "textures": [
     "client/textures/illarion/effects/giftwolke-0.png",
     "client/textures/illarion/effects/giftwolke-1.png",

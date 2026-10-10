@@ -2,7 +2,7 @@
   "type": "animated",
   "sortLayerOffset": 302,
   "offsetX": 12,
-  "offsetY": 5,
+  "offsetY": -102,
   "textures": [
     "client/textures/illarion/effects/splash-0.png",
     "client/textures/illarion/effects/splash-1.png",

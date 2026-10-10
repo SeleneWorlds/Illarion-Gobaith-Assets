@@ -2,7 +2,7 @@
   "type": "animated",
   "sortLayerOffset": 302,
   "offsetX": 4,
-  "offsetY": -10,
+  "offsetY": -41,
   "textures": [
     "client/textures/illarion/effects/elffire-0.png",
     "client/textures/illarion/effects/elffire-1.png",

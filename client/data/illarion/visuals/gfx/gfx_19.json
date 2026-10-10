@@ -2,7 +2,7 @@
   "type": "animated",
   "sortLayerOffset": 302,
   "offsetX": 9,
-  "offsetY": -17,
+  "offsetY": -15,
   "textures": [
     "client/textures/illarion/effects/mace-0.png",
     "client/textures/illarion/effects/mace-1.png",

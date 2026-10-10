@@ -2,7 +2,7 @@
   "type": "animated",
   "sortLayerOffset": 302,
   "offsetX": 0,
-  "offsetY": -19,
+  "offsetY": -8,
   "textures": [
     "client/textures/illarion/effects/boxing-0.png",
     "client/textures/illarion/effects/boxing-1.png",

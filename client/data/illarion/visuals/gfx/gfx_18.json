@@ -2,7 +2,7 @@
   "type": "animated",
   "sortLayerOffset": 302,
   "offsetX": -7,
-  "offsetY": -38,
+  "offsetY": 10,
   "textures": [
     "client/textures/illarion/effects/shield-0.png",
     "client/textures/illarion/effects/shield-1.png",

@@ -2,7 +2,7 @@
   "type": "animated",
   "sortLayerOffset": 302,
   "offsetX": 0,
-  "offsetY": -55,
+  "offsetY": -31,
   "textures": [
     "client/textures/illarion/effects/scotty-0.png",
     "client/textures/illarion/effects/scotty-1.png",
