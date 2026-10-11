@@ -1,4 +1,5 @@
 {
+  "occlusionFade": false,
   "type": "simple",
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
