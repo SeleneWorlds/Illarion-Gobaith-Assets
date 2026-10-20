@@ -1,26 +1,7 @@
 {
-  "type": "animator",
-  "animator": "humanoid",
-  "sortLayerOffset": 301,
-  "metadata": {
-    "raceId": 7,
-    "typeId": 0
-  },
-  "animations": {
-    "stationary/north": {
-      "textures": [
-        "client/textures/illarion/chars/healer.png"
-      ],
-      "offsetX": 0,
-      "offsetY": -10
-    },
-    "walk/north": {
-      "textures": [
-        "client/textures/illarion/chars/healer.png"
-      ],
-      "offsetX": 0,
-      "offsetY": -10,
-      "duration": 0.1
-    }
-  }
+  "type": "simple",
+  "sortLayerOffset": 300,
+  "offsetX": 0,
+  "offsetY": -23,
+  "texture": "client/textures/illarion/chars/race_7_0.png"
 }
