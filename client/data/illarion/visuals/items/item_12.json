@@ -1,5 +1,12 @@
 {
   "type": "simple",
+  "light": {
+    "radius": 4,
+    "intensity": 1,
+    "red": 1,
+    "green": 0.6,
+    "blue": 0.25
+  },
   "sortLayerOffset": 300,
   "offsetX": 0,
   "offsetY": -14,
