@@ -4,5 +4,5 @@
   "visual": "races/race_1_0",
   "animations": ["Idle", "Walk"],
   "directions": ["north", "east", "south", "west"],
-  "scale": 0.35
+  "scale": 0.5
 }
