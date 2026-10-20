@@ -1,4 +1,6 @@
 {
   "type": "simple",
-  "texture": "client/textures/illarion/ui/cursor_magic.png"
+  "texture": "client/textures/illarion/ui/cursor_magic.png",
+  "offsetX": -9,
+  "offsetY": -8
 }

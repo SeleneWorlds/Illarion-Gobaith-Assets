@@ -4,5 +4,7 @@
     "client/textures/illarion/ui/cursor_use-0.png",
     "client/textures/illarion/ui/cursor_use-1.png"
   ],
-  "duration": 0.3
+  "duration": 0.3,
+  "offsetX": -8,
+  "offsetY": -5
 }
