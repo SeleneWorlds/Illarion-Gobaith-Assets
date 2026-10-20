@@ -479,13 +479,23 @@ def ensure_lighting(
     elevation: float,
     strength: float,
     ambient_strength: float,
-) -> None:
+) -> list[RenderVisibilityState]:
     collection = ensure_rig_collection(scene)
     sun_object = ensure_light_object(collection, SUN_LIGHT_NAME, "SUN")
+    # Model-authored lights must not add to the shared sprite lighting rig.
+    light_visibility = [
+        RenderVisibilityState(obj.name, obj.hide_render)
+        for obj in scene.objects
+        if obj.type == "LIGHT"
+    ]
+    for obj in scene.objects:
+        if obj.type == "LIGHT":
+            obj.hide_render = obj != sun_object
     sun_object.rotation_mode = "XYZ"
     sun_object.rotation_euler = Euler(
         (
-            math.radians(max(min(elevation, 89.0), -89.0)),
+            # A sun shines along local -Z; zero tilt points straight down.
+            math.radians(90.0 - max(min(elevation, 89.0), -89.0)),
             0.0,
             math.radians(azimuth),
         ),
@@ -506,6 +516,7 @@ def ensure_lighting(
     if background is not None:
         background.inputs["Color"].default_value = (0.04, 0.04, 0.05, 1.0)
         background.inputs["Strength"].default_value = ambient_strength
+    return light_visibility
 
 
 def resolve_render_engine(scene: bpy.types.Scene, requested_engine: str) -> str:
@@ -1110,7 +1121,7 @@ def main() -> None:
     scene = bpy.context.scene
     source_fps = scene.render.fps
     configure_scene(scene, args)
-    ensure_lighting(
+    light_visibility = ensure_lighting(
         scene,
         args.light_azimuth,
         args.light_elevation,
@@ -1192,6 +1203,7 @@ def main() -> None:
         ) = original_border_settings
         restore_material_overrides(material_states)
         cleanup_loaded_images(loaded_image_names)
+        restore_object_visibility(light_visibility)
         restore_object_visibility(visibility_states)
         for obj in rotation_targets:
             restore_object_state(obj, base_states[obj.name])
