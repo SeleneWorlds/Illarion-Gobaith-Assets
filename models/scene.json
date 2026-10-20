@@ -6,7 +6,7 @@
   "lighting": {
     "azimuth": 315,
     "elevation": 20,
-    "strength": 10,
-    "ambientStrength": 10
+    "strength": 3,
+    "ambientStrength": 5
   }
 }
