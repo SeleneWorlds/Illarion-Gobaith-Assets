@@ -3,33 +3,29 @@
   "animator": "humanoid",
   "sortLayerOffset": 301,
   "animations": {
-    "stationary/north": {
+    "idle/east": {
       "textures": [
-        "client/textures/illarion/chars/race_39_0/Idle/north/0009.png"
+        "client/textures/illarion/chars/race_39_0/Idle/east/0001.png",
+        "client/textures/illarion/chars/race_39_0/Idle/east/0002.png",
+        "client/textures/illarion/chars/race_39_0/Idle/east/0003.png",
+        "client/textures/illarion/chars/race_39_0/Idle/east/0004.png",
+        "client/textures/illarion/chars/race_39_0/Idle/east/0005.png",
+        "client/textures/illarion/chars/race_39_0/Idle/east/0006.png",
+        "client/textures/illarion/chars/race_39_0/Idle/east/0007.png",
+        "client/textures/illarion/chars/race_39_0/Idle/east/0008.png",
+        "client/textures/illarion/chars/race_39_0/Idle/east/0009.png",
+        "client/textures/illarion/chars/race_39_0/Idle/east/0010.png",
+        "client/textures/illarion/chars/race_39_0/Idle/east/0011.png",
+        "client/textures/illarion/chars/race_39_0/Idle/east/0012.png",
+        "client/textures/illarion/chars/race_39_0/Idle/east/0013.png",
+        "client/textures/illarion/chars/race_39_0/Idle/east/0014.png",
+        "client/textures/illarion/chars/race_39_0/Idle/east/0015.png",
+        "client/textures/illarion/chars/race_39_0/Idle/east/0016.png",
+        "client/textures/illarion/chars/race_39_0/Idle/east/0017.png"
       ],
-      "offsetX": -12,
-      "offsetY": -51
-    },
-    "stationary/east": {
-      "textures": [
-        "client/textures/illarion/chars/race_39_0/Idle/east/0009.png"
-      ],
-      "offsetX": 12,
-      "offsetY": -51
-    },
-    "stationary/south": {
-      "textures": [
-        "client/textures/illarion/chars/race_39_0/Idle/south/0009.png"
-      ],
-      "offsetX": 12,
-      "offsetY": -37
-    },
-    "stationary/west": {
-      "textures": [
-        "client/textures/illarion/chars/race_39_0/Idle/west/0009.png"
-      ],
-      "offsetX": -12,
-      "offsetY": -37
+      "offsetX": -6,
+      "offsetY": -8,
+      "duration": 1.1333333333333333
     },
     "idle/north": {
       "textures": [
@@ -51,33 +47,9 @@
         "client/textures/illarion/chars/race_39_0/Idle/north/0016.png",
         "client/textures/illarion/chars/race_39_0/Idle/north/0017.png"
       ],
-      "offsetX": -12,
-      "offsetY": -51,
-      "duration": 1.7000000000000002
-    },
-    "idle/east": {
-      "textures": [
-        "client/textures/illarion/chars/race_39_0/Idle/east/0001.png",
-        "client/textures/illarion/chars/race_39_0/Idle/east/0002.png",
-        "client/textures/illarion/chars/race_39_0/Idle/east/0003.png",
-        "client/textures/illarion/chars/race_39_0/Idle/east/0004.png",
-        "client/textures/illarion/chars/race_39_0/Idle/east/0005.png",
-        "client/textures/illarion/chars/race_39_0/Idle/east/0006.png",
-        "client/textures/illarion/chars/race_39_0/Idle/east/0007.png",
-        "client/textures/illarion/chars/race_39_0/Idle/east/0008.png",
-        "client/textures/illarion/chars/race_39_0/Idle/east/0009.png",
-        "client/textures/illarion/chars/race_39_0/Idle/east/0010.png",
-        "client/textures/illarion/chars/race_39_0/Idle/east/0011.png",
-        "client/textures/illarion/chars/race_39_0/Idle/east/0012.png",
-        "client/textures/illarion/chars/race_39_0/Idle/east/0013.png",
-        "client/textures/illarion/chars/race_39_0/Idle/east/0014.png",
-        "client/textures/illarion/chars/race_39_0/Idle/east/0015.png",
-        "client/textures/illarion/chars/race_39_0/Idle/east/0016.png",
-        "client/textures/illarion/chars/race_39_0/Idle/east/0017.png"
-      ],
-      "offsetX": 12,
-      "offsetY": -51,
-      "duration": 1.7000000000000002
+      "offsetX": 6,
+      "offsetY": -8,
+      "duration": 1.1333333333333333
     },
     "idle/south": {
       "textures": [
@@ -99,9 +71,9 @@
         "client/textures/illarion/chars/race_39_0/Idle/south/0016.png",
         "client/textures/illarion/chars/race_39_0/Idle/south/0017.png"
       ],
-      "offsetX": 12,
-      "offsetY": -37,
-      "duration": 1.7000000000000002
+      "offsetX": -6,
+      "offsetY": -9,
+      "duration": 1.1333333333333333
     },
     "idle/west": {
       "textures": [
@@ -123,29 +95,9 @@
         "client/textures/illarion/chars/race_39_0/Idle/west/0016.png",
         "client/textures/illarion/chars/race_39_0/Idle/west/0017.png"
       ],
-      "offsetX": -12,
-      "offsetY": -37,
-      "duration": 1.7000000000000002
-    },
-    "walk/north": {
-      "textures": [
-        "client/textures/illarion/chars/race_39_0/Walk/north/0001.png",
-        "client/textures/illarion/chars/race_39_0/Walk/north/0002.png",
-        "client/textures/illarion/chars/race_39_0/Walk/north/0003.png",
-        "client/textures/illarion/chars/race_39_0/Walk/north/0004.png",
-        "client/textures/illarion/chars/race_39_0/Walk/north/0005.png",
-        "client/textures/illarion/chars/race_39_0/Walk/north/0006.png",
-        "client/textures/illarion/chars/race_39_0/Walk/north/0007.png",
-        "client/textures/illarion/chars/race_39_0/Walk/north/0008.png",
-        "client/textures/illarion/chars/race_39_0/Walk/north/0009.png",
-        "client/textures/illarion/chars/race_39_0/Walk/north/0010.png",
-        "client/textures/illarion/chars/race_39_0/Walk/north/0011.png",
-        "client/textures/illarion/chars/race_39_0/Walk/north/0012.png",
-        "client/textures/illarion/chars/race_39_0/Walk/north/0013.png"
-      ],
-      "offsetX": -10,
-      "offsetY": -54,
-      "duration": 1.3
+      "offsetX": 6,
+      "offsetY": -9,
+      "duration": 1.1333333333333333
     },
     "walk/east": {
       "textures": [
@@ -163,9 +115,29 @@
         "client/textures/illarion/chars/race_39_0/Walk/east/0012.png",
         "client/textures/illarion/chars/race_39_0/Walk/east/0013.png"
       ],
-      "offsetX": 10,
-      "offsetY": -54,
-      "duration": 1.3
+      "offsetX": -4,
+      "offsetY": -12,
+      "duration": 0.8666666666666667
+    },
+    "walk/north": {
+      "textures": [
+        "client/textures/illarion/chars/race_39_0/Walk/north/0001.png",
+        "client/textures/illarion/chars/race_39_0/Walk/north/0002.png",
+        "client/textures/illarion/chars/race_39_0/Walk/north/0003.png",
+        "client/textures/illarion/chars/race_39_0/Walk/north/0004.png",
+        "client/textures/illarion/chars/race_39_0/Walk/north/0005.png",
+        "client/textures/illarion/chars/race_39_0/Walk/north/0006.png",
+        "client/textures/illarion/chars/race_39_0/Walk/north/0007.png",
+        "client/textures/illarion/chars/race_39_0/Walk/north/0008.png",
+        "client/textures/illarion/chars/race_39_0/Walk/north/0009.png",
+        "client/textures/illarion/chars/race_39_0/Walk/north/0010.png",
+        "client/textures/illarion/chars/race_39_0/Walk/north/0011.png",
+        "client/textures/illarion/chars/race_39_0/Walk/north/0012.png",
+        "client/textures/illarion/chars/race_39_0/Walk/north/0013.png"
+      ],
+      "offsetX": 4,
+      "offsetY": -11,
+      "duration": 0.8666666666666667
     },
     "walk/south": {
       "textures": [
@@ -183,9 +155,9 @@
         "client/textures/illarion/chars/race_39_0/Walk/south/0012.png",
         "client/textures/illarion/chars/race_39_0/Walk/south/0013.png"
       ],
-      "offsetX": 10,
-      "offsetY": -42,
-      "duration": 1.3
+      "offsetX": -4,
+      "offsetY": -12,
+      "duration": 0.8666666666666667
     },
     "walk/west": {
       "textures": [
@@ -203,9 +175,37 @@
         "client/textures/illarion/chars/race_39_0/Walk/west/0012.png",
         "client/textures/illarion/chars/race_39_0/Walk/west/0013.png"
       ],
-      "offsetX": -10,
-      "offsetY": -42,
-      "duration": 1.3
+      "offsetX": 4,
+      "offsetY": -13,
+      "duration": 0.8666666666666667
+    },
+    "stationary/north": {
+      "textures": [
+        "client/textures/illarion/chars/race_39_0/Idle/north/0001.png"
+      ],
+      "offsetX": 6,
+      "offsetY": -8
+    },
+    "stationary/east": {
+      "textures": [
+        "client/textures/illarion/chars/race_39_0/Idle/east/0001.png"
+      ],
+      "offsetX": -6,
+      "offsetY": -8
+    },
+    "stationary/south": {
+      "textures": [
+        "client/textures/illarion/chars/race_39_0/Idle/south/0001.png"
+      ],
+      "offsetX": -6,
+      "offsetY": -9
+    },
+    "stationary/west": {
+      "textures": [
+        "client/textures/illarion/chars/race_39_0/Idle/west/0001.png"
+      ],
+      "offsetX": 6,
+      "offsetY": -9
     }
   }
 }
