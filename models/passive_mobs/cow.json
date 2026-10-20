@@ -2,5 +2,6 @@
   "sprites": "illarion/chars/race_37_0",
   "visual": "races/race_37_0",
   "animations": ["Idle", "Walk"],
-  "directions": ["north", "east", "south", "west"]
+  "directions": ["north", "east", "south", "west"],
+  "scale": 0.15
 }

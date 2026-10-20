@@ -553,6 +553,18 @@ def build_visual_json(
                 "texture": textures[0],
             }
 
+    # Static models with multiple directions still use the humanoid animator,
+    # which requests stationary and walk states rather than static states.
+    for direction in DEFAULT_DIRECTIONS:
+        static_entry = normalized_entries.get(f"static/{direction}")
+        if static_entry is None:
+            continue
+        normalized_entries.setdefault(f"stationary/{direction}", dict(static_entry))
+        normalized_entries.setdefault(
+            f"walk/{direction}",
+            {**static_entry, "duration": len(static_entry["textures"]) / fps},
+        )
+
     return {
         "type": "animator",
         "animator": "humanoid",

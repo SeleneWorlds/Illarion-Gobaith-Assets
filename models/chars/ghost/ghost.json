@@ -1,0 +1,7 @@
+{
+  "model": "ghost.blend",
+  "sprites": "illarion/chars/race_13_0",
+  "visual": "races/race_13_0",
+  "directions": ["north", "east", "south", "west"],
+  "scale": 0.5
+}
