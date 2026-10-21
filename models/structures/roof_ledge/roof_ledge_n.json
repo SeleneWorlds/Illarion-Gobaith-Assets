@@ -3,7 +3,7 @@
   "sprites": "illarion/items/item_433",
   "visual": "items/item_433",
   "direction": "north",
-  "offsetX": 32,
-  "offsetY": -22,
+  "offsetX": 54,
+  "offsetY": -38,
   "scale": 1
 }

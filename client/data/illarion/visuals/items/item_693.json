@@ -7,24 +7,24 @@
       "textures": [
         "client/textures/illarion/items/item_693/ArmatureAction.001/west/0001.png"
       ],
-      "offsetX": -57,
-      "offsetY": -35,
+      "offsetX": -96,
+      "offsetY": -61,
       "duration": 0.06666666666666667
     },
     "armatureaction.002/west": {
       "textures": [
         "client/textures/illarion/items/item_693/ArmatureAction.002/west/0001.png"
       ],
-      "offsetX": -57,
-      "offsetY": -35,
+      "offsetX": -96,
+      "offsetY": -61,
       "duration": 0.06666666666666667
     },
     "armatureaction/west": {
       "textures": [
         "client/textures/illarion/items/item_693/ArmatureAction/west/0001.png"
       ],
-      "offsetX": -57,
-      "offsetY": -35,
+      "offsetX": -96,
+      "offsetY": -61,
       "duration": 0.06666666666666667
     }
   }

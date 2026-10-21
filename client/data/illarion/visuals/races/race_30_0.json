@@ -11,8 +11,8 @@
       "textures": [
         "client/textures/illarion/chars/golem_n-0.png"
       ],
-      "offsetX": -2,
-      "offsetY": -22
+      "offsetX": -3,
+      "offsetY": -38
     },
     "walk/north": {
       "textures": [
@@ -21,16 +21,16 @@
         "client/textures/illarion/chars/golem_n-2.png",
         "client/textures/illarion/chars/golem_n-3.png"
       ],
-      "offsetX": -2,
-      "offsetY": -22,
+      "offsetX": -3,
+      "offsetY": -38,
       "duration": 0.4
     },
     "stationary/east": {
       "textures": [
         "client/textures/illarion/chars/golem_e-2.png"
       ],
-      "offsetX": -2,
-      "offsetY": -19
+      "offsetX": -3,
+      "offsetY": -33
     },
     "walk/east": {
       "textures": [
@@ -39,16 +39,16 @@
         "client/textures/illarion/chars/golem_e-2.png",
         "client/textures/illarion/chars/golem_e-3.png"
       ],
-      "offsetX": -2,
-      "offsetY": -19,
+      "offsetX": -3,
+      "offsetY": -33,
       "duration": 0.4
     },
     "stationary/south": {
       "textures": [
         "client/textures/illarion/chars/golem_s-2.png"
       ],
-      "offsetX": -1,
-      "offsetY": -16
+      "offsetX": -2,
+      "offsetY": -28
     },
     "walk/south": {
       "textures": [
@@ -57,8 +57,8 @@
         "client/textures/illarion/chars/golem_s-2.png",
         "client/textures/illarion/chars/golem_s-3.png"
       ],
-      "offsetX": -1,
-      "offsetY": -16,
+      "offsetX": -2,
+      "offsetY": -28,
       "duration": 0.4
     },
     "stationary/west": {
@@ -66,7 +66,7 @@
         "client/textures/illarion/chars/golem_W-2.png"
       ],
       "offsetX": 0,
-      "offsetY": -14
+      "offsetY": -24
     },
     "walk/west": {
       "textures": [
@@ -76,7 +76,7 @@
         "client/textures/illarion/chars/golem_W-3.png"
       ],
       "offsetX": 0,
-      "offsetY": -14,
+      "offsetY": -24,
       "duration": 0.4
     }
   }

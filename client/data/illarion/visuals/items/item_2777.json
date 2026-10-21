@@ -3,7 +3,7 @@
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
   "offsetX": 0,
-  "offsetY": -6,
+  "offsetY": -10,
   "texture": "client/textures/illarion/items/sword.png",
   "metadata": {
     "itemId": 2777

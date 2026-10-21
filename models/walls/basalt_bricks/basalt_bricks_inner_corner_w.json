@@ -2,8 +2,8 @@
   "model": "../wall_column.blend",
   "sprites": "illarion/items/item_722",
   "visual": "items/item_722",
-  "offsetX": -26,
-  "offsetY": -4,
+  "offsetX": -44,
+  "offsetY": -7,
   "materials": {
     "Wall": {
       "Diffuse": "diffuse.jpg",

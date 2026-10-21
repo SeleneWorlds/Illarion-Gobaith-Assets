@@ -2,8 +2,8 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
-  "offsetX": 2,
-  "offsetY": -2,
+  "offsetX": 3,
+  "offsetY": -3,
   "texture": "client/textures/illarion/items/ruby_uncut.png",
   "metadata": {
     "itemId": 255

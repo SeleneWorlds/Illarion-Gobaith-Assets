@@ -1,8 +1,8 @@
 {
   "type": "animated",
   "sortLayerOffset": 302,
-  "offsetX": 5,
-  "offsetY": 20,
+  "offsetX": 8,
+  "offsetY": 35,
   "textures": [
     "client/textures/illarion/effects/dagger-0.png",
     "client/textures/illarion/effects/dagger-1.png",

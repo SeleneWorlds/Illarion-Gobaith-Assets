@@ -11,8 +11,8 @@
       "textures": [
         "client/textures/illarion/chars/forresttroll_n-4.png"
       ],
-      "offsetX": -2,
-      "offsetY": -12
+      "offsetX": -3,
+      "offsetY": -21
     },
     "walk/north": {
       "textures": [
@@ -25,16 +25,16 @@
         "client/textures/illarion/chars/forresttroll_n-6.png",
         "client/textures/illarion/chars/forresttroll_n-7.png"
       ],
-      "offsetX": -2,
-      "offsetY": -12,
+      "offsetX": -3,
+      "offsetY": -21,
       "duration": 0.8
     },
     "stationary/east": {
       "textures": [
         "client/textures/illarion/chars/forresttroll_e-3.png"
       ],
-      "offsetX": 3,
-      "offsetY": -12
+      "offsetX": 5,
+      "offsetY": -21
     },
     "walk/east": {
       "textures": [
@@ -47,16 +47,16 @@
         "client/textures/illarion/chars/forresttroll_e-6.png",
         "client/textures/illarion/chars/forresttroll_e-7.png"
       ],
-      "offsetX": 3,
-      "offsetY": -12,
+      "offsetX": 5,
+      "offsetY": -21,
       "duration": 0.8
     },
     "stationary/south": {
       "textures": [
         "client/textures/illarion/chars/forresttroll_s-4.png"
       ],
-      "offsetX": 3,
-      "offsetY": -12
+      "offsetX": 5,
+      "offsetY": -21
     },
     "walk/south": {
       "textures": [
@@ -69,16 +69,16 @@
         "client/textures/illarion/chars/forresttroll_s-6.png",
         "client/textures/illarion/chars/forresttroll_s-7.png"
       ],
-      "offsetX": 3,
-      "offsetY": -12,
+      "offsetX": 5,
+      "offsetY": -21,
       "duration": 0.8
     },
     "stationary/west": {
       "textures": [
         "client/textures/illarion/chars/forresttroll_w-3.png"
       ],
-      "offsetX": -2,
-      "offsetY": -11
+      "offsetX": -3,
+      "offsetY": -19
     },
     "walk/west": {
       "textures": [
@@ -91,8 +91,8 @@
         "client/textures/illarion/chars/forresttroll_w-6.png",
         "client/textures/illarion/chars/forresttroll_w-7.png"
       ],
-      "offsetX": -2,
-      "offsetY": -11,
+      "offsetX": -3,
+      "offsetY": -19,
       "duration": 0.8
     }
   }

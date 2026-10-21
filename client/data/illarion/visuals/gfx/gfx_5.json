@@ -1,8 +1,8 @@
 {
   "type": "animated",
   "sortLayerOffset": 302,
-  "offsetX": 7,
-  "offsetY": -8,
+  "offsetX": 12,
+  "offsetY": -14,
   "textures": [
     "client/textures/illarion/effects/demfire-0.png",
     "client/textures/illarion/effects/demfire-1.png",

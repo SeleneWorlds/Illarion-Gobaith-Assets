@@ -3,7 +3,7 @@
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
   "offsetX": 0,
-  "offsetY": -11,
+  "offsetY": -19,
   "texture": "client/textures/illarion/items/gloves_plate.png",
   "metadata": {
     "itemId": 530

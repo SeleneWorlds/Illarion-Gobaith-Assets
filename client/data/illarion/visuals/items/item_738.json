@@ -3,7 +3,7 @@
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
   "offsetX": 0,
-  "offsetY": -14,
+  "offsetY": -24,
   "texture": "client/textures/illarion/items/dragon_egg.png",
   "metadata": {
     "itemId": 738

@@ -11,8 +11,8 @@
       "textures": [
         "client/textures/illarion/chars/beholder_n-2.png"
       ],
-      "offsetX": 5,
-      "offsetY": -26
+      "offsetX": 8,
+      "offsetY": -45
     },
     "walk/north": {
       "textures": [
@@ -20,16 +20,16 @@
         "client/textures/illarion/chars/beholder_n-1.png",
         "client/textures/illarion/chars/beholder_n-2.png"
       ],
-      "offsetX": 5,
-      "offsetY": -26,
+      "offsetX": 8,
+      "offsetY": -45,
       "duration": 0.30000000000000004
     },
     "stationary/east": {
       "textures": [
         "client/textures/illarion/chars/beholder_e-2.png"
       ],
-      "offsetX": -9,
-      "offsetY": -29
+      "offsetX": -15,
+      "offsetY": -50
     },
     "walk/east": {
       "textures": [
@@ -37,16 +37,16 @@
         "client/textures/illarion/chars/beholder_e-1.png",
         "client/textures/illarion/chars/beholder_e-2.png"
       ],
-      "offsetX": -9,
-      "offsetY": -29,
+      "offsetX": -15,
+      "offsetY": -50,
       "duration": 0.30000000000000004
     },
     "stationary/south": {
       "textures": [
         "client/textures/illarion/chars/beholder_s-2.png"
       ],
-      "offsetX": 10,
-      "offsetY": -33
+      "offsetX": 17,
+      "offsetY": -57
     },
     "walk/south": {
       "textures": [
@@ -54,16 +54,16 @@
         "client/textures/illarion/chars/beholder_s-1.png",
         "client/textures/illarion/chars/beholder_s-2.png"
       ],
-      "offsetX": 10,
-      "offsetY": -33,
+      "offsetX": 17,
+      "offsetY": -57,
       "duration": 0.30000000000000004
     },
     "stationary/west": {
       "textures": [
         "client/textures/illarion/chars/beholder_w-2.png"
       ],
-      "offsetX": 7,
-      "offsetY": -23
+      "offsetX": 12,
+      "offsetY": -40
     },
     "walk/west": {
       "textures": [
@@ -71,8 +71,8 @@
         "client/textures/illarion/chars/beholder_w-1.png",
         "client/textures/illarion/chars/beholder_w-2.png"
       ],
-      "offsetX": 7,
-      "offsetY": -23,
+      "offsetX": 12,
+      "offsetY": -40,
       "duration": 0.30000000000000004
     }
   }

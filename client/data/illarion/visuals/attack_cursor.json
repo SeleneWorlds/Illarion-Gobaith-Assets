@@ -2,6 +2,6 @@
   "type": "simple",
   "texture": "client/textures/illarion/ui/mark_fight.png",
   "offsetX": 0,
-  "offsetY": -34,
+  "offsetY": -59,
   "sortLayerOffset": 300
 }

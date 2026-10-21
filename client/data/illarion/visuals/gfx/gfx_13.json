@@ -1,8 +1,8 @@
 {
   "type": "animated",
   "sortLayerOffset": 302,
-  "offsetX": 19,
-  "offsetY": -20,
+  "offsetX": 32,
+  "offsetY": -35,
   "textures": [
     "client/textures/illarion/effects/blood-0.png",
     "client/textures/illarion/effects/blood-1.png",

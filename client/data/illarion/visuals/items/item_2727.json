@@ -2,8 +2,8 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
-  "offsetX": 2,
-  "offsetY": -28,
+  "offsetX": 3,
+  "offsetY": -48,
   "texture": "client/textures/illarion/items/shortbow.png",
   "metadata": {
     "itemId": 2727

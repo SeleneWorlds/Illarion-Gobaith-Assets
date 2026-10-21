@@ -2,8 +2,8 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
-  "offsetX": 2,
-  "offsetY": -12,
+  "offsetX": 3,
+  "offsetY": -21,
   "texture": "client/textures/illarion/items/leggings_leather.png",
   "metadata": {
     "itemId": 366

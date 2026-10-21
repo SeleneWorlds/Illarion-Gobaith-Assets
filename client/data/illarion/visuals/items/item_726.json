@@ -2,8 +2,8 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
-  "offsetX": -5,
-  "offsetY": -11,
+  "offsetX": -8,
+  "offsetY": -19,
   "texture": "client/textures/illarion/items/coarse_sand.png",
   "metadata": {
     "itemId": 726

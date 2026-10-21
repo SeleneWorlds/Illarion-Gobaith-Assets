@@ -2,8 +2,8 @@
   "type": "animated",
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
-  "offsetX": 4,
-  "offsetY": -47,
+  "offsetX": 7,
+  "offsetY": -81,
   "textures": [
     "client/textures/illarion/items/light-0.png",
     "client/textures/illarion/items/light-1.png",

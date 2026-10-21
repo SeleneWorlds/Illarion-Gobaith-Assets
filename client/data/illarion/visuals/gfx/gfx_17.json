@@ -1,8 +1,8 @@
 {
   "type": "animated",
   "sortLayerOffset": 302,
-  "offsetX": 7,
-  "offsetY": 1,
+  "offsetX": 12,
+  "offsetY": 2,
   "textures": [
     "client/textures/illarion/effects/sword-0.png",
     "client/textures/illarion/effects/sword-1.png",

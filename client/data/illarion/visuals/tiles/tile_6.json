@@ -1,8 +1,7 @@
 {
-  "occlusionFade": false,
   "type": "animated",
   "offsetX": 0,
-  "offsetY": -18,
+  "offsetY": -32,
   "textures": [
     "client/textures/illarion/tiles/tile_6-0.png",
     "client/textures/illarion/tiles/tile_6-1.png",
@@ -21,9 +20,10 @@
     "client/textures/illarion/tiles/tile_6-14.png",
     "client/textures/illarion/tiles/tile_6-15.png"
   ],
-  "duration": 12,
+  "duration": 24.75,
   "metadata": {
     "tileId": 6,
     "mapColorIndex": 4
-  }
+  },
+  "occlusionFade": false
 }

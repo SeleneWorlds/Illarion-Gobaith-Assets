@@ -11,8 +11,8 @@
       "textures": [
         "client/textures/illarion/chars/goblin_m_n-3.png"
       ],
-      "offsetX": 2,
-      "offsetY": -13
+      "offsetX": 3,
+      "offsetY": -22
     },
     "walk/north": {
       "textures": [
@@ -25,16 +25,16 @@
         "client/textures/illarion/chars/goblin_m_n-6.png",
         "client/textures/illarion/chars/goblin_m_n-7.png"
       ],
-      "offsetX": 2,
-      "offsetY": -13,
+      "offsetX": 3,
+      "offsetY": -22,
       "duration": 0.8
     },
     "stationary/east": {
       "textures": [
         "client/textures/illarion/chars/goblin_m_e-7.png"
       ],
-      "offsetX": -3,
-      "offsetY": -11
+      "offsetX": -5,
+      "offsetY": -19
     },
     "walk/east": {
       "textures": [
@@ -47,8 +47,8 @@
         "client/textures/illarion/chars/goblin_m_e-6.png",
         "client/textures/illarion/chars/goblin_m_e-7.png"
       ],
-      "offsetX": -3,
-      "offsetY": -11,
+      "offsetX": -5,
+      "offsetY": -19,
       "duration": 0.8
     },
     "stationary/south": {
@@ -56,7 +56,7 @@
         "client/textures/illarion/chars/goblin_m_s-3.png"
       ],
       "offsetX": 0,
-      "offsetY": -9
+      "offsetY": -16
     },
     "walk/south": {
       "textures": [
@@ -70,15 +70,15 @@
         "client/textures/illarion/chars/goblin_m_s-7.png"
       ],
       "offsetX": 0,
-      "offsetY": -9,
+      "offsetY": -16,
       "duration": 0.8
     },
     "stationary/west": {
       "textures": [
         "client/textures/illarion/chars/goblin_m_w-7.png"
       ],
-      "offsetX": 1,
-      "offsetY": -11
+      "offsetX": 2,
+      "offsetY": -19
     },
     "walk/west": {
       "textures": [
@@ -91,8 +91,8 @@
         "client/textures/illarion/chars/goblin_m_w-6.png",
         "client/textures/illarion/chars/goblin_m_w-7.png"
       ],
-      "offsetX": 1,
-      "offsetY": -11,
+      "offsetX": 2,
+      "offsetY": -19,
       "duration": 0.8
     }
   }

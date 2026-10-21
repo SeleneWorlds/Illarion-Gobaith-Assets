@@ -2,8 +2,8 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
-  "offsetX": -4,
-  "offsetY": -10,
+  "offsetX": -7,
+  "offsetY": -17,
   "texture": "client/textures/illarion/items/pincers.png",
   "metadata": {
     "itemId": 2749

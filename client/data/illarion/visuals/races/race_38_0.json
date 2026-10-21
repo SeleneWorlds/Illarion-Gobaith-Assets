@@ -11,8 +11,8 @@
       "textures": [
         "client/textures/illarion/chars/drow_f_n-3.png"
       ],
-      "offsetX": -1,
-      "offsetY": -13
+      "offsetX": -2,
+      "offsetY": -22
     },
     "walk/north": {
       "textures": [
@@ -25,16 +25,16 @@
         "client/textures/illarion/chars/drow_f_n-6.png",
         "client/textures/illarion/chars/drow_f_n-7.png"
       ],
-      "offsetX": -1,
-      "offsetY": -13,
+      "offsetX": -2,
+      "offsetY": -22,
       "duration": 0.8
     },
     "stationary/east": {
       "textures": [
         "client/textures/illarion/chars/drow_f_e-2.png"
       ],
-      "offsetX": -1,
-      "offsetY": -12
+      "offsetX": -2,
+      "offsetY": -21
     },
     "walk/east": {
       "textures": [
@@ -47,8 +47,8 @@
         "client/textures/illarion/chars/drow_f_e-6.png",
         "client/textures/illarion/chars/drow_f_e-7.png"
       ],
-      "offsetX": -1,
-      "offsetY": -12,
+      "offsetX": -2,
+      "offsetY": -21,
       "duration": 0.8
     },
     "stationary/south": {
@@ -56,7 +56,7 @@
         "client/textures/illarion/chars/drow_f_s-3.png"
       ],
       "offsetX": 0,
-      "offsetY": -12
+      "offsetY": -21
     },
     "walk/south": {
       "textures": [
@@ -70,15 +70,15 @@
         "client/textures/illarion/chars/drow_f_s-7.png"
       ],
       "offsetX": 0,
-      "offsetY": -12,
+      "offsetY": -21,
       "duration": 0.8
     },
     "stationary/west": {
       "textures": [
         "client/textures/illarion/chars/drow_f_w-7.png"
       ],
-      "offsetX": 2,
-      "offsetY": -9
+      "offsetX": 3,
+      "offsetY": -16
     },
     "walk/west": {
       "textures": [
@@ -91,8 +91,8 @@
         "client/textures/illarion/chars/drow_f_w-6.png",
         "client/textures/illarion/chars/drow_f_w-7.png"
       ],
-      "offsetX": 2,
-      "offsetY": -9,
+      "offsetX": 3,
+      "offsetY": -16,
       "duration": 0.8
     }
   }

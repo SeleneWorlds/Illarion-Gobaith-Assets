@@ -2,8 +2,8 @@
   "model": "../wall_door.blend",
   "sprites": "illarion/items/item_862",
   "visual": "items/item_862",
-  "offsetX": 14,
-  "offsetY": -5,
+  "offsetX": 24,
+  "offsetY": -9,
   "materials": {
     "Wall": {
       "Diffuse": "diffuse.png",

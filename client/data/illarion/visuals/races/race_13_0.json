@@ -7,87 +7,87 @@
       "textures": [
         "client/textures/illarion/chars/race_13_0/static/east/0001.png"
       ],
-      "offsetX": 4,
-      "offsetY": -8
+      "offsetX": 6,
+      "offsetY": -13
     },
     "static/north": {
       "textures": [
         "client/textures/illarion/chars/race_13_0/static/north/0001.png"
       ],
-      "offsetX": -4,
-      "offsetY": -9
+      "offsetX": -7,
+      "offsetY": -13
     },
     "static/south": {
       "textures": [
         "client/textures/illarion/chars/race_13_0/static/south/0001.png"
       ],
-      "offsetX": 4,
-      "offsetY": -2
+      "offsetX": 7,
+      "offsetY": -1
     },
     "static/west": {
       "textures": [
         "client/textures/illarion/chars/race_13_0/static/west/0001.png"
       ],
-      "offsetX": -4,
+      "offsetX": -6,
       "offsetY": -1
     },
     "stationary/north": {
       "textures": [
         "client/textures/illarion/chars/race_13_0/static/north/0001.png"
       ],
-      "offsetX": -4,
-      "offsetY": -9
+      "offsetX": -7,
+      "offsetY": -13
     },
     "walk/north": {
       "textures": [
         "client/textures/illarion/chars/race_13_0/static/north/0001.png"
       ],
-      "offsetX": -4,
-      "offsetY": -9,
+      "offsetX": -7,
+      "offsetY": -13,
       "duration": 0.06666666666666667
     },
     "stationary/east": {
       "textures": [
         "client/textures/illarion/chars/race_13_0/static/east/0001.png"
       ],
-      "offsetX": 4,
-      "offsetY": -8
+      "offsetX": 6,
+      "offsetY": -13
     },
     "walk/east": {
       "textures": [
         "client/textures/illarion/chars/race_13_0/static/east/0001.png"
       ],
-      "offsetX": 4,
-      "offsetY": -8,
+      "offsetX": 6,
+      "offsetY": -13,
       "duration": 0.06666666666666667
     },
     "stationary/south": {
       "textures": [
         "client/textures/illarion/chars/race_13_0/static/south/0001.png"
       ],
-      "offsetX": 4,
-      "offsetY": -2
+      "offsetX": 7,
+      "offsetY": -1
     },
     "walk/south": {
       "textures": [
         "client/textures/illarion/chars/race_13_0/static/south/0001.png"
       ],
-      "offsetX": 4,
-      "offsetY": -2,
+      "offsetX": 7,
+      "offsetY": -1,
       "duration": 0.06666666666666667
     },
     "stationary/west": {
       "textures": [
         "client/textures/illarion/chars/race_13_0/static/west/0001.png"
       ],
-      "offsetX": -4,
+      "offsetX": -6,
       "offsetY": -1
     },
     "walk/west": {
       "textures": [
         "client/textures/illarion/chars/race_13_0/static/west/0001.png"
       ],
-      "offsetX": -4,
+      "offsetX": -6,
       "offsetY": -1,
       "duration": 0.06666666666666667
     }

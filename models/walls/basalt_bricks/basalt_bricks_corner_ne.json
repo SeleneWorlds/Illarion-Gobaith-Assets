@@ -11,7 +11,7 @@
     }
   },
   "alphaMask": "wall_mask_ne.png",
-  "offsetX": 2,
-  "offsetY": -5,
+  "offsetX": 3,
+  "offsetY": -9,
   "direction": "north"
 }

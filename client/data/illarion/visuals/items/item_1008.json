@@ -2,8 +2,8 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
-  "offsetX": -10,
-  "offsetY": -28,
+  "offsetX": -17,
+  "offsetY": -48,
   "texture": "client/textures/illarion/items/cauldron.png",
   "metadata": {
     "itemId": 2488

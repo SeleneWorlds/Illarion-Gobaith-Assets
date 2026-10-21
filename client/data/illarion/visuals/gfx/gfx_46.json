@@ -1,8 +1,8 @@
 {
   "type": "animated",
   "sortLayerOffset": 302,
-  "offsetX": -2,
-  "offsetY": -34,
+  "offsetX": -3,
+  "offsetY": -59,
   "textures": [
     "client/textures/illarion/effects/sun-0.png",
     "client/textures/illarion/effects/sun-1.png",

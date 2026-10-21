@@ -2,8 +2,8 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
-  "offsetX": -2,
-  "offsetY": -10,
+  "offsetX": -3,
+  "offsetY": -17,
   "texture": "client/textures/illarion/items/flower.png",
   "metadata": {
     "itemId": 764

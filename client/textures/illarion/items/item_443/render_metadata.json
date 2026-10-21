@@ -1,62 +1,62 @@
 {
   "fps": 15,
   "tileSize": {
-    "width": 76,
-    "height": 37
+    "width": 128,
+    "height": 64
   },
   "entries": {
     "armatureaction.001/west": {
       "textures": [
         "ArmatureAction.001/west/0001.png"
       ],
-      "offsetX": -57,
-      "offsetY": -35,
+      "offsetX": -96,
+      "offsetY": -61,
       "frames": 1,
       "crop": {
-        "x": 281,
-        "y": 284,
-        "width": 47,
-        "height": 79
+        "x": 474,
+        "y": 478,
+        "width": 78,
+        "height": 133
       },
       "anchor": {
-        "x": 80.40823936462402,
-        "y": 43.98921775817871
+        "x": 134.68756103515625,
+        "y": 72.3349609375
       }
     },
     "armatureaction.002/west": {
       "textures": [
         "ArmatureAction.002/west/0001.png"
       ],
-      "offsetX": -57,
-      "offsetY": -35,
+      "offsetX": -96,
+      "offsetY": -61,
       "frames": 1,
       "crop": {
-        "x": 281,
-        "y": 284,
-        "width": 47,
-        "height": 79
+        "x": 474,
+        "y": 478,
+        "width": 78,
+        "height": 133
       },
       "anchor": {
-        "x": 80.40823936462402,
-        "y": 43.98921775817871
+        "x": 134.68756103515625,
+        "y": 72.3349609375
       }
     },
     "armatureaction/west": {
       "textures": [
         "ArmatureAction/west/0001.png"
       ],
-      "offsetX": -57,
-      "offsetY": -35,
+      "offsetX": -96,
+      "offsetY": -61,
       "frames": 1,
       "crop": {
-        "x": 281,
-        "y": 284,
-        "width": 47,
-        "height": 79
+        "x": 474,
+        "y": 478,
+        "width": 78,
+        "height": 133
       },
       "anchor": {
-        "x": 80.40823936462402,
-        "y": 43.98921775817871
+        "x": 134.68756103515625,
+        "y": 72.3349609375
       }
     }
   }

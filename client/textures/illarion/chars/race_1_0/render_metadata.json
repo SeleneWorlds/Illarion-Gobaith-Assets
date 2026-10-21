@@ -1,8 +1,8 @@
 {
   "fps": 15,
   "tileSize": {
-    "width": 76,
-    "height": 37
+    "width": 128,
+    "height": 64
   },
   "entries": {
     "idle/east": {
@@ -48,17 +48,17 @@
         "Idle/east/0039.png"
       ],
       "offsetX": -1,
-      "offsetY": -7,
+      "offsetY": -12,
       "frames": 39,
       "crop": {
-        "x": 289,
-        "y": 280,
-        "width": 27,
-        "height": 53
+        "x": 487,
+        "y": 472,
+        "width": 44,
+        "height": 88
       },
       "anchor": {
-        "x": 14.058675765991211,
-        "y": 45.76082515716553
+        "x": 23.41461181640625,
+        "y": 76.3770751953125
       }
     },
     "idle/north": {
@@ -104,17 +104,17 @@
         "Idle/north/0039.png"
       ],
       "offsetX": 0,
-      "offsetY": -2,
+      "offsetY": -3,
       "frames": 39,
       "crop": {
-        "x": 287,
-        "y": 280,
-        "width": 36,
-        "height": 48
+        "x": 484,
+        "y": 473,
+        "width": 60,
+        "height": 78
       },
       "anchor": {
-        "x": 18.388086318969727,
-        "y": 45.543314933776855
+        "x": 30.33782958984375,
+        "y": 75.00088500976562
       }
     },
     "idle/south": {
@@ -160,17 +160,17 @@
         "Idle/south/0039.png"
       ],
       "offsetX": 0,
-      "offsetY": -6,
+      "offsetY": -11,
       "frames": 39,
       "crop": {
-        "x": 285,
-        "y": 279,
-        "width": 36,
-        "height": 52
+        "x": 480,
+        "y": 472,
+        "width": 60,
+        "height": 85
       },
       "anchor": {
-        "x": 17.611913681030273,
-        "y": 45.626760482788086
+        "x": 29.662139892578125,
+        "y": 74.41546630859375
       }
     },
     "idle/west": {
@@ -216,17 +216,17 @@
         "Idle/west/0039.png"
       ],
       "offsetX": 1,
-      "offsetY": -9,
+      "offsetY": -14,
       "frames": 39,
       "crop": {
-        "x": 292,
-        "y": 278,
-        "width": 27,
-        "height": 55
+        "x": 493,
+        "y": 470,
+        "width": 44,
+        "height": 90
       },
       "anchor": {
-        "x": 12.941324234008789,
-        "y": 46.40917778015137
+        "x": 20.58538818359375,
+        "y": 76.03921508789062
       }
     },
     "walk/east": {
@@ -253,18 +253,18 @@
         "Walk/east/0020.png",
         "Walk/east/0021.png"
       ],
-      "offsetX": 2,
-      "offsetY": -6,
+      "offsetX": 3,
+      "offsetY": -10,
       "frames": 21,
       "crop": {
-        "x": 285,
-        "y": 278,
-        "width": 36,
-        "height": 54
+        "x": 481,
+        "y": 470,
+        "width": 59,
+        "height": 88
       },
       "anchor": {
-        "x": 16.15564250946045,
-        "y": 47.77138900756836
+        "x": 26.209503173828125,
+        "y": 78.44381713867188
       }
     },
     "walk/north": {
@@ -291,18 +291,18 @@
         "Walk/north/0020.png",
         "Walk/north/0021.png"
       ],
-      "offsetX": -2,
-      "offsetY": -6,
+      "offsetX": -4,
+      "offsetY": -10,
       "frames": 21,
       "crop": {
-        "x": 287,
-        "y": 278,
-        "width": 36,
-        "height": 54
+        "x": 484,
+        "y": 469,
+        "width": 59,
+        "height": 89
       },
       "anchor": {
-        "x": 20.007164001464844,
-        "y": 47.540252685546875
+        "x": 33.064697265625,
+        "y": 79.0477294921875
       }
     },
     "walk/south": {
@@ -329,18 +329,18 @@
         "Walk/south/0020.png",
         "Walk/south/0021.png"
       ],
-      "offsetX": 2,
-      "offsetY": -8,
+      "offsetX": 4,
+      "offsetY": -13,
       "frames": 21,
       "crop": {
-        "x": 285,
-        "y": 278,
-        "width": 36,
-        "height": 53
+        "x": 481,
+        "y": 469,
+        "width": 59,
+        "height": 88
       },
       "anchor": {
-        "x": 15.992817878723145,
-        "y": 45.268354415893555
+        "x": 25.935272216796875,
+        "y": 75.06790161132812
       }
     },
     "walk/west": {
@@ -367,18 +367,18 @@
         "Walk/west/0020.png",
         "Walk/west/0021.png"
       ],
-      "offsetX": -2,
-      "offsetY": -8,
+      "offsetX": -3,
+      "offsetY": -13,
       "frames": 21,
       "crop": {
-        "x": 287,
-        "y": 278,
-        "width": 36,
-        "height": 53
+        "x": 484,
+        "y": 469,
+        "width": 59,
+        "height": 88
       },
       "anchor": {
-        "x": 19.84433937072754,
-        "y": 45.23784065246582
+        "x": 32.79046630859375,
+        "y": 75.03594970703125
       }
     }
   }

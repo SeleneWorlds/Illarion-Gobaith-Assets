@@ -2,8 +2,8 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
-  "offsetX": -3,
-  "offsetY": -12,
+  "offsetX": -5,
+  "offsetY": -21,
   "texture": "client/textures/illarion/items/armor.png",
   "metadata": {
     "itemId": 2389

@@ -1,8 +1,8 @@
 {
-  "occlusionFade": false,
   "type": "simple",
   "sortLayerOffset": 300,
-  "offsetX": 1,
-  "offsetY": -4,
-  "texture": "client/textures/illarion/items/item_1272.png"
+  "offsetX": 2,
+  "offsetY": -6,
+  "texture": "client/textures/illarion/items/item_1272.png",
+  "occlusionFade": false
 }

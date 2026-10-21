@@ -2,6 +2,6 @@
   "type": "simple",
   "texture": "client/textures/illarion/ui/select_char.png",
   "offsetX": 0,
-  "offsetY": -22,
+  "offsetY": -38,
   "sortLayerOffset": 300
 }

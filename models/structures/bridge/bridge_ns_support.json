@@ -4,6 +4,11 @@
   "visual": "items/item_608",
   "direction": "south",
   "scale": 1,
-  "surfaceOffsetY": 15,
-  "include": ["MidBeams", "MidPlanks", "SupportBeams", "SupportPlank"]
+  "surfaceOffsetY": 26,
+  "include": [
+    "MidBeams",
+    "MidPlanks",
+    "SupportBeams",
+    "SupportPlank"
+  ]
 }

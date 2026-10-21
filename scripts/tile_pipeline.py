@@ -326,6 +326,11 @@ def apply_overlay_mask(base_tile: Image.Image, overlay_mask_alpha: Image.Image) 
 
 
 def write_json(path: Path, payload: dict[str, object]) -> None:
+    if path.is_file():
+        existing = load_json_object(path, "existing visual")
+        for key in ("occlusionFade", "sortLayerOffset", "instanced", "light"):
+            if key in existing:
+                payload[key] = existing[key]
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(payload, indent=2) + "\n", encoding="utf-8")
 
@@ -453,7 +458,6 @@ def render_config(args: argparse.Namespace, root: Path, config_path: Path) -> in
                     f"{Path(tile_config.sprites).name}-*.png",
                     (root / "client" / "textures" / Path(tile_config.sprites).parent).resolve(),
                 )
-            remove_file_if_exists(visual_output_file)
 
         base_mask_alpha = load_mask_alpha(
             root / "masks" / "mask.png",
@@ -523,7 +527,6 @@ def render_config(args: argparse.Namespace, root: Path, config_path: Path) -> in
                 )
                 if not args.keep_output:
                     remove_file_if_exists(overlay_texture_file)
-                    remove_file_if_exists(overlay_visual_file)
 
                 overlay_mask_alpha = load_mask_alpha(
                     root / "masks" / f"mask_ovl-{overlay_id}.png",

@@ -2,8 +2,8 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
-  "offsetX": 2,
-  "offsetY": -15,
+  "offsetX": 3,
+  "offsetY": -26,
   "texture": "client/textures/illarion/items/boots_leather.png",
   "metadata": {
     "itemId": 698

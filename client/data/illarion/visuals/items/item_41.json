@@ -1,9 +1,9 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 5,
+  "surfaceOffsetY": 9,
   "offsetX": 0,
-  "offsetY": -9,
+  "offsetY": -16,
   "texture": "client/textures/illarion/items/glass_ingot.png",
   "metadata": {
     "itemId": 41

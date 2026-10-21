@@ -2,8 +2,8 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
-  "offsetX": 2,
-  "offsetY": -4,
+  "offsetX": 3,
+  "offsetY": -7,
   "texture": "client/textures/illarion/items/mug.png",
   "metadata": {
     "itemId": 223

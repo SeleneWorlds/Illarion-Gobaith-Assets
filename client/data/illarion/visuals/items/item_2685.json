@@ -2,8 +2,8 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
-  "offsetX": 2,
-  "offsetY": -20,
+  "offsetX": 3,
+  "offsetY": -35,
   "texture": "client/textures/illarion/items/bow.png",
   "metadata": {
     "itemId": 2685

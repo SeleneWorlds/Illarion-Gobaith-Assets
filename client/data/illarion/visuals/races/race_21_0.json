@@ -11,8 +11,8 @@
       "textures": [
         "client/textures/illarion/chars/cavetroll_n-4.png"
       ],
-      "offsetX": -4,
-      "offsetY": -12
+      "offsetX": -7,
+      "offsetY": -21
     },
     "walk/north": {
       "textures": [
@@ -25,16 +25,16 @@
         "client/textures/illarion/chars/cavetroll_n-6.png",
         "client/textures/illarion/chars/cavetroll_n-7.png"
       ],
-      "offsetX": -4,
-      "offsetY": -12,
+      "offsetX": -7,
+      "offsetY": -21,
       "duration": 0.8
     },
     "stationary/east": {
       "textures": [
         "client/textures/illarion/chars/cavetroll_e-0.png"
       ],
-      "offsetX": 15,
-      "offsetY": -14
+      "offsetX": 25,
+      "offsetY": -24
     },
     "walk/east": {
       "textures": [
@@ -47,16 +47,16 @@
         "client/textures/illarion/chars/cavetroll_e-6.png",
         "client/textures/illarion/chars/cavetroll_e-7.png"
       ],
-      "offsetX": 15,
-      "offsetY": -14,
+      "offsetX": 25,
+      "offsetY": -24,
       "duration": 0.8
     },
     "stationary/south": {
       "textures": [
         "client/textures/illarion/chars/cavetroll_s-0.png"
       ],
-      "offsetX": 5,
-      "offsetY": -10
+      "offsetX": 8,
+      "offsetY": -17
     },
     "walk/south": {
       "textures": [
@@ -69,16 +69,16 @@
         "client/textures/illarion/chars/cavetroll_s-6.png",
         "client/textures/illarion/chars/cavetroll_s-7.png"
       ],
-      "offsetX": 5,
-      "offsetY": -10,
+      "offsetX": 8,
+      "offsetY": -17,
       "duration": 0.8
     },
     "stationary/west": {
       "textures": [
         "client/textures/illarion/chars/cavetroll_w-0.png"
       ],
-      "offsetX": -14,
-      "offsetY": -12
+      "offsetX": -24,
+      "offsetY": -21
     },
     "walk/west": {
       "textures": [
@@ -91,8 +91,8 @@
         "client/textures/illarion/chars/cavetroll_w-6.png",
         "client/textures/illarion/chars/cavetroll_w-7.png"
       ],
-      "offsetX": -14,
-      "offsetY": -12,
+      "offsetX": -24,
+      "offsetY": -21,
       "duration": 0.8
     }
   }

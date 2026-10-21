@@ -2,8 +2,8 @@
   "type": "animated",
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
-  "offsetX": 4,
-  "offsetY": -19,
+  "offsetX": 7,
+  "offsetY": -33,
   "textures": [
     "client/textures/illarion/items/giftfeld-0.png",
     "client/textures/illarion/items/giftfeld-1.png",

@@ -11,8 +11,8 @@
       "textures": [
         "client/textures/illarion/chars/packesel_n-3.png"
       ],
-      "offsetX": -1,
-      "offsetY": -14
+      "offsetX": -2,
+      "offsetY": -24
     },
     "walk/north": {
       "textures": [
@@ -25,16 +25,16 @@
         "client/textures/illarion/chars/packesel_n-6.png",
         "client/textures/illarion/chars/packesel_n-7.png"
       ],
-      "offsetX": -1,
-      "offsetY": -14,
+      "offsetX": -2,
+      "offsetY": -24,
       "duration": 0.8
     },
     "stationary/east": {
       "textures": [
         "client/textures/illarion/chars/packesel_e-3.png"
       ],
-      "offsetX": 6,
-      "offsetY": -18
+      "offsetX": 10,
+      "offsetY": -31
     },
     "walk/east": {
       "textures": [
@@ -47,16 +47,16 @@
         "client/textures/illarion/chars/packesel_e-6.png",
         "client/textures/illarion/chars/packesel_e-7.png"
       ],
-      "offsetX": 6,
-      "offsetY": -18,
+      "offsetX": 10,
+      "offsetY": -31,
       "duration": 0.8
     },
     "stationary/south": {
       "textures": [
         "client/textures/illarion/chars/packesel_s-3.png"
       ],
-      "offsetX": -1,
-      "offsetY": -13
+      "offsetX": -2,
+      "offsetY": -22
     },
     "walk/south": {
       "textures": [
@@ -69,16 +69,16 @@
         "client/textures/illarion/chars/packesel_s-6.png",
         "client/textures/illarion/chars/packesel_s-7.png"
       ],
-      "offsetX": -1,
-      "offsetY": -13,
+      "offsetX": -2,
+      "offsetY": -22,
       "duration": 0.8
     },
     "stationary/west": {
       "textures": [
         "client/textures/illarion/chars/packesel_w-3.png"
       ],
-      "offsetX": -3,
-      "offsetY": -12
+      "offsetX": -5,
+      "offsetY": -21
     },
     "walk/west": {
       "textures": [
@@ -91,8 +91,8 @@
         "client/textures/illarion/chars/packesel_w-6.png",
         "client/textures/illarion/chars/packesel_w-7.png"
       ],
-      "offsetX": -3,
-      "offsetY": -12,
+      "offsetX": -5,
+      "offsetY": -21,
       "duration": 0.8
     }
   }

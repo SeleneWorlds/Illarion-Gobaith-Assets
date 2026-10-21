@@ -1,11 +1,11 @@
 {
-  "occlusionFade": false,
   "type": "simple",
   "offsetX": 0,
-  "offsetY": -18,
+  "offsetY": -32,
   "texture": "client/textures/illarion/tiles/tile_3_ovl-26.png",
   "metadata": {
     "tileId": 3,
     "overlayId": 26
-  }
+  },
+  "occlusionFade": false
 }

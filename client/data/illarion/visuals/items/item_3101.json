@@ -3,8 +3,8 @@
   "type": "variants",
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
-  "offsetX": -1,
-  "offsetY": -6,
+  "offsetX": -2,
+  "offsetY": -10,
   "textures": [
     "client/textures/illarion/items/blood-0.png",
     "client/textures/illarion/items/blood-1.png",

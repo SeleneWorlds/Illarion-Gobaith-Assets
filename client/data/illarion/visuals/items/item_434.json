@@ -2,6 +2,6 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "offsetX": 0,
-  "offsetY": -14,
+  "offsetY": -25,
   "texture": "client/textures/illarion/items/item_434.png"
 }

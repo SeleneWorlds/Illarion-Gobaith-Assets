@@ -1,80 +1,80 @@
 {
   "fps": 15,
   "tileSize": {
-    "width": 76,
-    "height": 37
+    "width": 128,
+    "height": 64
   },
   "entries": {
     "static/east": {
       "textures": [
         "static/east/0001.png"
       ],
-      "offsetX": 4,
-      "offsetY": -8,
+      "offsetX": 6,
+      "offsetY": -13,
       "frames": 1,
       "crop": {
-        "x": 294,
-        "y": 288,
-        "width": 28,
-        "height": 37
+        "x": 495,
+        "y": 485,
+        "width": 46,
+        "height": 62
       },
       "anchor": {
-        "x": 9.81423568725586,
-        "y": 28.91217803955078
+        "x": 16.687103271484375,
+        "y": 48.592620849609375
       }
     },
     "static/north": {
       "textures": [
         "static/north/0001.png"
       ],
-      "offsetX": -4,
-      "offsetY": -9,
+      "offsetX": -7,
+      "offsetY": -13,
       "frames": 1,
       "crop": {
-        "x": 287,
-        "y": 287,
-        "width": 28,
-        "height": 38
+        "x": 484,
+        "y": 484,
+        "width": 46,
+        "height": 62
       },
       "anchor": {
-        "x": 18.08501434326172,
-        "y": 29.474403381347656
+        "x": 29.827392578125,
+        "y": 48.83538818359375
       }
     },
     "static/south": {
       "textures": [
         "static/south/0001.png"
       ],
-      "offsetX": 4,
-      "offsetY": -2,
+      "offsetX": 7,
+      "offsetY": -1,
       "frames": 1,
       "crop": {
-        "x": 293,
-        "y": 285,
-        "width": 28,
-        "height": 33
+        "x": 494,
+        "y": 480,
+        "width": 46,
+        "height": 54
       },
       "anchor": {
-        "x": 9.915003776550293,
-        "y": 31.293513298034668
+        "x": 16.172637939453125,
+        "y": 52.52252197265625
       }
     },
     "static/west": {
       "textures": [
         "static/west/0001.png"
       ],
-      "offsetX": -4,
+      "offsetX": -6,
       "offsetY": -1,
       "frames": 1,
       "crop": {
-        "x": 286,
-        "y": 284,
-        "width": 28,
-        "height": 33
+        "x": 483,
+        "y": 480,
+        "width": 46,
+        "height": 53
       },
       "anchor": {
-        "x": 18.185800552368164,
-        "y": 31.855738639831543
+        "x": 29.3128662109375,
+        "y": 51.7652587890625
       }
     }
   }

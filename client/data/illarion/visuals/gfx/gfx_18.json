@@ -1,8 +1,8 @@
 {
   "type": "animated",
   "sortLayerOffset": 302,
-  "offsetX": -7,
-  "offsetY": 10,
+  "offsetX": -12,
+  "offsetY": 17,
   "textures": [
     "client/textures/illarion/effects/shield-0.png",
     "client/textures/illarion/effects/shield-1.png",

@@ -1,8 +1,8 @@
 {
   "fps": 15,
   "tileSize": {
-    "width": 76,
-    "height": 37
+    "width": 128,
+    "height": 64
   },
   "entries": {
     "idle/east": {
@@ -48,17 +48,17 @@
         "Idle/east/0039.png"
       ],
       "offsetX": -1,
-      "offsetY": -10,
+      "offsetY": -16,
       "frames": 39,
       "crop": {
-        "x": 286,
-        "y": 268,
-        "width": 28,
-        "height": 81
+        "x": 482,
+        "y": 452,
+        "width": 46,
+        "height": 134
       },
       "anchor": {
-        "x": 14.718302726745605,
-        "y": 70.9455976486206
+        "x": 24.472930908203125,
+        "y": 118.35504150390625
       }
     },
     "idle/north": {
@@ -103,18 +103,18 @@
         "Idle/north/0038.png",
         "Idle/north/0039.png"
       ],
-      "offsetX": -2,
+      "offsetX": -3,
       "offsetY": -2,
       "frames": 39,
       "crop": {
-        "x": 279,
-        "y": 267,
-        "width": 47,
-        "height": 75
+        "x": 471,
+        "y": 451,
+        "width": 77,
+        "height": 124
       },
       "anchor": {
-        "x": 25.06914520263672,
-        "y": 73.47659492492676
+        "x": 41.116455078125,
+        "y": 122.00326538085938
       }
     },
     "idle/south": {
@@ -159,18 +159,18 @@
         "Idle/south/0038.png",
         "Idle/south/0039.png"
       ],
-      "offsetX": 2,
-      "offsetY": -6,
+      "offsetX": 3,
+      "offsetY": -8,
       "frames": 39,
       "crop": {
-        "x": 282,
-        "y": 267,
-        "width": 47,
-        "height": 76
+        "x": 476,
+        "y": 451,
+        "width": 77,
+        "height": 125
       },
       "anchor": {
-        "x": 21.930872917175293,
-        "y": 70.34714031219482
+        "x": 35.883544921875,
+        "y": 116.58969116210938
       }
     },
     "idle/west": {
@@ -216,17 +216,17 @@
         "Idle/west/0039.png"
       ],
       "offsetX": 1,
-      "offsetY": -11,
+      "offsetY": -20,
       "frames": 39,
       "crop": {
-        "x": 294,
-        "y": 267,
-        "width": 28,
-        "height": 83
+        "x": 496,
+        "y": 451,
+        "width": 46,
+        "height": 139
       },
       "anchor": {
-        "x": 13.281679153442383,
-        "y": 71.88074684143066
+        "x": 21.52703857421875,
+        "y": 119.24276733398438
       }
     },
     "walk/east": {
@@ -253,18 +253,18 @@
         "Walk/east/0020.png",
         "Walk/east/0021.png"
       ],
-      "offsetX": 2,
-      "offsetY": -11,
+      "offsetX": 5,
+      "offsetY": -18,
       "frames": 21,
       "crop": {
-        "x": 279,
-        "y": 264,
-        "width": 49,
-        "height": 86
+        "x": 472,
+        "y": 446,
+        "width": 80,
+        "height": 143
       },
       "anchor": {
-        "x": 22.1663875579834,
-        "y": 75.04186820983887
+        "x": 35.22760009765625,
+        "y": 124.62326049804688
       }
     },
     "walk/north": {
@@ -291,18 +291,18 @@
         "Walk/north/0020.png",
         "Walk/north/0021.png"
       ],
-      "offsetX": -3,
-      "offsetY": -11,
+      "offsetX": -4,
+      "offsetY": -18,
       "frames": 21,
       "crop": {
-        "x": 280,
-        "y": 263,
-        "width": 49,
-        "height": 87
+        "x": 473,
+        "y": 444,
+        "width": 80,
+        "height": 144
       },
       "anchor": {
-        "x": 27.103778839111328,
-        "y": 75.70679664611816
+        "x": 44.2274169921875,
+        "y": 126.0435791015625
       }
     },
     "walk/south": {
@@ -329,18 +329,18 @@
         "Walk/south/0020.png",
         "Walk/south/0021.png"
       ],
-      "offsetX": 3,
-      "offsetY": -10,
+      "offsetX": 5,
+      "offsetY": -16,
       "frames": 21,
       "crop": {
-        "x": 279,
-        "y": 266,
-        "width": 49,
-        "height": 81
+        "x": 471,
+        "y": 449,
+        "width": 81,
+        "height": 134
       },
       "anchor": {
-        "x": 21.896221160888672,
-        "y": 71.02408218383789
+        "x": 35.7725830078125,
+        "y": 118.13644409179688
       }
     },
     "walk/west": {
@@ -367,18 +367,18 @@
         "Walk/west/0020.png",
         "Walk/west/0021.png"
       ],
-      "offsetX": -2,
-      "offsetY": -10,
+      "offsetX": -5,
+      "offsetY": -16,
       "frames": 21,
       "crop": {
-        "x": 280,
-        "y": 265,
-        "width": 49,
-        "height": 82
+        "x": 472,
+        "y": 447,
+        "width": 80,
+        "height": 136
       },
       "anchor": {
-        "x": 26.8336124420166,
-        "y": 71.7369737625122
+        "x": 44.77239990234375,
+        "y": 119.64089965820312
       }
     }
   }

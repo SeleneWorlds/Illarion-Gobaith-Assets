@@ -1,8 +1,8 @@
 {
   "type": "animated",
   "sortLayerOffset": 302,
-  "offsetX": 20,
-  "offsetY": -39,
+  "offsetX": 34,
+  "offsetY": -67,
   "textures": [
     "client/textures/illarion/effects/rain-0.png",
     "client/textures/illarion/effects/rain-1.png",

@@ -2,8 +2,8 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
-  "offsetX": -5,
-  "offsetY": -28,
+  "offsetX": -8,
+  "offsetY": -48,
   "texture": "client/textures/illarion/items/longbow.png",
   "metadata": {
     "itemId": 2718

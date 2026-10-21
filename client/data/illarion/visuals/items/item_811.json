@@ -3,7 +3,7 @@
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
   "offsetX": 0,
-  "offsetY": -16,
+  "offsetY": -28,
   "texture": "client/textures/illarion/items/robe.png",
   "metadata": {
     "itemId": 811

@@ -1031,6 +1031,10 @@ def render_config(args: argparse.Namespace, root: Path, config_path: Path) -> in
         root,
         "visual output path",
     )
+    existing_visual = (
+        load_json_object(visual_output_file, "existing visual")
+        if visual_output_file.is_file() else {}
+    )
 
     try:
         if config_type == "variants":
@@ -1142,6 +1146,13 @@ def render_config(args: argparse.Namespace, root: Path, config_path: Path) -> in
         print(str(exc), file=sys.stderr)
         return 1
 
+    # Regeneration replaces geometry, while retaining IDs and rendering policy
+    # maintained by hand in the visual definition.
+    for key in ("metadata", "sortLayerOffset", "occlusionFade", "instanced", "animator", "light"):
+        if key in existing_visual:
+            visual_json[key] = existing_visual[key]
+    if "surfaceOffsetY" not in visual_json and "surfaceOffsetY" in existing_visual:
+        visual_json["surfaceOffsetY"] = existing_visual["surfaceOffsetY"]
     visual_output_file.parent.mkdir(parents=True, exist_ok=True)
     visual_output_file.write_text(json.dumps(visual_json, indent=2) + "\n", encoding="utf-8")
     return 0

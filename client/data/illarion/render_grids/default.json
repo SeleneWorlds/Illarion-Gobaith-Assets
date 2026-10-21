@@ -1,9 +1,9 @@
 {
-  "tileWidth": 76,
-  "tileHeight": 37,
-  "tileStepX": 38,
-  "tileStepY": 19,
-  "tileStepZ": 114,
+  "tileWidth": 128,
+  "tileHeight": 64,
+  "tileStepX": 64,
+  "tileStepY": 32,
+  "tileStepZ": 192,
   "zSortScale": 500,
   "rowSortScale": 50
 }

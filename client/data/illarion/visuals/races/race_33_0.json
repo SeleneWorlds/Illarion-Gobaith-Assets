@@ -11,8 +11,8 @@
       "textures": [
         "client/textures/illarion/chars/gnoll_n-3.png"
       ],
-      "offsetX": -6,
-      "offsetY": -12
+      "offsetX": -10,
+      "offsetY": -21
     },
     "walk/north": {
       "textures": [
@@ -25,16 +25,16 @@
         "client/textures/illarion/chars/gnoll_n-6.png",
         "client/textures/illarion/chars/gnoll_n-7.png"
       ],
-      "offsetX": -6,
-      "offsetY": -12,
+      "offsetX": -10,
+      "offsetY": -21,
       "duration": 0.8
     },
     "stationary/east": {
       "textures": [
         "client/textures/illarion/chars/gnoll_o-3.png"
       ],
-      "offsetX": 7,
-      "offsetY": -10
+      "offsetX": 12,
+      "offsetY": -17
     },
     "walk/east": {
       "textures": [
@@ -47,16 +47,16 @@
         "client/textures/illarion/chars/gnoll_o-6.png",
         "client/textures/illarion/chars/gnoll_o-7.png"
       ],
-      "offsetX": 7,
-      "offsetY": -10,
+      "offsetX": 12,
+      "offsetY": -17,
       "duration": 0.8
     },
     "stationary/south": {
       "textures": [
         "client/textures/illarion/chars/gnoll_s-3.png"
       ],
-      "offsetX": 6,
-      "offsetY": -10
+      "offsetX": 10,
+      "offsetY": -17
     },
     "walk/south": {
       "textures": [
@@ -69,16 +69,16 @@
         "client/textures/illarion/chars/gnoll_s-6.png",
         "client/textures/illarion/chars/gnoll_s-7.png"
       ],
-      "offsetX": 6,
-      "offsetY": -10,
+      "offsetX": 10,
+      "offsetY": -17,
       "duration": 0.8
     },
     "stationary/west": {
       "textures": [
         "client/textures/illarion/chars/gnoll_w-7.png"
       ],
-      "offsetX": -5,
-      "offsetY": -12
+      "offsetX": -8,
+      "offsetY": -21
     },
     "walk/west": {
       "textures": [
@@ -91,8 +91,8 @@
         "client/textures/illarion/chars/gnoll_w-6.png",
         "client/textures/illarion/chars/gnoll_w-7.png"
       ],
-      "offsetX": -5,
-      "offsetY": -12,
+      "offsetX": -8,
+      "offsetY": -21,
       "duration": 0.8
     }
   }

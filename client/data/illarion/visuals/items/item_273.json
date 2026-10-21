@@ -2,7 +2,7 @@
   "type": "variants",
   "sortLayerOffset": 300,
   "offsetX": 0,
-  "offsetY": -4,
+  "offsetY": -6,
   "textures": [
     "client/textures/illarion/items/item_273-0.png",
     "client/textures/illarion/items/item_273-1.png",

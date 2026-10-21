@@ -2,8 +2,8 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
-  "offsetX": 3,
-  "offsetY": -8,
+  "offsetX": 5,
+  "offsetY": -14,
   "texture": "client/textures/illarion/items/red_potion.png",
   "metadata": {
     "itemId": 165

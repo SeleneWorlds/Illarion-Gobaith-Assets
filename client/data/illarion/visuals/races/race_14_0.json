@@ -12,7 +12,7 @@
         "client/textures/illarion/chars/rotworm-0.png"
       ],
       "offsetX": 0,
-      "offsetY": -12
+      "offsetY": -21
     },
     "walk/north": {
       "textures": [
@@ -21,15 +21,15 @@
         "client/textures/illarion/chars/rotworm-2.png"
       ],
       "offsetX": 0,
-      "offsetY": -12,
+      "offsetY": -21,
       "duration": 0.30000000000000004
     },
     "stationary/east": {
       "textures": [
         "client/textures/illarion/chars/rotworm-0.png"
       ],
-      "offsetX": 1,
-      "offsetY": -10
+      "offsetX": 2,
+      "offsetY": -17
     },
     "walk/east": {
       "textures": [
@@ -37,16 +37,16 @@
         "client/textures/illarion/chars/rotworm-1.png",
         "client/textures/illarion/chars/rotworm-2.png"
       ],
-      "offsetX": 1,
-      "offsetY": -10,
+      "offsetX": 2,
+      "offsetY": -17,
       "duration": 0.30000000000000004
     },
     "stationary/south": {
       "textures": [
         "client/textures/illarion/chars/rotworm-0.png"
       ],
-      "offsetX": 2,
-      "offsetY": -10
+      "offsetX": 3,
+      "offsetY": -17
     },
     "walk/south": {
       "textures": [
@@ -54,16 +54,16 @@
         "client/textures/illarion/chars/rotworm-1.png",
         "client/textures/illarion/chars/rotworm-2.png"
       ],
-      "offsetX": 2,
-      "offsetY": -10,
+      "offsetX": 3,
+      "offsetY": -17,
       "duration": 0.30000000000000004
     },
     "stationary/west": {
       "textures": [
         "client/textures/illarion/chars/rotworm-0.png"
       ],
-      "offsetX": 1,
-      "offsetY": -9
+      "offsetX": 2,
+      "offsetY": -16
     },
     "walk/west": {
       "textures": [
@@ -71,8 +71,8 @@
         "client/textures/illarion/chars/rotworm-1.png",
         "client/textures/illarion/chars/rotworm-2.png"
       ],
-      "offsetX": 1,
-      "offsetY": -9,
+      "offsetX": 2,
+      "offsetY": -16,
       "duration": 0.30000000000000004
     }
   }

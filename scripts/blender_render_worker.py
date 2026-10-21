@@ -353,6 +353,12 @@ def collect_actions(filter_names: list[str] | None) -> list[bpy.types.Action]:
     if filter_names is None:
         return actions
     requested = set(filter_names)
+    # Some legacy rigs name their idle animation "Rest Pose". Normalize it
+    # in memory so their exported animation keys remain idle/<direction>.
+    if "Idle" in requested and not any(action.name == "Idle" for action in actions):
+        resting = next((action for action in actions if action.name == "Rest Pose"), None)
+        if resting is not None:
+            resting.name = "Idle"
     selected = [action for action in actions if action.name in requested]
     missing = sorted(requested - {action.name for action in selected})
     if missing:

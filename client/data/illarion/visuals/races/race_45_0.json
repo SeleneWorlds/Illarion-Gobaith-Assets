@@ -11,8 +11,8 @@
       "textures": [
         "client/textures/illarion/chars/FFairyN-0.png"
       ],
-      "offsetX": 2,
-      "offsetY": 2
+      "offsetX": 3,
+      "offsetY": 3
     },
     "walk/north": {
       "textures": [
@@ -25,8 +25,8 @@
         "client/textures/illarion/chars/FFairyN-6.png",
         "client/textures/illarion/chars/FFairyN-7.png"
       ],
-      "offsetX": 2,
-      "offsetY": 2,
+      "offsetX": 3,
+      "offsetY": 3,
       "duration": 0.8
     },
     "stationary/east": {
@@ -34,7 +34,7 @@
         "client/textures/illarion/chars/FFairyO-0.png"
       ],
       "offsetX": 0,
-      "offsetY": 5
+      "offsetY": 9
     },
     "walk/east": {
       "textures": [
@@ -48,15 +48,15 @@
         "client/textures/illarion/chars/FFairyO-7.png"
       ],
       "offsetX": 0,
-      "offsetY": 5,
+      "offsetY": 9,
       "duration": 0.8
     },
     "stationary/south": {
       "textures": [
         "client/textures/illarion/chars/FFairyS-0.png"
       ],
-      "offsetX": 2,
-      "offsetY": 2
+      "offsetX": 3,
+      "offsetY": 3
     },
     "walk/south": {
       "textures": [
@@ -69,16 +69,16 @@
         "client/textures/illarion/chars/FFairyS-6.png",
         "client/textures/illarion/chars/FFairyS-7.png"
       ],
-      "offsetX": 2,
-      "offsetY": 2,
+      "offsetX": 3,
+      "offsetY": 3,
       "duration": 0.8
     },
     "stationary/west": {
       "textures": [
         "client/textures/illarion/chars/FFairyW-0.png"
       ],
-      "offsetX": 3,
-      "offsetY": 1
+      "offsetX": 5,
+      "offsetY": 2
     },
     "walk/west": {
       "textures": [
@@ -91,8 +91,8 @@
         "client/textures/illarion/chars/FFairyW-6.png",
         "client/textures/illarion/chars/FFairyW-7.png"
       ],
-      "offsetX": 3,
-      "offsetY": 1,
+      "offsetX": 5,
+      "offsetY": 2,
       "duration": 0.8
     }
   }
