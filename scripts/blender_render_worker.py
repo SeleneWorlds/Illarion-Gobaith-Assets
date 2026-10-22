@@ -542,9 +542,22 @@ def resolve_render_engine(scene: bpy.types.Scene, requested_engine: str) -> str:
     return requested_engine
 
 
+def ensure_display_color_transform(scene: bpy.types.Scene) -> None:
+    # Raw writes linear shading directly into display-ready PNGs, making the
+    # sprites too dark. Keep authored display transforms (AgX, Filmic, etc.).
+    if scene.view_settings.view_transform == "Raw":
+        print(
+            f"WARNING: {bpy.data.filepath}: scene {scene.name!r} uses the Raw "
+            "view transform; using Standard for sprite export to avoid dark PNGs.",
+            file=sys.stderr,
+        )
+        scene.view_settings.view_transform = "Standard"
+
+
 def configure_scene(scene: bpy.types.Scene, args: argparse.Namespace) -> None:
     if args.fps < 1:
         raise RuntimeError("--fps must be at least 1")
+    ensure_display_color_transform(scene)
     render_size = max(512, args.tile_width * 8, args.tile_height * 16)
     scene["sprite_grid_aligned"] = args.grid_aligned
     scene.render.engine = resolve_render_engine(scene, args.engine)
