@@ -1,6 +1,6 @@
 {
   "type": "simple",
   "texture": "client/textures/illarion/ui/cursor_standard.png",
-  "offsetX": -19,
-  "offsetY": -17
+  "offsetX": -11,
+  "offsetY": -10
 }

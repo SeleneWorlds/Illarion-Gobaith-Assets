@@ -53,12 +53,16 @@ def prepare(work: Path) -> None:
     write_json(work / "original-visuals.json", originals)
     for folder in ("client/textures", "masks"):
         for path in (ROOT / folder).rglob("*.png"):
+            if path.parent == ROOT / "client/textures/illarion/ui" and path.name.startswith("cursor_"):
+                continue
             with Image.open(path) as image:
                 image.resize((max(1, rounded(image.width * SX)),
                               max(1, rounded(image.height * SY))),
                              Image.Resampling.NEAREST).save(path)
     for folder in ("models", "client/data/illarion/visuals"):
         for path in (ROOT / folder).rglob("*.json"):
+            if path.parent == ROOT / "client/data/illarion/visuals" and path.name.startswith("cursor_"):
+                continue
             raw = json.loads(path.read_text())
             previous = json.dumps(raw)
             scale_offsets(raw)
