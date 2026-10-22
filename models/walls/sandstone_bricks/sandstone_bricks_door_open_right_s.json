@@ -2,8 +2,6 @@
   "model": "../wall_door_open.blend",
   "sprites": "illarion/items/item_668",
   "visual": "items/item_668",
-  "offsetX": 32,
-  "offsetY": -31,
   "materials": {
     "Wall": {
       "Diffuse": "diffuse.jpg",
@@ -12,5 +10,7 @@
       "Roughness": "roughness.jpg"
     }
   },
-  "direction": "south"
+  "direction": "south",
+  "gridAligned": true,
+  "alphaClip": 0.5
 }

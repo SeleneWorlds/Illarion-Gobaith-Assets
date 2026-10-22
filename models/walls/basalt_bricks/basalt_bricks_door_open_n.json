@@ -10,7 +10,7 @@
       "Roughness": "roughness.jpg"
     }
   },
-  "offsetX": -8,
-  "offsetY": -7,
-  "direction": "north"
+  "direction": "north",
+  "gridAligned": true,
+  "alphaClip": 0.5
 }

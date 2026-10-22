@@ -10,8 +10,7 @@
       "Roughness": "roughness.png"
     }
   },
-  "alphaMask": "wall_mask_nw.png",
-  "offsetX": -22,
-  "offsetY": -33,
-  "direction": "west"
+  "direction": "west",
+  "gridAligned": true,
+  "alphaClip": 0.5
 }

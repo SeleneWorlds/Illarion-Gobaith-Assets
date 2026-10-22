@@ -2,8 +2,6 @@
   "model": "../wall_column.blend",
   "sprites": "illarion/items/item_723",
   "visual": "items/item_723",
-  "offsetX": 5,
-  "offsetY": 16,
   "materials": {
     "Wall": {
       "Diffuse": "diffuse.jpg",
@@ -12,6 +10,7 @@
       "Roughness": "roughness.jpg"
     }
   },
-  "alphaMask": "wall_mask_column.png",
-  "direction": "west"
+  "direction": "west",
+  "gridAligned": true,
+  "alphaClip": 0.5
 }

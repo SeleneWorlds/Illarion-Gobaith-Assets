@@ -44,6 +44,7 @@ class ModelConfig:
     sprites: str
     visual: str
     scale: float
+    grid_aligned: bool
     materials: dict[str, dict[str, Path]] | None
     fps: int
     alpha_clip: float | None
@@ -315,6 +316,8 @@ def load_model_config_from_raw(
     fps = raw.get("fps", 15)
     if not isinstance(fps, int) or fps <= 0:
         raise ValueError(f"{path}: field 'fps' must be a positive integer when present")
+    if not isinstance(raw.get("gridAligned", False), bool):
+        raise ValueError(f"{path}: gridAligned must be a boolean")
     alpha_clip = optional_unit_interval_number(raw, "alphaClip", path)
     alpha_mask = optional_alpha_mask_path(raw, path, root)
     if alpha_clip is not None and alpha_mask is not None:
@@ -327,6 +330,7 @@ def load_model_config_from_raw(
         visual=require_string(raw, "visual", path),
         scale=require_positive_number(raw, "scale", path) if "scale" in raw else 1.0,
         materials=optional_material_overrides(raw, path),
+        grid_aligned=raw.get("gridAligned", False),
         fps=fps,
         alpha_clip=alpha_clip,
         alpha_mask=alpha_mask,
@@ -616,6 +620,7 @@ def union_bbox(
 def crop_rendered_textures_to_alpha(
     render_manifest: dict[str, object],
     texture_output_dir: Path,
+    grid_aligned: bool = False,
 ) -> dict[str, object]:
     entries = render_manifest.get("entries")
     if not isinstance(entries, dict):
@@ -667,6 +672,10 @@ def crop_rendered_textures_to_alpha(
             left, top, right, bottom = (0, 0, image_size[0], image_size[1])
         else:
             left, top, right, bottom = alpha_bounds
+
+        # Integer center offsets require an even width on the shared pixel grid.
+        if grid_aligned and (right - left) % 2:
+            right += 1
 
         for texture in textures:
             texture_path = texture_output_dir / texture
@@ -784,10 +793,9 @@ def apply_alpha_mask_to_textures(
                 rgba = image.convert("RGBA")
                 image_width, image_height = rgba.size
                 pixels = list(rgba.getdata())
-                dilated = dilate_opaque_pixels(pixels, image_width, image_height)
                 opaque_columns: list[int] = []
                 opaque_rows: list[int] = []
-                for pixel_index, pixel in enumerate(dilated):
+                for pixel_index, pixel in enumerate(pixels):
                     if pixel[3] <= 0:
                         continue
                     opaque_columns.append(pixel_index % image_width)
@@ -817,8 +825,8 @@ def apply_alpha_mask_to_textures(
                 )
                 masked_pixels = []
                 for index, (_r, _g, _b, _a) in enumerate(pixels):
-                    if applied_mask_alpha[index] > 0:
-                        masked_pixels.append(dilated[index][:3] + (255,))
+                    if applied_mask_alpha[index] > 0 and pixels[index][3] > 0:
+                        masked_pixels.append(pixels[index][:3] + (min(pixels[index][3], applied_mask_alpha[index]),))
                     else:
                         masked_pixels.append((0, 0, 0, 0))
                 rgba.putdata(masked_pixels)
@@ -871,6 +879,8 @@ def render_model(
         args.engine,
     ]
 
+    if model_config.grid_aligned:
+        blender_command.append("--grid-aligned")
     if model_config.alpha_clip is not None:
         blender_command.extend(["--alpha-clip", str(model_config.alpha_clip)])
     if model_config.materials is not None:
@@ -899,14 +909,14 @@ def render_model(
     run_command(blender_command, cwd=root)
 
     render_manifest = load_json_object(render_metadata_file, "render metadata")
-    render_manifest = crop_rendered_textures_to_alpha(render_manifest, texture_output_dir)
+    render_manifest = crop_rendered_textures_to_alpha(render_manifest, texture_output_dir, model_config.grid_aligned)
     if model_config.alpha_mask is not None:
         render_manifest = apply_alpha_mask_to_textures(
             render_manifest,
             texture_output_dir,
             model_config.alpha_mask,
         )
-        render_manifest = crop_rendered_textures_to_alpha(render_manifest, texture_output_dir)
+        render_manifest = crop_rendered_textures_to_alpha(render_manifest, texture_output_dir, model_config.grid_aligned)
     render_manifest = apply_offset_overrides(
         render_manifest,
         offset_x=model_config.offset_x,

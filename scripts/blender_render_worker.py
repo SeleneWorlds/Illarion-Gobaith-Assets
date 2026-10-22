@@ -90,6 +90,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--fps", type=int, required=True)
     parser.add_argument("--scale", type=float, default=1.0)
     parser.add_argument("--alpha-clip", type=float, default=None)
+    parser.add_argument("--grid-aligned", action="store_true")
     parser.add_argument("--alpha-mask", type=Path, default=None)
     parser.add_argument("--materials-json", default=None)
     parser.add_argument("--include-object", action="append", dest="included_objects", default=None)
@@ -545,6 +546,7 @@ def configure_scene(scene: bpy.types.Scene, args: argparse.Namespace) -> None:
     if args.fps < 1:
         raise RuntimeError("--fps must be at least 1")
     render_size = max(512, args.tile_width * 8, args.tile_height * 16)
+    scene["sprite_grid_aligned"] = args.grid_aligned
     scene.render.engine = resolve_render_engine(scene, args.engine)
     scene.render.resolution_x = render_size
     scene.render.resolution_y = render_size
@@ -771,6 +773,18 @@ def position_camera(
         assert isinstance(camera, bpy.types.Camera)
         camera.ortho_scale = ortho_scale
     bpy.context.view_layer.update()
+    if scene.get("sprite_grid_aligned", False):
+        # Keep the world origin on an integer pixel boundary across model fits.
+        px, py = project_point_to_render_pixels(scene, camera_object, Vector((0, 0, 0)))
+        camera = camera_object.data
+        units_per_pixel = camera.ortho_scale / scene.render.resolution_y
+        rotation = camera_object.rotation_euler.to_matrix()
+        camera_object.location += rotation @ Vector((
+            (px - round(px)) * units_per_pixel,
+            (round(py) - py) * units_per_pixel,
+            0,
+        ))
+        bpy.context.view_layer.update()
 
 
 def calibrate_unit_cube_ortho_scale(
@@ -897,7 +911,7 @@ def apply_alpha_mask(file_path: Path, mask_path: Path) -> None:
                 f" mask size {(mask_width, mask_height)}, render size {(image_width, image_height)}",
                 file=sys.stderr,
             )
-        pixels = dilate_opaque_pixels(list(image.pixels[:]), image_width, image_height)
+        pixels = list(image.pixels[:])
         mask_pixels = list(mask.pixels[:])
         mask_offset_x = 0
         mask_offset_y = 0
@@ -930,7 +944,7 @@ def apply_alpha_mask(file_path: Path, mask_path: Path) -> None:
             mask_offset_y,
         )
         for index in range(3, len(pixels), 4):
-            pixels[index] = 1.0 if mask_alpha[index // 4] > 0.0 else 0.0
+            pixels[index] = min(pixels[index], mask_alpha[index // 4])
         image.pixels[:] = pixels
         image.filepath_raw = str(file_path)
         image.save()
@@ -1151,10 +1165,34 @@ def main() -> None:
 
     camera_object = ensure_camera(scene)
     rotation_targets = directional_rotation_targets(root, meshes)
+    if args.grid_aligned:
+        # Hidden Boolean operands are geometry dependencies, not visible meshes.
+        # Rotate them with the wall so openings survive directional renders.
+        pending = list(meshes)
+        visited = set()
+        while pending:
+            obj = pending.pop()
+            if obj.name in visited:
+                continue
+            visited.add(obj.name)
+            for modifier in obj.modifiers:
+                if modifier.type != "BOOLEAN":
+                    continue
+                operands = []
+                if modifier.operand_type == "COLLECTION" and modifier.collection:
+                    operands.extend(modifier.collection.all_objects)
+                elif modifier.object:
+                    operands.append(modifier.object)
+                for operand in operands:
+                    pending.append(operand)
+                    if operand not in rotation_targets and not any(
+                        is_descendant_of(operand, target) for target in rotation_targets
+                    ):
+                        rotation_targets.append(operand)
     base_states = {obj.name: capture_object_state(obj) for obj in rotation_targets}
     for obj in rotation_targets:
         obj.rotation_mode = "XYZ"
-    pivot = rotation_pivot(root, rotation_targets)
+    pivot = Vector((0, 0, 0)) if args.grid_aligned else rotation_pivot(root, rotation_targets)
 
     original_frame = scene.frame_current
     original_border_settings = (

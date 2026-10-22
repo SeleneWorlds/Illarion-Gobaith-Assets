@@ -10,5 +10,7 @@
       "Roughness": "roughness.jpg"
     }
   },
-  "direction": "east"
+  "direction": "east",
+  "gridAligned": true,
+  "alphaClip": 0.5
 }
