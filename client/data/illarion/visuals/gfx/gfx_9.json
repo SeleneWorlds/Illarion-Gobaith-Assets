@@ -16,7 +16,7 @@
     "client/textures/illarion/effects/fireball-9.png",
     "client/textures/illarion/effects/fireball-10.png"
   ],
-  "duration": 2.2,
+  "duration": 1.8,
   "instanced": true,
   "metadata": {
     "gfxId": 9

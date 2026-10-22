@@ -25,7 +25,7 @@
     "client/textures/illarion/effects/explo-18.png",
     "client/textures/illarion/effects/explo-19.png"
   ],
-  "duration": 2,
+  "duration": 0.9,
   "instanced": true,
   "metadata": {
     "gfxId": 44

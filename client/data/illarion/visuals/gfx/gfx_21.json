@@ -12,7 +12,7 @@
     "client/textures/illarion/effects/claw-5.png",
     "client/textures/illarion/effects/claw-6.png"
   ],
-  "duration": 0.35000000000000003,
+  "duration": 0.45,
   "instanced": true,
   "metadata": {
     "gfxId": 21

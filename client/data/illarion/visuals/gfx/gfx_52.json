@@ -29,7 +29,7 @@
     "client/textures/illarion/effects/sprinkle-22.png",
     "client/textures/illarion/effects/sprinkle-23.png"
   ],
-  "duration": 7.199999999999999,
+  "duration": 2.7,
   "instanced": true,
   "metadata": {
     "gfxId": 52

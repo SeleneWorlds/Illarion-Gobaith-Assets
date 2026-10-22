@@ -24,7 +24,7 @@
     "client/textures/illarion/effects/spell-17.png",
     "client/textures/illarion/effects/spell-18.png"
   ],
-  "duration": 3.1666666666666665,
+  "duration": 1.5,
   "instanced": true,
   "metadata": {
     "gfxId": 6

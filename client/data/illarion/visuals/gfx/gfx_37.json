@@ -26,7 +26,7 @@
     "client/textures/illarion/effects/light-19.png",
     "client/textures/illarion/effects/light-20.png"
   ],
-  "duration": 5.25,
+  "duration": 2.25,
   "instanced": true,
   "metadata": {
     "gfxId": 37

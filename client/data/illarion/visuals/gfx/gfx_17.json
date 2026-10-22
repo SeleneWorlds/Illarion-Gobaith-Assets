@@ -13,7 +13,7 @@
     "client/textures/illarion/effects/sword-6.png",
     "client/textures/illarion/effects/sword-7.png"
   ],
-  "duration": 0.5333333333333333,
+  "duration": 0.6,
   "instanced": true,
   "metadata": {
     "gfxId": 17

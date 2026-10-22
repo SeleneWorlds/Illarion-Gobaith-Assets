@@ -20,7 +20,7 @@
     "client/textures/illarion/effects/ice-13.png",
     "client/textures/illarion/effects/ice-14.png"
   ],
-  "duration": 2.5,
+  "duration": 1.5,
   "instanced": true,
   "metadata": {
     "gfxId": 3

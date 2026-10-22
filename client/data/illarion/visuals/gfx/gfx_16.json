@@ -22,7 +22,7 @@
     "client/textures/illarion/effects/rain-15.png",
     "client/textures/illarion/effects/rain-16.png"
   ],
-  "duration": 2.833333333333333,
+  "duration": 1.5,
   "instanced": true,
   "metadata": {
     "gfxId": 16

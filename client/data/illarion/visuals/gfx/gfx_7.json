@@ -15,7 +15,7 @@
     "client/textures/illarion/effects/wind-8.png",
     "client/textures/illarion/effects/wind-9.png"
   ],
-  "duration": 1.6666666666666665,
+  "duration": 1.5,
   "instanced": true,
   "metadata": {
     "gfxId": 7

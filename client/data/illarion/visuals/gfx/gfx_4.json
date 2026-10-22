@@ -16,7 +16,7 @@
     "client/textures/illarion/effects/elffire-9.png",
     "client/textures/illarion/effects/elffire-10.png"
   ],
-  "duration": 1.4666666666666666,
+  "duration": 1.2,
   "instanced": true,
   "metadata": {
     "gfxId": 4

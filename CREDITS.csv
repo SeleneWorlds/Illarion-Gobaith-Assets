@@ -458,3 +458,41 @@ tiles/sand.png,CC0,BlayTheNinth; CC0 Textures,https://seleneworlds.com; https://
 tiles/snow.png,CC0,CC0 Textures,https://cc0-textures.com/t/cc0t-snow-003
 tiles/wall.png,CC0,Share Textures,https://cc0-textures.com/t/st-concrete-27
 tiles/water/*.png,CC0,BlayTheNinth,https://seleneworlds.com
+client/textures/illarion/effects/fireball-*.png,CC0,Selene Worlds,
+client/textures/illarion/effects/elffire-*.png,CC0,Selene Worlds,
+client/textures/illarion/effects/fizzle-*.png,CC0,Selene Worlds,
+client/textures/illarion/effects/giftwolke-*.png,CC0,Selene Worlds,
+client/textures/illarion/effects/stars-[0-9]*.png,CC0,BlayTheNinth; Kenney,https://seleneworlds.com; https://opengameart.org/content/particle-pack-80-sprites
+client/textures/illarion/effects/rain-[0-9]*.png,CC0,BlayTheNinth; Kenney,https://seleneworlds.com; https://opengameart.org/content/particle-pack-80-sprites
+client/textures/illarion/effects/blood-[0-9]*.png,CC0,BlayTheNinth; Kenney,https://seleneworlds.com; https://opengameart.org/content/particle-pack-80-sprites
+client/textures/illarion/effects/demfire-[0-9]*.png,CC0,BlayTheNinth; Kenney,https://seleneworlds.com; https://opengameart.org/content/particle-pack-80-sprites
+client/textures/illarion/effects/scotty-[0-9]*.png,CC0,Selene Worlds,
+client/textures/illarion/effects/splash-[0-9]*.png,CC0,Selene Worlds,
+client/textures/illarion/effects/explo-[0-9]*.png,CC0,Selene Worlds,
+client/textures/illarion/effects/fire_field-[0-9]*.png,CC0,Selene Worlds,
+client/textures/illarion/effects/fall-[0-9]*.png,CC0,Selene Worlds,
+client/textures/illarion/effects/flamestrike-[0-9]*.png,CC0,Selene Worlds,
+client/textures/illarion/effects/glowing-[0-9]*.png,CC0,Selene Worlds,
+client/textures/illarion/effects/light-[0-9]*.png,CC0,Selene Worlds,
+client/textures/illarion/effects/violett-[0-9]*.png,CC0,Selene Worlds,
+client/textures/illarion/effects/sun-[0-9]*.png,CC0,Selene Worlds,
+client/textures/illarion/effects/sprinkle-[0-9]*.png,CC0,Selene Worlds,
+client/textures/illarion/effects/wind-[0-9]*.png,CC0,Selene Worlds,
+client/textures/illarion/effects/ice-[0-9]*.png,CC0,Selene Worlds,
+client/textures/illarion/effects/platsch-[0-9]*.png,CC0,Selene Worlds,
+client/textures/illarion/effects/blitz-[0-9]*.png,CC0,Selene Worlds,
+client/textures/illarion/effects/spell-[0-9]*.png,CC0,Selene Worlds,
+particles/sources/bow.png,CC0,johnnytal; Kenney,https://opengameart.org/content/bow-and-arrow-spritesheet
+client/textures/illarion/effects/bow-[0-9]*.png,CC0,johnnytal; Kenney,https://opengameart.org/content/bow-and-arrow-spritesheet
+particles/sources/sword.png,CC0,AntumDeluge and collection contributors,https://opengameart.org/content/cc0-sword-icons
+client/textures/illarion/effects/sword-[0-9]*.png,CC0,AntumDeluge and collection contributors,https://opengameart.org/content/cc0-sword-icons
+particles/sources/dagger.png,CC0,AntumDeluge and collection contributors,https://opengameart.org/content/cc0-sword-icons
+client/textures/illarion/effects/dagger-[0-9]*.png,CC0,AntumDeluge and collection contributors,https://opengameart.org/content/cc0-sword-icons
+particles/sources/mace.png,CC0,AntumDeluge and collection contributors,https://opengameart.org/content/cc0-stave-icons
+client/textures/illarion/effects/mace-[0-9]*.png,CC0,AntumDeluge and collection contributors,https://opengameart.org/content/cc0-stave-icons
+particles/sources/shield.png,CC0,AntumDeluge and collection contributors,https://opengameart.org/content/cc0-shield-icons
+client/textures/illarion/effects/shield-[0-9]*.png,CC0,AntumDeluge and collection contributors,https://opengameart.org/content/cc0-shield-icons
+particles/sources/claw.png,CC0,AntumDeluge and collection contributors,https://opengameart.org/content/cc0-hand-wear-icons
+client/textures/illarion/effects/claw-[0-9]*.png,CC0,AntumDeluge and collection contributors,https://opengameart.org/content/cc0-hand-wear-icons
+particles/sources/boxing.png,CC0,AntumDeluge and collection contributors,https://opengameart.org/content/cc0-hand-wear-icons
+client/textures/illarion/effects/boxing-[0-9]*.png,CC0,AntumDeluge and collection contributors,https://opengameart.org/content/cc0-hand-wear-icons

@@ -21,7 +21,7 @@
     "client/textures/illarion/effects/glowing-14.png",
     "client/textures/illarion/effects/glowing-15.png"
   ],
-  "duration": 3.466666666666667,
+  "duration": 1.95,
   "instanced": true,
   "metadata": {
     "gfxId": 31

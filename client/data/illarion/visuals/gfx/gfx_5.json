@@ -22,7 +22,7 @@
     "client/textures/illarion/effects/demfire-15.png",
     "client/textures/illarion/effects/demfire-16.png"
   ],
-  "duration": 4.25,
+  "duration": 2.25,
   "instanced": true,
   "metadata": {
     "gfxId": 5

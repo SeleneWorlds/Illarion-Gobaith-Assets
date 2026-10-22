@@ -20,7 +20,7 @@
     "client/textures/illarion/effects/splash-13.png",
     "client/textures/illarion/effects/splash-14.png"
   ],
-  "duration": 2.5,
+  "duration": 1.5,
   "instanced": true,
   "metadata": {
     "gfxId": 45

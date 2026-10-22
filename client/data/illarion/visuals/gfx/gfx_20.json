@@ -11,7 +11,7 @@
     "client/textures/illarion/effects/dagger-4.png",
     "client/textures/illarion/effects/dagger-5.png"
   ],
-  "duration": 0.4,
+  "duration": 0.6,
   "instanced": true,
   "metadata": {
     "gfxId": 20

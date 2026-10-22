@@ -10,7 +10,7 @@
     "client/textures/illarion/effects/platsch-3.png",
     "client/textures/illarion/effects/platsch-4.png"
   ],
-  "duration": 0.6666666666666666,
+  "duration": 1.2,
   "instanced": true,
   "metadata": {
     "gfxId": 11

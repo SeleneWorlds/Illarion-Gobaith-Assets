@@ -12,7 +12,7 @@
     "client/textures/illarion/effects/mace-5.png",
     "client/textures/illarion/effects/mace-6.png"
   ],
-  "duration": 0.4666666666666667,
+  "duration": 0.6,
   "instanced": true,
   "metadata": {
     "gfxId": 19

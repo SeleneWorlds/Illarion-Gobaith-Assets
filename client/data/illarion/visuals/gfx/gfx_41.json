@@ -25,7 +25,7 @@
     "client/textures/illarion/effects/stars-18.png",
     "client/textures/illarion/effects/stars-19.png"
   ],
-  "duration": 5,
+  "duration": 2.25,
   "instanced": true,
   "metadata": {
     "gfxId": 41

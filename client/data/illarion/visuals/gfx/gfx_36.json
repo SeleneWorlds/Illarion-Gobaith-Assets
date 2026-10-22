@@ -25,7 +25,7 @@
     "client/textures/illarion/effects/flamestrike-18.png",
     "client/textures/illarion/effects/flamestrike-19.png"
   ],
-  "duration": 4,
+  "duration": 1.8,
   "instanced": true,
   "metadata": {
     "gfxId": 36

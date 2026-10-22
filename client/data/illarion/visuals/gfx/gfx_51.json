@@ -18,7 +18,7 @@
     "client/textures/illarion/effects/violett-11.png",
     "client/textures/illarion/effects/violett-12.png"
   ],
-  "duration": 2.1666666666666665,
+  "duration": 1.5,
   "instanced": true,
   "metadata": {
     "gfxId": 51

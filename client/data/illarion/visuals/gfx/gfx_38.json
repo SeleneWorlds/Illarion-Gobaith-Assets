@@ -10,7 +10,7 @@
     "client/textures/illarion/effects/fire_field-3.png",
     "client/textures/illarion/effects/fire_field-4.png"
   ],
-  "duration": 0.25,
+  "duration": 0.45,
   "instanced": true,
   "metadata": {
     "gfxId": 38
