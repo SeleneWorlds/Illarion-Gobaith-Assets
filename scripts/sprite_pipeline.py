@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import math
 import shutil
 import subprocess
 import sys
@@ -45,6 +46,7 @@ class ModelConfig:
     visual: str
     scale: float
     grid_aligned: bool
+    translation: tuple[float, float, float]
     materials: dict[str, dict[str, Path]] | None
     fps: int
     alpha_clip: float | None
@@ -318,6 +320,15 @@ def load_model_config_from_raw(
         raise ValueError(f"{path}: field 'fps' must be a positive integer when present")
     if not isinstance(raw.get("gridAligned", False), bool):
         raise ValueError(f"{path}: gridAligned must be a boolean")
+    translation = raw.get("translation", [0, 0, 0])
+    if (
+        not isinstance(translation, list) or len(translation) != 3
+        or any(isinstance(v, bool) or not isinstance(v, (int, float))
+               or not math.isfinite(v) for v in translation)
+    ):
+        raise ValueError(f"{path}: translation must contain three finite numbers")
+    if "translation" in raw and not raw.get("gridAligned", False):
+        raise ValueError(f"{path}: translation requires gridAligned")
     alpha_clip = optional_unit_interval_number(raw, "alphaClip", path)
     alpha_mask = optional_alpha_mask_path(raw, path, root)
     if alpha_clip is not None and alpha_mask is not None:
@@ -331,6 +342,7 @@ def load_model_config_from_raw(
         scale=require_positive_number(raw, "scale", path) if "scale" in raw else 1.0,
         materials=optional_material_overrides(raw, path),
         grid_aligned=raw.get("gridAligned", False),
+        translation=tuple(float(v) for v in translation),
         fps=fps,
         alpha_clip=alpha_clip,
         alpha_mask=alpha_mask,
@@ -881,6 +893,7 @@ def render_model(
 
     if model_config.grid_aligned:
         blender_command.append("--grid-aligned")
+        blender_command.extend(["--translation", *(str(v) for v in model_config.translation)])
     if model_config.alpha_clip is not None:
         blender_command.extend(["--alpha-clip", str(model_config.alpha_clip)])
     if model_config.materials is not None:

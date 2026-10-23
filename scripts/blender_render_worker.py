@@ -91,6 +91,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--scale", type=float, default=1.0)
     parser.add_argument("--alpha-clip", type=float, default=None)
     parser.add_argument("--grid-aligned", action="store_true")
+    parser.add_argument("--translation", nargs=3, type=float, default=(0, 0, 0))
     parser.add_argument("--alpha-mask", type=Path, default=None)
     parser.add_argument("--materials-json", default=None)
     parser.add_argument("--include-object", action="append", dest="included_objects", default=None)
@@ -1202,6 +1203,12 @@ def main() -> None:
                         is_descendant_of(operand, target) for target in rotation_targets
                     ):
                         rotation_targets.append(operand)
+    # Translate in model coordinates before directional rotation. The tile
+    # origin remains fixed, so sprite offsets follow from the projected mesh.
+    for obj in rotation_targets:
+        if not any(is_descendant_of(obj, target) for target in rotation_targets):
+            obj.location += Vector(args.translation)
+    bpy.context.view_layer.update()
     base_states = {obj.name: capture_object_state(obj) for obj in rotation_targets}
     for obj in rotation_targets:
         obj.rotation_mode = "XYZ"

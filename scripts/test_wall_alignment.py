@@ -84,6 +84,17 @@ class WallAlignmentTests(unittest.TestCase):
                     self.assertEqual((visual['offsetX'], visual['offsetY']), expected)
                     self.assertEqual(sprite.size, (80, 230))
 
+    def test_north_window_and_south_pillar_use_the_correct_edge(self):
+        for item, expected in ((318, (-24, -8)), (262, (0, -32))):
+            with self.subTest(item=item):
+                _, visual = wall(item)
+                self.assertEqual((visual['offsetX'], visual['offsetY']), expected)
+        # The pillar must meet both front faces of the southwest corner at
+        # ground level, whose frontmost point is 32 pixels below tile origin.
+        pillar, visual = wall(262)
+        self.assertEqual(-visual['offsetY'], 32)
+        self.assertEqual(pillar.width, 32)
+
     def test_open_doors_retain_their_cutouts(self):
         for item in (86, 87, 317, 927, 928):
             with self.subTest(item=item):
@@ -102,7 +113,7 @@ class WallAlignmentTests(unittest.TestCase):
                 self.assertEqual(alpha.getpixel((sprite.width - 5, cy)), 255)
 
     def test_rotated_window_retains_its_cutout(self):
-        for item in (37, 38):
+        for item in (37, 38, 318):
             with self.subTest(item=item):
                 sprite, _ = wall(item)
                 alpha = sprite.getchannel('A')

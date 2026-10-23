@@ -34,6 +34,11 @@ placement exactly. Offsets are calculated from the projected origin rather than
 set by hand. Adjacent tiles are separated by 64 pixels horizontally and 32
 pixels vertically.
 
+A grid-aligned config may set `translation: [x, y, z]` in model units before
+rotation. For example, the south pillar uses `[-0.375, -0.375, 0]` with the
+south direction to place its quarter-tile footprint at the front corner.
+Its sprite offsets are still calculated from the tile origin.
+
 Run the regression checks after rendering:
 
 ```sh
