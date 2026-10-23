@@ -3,5 +3,6 @@
   "sprites": "illarion/items/item_877",
   "visual": "items/item_877",
   "direction": "south",
+  "surfaceOffsetY": 60,
   "scale": 1
 }
