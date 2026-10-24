@@ -104,7 +104,6 @@ client/textures/illarion/items/leggings_chain.png,CC0,Flare,https://opengameart.
 client/textures/illarion/items/leggings_cloth.png,CC0,BlayTheNinth; Flare,https://seleneworlds.com; https://opengameart.org/content/cc0-leggings-icons
 client/textures/illarion/items/leggings_leather.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
 client/textures/illarion/items/leggings_plate.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
-client/textures/illarion/items/lockpicks.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
 client/textures/illarion/items/logs.png,CC0,Melissa Krautheim,https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/medal.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
 client/textures/illarion/items/mirror.png,CC0,BlayTheNinth; Idylwild,https://seleneworlds.com; https://opengameart.org/content/idylwilds-inventory
@@ -502,3 +501,4 @@ models/items/ore/ore.blend,CC0,sandsound,https://opengameart.org/content/invento
 models/items/plate/green_plate.blend,CC0,System G6,https://opengameart.org/content/medieval-tavern-props-pack
 models/items/pan/pan.blend,CC-BY 3.0,Ouren (Wolfgang Wozniak),https://opengameart.org/content/frying-pan
 models/items/cutlery/cutlery.blend,CC-BY-SA 3.0,p0ss,https://opengameart.org/content/cutlery-pack
+models/items/carving_tools/carving_tools.blend,CC-BY-SA 3.0,p0ss,https://opengameart.org/content/cutlery-pack

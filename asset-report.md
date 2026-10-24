@@ -45,7 +45,6 @@
 - `client/textures/illarion/items/item_23.png` used by 4 visuals: `items/item_122`, `items/item_226`, `items/item_23`, `items/item_2709`
 - `client/textures/illarion/items/item_230.png` used by 4 visuals: `items/item_230`, `items/item_231`, `items/item_2728`, `items/item_2737`
 - `client/textures/illarion/items/leather_armor.png` used by 4 visuals: `items/item_362`, `items/item_363`, `items/item_364`, `items/item_365`
-- `client/textures/illarion/items/lockpicks.png` used by 4 visuals: `items/item_2647`, `items/item_2752`, `items/item_739`, `items/item_99`
 - `client/textures/illarion/items/logs.png` used by 4 visuals: `items/item_2560`, `items/item_3`, `items/item_543`, `items/item_544`
 - `client/textures/illarion/items/planks.png` used by 4 visuals: `items/item_2543`, `items/item_2716`, `items/item_545`, `items/item_546`
 - `client/textures/illarion/items/leggings_plate.png` used by 3 visuals: `items/item_2116`, `items/item_2117`, `items/item_2172`

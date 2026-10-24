@@ -1,0 +1,13 @@
+{
+  "model": "carving_tools.blend",
+  "sprites": "illarion/items/item_2752",
+  "visual": "items/item_2752",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "WoodenSpoon",
+    "WoodenKnife",
+    "WoodenStickA",
+    "WoodenStickB"
+  ]
+}
