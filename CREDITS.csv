@@ -123,10 +123,10 @@ client/textures/illarion/items/pincers.png,CC0,Glitch,https://opengameart.org/co
 client/textures/illarion/items/planks.png,CC0,Melissa Krautheim,https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/plate.png,CC0,BlayTheNinth; Idylwild,https://seleneworlds.com; https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/plate_dish.png,CC0,BlayTheNinth; Idylwild,https://seleneworlds.com; https://opengameart.org/content/idylwilds-inventory
-client/textures/illarion/items/pure_air.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/dragon-eggs
-client/textures/illarion/items/pure_earth.png,CC0,Melissa Krautheim,https://opengameart.org/content/dragon-eggs
-client/textures/illarion/items/pure_fire.png,CC0,Melissa Krautheim,https://opengameart.org/content/dragon-eggs
-client/textures/illarion/items/pure_water.png,CC0,Melissa Krautheim,https://opengameart.org/content/dragon-eggs
+client/textures/illarion/items/pure_air.png,CC0,Selene contributors (procedural),scripts/render_pure_elements.py
+client/textures/illarion/items/pure_earth.png,CC0,Selene contributors (procedural),scripts/render_pure_elements.py
+client/textures/illarion/items/pure_fire.png,CC0,Selene contributors (procedural),scripts/render_pure_elements.py
+client/textures/illarion/items/pure_water.png,CC0,Selene contributors (procedural),scripts/render_pure_elements.py
 client/textures/illarion/items/raw_hide.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/red_berries.png,CC0,Melissa Krautheim,https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/red_potion.png,CC0,Melissa Krautheim,https://opengameart.org/content/fantasy-magic-set

@@ -129,3 +129,16 @@ All contributed files must be listed in [CREDITS.csv](./CREDITS.csv) alongside t
 Assets must be under an Open Source license. Proprietary assets are not accepted as part of this bundle.
 
 Submissions must either be handmade or procedurally generated; AI-generated assets will not be accepted.
+
+## Procedural pure elements
+
+The pure water, fire, earth, and air items use original glossy drop sprites,
+rendered without image inputs. Regenerate them with NumPy and Pillow:
+
+```sh
+python3 scripts/render_pure_elements.py
+```
+
+The generator preserves each item's texture dimensions and placement. Use
+`--output-dir` for experiments and `--preview /tmp/pure-elements.png` for an
+enlarged comparison sheet.
