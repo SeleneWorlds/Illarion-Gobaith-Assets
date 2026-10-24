@@ -1,0 +1,7 @@
+{
+  "model": "pork.blend",
+  "sprites": "illarion/items/item_307",
+  "visual": "items/item_307",
+  "direction": "south",
+  "scale": 1.25
+}
