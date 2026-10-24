@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
   "offsetX": 0,
-  "offsetY": -12,
-  "texture": "client/textures/illarion/items/poison_arrow.png",
+  "offsetY": -5,
+  "texture": "client/textures/illarion/items/item_549.png",
   "metadata": {
     "itemId": 549
-  }
+  },
+  "surfaceOffsetY": 0
 }
