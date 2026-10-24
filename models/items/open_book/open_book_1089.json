@@ -1,0 +1,10 @@
+{
+  "model": "open_book.blend",
+  "sprites": "illarion/items/item_1089",
+  "visual": "items/item_1089",
+  "direction": "west",
+  "scale": 0.9,
+  "include": [
+    "book07Open"
+  ]
+}

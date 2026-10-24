@@ -1,0 +1,11 @@
+{
+  "model": "emerald.blend",
+  "sprites": "illarion/items/item_45",
+  "visual": "items/item_45",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "EmeraldCut"
+  ],
+  "reflections": "studio"
+}

@@ -1,0 +1,10 @@
+{
+  "model": "bolt.blend",
+  "sprites": "illarion/items/item_237",
+  "visual": "items/item_237",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "bolt"
+  ]
+}

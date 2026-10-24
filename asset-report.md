@@ -61,7 +61,6 @@
 - `client/textures/illarion/items/cabbage.png` used by 2 visuals: `items/item_290`, `items/item_291`
 - `client/textures/illarion/items/chainmail.png` used by 2 visuals: `items/item_101`, `items/item_2399`
 - `client/textures/illarion/items/crucible.png` used by 2 visuals: `items/item_2747`, `items/item_2748`
-- `client/textures/illarion/items/feather.png` used by 2 visuals: `items/item_2696`, `items/item_463`
 - `client/textures/illarion/items/fish.png` used by 2 visuals: `items/item_355`, `items/item_73`
 - `client/textures/illarion/items/leggings_chain.png` used by 2 visuals: `items/item_2111`, `items/item_2112`
 - `client/textures/illarion/items/longbow.png` used by 2 visuals: `items/item_2708`, `items/item_2718`

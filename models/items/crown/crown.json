@@ -1,0 +1,14 @@
+{
+  "model": "crown.blend",
+  "sprites": "illarion/items/item_225",
+  "visual": "items/item_225",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "Ball",
+    "Crown",
+    "Cushion",
+    "Ruby"
+  ],
+  "reflections": "studio"
+}
