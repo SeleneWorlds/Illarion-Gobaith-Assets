@@ -64,7 +64,6 @@
 - `client/textures/illarion/items/peel.png` used by 2 visuals: `items/item_121`, `items/item_312`
 - `client/textures/illarion/items/raw_hide.png` used by 2 visuals: `items/item_2586`, `items/item_69`
 - `client/textures/illarion/items/shield_round.png` used by 2 visuals: `items/item_17`, `items/item_186`
-- `client/textures/illarion/items/stones.png` used by 2 visuals: `items/item_733`, `items/item_735`
 - `client/textures/illarion/items/trowel.png` used by 2 visuals: `items/item_100`, `items/item_382`
 
 ## Missing New (63 visuals)
