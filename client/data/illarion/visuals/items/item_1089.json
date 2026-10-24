@@ -2,7 +2,7 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "offsetX": 0,
-  "offsetY": -27,
+  "offsetY": -21,
   "texture": "client/textures/illarion/items/item_1089.png",
   "metadata": {
     "itemId": 1089
