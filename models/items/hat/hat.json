@@ -1,0 +1,8 @@
+{
+  "model": "hat.blend",
+  "sprites": "illarion/items/item_356",
+  "visual": "items/item_356",
+  "direction": "west",
+  "scale": 0.4,
+  "include": ["Hat"]
+}
