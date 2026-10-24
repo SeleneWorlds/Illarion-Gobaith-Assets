@@ -1,0 +1,15 @@
+{
+  "model": "ore.blend",
+  "sprites": "illarion/items/item_2536",
+  "visual": "items/item_2536",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "CopperChunk_01",
+    "CopperChunk_02",
+    "CopperChunk_03",
+    "CopperChunk_04",
+    "CopperChunk_05"
+  ],
+  "reflections": "studio"
+}

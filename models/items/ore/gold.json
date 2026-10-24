@@ -1,0 +1,15 @@
+{
+  "model": "ore.blend",
+  "sprites": "illarion/items/item_234",
+  "visual": "items/item_234",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "GoldChunk_01",
+    "GoldChunk_02",
+    "GoldChunk_03",
+    "GoldChunk_04",
+    "GoldChunk_05"
+  ],
+  "reflections": "studio"
+}

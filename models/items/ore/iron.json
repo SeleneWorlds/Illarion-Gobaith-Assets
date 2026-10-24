@@ -1,0 +1,15 @@
+{
+  "model": "ore.blend",
+  "sprites": "illarion/items/item_22",
+  "visual": "items/item_22",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "IronChunk_01",
+    "IronChunk_02",
+    "IronChunk_03",
+    "IronChunk_04",
+    "IronChunk_05"
+  ],
+  "reflections": "studio"
+}
