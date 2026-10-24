@@ -1,0 +1,11 @@
+{
+  "model": "rings.blend",
+  "sprites": "illarion/items/item_2559",
+  "visual": "items/item_2559",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "Ouroboros"
+  ],
+  "reflections": "studio"
+}

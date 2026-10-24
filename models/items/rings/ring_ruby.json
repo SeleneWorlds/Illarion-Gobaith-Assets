@@ -1,0 +1,11 @@
+{
+  "model": "rings.blend",
+  "sprites": "illarion/items/item_68",
+  "visual": "items/item_68",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "RubyRing"
+  ],
+  "reflections": "studio"
+}

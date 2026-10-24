@@ -1,0 +1,11 @@
+{
+  "model": "rings.blend",
+  "sprites": "illarion/items/item_277",
+  "visual": "items/item_277",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "GoldenAmethystRing"
+  ],
+  "reflections": "studio"
+}
