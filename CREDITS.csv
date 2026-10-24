@@ -330,15 +330,11 @@ models/furniture/vase/vase.blend,CC0,rubberduck,https://opengameart.org/content/
 models/furniture/wall_torch/wall_torch.blend,CC0,System G6,https://opengameart.org/content/medieval-tavern-props-pack
 models/furniture/wine_barrel/wine_barrel.blend,CC0,BlayTheNinth; mastahcez,https://seleneworlds.com; https://opengameart.org/content/crate-barrel-bundle
 models/items/axe/axe.blend,CC0,kev93,https://opengameart.org/content/low-poly-axe-0
-models/items/hammer/hammer.blend,CC0,System G6,https://opengameart.org/content/medieval-tools-pack
 models/items/hammer/hammerhead.blend,CC0,BlayTheNinth; System G6,https://seleneworlds.com; https://opengameart.org/content/medieval-tools-pack
 models/items/handle/handle.blend,CC0,BlayTheNinth; kev93,https://seleneworlds.com; https://opengameart.org/content/low-poly-axe-0
 models/items/mace/mace.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
-models/items/pickaxe/pickaxe.blend,CC0,System G6,https://opengameart.org/content/medieval-tools-pack
 models/items/rolling_pin/rolling_pin.blend,CC0,BlayTheNinth,https://seleneworlds.com
-models/items/saw/saw.blend,CC0,System G6,https://opengameart.org/content/medieval-tools-pack
 models/items/scythe/scythe.blend,CC0,System G6,https://opengameart.org/content/medieval-tools-pack
-models/items/sickle/sickle.blend,CC0,System G6,https://opengameart.org/content/medieval-tools-pack
 models/items/snowball/snowball.blend,CC0,oceancucumber,https://opengameart.org/content/low-poly-snow-ball
 models/misc/beehive.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/misc/bonepile/bonepile.blend,CC0,BlayTheNinth; Paul Wortmann,https://seleneworlds.com; https://opengameart.org/content/spiked-head-and-skull
@@ -501,3 +497,20 @@ models/items/bowl/bowl.blend,CC-BY 3.0,Clint Bellanger,https://opengameart.org/c
 models/items/ingot/ingot.blend,CC-BY 3.0,Scribe,https://opengameart.org/content/gold-treasure
 models/items/coins/coins.blend,CC-BY 3.0,Scribe,https://opengameart.org/content/gold-treasure
 models/items/shovel/shovel.blend,CC0,System G6,https://opengameart.org/content/medieval-tools-pack
+models/items/saw/saw.blend,CC0,sandsound,https://opengameart.org/content/inventory-items
+models/items/sapphire/sapphire.blend,CC0,sandsound,https://opengameart.org/content/inventory-items
+models/items/ruby/ruby.blend,CC0,sandsound,https://opengameart.org/content/inventory-items
+models/items/sickle/sickle.blend,CC0,sandsound,https://opengameart.org/content/inventory-items
+models/items/lockpick/lockpick.blend,CC0,sandsound,https://opengameart.org/content/inventory-items
+models/items/chisel/chisel.blend,CC0,sandsound,https://opengameart.org/content/inventory-items
+models/items/tongs/tongs.blend,CC0,sandsound,https://opengameart.org/content/inventory-items
+models/items/pickaxe/pickaxe.blend,CC0,sandsound,https://opengameart.org/content/inventory-items
+models/items/mortar/mortar.blend,CC0,sandsound,https://opengameart.org/content/inventory-items
+models/items/hammer/hammer.blend,CC0,sandsound,https://opengameart.org/content/inventory-items
+models/items/book/book.blend,CC0,sandsound,https://opengameart.org/content/inventory-items
+models/items/fishingrod/fishingrod.blend,CC0,sandsound,https://opengameart.org/content/inventory-items
+models/items/quill/quill.blend,CC0,sandsound,https://opengameart.org/content/inventory-items
+models/items/branch/branch.blend,CC0,sandsound,https://opengameart.org/content/inventory-items
+models/items/strawberry/strawberry.blend,CC0,sandsound,https://opengameart.org/content/inventory-items
+models/items/carrot/carrot.blend,CC0,sandsound,https://opengameart.org/content/inventory-items
+models/items/trout/trout.blend,CC0,sandsound,https://opengameart.org/content/inventory-items

@@ -1,0 +1,10 @@
+{
+  "model": "branch.blend",
+  "sprites": "illarion/items/item_2786",
+  "visual": "items/item_2786",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "branch"
+  ]
+}

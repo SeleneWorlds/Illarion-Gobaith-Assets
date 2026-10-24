@@ -1,0 +1,10 @@
+{
+  "model": "tongs.blend",
+  "sprites": "illarion/items/item_2140",
+  "visual": "items/item_2140",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "tongs"
+  ]
+}

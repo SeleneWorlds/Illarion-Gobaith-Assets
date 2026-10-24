@@ -3,5 +3,8 @@
   "sprites": "illarion/items/item_23",
   "visual": "items/item_23",
   "direction": "west",
-  "scale": 1
+  "scale": 1,
+  "include": [
+    "hammer"
+  ]
 }

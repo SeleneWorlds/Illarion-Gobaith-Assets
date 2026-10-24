@@ -1,0 +1,10 @@
+{
+  "model": "lockpick.blend",
+  "sprites": "illarion/items/item_739",
+  "visual": "items/item_739",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "lockpick"
+  ]
+}

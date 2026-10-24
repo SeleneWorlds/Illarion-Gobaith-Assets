@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
   "offsetX": 0,
-  "offsetY": -14,
-  "texture": "client/textures/illarion/items/mortar_and_pestle.png",
+  "offsetY": -8,
+  "texture": "client/textures/illarion/items/item_58.png",
   "metadata": {
     "itemId": 58
-  }
+  },
+  "surfaceOffsetY": 0
 }

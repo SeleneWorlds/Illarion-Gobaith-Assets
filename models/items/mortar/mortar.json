@@ -1,0 +1,10 @@
+{
+  "model": "mortar.blend",
+  "sprites": "illarion/items/item_58",
+  "visual": "items/item_58",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "mortar"
+  ]
+}

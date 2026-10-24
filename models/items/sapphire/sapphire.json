@@ -1,0 +1,11 @@
+{
+  "model": "sapphire.blend",
+  "sprites": "illarion/items/item_284",
+  "visual": "items/item_284",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "sapphire"
+  ],
+  "reflections": "studio"
+}
