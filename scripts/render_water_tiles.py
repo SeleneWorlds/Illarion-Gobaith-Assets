@@ -114,9 +114,11 @@ def fbm(u: float, v: float, time_phase: float, seed: int) -> float:
 
 
 def sample_height(u: float, v: float, time_phase: float, seed: int) -> float:
+    time_phase %= 1.0
     angle = time_phase * math.tau
-    flow_u = fract(u + 0.018 * math.cos(angle * 0.6))
-    flow_v = fract(v + time_phase * 0.12)
+    # Return the flow and every wave phase to their starting values each loop.
+    flow_u = fract(u + 0.018 * math.cos(angle))
+    flow_v = fract(v + (0.12 / math.tau) * math.sin(angle))
 
     bend = (tileable_value_noise(fract(flow_u * 1.1), fract(flow_v * 0.9), 6, seed + 101) - 0.5) * 0.20
     shear = (tileable_value_noise(fract(flow_u * 0.8), fract(flow_v * 1.3), 4, seed + 202) - 0.5) * 0.10
@@ -124,7 +126,7 @@ def sample_height(u: float, v: float, time_phase: float, seed: int) -> float:
 
     phase = flow_v + bend + shear + micro
     ridge_a = math.sin(phase * math.tau * 4.0 - angle * 1.0 + flow_u * math.tau * 0.35)
-    ridge_b = math.sin(phase * math.tau * 6.9 - angle * 1.6 - flow_u * math.tau * 0.22)
+    ridge_b = math.sin(phase * math.tau * 6.9 - angle * 2.0 - flow_u * math.tau * 0.22)
     ridge_c = math.sin(phase * math.tau * 9.5 - angle * 2.0 + flow_u * math.tau * 0.14)
 
     envelope = tileable_value_noise(fract(flow_u * 0.9), fract(flow_v * 0.7), 5, seed + 404) - 0.5
