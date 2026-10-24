@@ -3,7 +3,7 @@
   "sprites": "illarion/items/item_737",
   "visual": "items/item_737",
   "direction": "west",
-  "scale": 1,
+  "scale": 1.2,
   "include": [
     "chisel"
   ]
