@@ -29,7 +29,6 @@
 - `client/textures/illarion/items/pincers.png` used by 8 visuals: `items/item_2140`, `items/item_2699`, `items/item_2700`, `items/item_2749`, `items/item_2750`, `items/item_2751`, `items/item_2753`, `items/item_430`
 - `client/textures/illarion/items/plate_dish.png` used by 8 visuals: `items/item_2277`, `items/item_2459`, `items/item_2922`, `items/item_554`, `items/item_555`, `items/item_556`, `items/item_557`, `items/item_559`
 - `client/textures/illarion/items/scroll.png` used by 8 visuals: `items/item_3109`, `items/item_3110`, `items/item_3111`, `items/item_3112`, `items/item_3113`, `items/item_3114`, `items/item_3115`, `items/item_3116`
-- `client/textures/illarion/items/gem_dust.png` used by 7 visuals: `items/item_446`, `items/item_447`, `items/item_448`, `items/item_449`, `items/item_450`, `items/item_451`, `items/item_452`
 - `client/textures/illarion/items/blade.png` used by 6 visuals: `items/item_2562`, `items/item_2563`, `items/item_2564`, `items/item_2565`, `items/item_2569`, `items/item_737`
 - `client/textures/illarion/items/chain_helmet.png` used by 6 visuals: `items/item_202`, `items/item_2302`, `items/item_2303`, `items/item_2441`, `items/item_2444`, `items/item_324`
 - `client/textures/illarion/items/leggings_leather.png` used by 6 visuals: `items/item_2113`, `items/item_2114`, `items/item_2193`, `items/item_2194`, `items/item_366`, `items/item_367`

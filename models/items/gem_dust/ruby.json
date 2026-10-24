@@ -1,0 +1,11 @@
+{
+  "model": "gem_dust.blend",
+  "sprites": "illarion/items/item_447",
+  "visual": "items/item_447",
+  "direction": "south",
+  "scale": 0.5,
+  "include": [
+    "pursesimple",
+    "DustRuby"
+  ]
+}
