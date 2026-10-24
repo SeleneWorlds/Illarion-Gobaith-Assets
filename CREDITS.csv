@@ -500,3 +500,8 @@ client/textures/illarion/effects/boxing-[0-9]*.png,CC0,AntumDeluge and collectio
 models/structures/roof/textures/roof_07_diff_128.png,CC0,Texture Haven,https://cc0-textures.com/t/th-roof-07
 models/structures/roof/textures/roof_07_rough_128.png,CC0,Texture Haven,https://cc0-textures.com/t/th-roof-07
 models/structures/roof/textures/roof_07_nor_gl_128.png,CC0,Texture Haven,https://cc0-textures.com/t/th-roof-07
+client/textures/illarion/items/flamme-[0-9]*.png,CC0,Selene Worlds,
+client/textures/illarion/items/ice-[0-9]*.png,CC0,Selene Worlds,
+client/textures/illarion/items/giftfeld-[0-9]*.png,CC0,Selene Worlds,
+client/textures/illarion/items/wind-[0-9]*.png,CC0,Selene Worlds,
+client/textures/illarion/items/light-[0-9]*.png,CC0,Selene Worlds,

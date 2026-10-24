@@ -2,15 +2,19 @@
   "type": "animated",
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
-  "offsetX": 7,
-  "offsetY": -81,
+  "offsetX": 3,
+  "offsetY": -50,
   "textures": [
-    "client/textures/illarion/items/light-0.png",
-    "client/textures/illarion/items/light-1.png",
-    "client/textures/illarion/items/light-2.png",
-    "client/textures/illarion/items/light-3.png"
+    "client/textures/illarion/items/light-8.png",
+    "client/textures/illarion/items/light-9.png",
+    "client/textures/illarion/items/light-10.png",
+    "client/textures/illarion/items/light-11.png",
+    "client/textures/illarion/items/light-12.png",
+    "client/textures/illarion/items/light-11.png",
+    "client/textures/illarion/items/light-10.png",
+    "client/textures/illarion/items/light-9.png"
   ],
-  "duration": 1,
+  "duration": 0.8571428571428571,
   "metadata": {
     "itemId": "467"
   }
