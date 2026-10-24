@@ -6,3 +6,6 @@ __pycache__
 *.blend[0-9][0-9]
 
 visual-comparison.html
+
+# Generated Mantaflow fire simulation cache
+/models/structures/campfire/campfire_fire_cache/

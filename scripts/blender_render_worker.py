@@ -92,6 +92,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--ambient-strength", type=float, required=True)
     parser.add_argument("--fps", type=int, required=True)
     parser.add_argument("--scale", type=float, default=1.0)
+    parser.add_argument("--frame-range", nargs=2, type=int, default=None)
     parser.add_argument("--alpha-clip", type=float, default=None)
     parser.add_argument("--grid-aligned", action="store_true")
     parser.add_argument("--translation", nargs=3, type=float, default=(0, 0, 0))
@@ -113,6 +114,12 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--action", action="append", dest="actions", default=None)
     parser.add_argument("--direction", action="append", dest="directions", default=None)
     args = parser.parse_args(argv)
+    if args.frame_range is not None:
+        start, end = args.frame_range
+        if start < 1 or end < start:
+            raise RuntimeError("--frame-range requires 1 <= start <= end")
+        if args.actions:
+            raise RuntimeError("--frame-range cannot be combined with --action")
     if args.scale <= 0.0:
         raise RuntimeError("--scale must be a positive number")
     return args
@@ -989,6 +996,7 @@ def render_entries(
     tile_height: int,
     alpha_clip: float | None,
     alpha_mask: Path | None,
+    frame_range: tuple[int, int] | None = None,
 ) -> dict[str, RenderEntry]:
     depsgraph = bpy.context.evaluated_depsgraph_get()
     entries: dict[str, RenderEntry] = {}
@@ -1064,9 +1072,16 @@ def render_entries(
                     DIRECTION_ROTATIONS[direction],
                 )
                 bpy.context.view_layer.update()
+                frames = (
+                    list(range(frame_range[0], frame_range[1] + 1))
+                    if frame_range is not None else [scene.frame_current]
+                )
                 frame_points: list[Vector] = []
-                for mesh in meshes:
-                    frame_points.extend(evaluated_world_bbox(depsgraph, mesh))
+                for frame in frames:
+                    scene.frame_set(frame)
+                    bpy.context.view_layer.update()
+                    for mesh in meshes:
+                        frame_points.extend(evaluated_world_bbox(depsgraph, mesh))
                 position_camera(
                     camera_object,
                     scene,
@@ -1082,20 +1097,23 @@ def render_entries(
 
                 direction_dir = output_dir / STATIC_ACTION_NAME / direction
                 direction_dir.mkdir(parents=True, exist_ok=True)
-                scene.render.filepath = str(direction_dir / "0001")
-                bpy.ops.render.render(write_still=True)
-                rendered_file = direction_dir / "0001.png"
-                if alpha_mask is not None:
-                    apply_alpha_mask(rendered_file, alpha_mask)
-                elif alpha_clip is not None:
-                    apply_alpha_clip(rendered_file, alpha_clip)
-                texture = texture_relpath(output_dir, rendered_file)
+                textures = []
+                for index, frame in enumerate(frames, start=1):
+                    scene.frame_set(frame)
+                    scene.render.filepath = str(direction_dir / f"{index:04d}")
+                    bpy.ops.render.render(write_still=True)
+                    rendered_file = direction_dir / f"{index:04d}.png"
+                    if alpha_mask is not None:
+                        apply_alpha_mask(rendered_file, alpha_mask)
+                    elif alpha_clip is not None:
+                        apply_alpha_clip(rendered_file, alpha_clip)
+                    textures.append(texture_relpath(output_dir, rendered_file))
 
                 entries[f"{STATIC_ACTION_NAME}/{direction}"] = RenderEntry(
-                    textures=[texture],
+                    textures=textures,
                     offset_x=round_half_away_from_zero((crop.x + (crop.width / 2.0)) - anchor_x),
                     offset_y=round_half_away_from_zero(anchor_y - crop.y - crop.height),
-                    frames=1,
+                    frames=len(frames),
                     crop=crop,
                     anchor=(anchor_x - crop.x, anchor_y - crop.y),
                 )
@@ -1169,7 +1187,7 @@ def main() -> None:
     root = find_render_root()
     meshes = render_mesh_objects(scene, root)
     actions = collect_actions(args.actions)
-    if root is None and args.actions is None:
+    if args.frame_range is not None or (root is None and args.actions is None):
         actions = []
     if args.actions is not None and actions and root is None:
         raise RuntimeError("Named actions were requested, but no armature exists in the blend file.")
@@ -1256,6 +1274,7 @@ def main() -> None:
             args.tile_height,
             args.alpha_clip,
             args.alpha_mask,
+            args.frame_range,
         )
         metadata = build_metadata(args, entries)
         metadata_file.write_text(json.dumps(metadata, indent=2) + "\n", encoding="utf-8")

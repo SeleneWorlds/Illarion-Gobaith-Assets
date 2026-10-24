@@ -3,5 +3,10 @@
   "sprites": "illarion/items/item_12",
   "visual": "items/item_12",
   "direction": "south",
-  "scale": 0.8
+  "scale": 0.8,
+  "fps": 24,
+  "frameRange": [
+    33,
+    64
+  ]
 }

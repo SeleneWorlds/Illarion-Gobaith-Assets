@@ -59,6 +59,7 @@ class ModelConfig:
     directions: tuple[str, ...] | None
     include: tuple[str, ...] | None
     exclude: tuple[str, ...] | None
+    frame_range: tuple[int, int] | None = None
 
 
 @dataclass(frozen=True)
@@ -335,6 +336,15 @@ def load_model_config_from_raw(
     if alpha_clip is not None and alpha_mask is not None:
         raise ValueError(f"{path}: only one of 'alphaClip' or 'alphaMask' may be present")
 
+    frame_range = raw.get("frameRange")
+    if frame_range is not None:
+        if (not isinstance(frame_range, list) or len(frame_range) != 2
+                or any(isinstance(v, bool) or not isinstance(v, int) for v in frame_range)
+                or frame_range[0] < 1 or frame_range[1] < frame_range[0]):
+            raise ValueError(f"{path}: frameRange must be [start, end] with 1 <= start <= end")
+        if raw.get("animations"):
+            raise ValueError(f"{path}: frameRange cannot be combined with animations")
+
     return ModelConfig(
         path=path,
         blend_file=resolve_model_path(raw, path),
@@ -354,6 +364,7 @@ def load_model_config_from_raw(
         directions=optional_direction_list(raw, path),
         include=optional_string_list(raw, "include", path),
         exclude=optional_string_list(raw, "exclude", path),
+        frame_range=tuple(frame_range) if frame_range is not None else None,
     )
 
 
@@ -561,6 +572,16 @@ def build_visual_json(
             only_entry = next(iter(normalized_entries.values()))
             textures = only_entry["textures"]
             assert isinstance(textures, list)
+            if len(textures) > 1:
+                return {
+                    "type": "animated",
+                    "sortLayerOffset": 300,
+                    **({"surfaceOffsetY": surface_offset_y} if surface_offset_y is not None else {}),
+                    "offsetX": only_entry["offsetX"],
+                    "offsetY": only_entry["offsetY"],
+                    "textures": textures,
+                    "duration": len(textures) / fps,
+                }
             return {
                 "type": "simple",
                 "sortLayerOffset": 300,
@@ -891,6 +912,9 @@ def render_model(
         "--engine",
         args.engine,
     ]
+
+    if model_config.frame_range is not None:
+        blender_command.extend(["--frame-range", *(str(v) for v in model_config.frame_range)])
 
     if model_config.grid_aligned:
         blender_command.append("--grid-aligned")

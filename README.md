@@ -39,6 +39,29 @@ These two items are maintained by this generator; the other portal items retain
 their Blender models. Run this command after the one-time upscale migration,
 which can replace animated item definitions.
 
+## Simulated campfire
+
+`models/structures/campfire/campfire.blend` contains a Mantaflow gas/fire
+simulation. Its relative `campfire_fire_cache/` directory holds generated baked
+data and is ignored by Git. The rendered PNG frames remain versioned and need
+no simulation cache at runtime. Before rerendering on a fresh checkout, after
+deleting the cache, or after changing the fuel source, domain, or turbulence:
+
+```sh
+blender -b --python scripts/bake_campfire.py
+python3 scripts/sprite_pipeline.py models/structures/campfire/campfire.json
+```
+
+The bake script is a command-line convenience for Blender's Bake All operation;
+you can also bake the Fire_Domain simulation from Blender's Physics properties.
+Material-only changes can reuse an existing bake.
+
+The config uses `"frameRange": [33, 64]` and `"fps": 24` to export 32 frames
+after the simulation warms up. A single-direction scene frame range produces
+an `animated` visual with a shared crop and anchor across all frames. The
+existing item light is retained. Frame ranges are inclusive and cannot be
+combined with named armature animations.
+
 ## Wall rendering
 
 Wall configs use `gridAligned: true` and `alphaClip: 0.5`. The mesh defines the
