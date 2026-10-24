@@ -1,0 +1,11 @@
+{
+  "model": "plate_dishes.blend",
+  "sprites": "illarion/items/item_2922",
+  "visual": "items/item_2922",
+  "direction": "south",
+  "scale": 0.35,
+  "include": [
+    "plate",
+    "FoodSausages"
+  ]
+}

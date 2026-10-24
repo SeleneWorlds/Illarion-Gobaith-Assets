@@ -1,0 +1,11 @@
+{
+  "model": "plate_dishes.blend",
+  "sprites": "illarion/items/item_559",
+  "visual": "items/item_559",
+  "direction": "south",
+  "scale": 0.35,
+  "include": [
+    "plate",
+    "FoodLamb"
+  ]
+}
