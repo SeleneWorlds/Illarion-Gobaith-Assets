@@ -2,9 +2,9 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
-  "offsetX": 2,
-  "offsetY": -19,
-  "texture": "client/textures/illarion/items/wooden_sword.png",
+  "offsetX": 0,
+  "offsetY": -8,
+  "texture": "client/textures/illarion/items/item_445.png",
   "metadata": {
     "itemId": 445
   }
