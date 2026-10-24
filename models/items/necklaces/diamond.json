@@ -1,0 +1,12 @@
+{
+  "model": "necklaces.blend",
+  "sprites": "illarion/items/diamond_necklace",
+  "visual": "items/diamond_necklace",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "SilverChain",
+    "DiamondPendant"
+  ],
+  "reflections": "studio"
+}

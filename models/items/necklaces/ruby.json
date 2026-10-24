@@ -1,0 +1,12 @@
+{
+  "model": "necklaces.blend",
+  "sprites": "illarion/items/item_67",
+  "visual": "items/item_67",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "GoldChain",
+    "RubyPendant"
+  ],
+  "reflections": "studio"
+}
