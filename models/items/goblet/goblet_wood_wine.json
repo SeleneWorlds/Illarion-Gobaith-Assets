@@ -1,0 +1,11 @@
+{
+  "model": "goblet.blend",
+  "sprites": "illarion/items/item_2187",
+  "visual": "items/item_2187",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "GobletWood",
+    "LiquidWine"
+  ]
+}
