@@ -1,0 +1,10 @@
+{
+  "model": "goblet.blend",
+  "sprites": "illarion/items/item_1858",
+  "visual": "items/item_1858",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "GobletSilver"
+  ]
+}
