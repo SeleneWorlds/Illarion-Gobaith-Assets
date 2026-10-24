@@ -10,7 +10,12 @@
       "Roughness": "roughness.jpg"
     }
   },
-  "direction": "west",
+  "direction": "north",
   "gridAligned": true,
-  "alphaClip": 0.5
+  "alphaClip": 0.5,
+  "translation": [
+    -0.375,
+    -0.375,
+    0
+  ]
 }

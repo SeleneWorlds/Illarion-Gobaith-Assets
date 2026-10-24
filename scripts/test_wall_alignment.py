@@ -96,6 +96,13 @@ class WallAlignmentTests(unittest.TestCase):
         self.assertEqual(-visual['offsetY'], 32)
         self.assertEqual(pillar.width, 32)
 
+    def test_pillars_occupy_their_named_tile_corners(self):
+        for item, expected in ((260, (0, 16)), (261, (48, -8)), (262, (0, -32))):
+            with self.subTest(item=item):
+                sprite, visual = wall(item)
+                self.assertEqual((visual['offsetX'], visual['offsetY']), expected)
+                self.assertEqual(sprite.width, 32)
+
     def test_open_doors_retain_their_cutouts(self):
         for item in (86, 87, 317, 927, 928):
             with self.subTest(item=item):
