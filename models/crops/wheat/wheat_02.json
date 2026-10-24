@@ -4,5 +4,10 @@
   "visual": "items/item_247",
   "direction": "west",
   "scale": 1.0,
-  "include": ["Wheat02"]
+  "include": ["Wheat02"],
+  "materials": {
+    "Wheat02": {
+      "Image Texture": "textures/wheat_01.png"
+    }
+  }
 }
