@@ -1,0 +1,10 @@
+{
+  "model": "trout.blend",
+  "sprites": "illarion/items/item_355",
+  "visual": "items/item_355",
+  "direction": "handheld",
+  "scale": 1.8,
+  "include": [
+    "salmon"
+  ]
+}
