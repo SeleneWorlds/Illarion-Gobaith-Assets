@@ -24,7 +24,6 @@
 - `client/textures/illarion/items/helmet.png` used by 10 visuals: `items/item_16`, `items/item_184`, `items/item_185`, `items/item_187`, `items/item_2286`, `items/item_2287`, `items/item_2290`, `items/item_2291`, `items/item_7`, `items/item_94`
 - `client/textures/illarion/items/herb.png` used by 10 visuals: `items/item_140`, `items/item_149`, `items/item_153`, `items/item_154`, `items/item_155`, `items/item_156`, `items/item_752`, `items/item_760`, `items/item_761`, `items/item_768`
 - `client/textures/illarion/items/cloth.png` used by 9 visuals: `items/item_174`, `items/item_175`, `items/item_176`, `items/item_177`, `items/item_178`, `items/item_179`, `items/item_2577`, `items/item_2579`, `items/item_54`
-- `client/textures/illarion/items/necklace.png` used by 8 visuals: `items/item_222`, `items/item_334`, `items/item_62`, `items/item_67`, `items/item_71`, `items/item_79`, `items/item_82`, `items/item_83`
 - `client/textures/illarion/items/pincers.png` used by 8 visuals: `items/item_2140`, `items/item_2699`, `items/item_2700`, `items/item_2749`, `items/item_2750`, `items/item_2751`, `items/item_2753`, `items/item_430`
 - `client/textures/illarion/items/plate_dish.png` used by 8 visuals: `items/item_2277`, `items/item_2459`, `items/item_2922`, `items/item_554`, `items/item_555`, `items/item_556`, `items/item_557`, `items/item_559`
 - `client/textures/illarion/items/scroll.png` used by 8 visuals: `items/item_3109`, `items/item_3110`, `items/item_3111`, `items/item_3112`, `items/item_3113`, `items/item_3114`, `items/item_3115`, `items/item_3116`

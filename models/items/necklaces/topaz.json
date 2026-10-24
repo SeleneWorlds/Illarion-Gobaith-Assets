@@ -1,0 +1,12 @@
+{
+  "model": "necklaces.blend",
+  "sprites": "illarion/items/item_83",
+  "visual": "items/item_83",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "GoldChain",
+    "TopazPendant"
+  ],
+  "reflections": "studio"
+}
