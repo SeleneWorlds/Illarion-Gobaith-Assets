@@ -114,7 +114,6 @@ client/textures/illarion/items/leggings_leather.png,CC0,Flare,https://opengamear
 client/textures/illarion/items/leggings_plate.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
 client/textures/illarion/items/lockpicks.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
 client/textures/illarion/items/logs.png,CC0,Melissa Krautheim,https://opengameart.org/content/resource-pack-1
-client/textures/illarion/items/lute.png,CC0,OpenClipArt,https://opengameart.org/content/cc0-music-icons
 client/textures/illarion/items/medal.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
 client/textures/illarion/items/merinium_ore.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/mirror.png,CC0,BlayTheNinth; Idylwild,https://seleneworlds.com; https://opengameart.org/content/idylwilds-inventory
@@ -506,3 +505,4 @@ models/items/open_book/open_book.blend,CC0,AnyRPG,https://opengameart.org/conten
 models/items/pipe/pipe.blend,CC0,loafbrr_1,https://opengameart.org/content/room-filler-object-2
 models/items/rope/rope.blend,CC-BY 3.0,cemkalyoncu,https://opengameart.org/content/animated-well
 models/items/wizard_hat/wizard_hat.blend,CC0,Sexy Dog,https://opengameart.org/content/low-poly-witch-hat
+models/items/lute/lute.blend,CC0,aerojockey,https://opengameart.org/content/lute

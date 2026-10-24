@@ -1,0 +1,17 @@
+{
+  "model": "lute.blend",
+  "sprites": "illarion/items/item_335",
+  "visual": "items/item_335",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "Lute",
+    "LutePeg1",
+    "LutePeg2",
+    "LutePeg3",
+    "LutePeg4",
+    "LutePeg5",
+    "LutePeg6",
+    "LutePeg7"
+  ]
+}
