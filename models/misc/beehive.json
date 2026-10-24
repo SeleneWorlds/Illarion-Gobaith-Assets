@@ -3,5 +3,5 @@
   "sprites": "illarion/items/item_1005",
   "visual": "items/item_1005",
   "direction": "west",
-  "scale": 1
+  "scale": 0.8
 }
