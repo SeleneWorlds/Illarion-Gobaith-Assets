@@ -1,7 +1,18 @@
 {
-  "type": "simple",
+  "type": "animated",
   "sortLayerOffset": 300,
-  "offsetX": 0,
-  "offsetY": -21,
-  "texture": "client/textures/illarion/items/item_798.png"
+  "offsetX": 3,
+  "offsetY": -19,
+  "surfaceOffsetY": 0,
+  "textures": [
+    "client/textures/illarion/items/portal_rot-0.png",
+    "client/textures/illarion/items/portal_rot-1.png",
+    "client/textures/illarion/items/portal_rot-2.png",
+    "client/textures/illarion/items/portal_rot-3.png",
+    "client/textures/illarion/items/portal_rot-4.png",
+    "client/textures/illarion/items/portal_rot-5.png",
+    "client/textures/illarion/items/portal_rot-6.png",
+    "client/textures/illarion/items/portal_rot-7.png"
+  ],
+  "duration": 0.4
 }

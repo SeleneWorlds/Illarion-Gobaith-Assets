@@ -23,6 +23,22 @@ interrupted batch using logs in `/tmp/illarion-upscale-128x64`; keep that direct
 until the migration finishes. Characters whose Blender sources are unavailable
 retain scaled sprites.
 
+## Procedural rift portals
+
+Items 10 (blue) and 798 (red) use original procedural energy sprites, with eight
+94×154 RGBA frames in a 0.4-second loop. Generate them with NumPy and Pillow:
+
+```sh
+python3 scripts/render_portals.py --write-visuals
+```
+
+The generator uses no input images. `--seed` controls the turbulence;
+`--output-dir` and `--preview-dir` can redirect textures and previews for experiments.
+Contact sheets and animated GIFs are in `particles/portal-preview/`.
+These two items are maintained by this generator; the other portal items retain
+their Blender models. Run this command after the one-time upscale migration,
+which can replace animated item definitions.
+
 ## Wall rendering
 
 Wall configs use `gridAligned: true` and `alphaClip: 0.5`. The mesh defines the
