@@ -1,0 +1,7 @@
+{
+  "model": "tomato.blend",
+  "sprites": "illarion/items/item_200",
+  "visual": "items/item_200",
+  "direction": "south",
+  "scale": 1
+}

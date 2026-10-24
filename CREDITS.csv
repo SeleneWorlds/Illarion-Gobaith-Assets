@@ -152,7 +152,6 @@ client/textures/illarion/items/needle.png,CC0,BlayTheNinth,https://seleneworlds.
 client/textures/illarion/items/nuts.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/oil_lamp.png,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/items/oil_lamp_lit.png,CC0,BlayTheNinth,https://seleneworlds.com
-client/textures/illarion/items/onion.png,CC0,Tanya Riarey,https://opengameart.org/content/2d-game-icons-fruits-vegetables
 client/textures/illarion/items/panflute.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
 client/textures/illarion/items/peel.png,CC0,BlayTheNinth;Idylwild,https://seleneworlds.com; https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/pie.png,CC0,bluecarrot16,https://opengameart.org/node/98209
@@ -192,7 +191,6 @@ client/textures/illarion/items/stones.png,CC0,BlayTheNinth; Melissa Krautheim,ht
 client/textures/illarion/items/sugarcane.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/thread.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/throwing_star.png,CC0,Loel,https://opengameart.org/content/shuriken-pixel-art
-client/textures/illarion/items/tomato.png,CC0,Tanya Riarey,https://opengameart.org/content/2d-game-icons-fruits-vegetables
 client/textures/illarion/items/topaz.png,CC0,Melissa Krautheim,https://opengameart.org/content/fantasy-crystal-set
 client/textures/illarion/items/topaz_uncut.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/fantasy-crystal-set
 client/textures/illarion/items/treasure_map.png,CC0,BlayTheNinth; Kutejnikov,https://seleneworlds.com; https://opengameart.org/content/papers
@@ -511,3 +509,5 @@ models/items/basket/basket.blend,CC0,System G6,https://opengameart.org/content/m
 models/items/arrow/arrow.blend,CC0,System G6,https://opengameart.org/content/medieval-props-pack
 models/items/wheat/wheat.blend,CC0,System G6,https://opengameart.org/content/medieval-props-pack
 models/furniture/bed/bed_wood.blend,CC0,System G6,https://opengameart.org/content/medieval-props-pack
+models/items/tomato/tomato.blend,CC-BY 3.0,Clint Bellanger,https://opengameart.org/content/food-pack-cooking
+models/items/onion/onion.blend,CC-BY 3.0,Clint Bellanger,https://opengameart.org/content/food-pack-cooking
