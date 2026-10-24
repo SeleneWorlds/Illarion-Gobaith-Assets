@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
-  "offsetX": -7,
-  "offsetY": -12,
+  "offsetX": -2,
+  "offsetY": -14,
   "texture": "client/textures/illarion/items/scissors.png",
   "metadata": {
     "itemId": 6
-  }
+  },
+  "surfaceOffsetY": 0
 }
