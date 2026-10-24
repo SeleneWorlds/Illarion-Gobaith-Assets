@@ -4,5 +4,9 @@
   "visual": "items/item_618",
   "direction": "west",
   "scale": 1,
-  "include": ["EdgeBeams", "EdgePlanks"]
+  "include": [
+    "EdgeBeams",
+    "EdgePlanks"
+  ],
+  "surfaceOffsetY": 8
 }
