@@ -1,0 +1,10 @@
+{
+  "model": "shovel.blend",
+  "sprites": "illarion/items/item_2567",
+  "visual": "items/item_2567",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "ShovelHandle"
+  ]
+}
