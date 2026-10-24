@@ -61,7 +61,6 @@
 - `client/textures/illarion/items/berries.png` used by 2 visuals: `items/item_388`, `items/item_81`
 - `client/textures/illarion/items/boots_leather.png` used by 2 visuals: `items/item_53`, `items/item_698`
 - `client/textures/illarion/items/bow.png` used by 2 visuals: `items/item_2685`, `items/item_65`
-- `client/textures/illarion/items/bread.png` used by 2 visuals: `items/item_191`, `items/item_49`
 - `client/textures/illarion/items/bricks.png` used by 2 visuals: `items/item_2588`, `items/item_736`
 - `client/textures/illarion/items/cabbage.png` used by 2 visuals: `items/item_290`, `items/item_291`
 - `client/textures/illarion/items/chainmail.png` used by 2 visuals: `items/item_101`, `items/item_2399`

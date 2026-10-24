@@ -1,0 +1,7 @@
+{
+  "model": "banana.blend",
+  "sprites": "illarion/items/item_80",
+  "visual": "items/item_80",
+  "direction": "south",
+  "scale": 1
+}
