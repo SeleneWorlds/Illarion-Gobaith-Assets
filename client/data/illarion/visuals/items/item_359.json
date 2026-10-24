@@ -9,8 +9,8 @@
   },
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
-  "offsetX": -2,
-  "offsetY": -24,
+  "offsetX": 0,
+  "offsetY": -32,
   "textures": [
     "client/textures/illarion/items/flamme-0.png",
     "client/textures/illarion/items/flamme-1.png",
