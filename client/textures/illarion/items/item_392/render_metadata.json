@@ -1,0 +1,58 @@
+{
+  "fps": 24,
+  "tileSize": {
+    "width": 128,
+    "height": 64
+  },
+  "entries": {
+    "static/handheld": {
+      "textures": [
+        "static/handheld/0001.png",
+        "static/handheld/0002.png",
+        "static/handheld/0003.png",
+        "static/handheld/0004.png",
+        "static/handheld/0005.png",
+        "static/handheld/0006.png",
+        "static/handheld/0007.png",
+        "static/handheld/0008.png",
+        "static/handheld/0009.png",
+        "static/handheld/0010.png",
+        "static/handheld/0011.png",
+        "static/handheld/0012.png",
+        "static/handheld/0013.png",
+        "static/handheld/0014.png",
+        "static/handheld/0015.png",
+        "static/handheld/0016.png",
+        "static/handheld/0017.png",
+        "static/handheld/0018.png",
+        "static/handheld/0019.png",
+        "static/handheld/0020.png",
+        "static/handheld/0021.png",
+        "static/handheld/0022.png",
+        "static/handheld/0023.png",
+        "static/handheld/0024.png",
+        "static/handheld/0025.png",
+        "static/handheld/0026.png",
+        "static/handheld/0027.png",
+        "static/handheld/0028.png",
+        "static/handheld/0029.png",
+        "static/handheld/0030.png",
+        "static/handheld/0031.png",
+        "static/handheld/0032.png"
+      ],
+      "offsetX": -6,
+      "offsetY": -3,
+      "frames": 32,
+      "crop": {
+        "x": 491,
+        "y": 508,
+        "width": 64,
+        "height": 40
+      },
+      "anchor": {
+        "x": 37.9932861328125,
+        "y": 36.5164794921875
+      }
+    }
+  }
+}

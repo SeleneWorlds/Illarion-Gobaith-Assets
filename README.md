@@ -62,6 +62,24 @@ an `animated` visual with a shared crop and anchor across all frames. The
 existing item light is retained. Frame ranges are inclusive and cannot be
 combined with named armature animations.
 
+## Portable torches
+
+`models/items/torch/torch.json` renders the unlit torch (item 391).
+`torch_lit.json` renders item 392 with a simulated flame at the wrapped head,
+using 32 frames at 24 fps. Both torch surfaces use Standard color management,
+roughness 0.75, and zero emission. Their local `scene.json` lights the visible
+side of the handheld pose to preserve the dark wood texture's detail.
+The generated `torch_fire_cache/` is ignored by Git.
+To bake the lit torch on a fresh checkout or after changing its simulation:
+
+```sh
+blender -b --python scripts/bake_fire.py -- models/items/torch/torch_lit.blend
+python3 scripts/sprite_pipeline.py models/items/torch
+```
+
+The shared bake command also accepts other fire models with a `Fire_Domain`
+object, including `models/structures/campfire/campfire.blend`.
+
 ## Wall rendering
 
 Wall configs use `gridAligned: true` and `alphaClip: 0.5`. The mesh defines the
