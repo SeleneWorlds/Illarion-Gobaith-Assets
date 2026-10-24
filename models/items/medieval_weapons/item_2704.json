@@ -1,0 +1,11 @@
+{
+  "model": "medieval_weapons.blend",
+  "sprites": "illarion/items/medieval_weapons/item_2704",
+  "visual": "items/item_2704",
+  "include": [
+    "one_handed_sword_1"
+  ],
+  "direction": "handheld",
+  "scale": 1.75,
+  "surfaceOffsetY": 0
+}

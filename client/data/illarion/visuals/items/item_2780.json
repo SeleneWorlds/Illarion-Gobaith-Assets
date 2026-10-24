@@ -2,9 +2,9 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
-  "offsetX": -10,
-  "offsetY": -61,
-  "texture": "client/textures/illarion/items/magic_bow.png",
+  "offsetX": -6,
+  "offsetY": -19,
+  "texture": "client/textures/illarion/items/medieval_weapons/item_2780.png",
   "metadata": {
     "itemId": 2780
   }

@@ -1,7 +1,8 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "offsetX": 2,
-  "offsetY": -18,
-  "texture": "client/textures/illarion/items/item_230.png"
+  "surfaceOffsetY": 0,
+  "offsetX": 0,
+  "offsetY": -5,
+  "texture": "client/textures/illarion/items/medieval_weapons/item_230.png"
 }

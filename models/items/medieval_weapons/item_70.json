@@ -1,0 +1,11 @@
+{
+  "model": "medieval_weapons.blend",
+  "sprites": "illarion/items/medieval_weapons/item_70",
+  "visual": "items/item_70",
+  "include": [
+    "crossbow_1"
+  ],
+  "direction": "west",
+  "scale": 1.5,
+  "surfaceOffsetY": 0
+}

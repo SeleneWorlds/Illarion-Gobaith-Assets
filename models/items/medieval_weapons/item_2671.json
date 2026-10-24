@@ -1,0 +1,11 @@
+{
+  "model": "medieval_weapons.blend",
+  "sprites": "illarion/items/medieval_weapons/item_2671",
+  "visual": "items/item_2671",
+  "include": [
+    "dagger_1"
+  ],
+  "direction": "handheld",
+  "scale": 1.75,
+  "surfaceOffsetY": 0
+}

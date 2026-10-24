@@ -15,6 +15,7 @@ from PIL import Image
 
 
 DEFAULT_DIRECTIONS = ("north", "east", "south", "west")
+SUPPORTED_DIRECTIONS = (*DEFAULT_DIRECTIONS, "northwest", "handheld")
 
 
 @dataclass(frozen=True)
@@ -269,9 +270,9 @@ def normalize_direction(direction: object, path: Path, field_name: str) -> str:
     if not isinstance(direction, str) or not direction.strip():
         raise ValueError(f"{path}: field {field_name!r} must be a non-empty string when present")
     normalized = direction.strip().lower()
-    if normalized not in DEFAULT_DIRECTIONS:
+    if normalized not in SUPPORTED_DIRECTIONS:
         raise ValueError(
-            f"{path}: unknown direction {normalized!r}; expected one of {DEFAULT_DIRECTIONS}"
+            f"{path}: unknown direction {normalized!r}; expected one of {SUPPORTED_DIRECTIONS}"
         )
     return normalized
 

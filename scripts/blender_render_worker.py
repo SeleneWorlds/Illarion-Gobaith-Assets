@@ -18,6 +18,9 @@ from mathutils import Euler, Vector
 DEFAULT_DIRECTIONS = ("north", "east", "south", "west")
 DEFAULT_STATIC_DIRECTIONS = ("south",)
 DIRECTION_ROTATIONS = {
+    # Inventory pose: northwest, skewed 15 degrees toward north.
+    "handheld": math.radians(300.0),
+    "northwest": math.radians(315.0),
     "north": math.radians(270.0),
     "east": math.radians(180.0),
     "south": math.radians(90.0),

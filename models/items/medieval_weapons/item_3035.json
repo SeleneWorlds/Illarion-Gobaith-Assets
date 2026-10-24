@@ -1,0 +1,11 @@
+{
+  "model": "medieval_weapons.blend",
+  "sprites": "illarion/items/medieval_weapons/item_3035",
+  "visual": "items/item_3035",
+  "include": [
+    "two_handed_sword_1"
+  ],
+  "direction": "handheld",
+  "scale": 1.75,
+  "surfaceOffsetY": 0
+}

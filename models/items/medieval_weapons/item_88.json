@@ -1,0 +1,11 @@
+{
+  "model": "medieval_weapons.blend",
+  "sprites": "illarion/items/medieval_weapons/item_88",
+  "visual": "items/item_88",
+  "include": [
+    "two_handed_axe_1"
+  ],
+  "direction": "west",
+  "scale": 1.5,
+  "surfaceOffsetY": 0
+}

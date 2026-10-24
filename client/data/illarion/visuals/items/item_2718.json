@@ -2,9 +2,9 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
-  "offsetX": -8,
-  "offsetY": -48,
-  "texture": "client/textures/illarion/items/longbow.png",
+  "offsetX": -6,
+  "offsetY": -19,
+  "texture": "client/textures/illarion/items/medieval_weapons/item_2718.png",
   "metadata": {
     "itemId": 2718
   }

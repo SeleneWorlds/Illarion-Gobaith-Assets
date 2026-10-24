@@ -2,9 +2,9 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
-  "offsetX": 12,
-  "offsetY": -7,
-  "texture": "client/textures/illarion/items/sword.png",
+  "offsetX": 0,
+  "offsetY": -8,
+  "texture": "client/textures/illarion/items/medieval_weapons/item_2658.png",
   "metadata": {
     "itemId": 2658
   }
