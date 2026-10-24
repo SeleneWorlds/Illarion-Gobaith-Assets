@@ -73,7 +73,6 @@ client/textures/illarion/items/bricks.png,CC0,Melissa Krautheim,https://opengame
 client/textures/illarion/items/brush.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
 client/textures/illarion/items/bucket.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/cabbage.png,CC0,Kiririnochka,https://opengameart.org/content/vegetables
-client/textures/illarion/items/candle.png,CC0,BlayTheNinth; thekingphoenix,https://opengameart.org/node/77305
 client/textures/illarion/items/carrot.png,CC0,Kiririnochka,https://opengameart.org/content/vegetables
 client/textures/illarion/items/cauldron.png,CC0,Melissa Krautheim,https://opengameart.org/content/fantasy-magic-set
 client/textures/illarion/items/cereals.png,CC0,ScratchIO,https://opengameart.org/content/2d-cereals
@@ -508,3 +507,7 @@ models/items/medieval_weapons/*,CC0,System G6,https://opengameart.org/content/me
 models/items/comb/comb.blend,CC0,Drummyfish,https://opengameart.org/content/11-common-household-items
 models/items/scissors/scissors.blend,CC0,Drummyfish,https://opengameart.org/content/11-common-household-items
 models/items/key/key.blend,CC0,Drummyfish,https://opengameart.org/content/11-common-household-items
+models/items/bucket/bucket.blend,CC0,BlayTheNinth; System G6,https://seleneworlds.com; https://opengameart.org/content/medieval-tavern-props-pack
+models/items/plate/plate.blend,CC0,System G6,https://opengameart.org/content/medieval-tavern-props-pack
+models/items/mug/mug.blend,CC0,System G6,https://opengameart.org/content/medieval-tavern-props-pack
+models/items/candle/candle.blend,CC0,System G6,https://opengameart.org/content/medieval-tavern-props-pack

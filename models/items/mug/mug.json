@@ -1,0 +1,7 @@
+{
+  "model": "mug.blend",
+  "sprites": "illarion/items/item_1906",
+  "visual": "items/item_1906",
+  "direction": "south",
+  "scale": 0.45
+}
