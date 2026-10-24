@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
-  "offsetX": 7,
-  "offsetY": -9,
-  "texture": "client/textures/illarion/items/mug.png",
+  "offsetX": -3,
+  "offsetY": -7,
+  "texture": "client/textures/illarion/items/item_1910.png",
   "metadata": {
     "itemId": 1910
-  }
+  },
+  "surfaceOffsetY": 0
 }
