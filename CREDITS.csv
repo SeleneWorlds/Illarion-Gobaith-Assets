@@ -103,7 +103,6 @@ client/textures/illarion/items/iron_ore.png,CC0,BlayTheNinth; Melissa Krautheim,
 client/textures/illarion/items/iron_plate.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/key.png,CC0,Drummyfish,https://opengameart.org/content/11-common-household-items
 client/textures/illarion/items/lamp_oil.png,CC0,BlayTheNinth; Melissa Krautheim,https://opengameart.org/content/fantasy-magic-set
-client/textures/illarion/items/lantern_lit.png,CC0,Dungeon Crawl Stone Soup,https://opengameart.org/content/cc0-light-icons
 client/textures/illarion/items/leather.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/leather_armor.png,CC0,Flare,https://opengameart.org/content/cc0-torso-wear-icons
 client/textures/illarion/items/leggings_chain.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
@@ -505,3 +504,4 @@ models/items/rope/rope.blend,CC-BY 3.0,cemkalyoncu,https://opengameart.org/conte
 models/items/wizard_hat/wizard_hat.blend,CC0,Sexy Dog,https://opengameart.org/content/low-poly-witch-hat
 models/items/lute/lute.blend,CC0,aerojockey,https://opengameart.org/content/lute
 models/items/gem_dust/gem_dust.blend,CC0,yd,https://opengameart.org/content/bag-of-coins
+models/items/lantern/lantern.blend,CC0,System G6,https://opengameart.org/content/medieval-tavern-props-pack
