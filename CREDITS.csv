@@ -133,7 +133,7 @@ client/textures/illarion/items/invisible_item.png,CC0,BlayTheNinth,https://selen
 client/textures/illarion/items/iron_ingot.png,CC0,Melissa Krautheim,https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/iron_ore.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/iron_plate.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
-client/textures/illarion/items/key.png,CC0,7Soul1,https://www.deviantart.com/7soul1/art/129892453
+client/textures/illarion/items/key.png,CC0,Drummyfish,https://opengameart.org/content/11-common-household-items
 client/textures/illarion/items/lamp_oil.png,CC0,BlayTheNinth; Melissa Krautheim,https://opengameart.org/content/fantasy-magic-set
 client/textures/illarion/items/lantern.png,CC0,Dungeon Crawl Stone Soup,https://opengameart.org/content/cc0-light-icons
 client/textures/illarion/items/lantern_lit.png,CC0,Dungeon Crawl Stone Soup,https://opengameart.org/content/cc0-light-icons
@@ -511,3 +511,4 @@ models/items/hat/*,CC0,FacadeGaikan; CC0 Textures,https://opengameart.org/conten
 models/items/medieval_weapons/*,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
 models/items/comb/comb.blend,CC0,Drummyfish,https://opengameart.org/content/11-common-household-items
 models/items/scissors/scissors.blend,CC0,Drummyfish,https://opengameart.org/content/11-common-household-items
+models/items/key/key.blend,CC0,Drummyfish,https://opengameart.org/content/11-common-household-items
