@@ -37,6 +37,7 @@ client/sounds/illarion/waterSplash.ogg,CC0,Kraftaggregat,https://freesound.org/p
 client/sounds/illarion/wind.ogg,CC0,IgnasD,https://opengameart.org/content/wind
 client/sounds/illarion/wind2.ogg,CC0,IgnasD,https://opengameart.org/content/wind
 client/textures/illarion/chars/*,see models/,see models/,see models/
+client/textures/illarion/chars/invisible.png,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/items/*,see models/,see models/,see models/
 client/textures/illarion/items/amethyst.png,CC0,Melissa Krautheim,https://opengameart.org/content/fantasy-crystal-set
 client/textures/illarion/items/amethyst_uncut.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/fantasy-crystal-set

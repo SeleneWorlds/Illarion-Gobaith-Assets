@@ -9,15 +9,14 @@
   "animations": {
     "stationary/north": {
       "textures": [
-        "client/textures/illarion/chars/invisible-0.png"
+        "client/textures/illarion/chars/invisible.png"
       ],
       "offsetX": 0,
       "offsetY": 0
     },
     "walk/north": {
       "textures": [
-        "client/textures/illarion/chars/invisible-0.png",
-        "client/textures/illarion/chars/invisible-1.png"
+        "client/textures/illarion/chars/invisible.png"
       ],
       "offsetX": 0,
       "offsetY": 0,
@@ -25,15 +24,14 @@
     },
     "stationary/east": {
       "textures": [
-        "client/textures/illarion/chars/invisible-0.png"
+        "client/textures/illarion/chars/invisible.png"
       ],
       "offsetX": 0,
       "offsetY": 0
     },
     "walk/east": {
       "textures": [
-        "client/textures/illarion/chars/invisible-0.png",
-        "client/textures/illarion/chars/invisible-1.png"
+        "client/textures/illarion/chars/invisible.png"
       ],
       "offsetX": 0,
       "offsetY": 0,
@@ -41,15 +39,14 @@
     },
     "stationary/south": {
       "textures": [
-        "client/textures/illarion/chars/invisible-0.png"
+        "client/textures/illarion/chars/invisible.png"
       ],
       "offsetX": 0,
       "offsetY": 0
     },
     "walk/south": {
       "textures": [
-        "client/textures/illarion/chars/invisible-0.png",
-        "client/textures/illarion/chars/invisible-1.png"
+        "client/textures/illarion/chars/invisible.png"
       ],
       "offsetX": 0,
       "offsetY": 0,
@@ -57,15 +54,14 @@
     },
     "stationary/west": {
       "textures": [
-        "client/textures/illarion/chars/invisible-0.png"
+        "client/textures/illarion/chars/invisible.png"
       ],
       "offsetX": 0,
       "offsetY": 0
     },
     "walk/west": {
       "textures": [
-        "client/textures/illarion/chars/invisible-0.png",
-        "client/textures/illarion/chars/invisible-1.png"
+        "client/textures/illarion/chars/invisible.png"
       ],
       "offsetX": 0,
       "offsetY": 0,
