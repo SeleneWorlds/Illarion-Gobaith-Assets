@@ -92,6 +92,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--ambient-strength", type=float, required=True)
     parser.add_argument("--fps", type=int, required=True)
     parser.add_argument("--scale", type=float, default=1.0)
+    parser.add_argument("--reflections", choices=("none", "studio"), default="none")
     parser.add_argument("--frame-range", nargs=2, type=int, default=None)
     parser.add_argument("--alpha-clip", type=float, default=None)
     parser.add_argument("--grid-aligned", action="store_true")
@@ -535,6 +536,48 @@ def ensure_lighting(
         background.inputs["Color"].default_value = (0.04, 0.04, 0.05, 1.0)
         background.inputs["Strength"].default_value = ambient_strength
     return light_visibility
+
+
+def create_studio_reflections(scene: bpy.types.Scene, strength: float) -> bpy.types.World:
+    """Give glossy materials broad highlights without adding model lights."""
+    world = bpy.data.worlds.new("SpriteReflectionStudio")
+    world.use_nodes = True
+    scene.world = world
+    nodes = world.node_tree.nodes
+    nodes.clear()
+    links = world.node_tree.links
+    output = nodes.new("ShaderNodeOutputWorld")
+    background = nodes.new("ShaderNodeBackground")
+    background.inputs["Strength"].default_value = strength
+    links.new(background.outputs[0], output.inputs[0])
+    coordinates = nodes.new("ShaderNodeTexCoord")
+    masks = []
+    for direction, threshold in (
+        ((-0.55, -0.45, 0.70), 0.76),
+        ((0.7, 0.2, 0.68), 0.92),
+    ):
+        dot = nodes.new("ShaderNodeVectorMath")
+        dot.operation = "DOT_PRODUCT"
+        dot.inputs[1].default_value = direction
+        links.new(coordinates.outputs["Normal"], dot.inputs[0])
+        ramp = nodes.new("ShaderNodeMapRange")
+        ramp.inputs["From Min"].default_value = threshold
+        ramp.inputs["From Max"].default_value = threshold + 0.08
+        ramp.clamp = True
+        links.new(dot.outputs["Value"], ramp.inputs["Value"])
+        masks.append(ramp.outputs["Result"])
+    maximum = nodes.new("ShaderNodeMath")
+    maximum.operation = "MAXIMUM"
+    for index, mask in enumerate(masks):
+        links.new(mask, maximum.inputs[index])
+    color = nodes.new("ShaderNodeMixRGB")
+    color.inputs[1].default_value = (0.015, 0.018, 0.025, 1.0)
+    color.inputs[2].default_value = (1.0, 1.0, 1.0, 1.0)
+    links.new(maximum.outputs[0], color.inputs[0])
+    links.new(color.outputs[0], background.inputs["Color"])
+    if hasattr(scene, "eevee") and hasattr(scene.eevee, "use_raytracing"):
+        scene.eevee.use_raytracing = True
+    return world
 
 
 def resolve_render_engine(scene: bpy.types.Scene, requested_engine: str) -> str:
@@ -1183,6 +1226,15 @@ def main() -> None:
         args.light_strength,
         args.ambient_strength,
     )
+    original_world = scene.world
+    original_raytracing = (
+        scene.eevee.use_raytracing
+        if hasattr(scene, "eevee") and hasattr(scene.eevee, "use_raytracing") else None
+    )
+    reflection_world = (
+        create_studio_reflections(scene, args.ambient_strength)
+        if args.reflections == "studio" else None
+    )
 
     root = find_render_root()
     meshes = render_mesh_objects(scene, root)
@@ -1289,6 +1341,11 @@ def main() -> None:
         ) = original_border_settings
         restore_material_overrides(material_states)
         cleanup_loaded_images(loaded_image_names)
+        if reflection_world is not None:
+            scene.world = original_world
+            bpy.data.worlds.remove(reflection_world)
+            if original_raytracing is not None:
+                scene.eevee.use_raytracing = original_raytracing
         restore_object_visibility(light_visibility)
         restore_object_visibility(visibility_states)
         for obj in rotation_targets:

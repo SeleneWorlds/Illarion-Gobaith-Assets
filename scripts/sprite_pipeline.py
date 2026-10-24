@@ -60,6 +60,7 @@ class ModelConfig:
     include: tuple[str, ...] | None
     exclude: tuple[str, ...] | None
     frame_range: tuple[int, int] | None = None
+    reflections: str = "none"
 
 
 @dataclass(frozen=True)
@@ -322,6 +323,9 @@ def load_model_config_from_raw(
         raise ValueError(f"{path}: field 'fps' must be a positive integer when present")
     if not isinstance(raw.get("gridAligned", False), bool):
         raise ValueError(f"{path}: gridAligned must be a boolean")
+    reflections = raw.get("reflections", "none")
+    if reflections not in ("none", "studio"):
+        raise ValueError(f"{path}: reflections must be 'none' or 'studio'")
     translation = raw.get("translation", [0, 0, 0])
     if (
         not isinstance(translation, list) or len(translation) != 3
@@ -365,6 +369,7 @@ def load_model_config_from_raw(
         include=optional_string_list(raw, "include", path),
         exclude=optional_string_list(raw, "exclude", path),
         frame_range=tuple(frame_range) if frame_range is not None else None,
+        reflections=reflections,
     )
 
 
@@ -911,6 +916,8 @@ def render_model(
         str(model_config.scale),
         "--engine",
         args.engine,
+        "--reflections",
+        model_config.reflections,
     ]
 
     if model_config.frame_range is not None:

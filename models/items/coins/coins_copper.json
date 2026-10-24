@@ -1,0 +1,11 @@
+{
+  "model": "coins.blend",
+  "sprites": "illarion/items/item_3076",
+  "visual": "items/item_3076",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "CoinsCopper"
+  ],
+  "reflections": "studio"
+}

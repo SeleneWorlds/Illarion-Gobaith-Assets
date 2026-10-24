@@ -23,6 +23,20 @@ interrupted batch using logs in `/tmp/illarion-upscale-128x64`; keep that direct
 until the migration finishes. Characters whose Blender sources are unavailable
 retain scaled sprites.
 
+## Reflections for glossy items
+
+Add `"reflections": "studio"` to a model render JSON to give metallic or glossy
+materials broad reflected highlights, as used by `models/items/coins/`.
+The renderer creates a temporary reflection environment and enables Eevee ray
+tracing when available. It keeps the shared sun and uses the scene's
+`ambientStrength` for the reflection intensity. No lights or world shader need
+to be saved in the model.
+
+Keep material settings in Blender: metals generally need a high Metallic value
+and Roughness around 0.15–0.3 for visible shine. The preset does not change
+materials. Omitting `reflections` (or setting it to `"none"`) preserves the
+existing lighting behavior. Variants inherit the option and can override it.
+
 ## Procedural rift portals
 
 Items 10 (blue) and 798 (red) use original procedural energy sprites, with eight

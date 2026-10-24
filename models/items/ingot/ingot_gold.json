@@ -1,0 +1,11 @@
+{
+  "model": "ingot.blend",
+  "sprites": "illarion/items/item_236",
+  "visual": "items/item_236",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "IngotGold"
+  ],
+  "reflections": "studio"
+}
