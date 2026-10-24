@@ -77,6 +77,7 @@ class WallAlignmentTests(unittest.TestCase):
             (87, 922, (-24, -32)),
             (927, 925, (-24, -8)),
             (317, 926, (24, -8)),
+            (901, 905, (24, -32)),
         ):
             with self.subTest(pair=(opened, closed)):
                 for item in (opened, closed):
