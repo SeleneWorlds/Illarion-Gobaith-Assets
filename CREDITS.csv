@@ -190,7 +190,6 @@ client/textures/illarion/items/soup.png,CC0,BlayTheNinth; Dungeon Crawl Stone So
 client/textures/illarion/items/stones.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/sugarcane.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/thread.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
-client/textures/illarion/items/throwing_star.png,CC0,Loel,https://opengameart.org/content/shuriken-pixel-art
 client/textures/illarion/items/topaz.png,CC0,Melissa Krautheim,https://opengameart.org/content/fantasy-crystal-set
 client/textures/illarion/items/topaz_uncut.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/fantasy-crystal-set
 client/textures/illarion/items/treasure_map.png,CC0,BlayTheNinth; Kutejnikov,https://seleneworlds.com; https://opengameart.org/content/papers
@@ -511,3 +510,4 @@ models/items/wheat/wheat.blend,CC0,System G6,https://opengameart.org/content/med
 models/furniture/bed/bed_wood.blend,CC0,System G6,https://opengameart.org/content/medieval-props-pack
 models/items/tomato/tomato.blend,CC-BY 3.0,Clint Bellanger,https://opengameart.org/content/food-pack-cooking
 models/items/onion/onion.blend,CC-BY 3.0,Clint Bellanger,https://opengameart.org/content/food-pack-cooking
+models/items/throwing_star/throwing_star.blend,CC0,Clint Bellanger,https://opengameart.org/content/shuriken

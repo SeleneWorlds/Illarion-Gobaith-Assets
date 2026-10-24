@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
-  "offsetX": 2,
+  "offsetX": 0,
   "offsetY": -7,
-  "texture": "client/textures/illarion/items/throwing_star.png",
+  "texture": "client/textures/illarion/items/item_294.png",
   "metadata": {
     "itemId": 294
-  }
+  },
+  "surfaceOffsetY": 0
 }
