@@ -68,7 +68,6 @@ client/textures/illarion/items/bowl.png,CC0,Dungeon Crawl Stone Soup,https://ope
 client/textures/illarion/items/branch.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/bricks.png,CC0,Melissa Krautheim,https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/brush.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
-client/textures/illarion/items/bucket.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/cabbage.png,CC0,Kiririnochka,https://opengameart.org/content/vegetables
 client/textures/illarion/items/carrot.png,CC0,Kiririnochka,https://opengameart.org/content/vegetables
 client/textures/illarion/items/cauldron.png,CC0,Melissa Krautheim,https://opengameart.org/content/fantasy-magic-set
@@ -512,3 +511,4 @@ models/items/steak/steak.blend,CC-BY 3.0,Vinrax,https://opengameart.org/content/
 models/items/pork/pork.blend,CC-BY 4.0,mightydinosaurcol,https://opengameart.org/content/meat-and-carcass
 models/items/ham/ham.blend,CC-BY 4.0,mightydinosaurcol,https://opengameart.org/content/meat-and-carcass
 models/items/goblet/goblet.blend,CC0,Unseeliefae,https://opengameart.org/content/goblet-pbr
+models/items/flask/flask.blend,CC-BY 3.0,Clint Bellanger,https://opengameart.org/content/potions

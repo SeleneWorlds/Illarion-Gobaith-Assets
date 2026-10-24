@@ -1,0 +1,10 @@
+{
+  "model": "flask.blend",
+  "sprites": "illarion/items/item_517",
+  "visual": "items/item_517",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "FlaskRum"
+  ]
+}
