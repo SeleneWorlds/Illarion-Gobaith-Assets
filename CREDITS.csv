@@ -124,7 +124,6 @@ client/textures/illarion/items/oil_lamp.png,CC0,BlayTheNinth,https://seleneworld
 client/textures/illarion/items/oil_lamp_lit.png,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/items/panflute.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
 client/textures/illarion/items/peel.png,CC0,BlayTheNinth;Idylwild,https://seleneworlds.com; https://opengameart.org/content/idylwilds-inventory
-client/textures/illarion/items/pie.png,CC0,bluecarrot16,https://opengameart.org/node/98209
 client/textures/illarion/items/pincers.png,CC0,Glitch,https://opengameart.org/content/100-glitch-icons
 client/textures/illarion/items/planks.png,CC0,Melissa Krautheim,https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/plate.png,CC0,BlayTheNinth; Idylwild,https://seleneworlds.com; https://opengameart.org/content/idylwilds-inventory
@@ -504,3 +503,4 @@ models/items/gem_dust/gem_dust.blend,CC0,yd,https://opengameart.org/content/bag-
 models/items/lantern/lantern.blend,CC0,System G6,https://opengameart.org/content/medieval-tavern-props-pack
 models/items/necklaces/necklaces.blend,CC-BY-SA 3.0,dorkster,https://opengameart.org/content/gemmed-pendants
 models/items/rings/rings.blend,CC-BY 3.0,Clint Bellanger,https://opengameart.org/content/ring-set-precious-metals
+models/items/pie/pie.blend,CC0,sandsound,https://opengameart.org/content/inventory-items

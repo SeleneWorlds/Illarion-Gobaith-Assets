@@ -1,0 +1,10 @@
+{
+  "model": "pie.blend",
+  "sprites": "illarion/items/item_303",
+  "visual": "items/item_303",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "CherryPie"
+  ]
+}
