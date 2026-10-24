@@ -51,7 +51,6 @@
 - `client/textures/illarion/items/logs.png` used by 4 visuals: `items/item_2560`, `items/item_3`, `items/item_543`, `items/item_544`
 - `client/textures/illarion/items/planks.png` used by 4 visuals: `items/item_2543`, `items/item_2716`, `items/item_545`, `items/item_546`
 - `client/textures/illarion/items/plate.png` used by 4 visuals: `items/item_1001`, `items/item_2031`, `items/item_2495`, `items/item_2952`
-- `client/textures/illarion/items/soup.png` used by 4 visuals: `items/item_2276`, `items/item_2278`, `items/item_2456`, `items/item_2923`
 - `client/textures/illarion/items/leggings_plate.png` used by 3 visuals: `items/item_2116`, `items/item_2117`, `items/item_2172`
 - `client/textures/illarion/items/mold.png` used by 3 visuals: `items/item_2710`, `items/item_429`, `items/item_734`
 - `client/textures/illarion/items/pie.png` used by 3 visuals: `items/item_303`, `items/item_353`, `items/item_354`

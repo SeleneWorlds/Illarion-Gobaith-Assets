@@ -1,0 +1,11 @@
+{
+  "model": "bowl.blend",
+  "sprites": "illarion/items/item_2276",
+  "visual": "items/item_2276",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "bowl",
+    "SoupMulligan"
+  ]
+}

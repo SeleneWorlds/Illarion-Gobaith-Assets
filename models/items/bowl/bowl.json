@@ -3,5 +3,8 @@
   "sprites": "illarion/items/item_2935",
   "visual": "items/item_2935",
   "direction": "south",
-  "scale": 1
+  "scale": 1,
+  "include": [
+    "bowl"
+  ]
 }
