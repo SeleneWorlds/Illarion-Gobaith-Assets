@@ -3,5 +3,6 @@
   "sortLayerOffset": 300,
   "offsetX": 2,
   "offsetY": -17,
-  "texture": "client/textures/illarion/items/item_604.png"
+  "texture": "client/textures/illarion/items/item_604.png",
+  "surfaceOffsetY": 17
 }

@@ -4,7 +4,7 @@
   "visual": "items/item_602",
   "direction": "west",
   "scale": 1,
-  "surfaceOffsetY": 24,
+  "surfaceOffsetY": 25,
   "include": [
     "MidBeams",
     "MidPlanks",
