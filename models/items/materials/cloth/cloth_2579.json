@@ -1,0 +1,11 @@
+{
+  "model": "cloth.blend",
+  "sprites": "illarion/items/materials/cloth/item_2579",
+  "visual": "items/item_2579",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "ClothGreen",
+    "Wood"
+  ]
+}
