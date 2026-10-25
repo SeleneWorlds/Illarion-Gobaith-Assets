@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
-  "offsetX": 2,
-  "offsetY": -9,
-  "texture": "client/textures/illarion/items/materials/gems/blackstone.png",
+  "offsetX": 0,
+  "offsetY": -1,
+  "texture": "client/textures/illarion/items/materials/gems/item_283.png",
   "metadata": {
     "itemId": 283
-  }
+  },
+  "surfaceOffsetY": 0
 }

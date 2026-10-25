@@ -1,0 +1,11 @@
+{
+  "model": "diamond.blend",
+  "sprites": "illarion/items/materials/gems/item_283",
+  "visual": "items/item_283",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "BlackstoneCut"
+  ],
+  "reflections": "studio"
+}

@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
-  "offsetX": 2,
-  "offsetY": -7,
-  "texture": "client/textures/illarion/items/materials/gems/topaz.png",
+  "offsetX": 0,
+  "offsetY": -2,
+  "texture": "client/textures/illarion/items/materials/gems/item_198.png",
   "metadata": {
     "itemId": 198
-  }
+  },
+  "surfaceOffsetY": 0
 }

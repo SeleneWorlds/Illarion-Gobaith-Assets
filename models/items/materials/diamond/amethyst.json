@@ -1,0 +1,11 @@
+{
+  "model": "diamond.blend",
+  "sprites": "illarion/items/materials/gems/item_197",
+  "visual": "items/item_197",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "AmethystCut"
+  ],
+  "reflections": "studio"
+}
