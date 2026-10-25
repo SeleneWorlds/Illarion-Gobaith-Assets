@@ -103,7 +103,6 @@ client/textures/illarion/items/leggings_leather.png,CC0,Flare,https://opengamear
 client/textures/illarion/items/leggings_plate.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
 client/textures/illarion/items/logs.png,CC0,Melissa Krautheim,https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/medal.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
-client/textures/illarion/items/mirror.png,CC0,BlayTheNinth; Idylwild,https://seleneworlds.com; https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/mold.png,CC0,bluecarrot16,https://opengameart.org/node/98209
 client/textures/illarion/items/muffin.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
 client/textures/illarion/items/mushroom.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
@@ -113,7 +112,6 @@ client/textures/illarion/items/nuts.png,CC0,Idylwild,https://opengameart.org/con
 client/textures/illarion/items/oil_lamp.png,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/items/oil_lamp_lit.png,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/items/panflute.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
-client/textures/illarion/items/peel.png,CC0,BlayTheNinth;Idylwild,https://seleneworlds.com; https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/pincers.png,CC0,Glitch,https://opengameart.org/content/100-glitch-icons
 client/textures/illarion/items/planks.png,CC0,Melissa Krautheim,https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/pure_air.png,CC0,Selene contributors (procedural),scripts/render_pure_elements.py
@@ -495,6 +493,9 @@ models/items/stones/stones.blend,CC0,sandsound,https://opengameart.org/content/i
 models/items/ore/ore.blend,CC0,sandsound,https://opengameart.org/content/inventory-items
 models/items/plate/green_plate.blend,CC0,System G6,https://opengameart.org/content/medieval-tavern-props-pack
 models/items/pan/pan.blend,CC-BY 3.0,Ouren (Wolfgang Wozniak),https://opengameart.org/content/frying-pan
+models/items/wooden_shovel/wooden_shovel.blend,CC-BY 3.0,BlayTheNinth; Ouren (Wolfgang Wozniak),https://seleneworlds.com; https://opengameart.org/content/frying-pan
+models/items/peel/peel.blend,CC-BY 3.0,BlayTheNinth; Ouren (Wolfgang Wozniak),https://seleneworlds.com; https://opengameart.org/content/frying-pan
+models/items/mirror/mirror.blend,CC-BY 3.0,BlayTheNinth; Ouren (Wolfgang Wozniak),https://seleneworlds.com; https://opengameart.org/content/frying-pan
 models/items/cutlery/cutlery.blend,CC-BY-SA 3.0,p0ss,https://opengameart.org/content/cutlery-pack
 models/items/carving_tools/carving_tools.blend,CC-BY-SA 3.0,p0ss,https://opengameart.org/content/cutlery-pack
 models/items/plate/plate_dishes.blend,CC0,System G6,https://opengameart.org/content/medieval-tavern-props-pack
