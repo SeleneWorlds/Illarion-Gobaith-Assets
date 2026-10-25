@@ -1,0 +1,10 @@
+{
+  "model": "open_scroll.blend",
+  "sprites": "illarion/items/books/item_3109",
+  "visual": "items/item_3109",
+  "direction": "west",
+  "scale": 0.7,
+  "include": [
+    "OpenScroll"
+  ]
+}

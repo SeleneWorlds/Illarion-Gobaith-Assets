@@ -123,7 +123,6 @@ client/textures/illarion/items/materials/gems/ruby_uncut.png,CC0,BlayTheNinth; M
 client/textures/illarion/items/materials/sand.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/clothing/sandals.png,CC0,Flare,https://opengameart.org/content/cc0-footgear-icons
 client/textures/illarion/items/tools/scissors/scissors.png,CC0,Drummyfish,https://opengameart.org/content/11-common-household-items
-client/textures/illarion/items/books/scroll.png,CC0,Melissa Krautheim,https://opengameart.org/content/fantasy-magic-set
 client/textures/illarion/items/food/seeds.png,CC0,BlayTheNinth; Idylwild,https://seleneworlds.com; https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/clothing/shirt.png,CC0,Flare,https://opengameart.org/content/cc0-torso-wear-icons
 client/textures/illarion/items/clothing/skirt.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
@@ -504,3 +503,4 @@ models/materials/wood/log_materials.blend,CC0,BlayTheNinth; CC0 Textures,https:/
 models/items/access/handcuffs/handcuffs.blend,CC-BY-SA 3.0,BlayTheNinth; MikeeUSA,https://opengameart.org/content/handcuffs
 models/items/books/scroll/scroll.blend,CC0,Warspawn,https://opengameart.org/content/low-poly-scroll
 models/items/books/scroll/textures/*,CC0,Warspawn,https://opengameart.org/content/low-poly-scroll
+models/items/books/open_scroll/open_scroll.blend,CC-BY 3.0,BlayTheNinth; Panther-One,https://opengameart.org/content/scroll
