@@ -1,0 +1,8 @@
+{
+  "model": "needle.blend",
+  "sprites": "illarion/items/tools/needle/item_47",
+  "visual": "items/item_47",
+  "direction": "handheld",
+  "scale": 1,
+  "reflections": "studio"
+}
