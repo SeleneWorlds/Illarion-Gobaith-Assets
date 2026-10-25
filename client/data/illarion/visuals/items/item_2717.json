@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
-  "offsetX": 5,
-  "offsetY": -19,
-  "texture": "client/textures/illarion/items/materials/wood_nails.png",
+  "offsetX": -5,
+  "offsetY": -11,
+  "texture": "client/textures/illarion/items/materials/pins_and_cotters/item_2717.png",
   "metadata": {
     "itemId": 2717
-  }
+  },
+  "surfaceOffsetY": 0
 }

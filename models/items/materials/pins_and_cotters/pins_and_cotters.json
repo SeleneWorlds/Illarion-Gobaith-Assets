@@ -1,0 +1,8 @@
+{
+  "model": "pins_and_cotters.blend",
+  "sprites": "illarion/items/materials/pins_and_cotters/item_2717",
+  "visual": "items/item_2717",
+  "direction": "west",
+  "scale": 0.9,
+  "reflections": "studio-flat"
+}
