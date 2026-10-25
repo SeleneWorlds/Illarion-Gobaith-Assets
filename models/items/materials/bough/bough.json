@@ -1,0 +1,10 @@
+{
+  "model": "bough.blend",
+  "sprites": "illarion/items/materials/bough/item_56",
+  "visual": "items/item_56",
+  "direction": "south",
+  "scale": 0.9,
+  "include": [
+    "branch"
+  ]
+}
