@@ -1,0 +1,10 @@
+{
+  "model": "warhammer.blend",
+  "sprites": "illarion/items/weapons/warhammer/item_226",
+  "visual": "items/item_226",
+  "direction": "handheld",
+  "scale": 1,
+  "include": [
+    "Hammer"
+  ]
+}

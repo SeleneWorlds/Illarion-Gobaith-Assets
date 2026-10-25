@@ -2,7 +2,7 @@
   "model": "goldsmithing_hammer.blend",
   "sprites": "illarion/items/tools/goldsmithing_hammer/item_122",
   "visual": "items/item_122",
-  "direction": "west",
+  "direction": "south",
   "scale": 1,
   "include": [
     "Handle",
