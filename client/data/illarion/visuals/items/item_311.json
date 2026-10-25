@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
-  "offsetX": -5,
-  "offsetY": -19,
-  "texture": "client/textures/illarion/items/tools/handle/item_2544.png",
+  "offsetX": 1,
+  "offsetY": -6,
+  "texture": "client/textures/illarion/items/tools/glassblowing_pipe/item_311.png",
   "metadata": {
     "itemId": 311
-  }
+  },
+  "surfaceOffsetY": 0
 }

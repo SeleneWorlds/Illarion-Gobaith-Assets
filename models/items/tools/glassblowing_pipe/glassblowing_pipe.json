@@ -1,0 +1,10 @@
+{
+  "model": "glassblowing_pipe.blend",
+  "sprites": "illarion/items/tools/glassblowing_pipe/item_311",
+  "visual": "items/item_311",
+  "direction": "handheld",
+  "scale": 1,
+  "include": [
+    "Cylinder"
+  ]
+}
