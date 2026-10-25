@@ -389,7 +389,7 @@ client/textures/illarion/items/wind-[0-9]*.png,CC0,Selene Worlds,
 client/textures/illarion/items/light-[0-9]*.png,CC0,Selene Worlds,
 client/textures/illarion/items/portal-[0-9]*.png,CC0,Selene Worlds,
 client/textures/illarion/items/portal_rot-[0-9]*.png,CC0,Selene Worlds,
-models/items/weapons/medieval_weapons/*,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
+models/items/weapons/medieval_weapons/*.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
 models/items/personal/comb/comb.blend,CC0,Drummyfish,https://opengameart.org/content/11-common-household-items
 models/items/tools/scissors/scissors.blend,CC0,Drummyfish,https://opengameart.org/content/11-common-household-items
 models/items/access/key/key.blend,CC0,Drummyfish,https://opengameart.org/content/11-common-household-items

@@ -1,5 +1,5 @@
 {
-  "model": "medieval_weapons.blend",
+  "model": "wand_1.blend",
   "sprites": "illarion/items/weapons/medieval_weapons/item_323",
   "visual": "items/item_323",
   "include": [

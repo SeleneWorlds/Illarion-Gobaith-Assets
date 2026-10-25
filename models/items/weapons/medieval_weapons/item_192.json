@@ -1,5 +1,5 @@
 {
-  "model": "medieval_weapons.blend",
+  "model": "one_handed_axe_1.blend",
   "sprites": "illarion/items/weapons/medieval_weapons/item_192",
   "visual": "items/item_192",
   "include": [
