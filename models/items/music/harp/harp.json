@@ -1,0 +1,7 @@
+{
+  "model": "harp.blend",
+  "sprites": "illarion/items/music/harp/item_332",
+  "visual": "items/item_332",
+  "direction": "west",
+  "scale": 1
+}

@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
-  "offsetX": 5,
-  "offsetY": -24,
-  "texture": "client/textures/illarion/items/music/harp.png",
+  "offsetX": 1,
+  "offsetY": -6,
+  "texture": "client/textures/illarion/items/music/harp/item_332.png",
   "metadata": {
     "itemId": 332
-  }
+  },
+  "surfaceOffsetY": 0
 }
