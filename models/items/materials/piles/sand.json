@@ -1,0 +1,10 @@
+{
+  "model": "sand.blend",
+  "sprites": "illarion/items/materials/piles/item_316",
+  "visual": "items/item_316",
+  "direction": "west",
+  "scale": 0.8,
+  "include": [
+    "Pile"
+  ]
+}

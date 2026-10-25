@@ -1,0 +1,10 @@
+{
+  "model": "ash.blend",
+  "sprites": "illarion/items/materials/piles/item_314",
+  "visual": "items/item_314",
+  "direction": "west",
+  "scale": 0.8,
+  "include": [
+    "Pile"
+  ]
+}
