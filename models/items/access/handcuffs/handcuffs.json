@@ -1,0 +1,11 @@
+{
+  "model": "handcuffs.blend",
+  "sprites": "illarion/items/access/handcuffs/item_466",
+  "visual": "items/item_466",
+  "direction": "west",
+  "scale": 0.7,
+  "include": [
+    "Handcuffs"
+  ],
+  "reflections": "studio"
+}

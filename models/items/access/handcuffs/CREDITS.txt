@@ -1,0 +1,8 @@
+Handcuffs by MikeeUSA
+Source: https://opengameart.org/content/handcuffs
+License: CC-BY-SA 3.0
+https://creativecommons.org/licenses/by-sa/3.0/
+
+Adapted by BlayTheNinth: removed unused scene objects and assigned a steel
+material for static sprite rendering. Adapted model and rendered sprite are
+provided under CC-BY-SA 3.0.
