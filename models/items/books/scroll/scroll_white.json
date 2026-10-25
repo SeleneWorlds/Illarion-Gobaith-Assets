@@ -1,0 +1,15 @@
+{
+  "model": "scroll.blend",
+  "sprites": "illarion/items/books/item_3115",
+  "visual": "items/item_3115",
+  "direction": "handheld",
+  "scale": 1.65,
+  "include": [
+    "Scroll"
+  ],
+  "materials": {
+    "ScrollParchment": {
+      "ScrollTexture": "textures/scroll_white.png"
+    }
+  }
+}

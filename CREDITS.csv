@@ -502,3 +502,5 @@ models/materials/wood/*.jpg,CC0,BlayTheNinth; CC0 Textures,https://cc0-textures.
 models/materials/wood/wood_materials.blend,CC0,BlayTheNinth; CC0 Textures,https://cc0-textures.com/t/cc0t-wood-050
 models/materials/wood/log_materials.blend,CC0,BlayTheNinth; CC0 Textures,https://cc0-textures.com/t/cc0t-bark-007; https://cc0-textures.com/t/cc0t-tree-end-001
 models/items/access/handcuffs/handcuffs.blend,CC-BY-SA 3.0,BlayTheNinth; MikeeUSA,https://opengameart.org/content/handcuffs
+models/items/books/scroll/scroll.blend,CC0,Warspawn,https://opengameart.org/content/low-poly-scroll
+models/items/books/scroll/textures/*,CC0,Warspawn,https://opengameart.org/content/low-poly-scroll
