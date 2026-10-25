@@ -2,11 +2,11 @@
 
 ## Summary
 
-- Total visuals: 1744
-- Duplicate uses: 197 visuals across 25 resolved sprite files
+- Total visuals: 1743
+- Duplicate uses: 195 visuals across 24 resolved sprite files
 - Missing new: 17 visuals
 
-## Duplicate Uses (25 sprite files)
+## Duplicate Uses (24 sprite files)
 
 - `client/textures/illarion/items/clothing/robe.png` used by 54 visuals: `items/item_193`, `items/item_194`, `items/item_195`, `items/item_196`, `items/item_2377`, `items/item_2378`, `items/item_2380`, `items/item_2384`, `items/item_2416`, `items/item_2418`, `items/item_2419`, `items/item_2420`, `items/item_2421`, `items/item_368`, `items/item_385`, `items/item_547`, `items/item_548`, `items/item_55`, `items/item_558`, `items/item_800`, `items/item_801`, `items/item_802`, `items/item_803`, `items/item_804`, `items/item_805`, `items/item_806`, `items/item_807`, `items/item_808`, `items/item_809`, `items/item_810`, `items/item_811`, `items/item_812`, `items/item_813`, `items/item_814`, `items/item_815`, `items/item_816`, `items/item_817`, `items/item_818`, `items/item_819`, `items/item_820`, `items/item_833`, `items/item_834`, `items/item_835`, `items/item_836`, `items/item_837`, `items/item_838`, `items/item_845`, `items/item_846`, `items/item_847`, `items/item_848`, `items/item_849`, `items/item_850`, `items/item_851`, `items/item_852`
 - `client/textures/illarion/items/plants/flower.png` used by 19 visuals: `items/item_133`, `items/item_134`, `items/item_135`, `items/item_136`, `items/item_137`, `items/item_138`, `items/item_141`, `items/item_144`, `items/item_145`, `items/item_146`, `items/item_147`, `items/item_148`, `items/item_757`, `items/item_758`, `items/item_763`, `items/item_764`, `items/item_765`, `items/item_766`, `items/item_767`
@@ -32,7 +32,6 @@
 - `client/textures/illarion/items/clothing/leggings_chain.png` used by 2 visuals: `items/item_2111`, `items/item_2112`
 - `client/textures/illarion/items/food/berries.png` used by 2 visuals: `items/item_388`, `items/item_81`
 - `client/textures/illarion/items/tools/hammer/item_23.png` used by 2 visuals: `items/item_23`, `items/item_2709`
-- `client/textures/illarion/items/weapons/axe/item_74.png` used by 2 visuals: `items/item_2663`, `items/item_74`
 
 ## Missing New (17 visuals)
 
