@@ -1,0 +1,7 @@
+{
+  "model": "thread.blend",
+  "sprites": "illarion/items/materials/thread/item_50",
+  "visual": "items/item_50",
+  "direction": "west",
+  "scale": 1
+}

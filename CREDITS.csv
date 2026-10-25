@@ -89,7 +89,6 @@ client/textures/illarion/items/food/seeds.png,CC0,BlayTheNinth; Idylwild,https:/
 client/textures/illarion/items/clothing/shirt.png,CC0,Flare,https://opengameart.org/content/cc0-torso-wear-icons
 client/textures/illarion/items/clothing/skirt.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
 client/textures/illarion/items/weapons/sling.png,CC0,Dungeon Crawl Stone Soup,https://opengameart.org/content/cc0-ranged-icons
-client/textures/illarion/items/materials/thread.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/books/treasure_map.png,CC0,BlayTheNinth; Kutejnikov,https://seleneworlds.com; https://opengameart.org/content/papers
 client/textures/illarion/items/markers/unknownItem.png,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/items/tools/wood_plane.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
@@ -496,3 +495,4 @@ models/items/materials/piles/sand.blend,CC0,BlayTheNinth,https://seleneworlds.co
 models/items/materials/piles/coarse_sand.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/materials/piles/ash.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/materials/clay/clay.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/items/materials/thread/thread.blend,CC0,BlayTheNinth,https://seleneworlds.com
