@@ -1,0 +1,10 @@
+{
+  "model": "halberd.blend",
+  "sprites": "illarion/items/weapons/halberd/item_77",
+  "visual": "items/item_77",
+  "direction": "handheld",
+  "scale": 1,
+  "include": [
+    "Halberd"
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
-  "offsetX": -3,
-  "offsetY": -12,
-  "texture": "client/textures/illarion/items/weapons/axe/item_74.png",
+  "offsetX": 2,
+  "offsetY": -9,
+  "texture": "client/textures/illarion/items/weapons/halberd/item_77.png",
   "metadata": {
     "itemId": 77
-  }
+  },
+  "surfaceOffsetY": 0
 }
