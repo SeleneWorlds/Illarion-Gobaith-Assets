@@ -3,5 +3,9 @@
   "sprites": "illarion/items/access/key/key",
   "visual": "items/item_2121",
   "direction": "west",
-  "scale": 1
+  "scale": 1,
+  "include": [
+    "Key"
+  ],
+  "reflections": "studio"
 }

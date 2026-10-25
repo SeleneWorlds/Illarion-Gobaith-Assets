@@ -1,0 +1,13 @@
+{
+  "model": "key.blend",
+  "sprites": "illarion/items/access/key/item_2556",
+  "visual": "items/item_2556",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "SilverSkullKey",
+    "SilverSkullSkull",
+    "SilverSkullSkullDecoration"
+  ],
+  "reflections": "studio-flat"
+}

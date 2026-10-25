@@ -72,7 +72,6 @@ client/textures/illarion/items/personal/handkerchief.png,CC0,Kutejnikov,https://
 client/textures/illarion/items/clothing/helmet.png,CC0,Flare,https://opengameart.org/content/cc0-headgear-icons
 client/textures/illarion/items/plants/herb.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/markers/invisible_item.png,CC0,BlayTheNinth,https://seleneworlds.com
-client/textures/illarion/items/access/key/key.png,CC0,Drummyfish,https://opengameart.org/content/11-common-household-items
 client/textures/illarion/items/clothing/leather_armor.png,CC0,Flare,https://opengameart.org/content/cc0-torso-wear-icons
 client/textures/illarion/items/clothing/leggings_chain.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
 client/textures/illarion/items/clothing/leggings_cloth.png,CC0,BlayTheNinth; Flare,https://seleneworlds.com; https://opengameart.org/content/cc0-leggings-icons
@@ -382,7 +381,7 @@ client/textures/illarion/items/portal_rot-[0-9]*.png,CC0,Selene Worlds,
 models/items/weapons/medieval_weapons/*.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
 models/items/personal/comb/comb.blend,CC0,Drummyfish,https://opengameart.org/content/11-common-household-items
 models/items/tools/scissors/scissors.blend,CC0,Drummyfish,https://opengameart.org/content/11-common-household-items
-models/items/access/key/key.blend,CC0,Drummyfish,https://opengameart.org/content/11-common-household-items
+models/items/access/key/key.blend,CC-BY 4.0,Drummyfish; animatedheaven (Animated Heaven - Designs of Eternity),https://opengameart.org/content/11-common-household-items; https://opengameart.org/content/stylized-magic-book
 models/items/containers/bucket/bucket.blend,CC0,BlayTheNinth; System G6,https://seleneworlds.com; https://opengameart.org/content/medieval-tavern-props-pack
 models/items/containers/plate/plate.blend,CC0,System G6,https://opengameart.org/content/medieval-tavern-props-pack
 models/items/containers/mug/mug.blend,CC0,System G6,https://opengameart.org/content/medieval-tavern-props-pack

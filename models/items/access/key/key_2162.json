@@ -1,0 +1,13 @@
+{
+  "model": "key.blend",
+  "sprites": "illarion/items/access/key/item_2162",
+  "visual": "items/item_2162",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "RustySkullKey",
+    "RustySkullSkull",
+    "RustySkullSkullDecoration"
+  ],
+  "reflections": "studio"
+}

@@ -1,0 +1,11 @@
+{
+  "model": "key.blend",
+  "sprites": "illarion/items/access/key/item_2161",
+  "visual": "items/item_2161",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "RustyKey"
+  ],
+  "reflections": "studio"
+}

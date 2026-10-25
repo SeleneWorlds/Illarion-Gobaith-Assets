@@ -1,0 +1,11 @@
+{
+  "model": "key.blend",
+  "sprites": "illarion/items/access/key/item_3055",
+  "visual": "items/item_3055",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "SilverSkullKey"
+  ],
+  "reflections": "studio-flat"
+}
