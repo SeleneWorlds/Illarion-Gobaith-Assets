@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
-  "offsetX": 0,
-  "offsetY": -22,
-  "texture": "client/textures/illarion/items/food/mushroom.png",
+  "offsetX": -1,
+  "offsetY": -3,
+  "texture": "client/textures/illarion/items/foliage/mushrooms/item_161.png",
   "metadata": {
     "itemId": 161
-  }
+  },
+  "surfaceOffsetY": 0
 }

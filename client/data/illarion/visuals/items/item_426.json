@@ -1,7 +1,7 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "offsetX": 2,
-  "offsetY": -4,
+  "offsetX": -2,
+  "offsetY": -8,
   "texture": "client/textures/illarion/items/foliage/mushrooms/item_426.png"
 }

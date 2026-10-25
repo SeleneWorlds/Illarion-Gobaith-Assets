@@ -1,7 +1,12 @@
 {
-  "model": "mushroom_stalk_01.blend",
+  "model": "procedural_mushrooms.blend",
   "sprites": "illarion/items/foliage/mushrooms/item_427",
   "visual": "items/item_427",
   "direction": "west",
-  "scale": 1.0
+  "scale": 1,
+  "include": [
+    "Mushroom_427"
+  ],
+  "offsetX": 0,
+  "offsetY": -7
 }

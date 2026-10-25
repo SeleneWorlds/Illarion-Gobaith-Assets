@@ -80,7 +80,6 @@ client/textures/illarion/items/clothing/leggings_cloth.png,CC0,BlayTheNinth; Fla
 client/textures/illarion/items/clothing/leggings_leather.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
 client/textures/illarion/items/clothing/leggings_plate.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
 client/textures/illarion/items/tools/mold.png,CC0,bluecarrot16,https://opengameart.org/node/98209
-client/textures/illarion/items/food/mushroom.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/materials/nails.png,CC0,Glitch,https://opengameart.org/content/100-glitch-icons
 models/items/tools/needle/needle.blend,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/items/food/nuts.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
@@ -214,8 +213,6 @@ models/foliage/grass_01.blend,CC0,AssetQuest,https://opengameart.org/content/low
 models/foliage/grass_02.blend,CC0,AssetQuest,https://opengameart.org/content/low-poly-halloween-kit
 models/foliage/hedge.blend,CC0,Yughues,https://opengameart.org/content/free-hedges
 models/foliage/lavender.blend,CC0,Yughues,https://opengameart.org/content/free-handpainted-plants
-models/foliage/mushrooms/mushroom_01.blend,CC0,JamesWhite,https://opengameart.org/content/mushrooms-1
-models/foliage/mushrooms/mushroom_stalk_01.blend,CC0,BlayTheNinth; JamesWhite,https://seleneworlds.com; https://opengameart.org/content/mushrooms-1
 models/foliage/reed.blend,CC0,Aredon,https://opengameart.org/content/lowpoly-reed
 models/foliage/rosemary.blend,CC0,Yughues,https://opengameart.org/content/free-handpainted-plants
 models/foliage/snowcandle.blend,CC0,Yughues,https://opengameart.org/content/free-handpainted-plants
@@ -499,3 +496,4 @@ models/items/materials/bricks/bricks.blend,CC0,BlayTheNinth,https://seleneworlds
 models/items/tools/goldsmithing_hammer/goldsmithing_hammer.blend,CC0,BlayTheNinth; sandsound,https://seleneworlds.com; https://opengameart.org/content/inventory-items
 models/items/weapons/warhammer/warhammer.blend,CC0,Teh_Bucket,https://opengameart.org/content/war-hammer-0
 models/items/weapons/halberd/halberd.blend,CC0,Umplix,https://opengameart.org/content/halberd-0
+models/foliage/mushrooms/procedural_mushrooms.blend,CC0,BlayTheNinth,https://seleneworlds.com

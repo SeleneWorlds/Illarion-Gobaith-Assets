@@ -1,7 +1,10 @@
 {
-  "model": "mushroom_01.blend",
+  "model": "procedural_mushrooms.blend",
   "sprites": "illarion/items/foliage/mushrooms/item_405",
   "visual": "items/item_405",
   "direction": "south",
-  "scale": 1.0
+  "scale": 1,
+  "include": [
+    "Mushroom_405"
+  ]
 }
