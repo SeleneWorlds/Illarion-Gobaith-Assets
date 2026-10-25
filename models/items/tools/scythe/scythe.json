@@ -3,5 +3,9 @@
   "sprites": "illarion/items/tools/scythe/item_271",
   "visual": "items/item_271",
   "direction": "west",
-  "scale": 1
+  "scale": 1,
+  "include": [
+    "Handle",
+    "Head"
+  ]
 }

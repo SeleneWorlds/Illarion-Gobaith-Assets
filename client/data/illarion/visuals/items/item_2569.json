@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
-  "offsetX": 0,
-  "offsetY": -9,
-  "texture": "client/textures/illarion/items/weapons/blade.png",
+  "offsetX": 9,
+  "offsetY": -4,
+  "texture": "client/textures/illarion/items/tools/sickle/item_2569.png",
   "metadata": {
     "itemId": 2569
-  }
+  },
+  "surfaceOffsetY": 0
 }

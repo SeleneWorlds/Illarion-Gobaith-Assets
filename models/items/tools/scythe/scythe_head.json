@@ -1,0 +1,10 @@
+{
+  "model": "scythe.blend",
+  "sprites": "illarion/items/tools/scythe/item_2565",
+  "visual": "items/item_2565",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "Head"
+  ]
+}

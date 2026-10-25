@@ -1,0 +1,10 @@
+{
+  "model": "axe.blend",
+  "sprites": "illarion/items/weapons/axe/item_2525",
+  "visual": "items/item_2525",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "Handle"
+  ]
+}

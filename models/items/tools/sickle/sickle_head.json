@@ -1,0 +1,10 @@
+{
+  "model": "sickle.blend",
+  "sprites": "illarion/items/tools/sickle/item_2569",
+  "visual": "items/item_2569",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "Head"
+  ]
+}

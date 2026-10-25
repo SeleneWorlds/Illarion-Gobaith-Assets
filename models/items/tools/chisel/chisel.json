@@ -5,6 +5,7 @@
   "direction": "west",
   "scale": 1.2,
   "include": [
-    "chisel"
+    "Handle",
+    "Head"
   ]
 }

@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
-  "offsetX": 7,
+  "offsetX": 57,
   "offsetY": -10,
-  "texture": "client/textures/illarion/items/weapons/blade.png",
+  "texture": "client/textures/illarion/items/tools/scythe/item_2565.png",
   "metadata": {
     "itemId": 2565
-  }
+  },
+  "surfaceOffsetY": 0
 }

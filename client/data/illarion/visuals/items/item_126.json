@@ -1,7 +1,7 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "offsetX": 1,
+  "offsetX": 0,
   "offsetY": -11,
   "texture": "client/textures/illarion/items/tools/sickle/item_126.png"
 }

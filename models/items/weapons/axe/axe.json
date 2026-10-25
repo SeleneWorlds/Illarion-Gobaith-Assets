@@ -3,5 +3,9 @@
   "sprites": "illarion/items/weapons/axe/item_74",
   "visual": "items/item_74",
   "direction": "west",
-  "scale": 1
+  "scale": 1,
+  "include": [
+    "Handle",
+    "Head"
+  ]
 }
