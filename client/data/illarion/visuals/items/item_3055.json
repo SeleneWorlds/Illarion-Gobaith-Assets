@@ -1,7 +1,7 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "offsetX": 0,
+  "offsetX": 5,
   "offsetY": -11,
   "texture": "client/textures/illarion/items/access/key/item_3055.png",
   "metadata": {

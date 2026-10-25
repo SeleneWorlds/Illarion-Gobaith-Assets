@@ -1,0 +1,12 @@
+{
+  "model": "key.blend",
+  "sprites": "illarion/items/access/key/item_3056",
+  "visual": "items/item_3056",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "Key",
+    "Band_3056"
+  ],
+  "reflections": "studio"
+}

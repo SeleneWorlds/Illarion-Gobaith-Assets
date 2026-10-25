@@ -5,7 +5,8 @@
   "direction": "west",
   "scale": 1,
   "include": [
-    "SilverSkullKey"
+    "SilverSkullKey",
+    "Band_3054"
   ],
   "reflections": "studio-flat"
 }

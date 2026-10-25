@@ -3,10 +3,10 @@
 ## Summary
 
 - Total visuals: 1744
-- Duplicate uses: 204 visuals across 26 resolved sprite files
+- Duplicate uses: 197 visuals across 25 resolved sprite files
 - Missing new: 17 visuals
 
-## Duplicate Uses (26 sprite files)
+## Duplicate Uses (25 sprite files)
 
 - `client/textures/illarion/items/clothing/robe.png` used by 54 visuals: `items/item_193`, `items/item_194`, `items/item_195`, `items/item_196`, `items/item_2377`, `items/item_2378`, `items/item_2380`, `items/item_2384`, `items/item_2416`, `items/item_2418`, `items/item_2419`, `items/item_2420`, `items/item_2421`, `items/item_368`, `items/item_385`, `items/item_547`, `items/item_548`, `items/item_55`, `items/item_558`, `items/item_800`, `items/item_801`, `items/item_802`, `items/item_803`, `items/item_804`, `items/item_805`, `items/item_806`, `items/item_807`, `items/item_808`, `items/item_809`, `items/item_810`, `items/item_811`, `items/item_812`, `items/item_813`, `items/item_814`, `items/item_815`, `items/item_816`, `items/item_817`, `items/item_818`, `items/item_819`, `items/item_820`, `items/item_833`, `items/item_834`, `items/item_835`, `items/item_836`, `items/item_837`, `items/item_838`, `items/item_845`, `items/item_846`, `items/item_847`, `items/item_848`, `items/item_849`, `items/item_850`, `items/item_851`, `items/item_852`
 - `client/textures/illarion/items/plants/flower.png` used by 19 visuals: `items/item_133`, `items/item_134`, `items/item_135`, `items/item_136`, `items/item_137`, `items/item_138`, `items/item_141`, `items/item_144`, `items/item_145`, `items/item_146`, `items/item_147`, `items/item_148`, `items/item_757`, `items/item_758`, `items/item_763`, `items/item_764`, `items/item_765`, `items/item_766`, `items/item_767`
@@ -14,7 +14,6 @@
 - `client/textures/illarion/items/clothing/leggings_cloth.png` used by 12 visuals: `items/item_183`, `items/item_34`, `items/item_459`, `items/item_460`, `items/item_461`, `items/item_821`, `items/item_822`, `items/item_823`, `items/item_824`, `items/item_825`, `items/item_826`, `items/item_827`
 - `client/textures/illarion/items/clothing/helmet.png` used by 10 visuals: `items/item_16`, `items/item_184`, `items/item_185`, `items/item_187`, `items/item_2286`, `items/item_2287`, `items/item_2290`, `items/item_2291`, `items/item_7`, `items/item_94`
 - `client/textures/illarion/items/plants/herb.png` used by 10 visuals: `items/item_140`, `items/item_149`, `items/item_153`, `items/item_154`, `items/item_155`, `items/item_156`, `items/item_752`, `items/item_760`, `items/item_761`, `items/item_768`
-- `client/textures/illarion/items/access/key/key.png` used by 7 visuals: `items/item_2121`, `items/item_2122`, `items/item_2123`, `items/item_2124`, `items/item_2141`, `items/item_2145`, `items/item_3056`
 - `client/textures/illarion/items/clothing/chain_helmet.png` used by 6 visuals: `items/item_202`, `items/item_2302`, `items/item_2303`, `items/item_2441`, `items/item_2444`, `items/item_324`
 - `client/textures/illarion/items/clothing/leggings_leather.png` used by 6 visuals: `items/item_2113`, `items/item_2114`, `items/item_2193`, `items/item_2194`, `items/item_366`, `items/item_367`
 - `client/textures/illarion/items/clothing/skirt.png` used by 6 visuals: `items/item_839`, `items/item_840`, `items/item_841`, `items/item_842`, `items/item_843`, `items/item_844`
