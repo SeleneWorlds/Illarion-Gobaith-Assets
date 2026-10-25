@@ -92,7 +92,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--ambient-strength", type=float, required=True)
     parser.add_argument("--fps", type=int, required=True)
     parser.add_argument("--scale", type=float, default=1.0)
-    parser.add_argument("--reflections", choices=("none", "studio"), default="none")
+    parser.add_argument("--reflections", choices=("none", "studio", "studio-flat"), default="none")
     parser.add_argument("--frame-range", nargs=2, type=int, default=None)
     parser.add_argument("--alpha-clip", type=float, default=None)
     parser.add_argument("--grid-aligned", action="store_true")
@@ -538,7 +538,9 @@ def ensure_lighting(
     return light_visibility
 
 
-def create_studio_reflections(scene: bpy.types.Scene, strength: float) -> bpy.types.World:
+def create_studio_reflections(
+    scene: bpy.types.Scene, strength: float, preset: str = "studio",
+) -> bpy.types.World:
     """Give glossy materials broad highlights without adding model lights."""
     world = bpy.data.worlds.new("SpriteReflectionStudio")
     world.use_nodes = True
@@ -548,14 +550,23 @@ def create_studio_reflections(scene: bpy.types.Scene, strength: float) -> bpy.ty
     links = world.node_tree.links
     output = nodes.new("ShaderNodeOutputWorld")
     background = nodes.new("ShaderNodeBackground")
-    background.inputs["Strength"].default_value = strength
+    background.inputs["Strength"].default_value = strength * (0.3 if preset == "studio-flat" else 1.0)
     links.new(background.outputs[0], output.inputs[0])
     coordinates = nodes.new("ShaderNodeTexCoord")
     masks = []
-    for direction, threshold in (
+    # World Normal points inward: negate the outgoing reflection direction
+    # to light a horizontal polished face from the isometric camera.
+    # Keep the standard studio unchanged for existing curved metal models.
+    cards = (
         ((-0.55, -0.45, 0.70), 0.76),
         ((0.7, 0.2, 0.68), 0.92),
-    ):
+    )
+    if preset == "studio-flat":
+        cards = (
+            ((0.612372, -0.612372, -0.5), 0.92),
+            ((0.7, 0.2, 0.68), 0.92),
+        )
+    for direction, threshold in cards:
         dot = nodes.new("ShaderNodeVectorMath")
         dot.operation = "DOT_PRODUCT"
         dot.inputs[1].default_value = direction
@@ -1232,8 +1243,8 @@ def main() -> None:
         if hasattr(scene, "eevee") and hasattr(scene.eevee, "use_raytracing") else None
     )
     reflection_world = (
-        create_studio_reflections(scene, args.ambient_strength)
-        if args.reflections == "studio" else None
+        create_studio_reflections(scene, args.ambient_strength, args.reflections)
+        if args.reflections in ("studio", "studio-flat") else None
     )
 
     root = find_render_root()

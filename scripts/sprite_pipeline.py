@@ -324,8 +324,8 @@ def load_model_config_from_raw(
     if not isinstance(raw.get("gridAligned", False), bool):
         raise ValueError(f"{path}: gridAligned must be a boolean")
     reflections = raw.get("reflections", "none")
-    if reflections not in ("none", "studio"):
-        raise ValueError(f"{path}: reflections must be 'none' or 'studio'")
+    if reflections not in ("none", "studio", "studio-flat"):
+        raise ValueError(f"{path}: reflections must be 'none', 'studio', or 'studio-flat'")
     translation = raw.get("translation", [0, 0, 0])
     if (
         not isinstance(translation, list) or len(translation) != 3

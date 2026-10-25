@@ -93,7 +93,6 @@ client/textures/illarion/items/clothing/leggings_chain.png,CC0,Flare,https://ope
 client/textures/illarion/items/clothing/leggings_cloth.png,CC0,BlayTheNinth; Flare,https://seleneworlds.com; https://opengameart.org/content/cc0-leggings-icons
 client/textures/illarion/items/clothing/leggings_leather.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
 client/textures/illarion/items/clothing/leggings_plate.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
-client/textures/illarion/items/jewelry/medal.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
 client/textures/illarion/items/tools/mold.png,CC0,bluecarrot16,https://opengameart.org/node/98209
 client/textures/illarion/items/food/muffin.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
 client/textures/illarion/items/food/mushroom.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
@@ -499,3 +498,4 @@ models/items/books/scroll/textures/*,CC0,Warspawn,https://opengameart.org/conten
 models/items/books/open_scroll/open_scroll.blend,CC-BY 3.0,BlayTheNinth; Panther-One,https://opengameart.org/content/scroll
 models/items/containers/cauldron/cauldron.blend,CC0,BlayTheNinth; JeremyWoods,https://opengameart.org/content/cauldron
 models/items/jewelry/diadem/diadem.blend,CC0,BlayTheNinth; Nattie,https://blendswap.com/blend/4758
+models/items/jewelry/medal/medal.blend,CC0,BlayTheNinth,https://seleneworlds.com

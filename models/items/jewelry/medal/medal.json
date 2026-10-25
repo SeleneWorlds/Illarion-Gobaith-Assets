@@ -1,0 +1,11 @@
+{
+  "model": "medal.blend",
+  "sprites": "illarion/items/jewelry/medal/item_93",
+  "visual": "items/item_93",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "Circle"
+  ],
+  "reflections": "studio-flat"
+}

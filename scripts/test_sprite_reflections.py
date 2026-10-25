@@ -17,6 +17,9 @@ class ReflectionConfigTests(unittest.TestCase):
     def test_studio_is_opt_in(self):
         self.assertEqual(self.config(reflections="studio").reflections, "studio")
 
+    def test_flat_studio_is_opt_in(self):
+        self.assertEqual(self.config(reflections="studio-flat").reflections, "studio-flat")
+
     def test_invalid_presets_and_types_are_rejected(self):
         for value in ("unknown", "STUDIO", True, 1, None, [], {}):
             with self.subTest(value=value), self.assertRaisesRegex(ValueError, "reflections"):
@@ -30,10 +33,10 @@ class ReflectionConfigTests(unittest.TestCase):
                 "sprites": "illarion/items/test",
                 "visual": "items/test",
                 "reflections": "studio",
-                "variants": [{}, {"reflections": "none"}],
+                "variants": [{}, {"reflections": "none"}, {"reflections": "studio-flat"}],
             }))
             _, variants = load_variant_configs(path, Path(folder))
-            self.assertEqual([v.model.reflections for v in variants], ["studio", "none"])
+            self.assertEqual([v.model.reflections for v in variants], ["studio", "none", "studio-flat"])
 
 
 if __name__ == "__main__":

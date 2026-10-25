@@ -57,6 +57,10 @@ tracing when available. It keeps the shared sun and uses the scene's
 `ambientStrength` for the reflection intensity. No lights or world shader need
 to be saved in the model.
 
+For horizontal polished surfaces such as the medal, `"reflections": "studio-flat"`
+positions a softer reflection card for the flat face, preserving the model pose
+and bump-map engraving. The standard `studio` preset stays unchanged.
+
 Keep material settings in Blender: metals generally need a high Metallic value
 and Roughness around 0.15–0.3 for visible shine. The preset does not change
 materials. Omitting `reflections` (or setting it to `"none"`) preserves the
