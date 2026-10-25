@@ -3,7 +3,7 @@
   "sprites": "illarion/items/containers/bowl/item_2935",
   "visual": "items/item_2935",
   "direction": "south",
-  "scale": 1,
+  "scale": 0.9,
   "include": [
     "bowl"
   ]
