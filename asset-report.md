@@ -2,7 +2,7 @@
 
 ## Summary
 
-- Total visuals: 1742
+- Total visuals: 1741
 - Duplicate uses: 192 visuals across 23 resolved sprite files
 - Missing new: 17 visuals
 
