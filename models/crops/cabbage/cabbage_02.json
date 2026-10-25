@@ -3,5 +3,8 @@
   "sprites": "illarion/items/crops/cabbage/item_289",
   "visual": "items/item_289",
   "direction": "south",
-  "scale": 1.0
+  "scale": 1.0,
+  "include": [
+    "Cabbage"
+  ]
 }

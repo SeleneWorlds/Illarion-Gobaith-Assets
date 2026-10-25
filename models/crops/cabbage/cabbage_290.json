@@ -1,0 +1,10 @@
+{
+  "model": "cabbage.blend",
+  "sprites": "illarion/items/food/cabbage/item_290",
+  "visual": "items/item_290",
+  "direction": "south",
+  "scale": 0.9,
+  "include": [
+    "Cabbage"
+  ]
+}

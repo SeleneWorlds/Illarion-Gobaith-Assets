@@ -1,0 +1,10 @@
+{
+  "model": "cabbage.blend",
+  "sprites": "illarion/items/crops/cabbage/item_291",
+  "visual": "items/item_291",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "CabbageWithered"
+  ]
+}

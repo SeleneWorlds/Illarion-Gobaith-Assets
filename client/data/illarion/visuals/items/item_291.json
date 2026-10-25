@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
-  "offsetX": 20,
-  "offsetY": -10,
-  "texture": "client/textures/illarion/items/food/cabbage.png",
+  "offsetX": -3,
+  "offsetY": -8,
+  "texture": "client/textures/illarion/items/crops/cabbage/item_291.png",
   "metadata": {
     "itemId": 291
-  }
+  },
+  "surfaceOffsetY": 0
 }
