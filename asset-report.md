@@ -3,7 +3,7 @@
 ## Summary
 
 - Total visuals: 1740
-- Duplicate uses: 182 visuals across 20 resolved sprite files
+- Duplicate uses: 181 visuals across 20 resolved sprite files
 - Missing new: 17 visuals
 
 ## Duplicate Uses (20 sprite files)
@@ -13,7 +13,7 @@
 - `client/textures/illarion/items/clothing/armor.png` used by 18 visuals: `items/item_2357`, `items/item_2359`, `items/item_2360`, `items/item_2363`, `items/item_2364`, `items/item_2365`, `items/item_2367`, `items/item_2369`, `items/item_2389`, `items/item_2390`, `items/item_2393`, `items/item_2395`, `items/item_2400`, `items/item_2402`, `items/item_2403`, `items/item_2407`, `items/item_4`, `items/item_696`
 - `client/textures/illarion/items/clothing/leggings_cloth.png` used by 12 visuals: `items/item_183`, `items/item_34`, `items/item_459`, `items/item_460`, `items/item_461`, `items/item_821`, `items/item_822`, `items/item_823`, `items/item_824`, `items/item_825`, `items/item_826`, `items/item_827`
 - `client/textures/illarion/items/clothing/helmet.png` used by 10 visuals: `items/item_16`, `items/item_184`, `items/item_185`, `items/item_187`, `items/item_2286`, `items/item_2287`, `items/item_2290`, `items/item_2291`, `items/item_7`, `items/item_94`
-- `client/textures/illarion/items/plants/herb.png` used by 10 visuals: `items/item_140`, `items/item_149`, `items/item_153`, `items/item_154`, `items/item_155`, `items/item_156`, `items/item_752`, `items/item_760`, `items/item_761`, `items/item_768`
+- `client/textures/illarion/items/plants/herb.png` used by 9 visuals: `items/item_140`, `items/item_149`, `items/item_153`, `items/item_154`, `items/item_156`, `items/item_752`, `items/item_760`, `items/item_761`, `items/item_768`
 - `client/textures/illarion/items/clothing/chain_helmet.png` used by 6 visuals: `items/item_202`, `items/item_2302`, `items/item_2303`, `items/item_2441`, `items/item_2444`, `items/item_324`
 - `client/textures/illarion/items/clothing/leggings_leather.png` used by 6 visuals: `items/item_2113`, `items/item_2114`, `items/item_2193`, `items/item_2194`, `items/item_366`, `items/item_367`
 - `client/textures/illarion/items/clothing/skirt.png` used by 6 visuals: `items/item_839`, `items/item_840`, `items/item_841`, `items/item_842`, `items/item_843`, `items/item_844`

@@ -1,0 +1,7 @@
+{
+  "model": "sibanac.blend",
+  "sprites": "illarion/items/plants/sibanac/item_155",
+  "visual": "items/item_155",
+  "direction": "west",
+  "scale": 1
+}
