@@ -1,0 +1,10 @@
+{
+  "model": "deer_meat.blend",
+  "sprites": "illarion/items/food/deer_meat/item_552",
+  "visual": "items/item_552",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "roundsteak"
+  ]
+}
