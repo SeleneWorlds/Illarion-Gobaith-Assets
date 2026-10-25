@@ -1,0 +1,10 @@
+{
+  "model": "carrot_seeds.blend",
+  "sprites": "illarion/items/food/seeds/item_2494",
+  "visual": "items/item_2494",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "SeedPile"
+  ]
+}

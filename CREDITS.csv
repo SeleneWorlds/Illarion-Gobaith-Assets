@@ -81,7 +81,6 @@ client/textures/illarion/items/clothing/robe.png,CC0,Flare,https://opengameart.o
 client/textures/illarion/items/food/root.png,CC0,AntumDeluge,https://opengameart.org/content/cc0-herb-icons
 client/textures/illarion/items/clothing/sandals.png,CC0,Flare,https://opengameart.org/content/cc0-footgear-icons
 client/textures/illarion/items/tools/scissors/scissors.png,CC0,Drummyfish,https://opengameart.org/content/11-common-household-items
-client/textures/illarion/items/food/seeds.png,CC0,BlayTheNinth; Idylwild,https://seleneworlds.com; https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/clothing/shirt.png,CC0,Flare,https://opengameart.org/content/cc0-torso-wear-icons
 client/textures/illarion/items/clothing/skirt.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
 client/textures/illarion/items/weapons/sling.png,CC0,Dungeon Crawl Stone Soup,https://opengameart.org/content/cc0-ranged-icons
@@ -496,3 +495,9 @@ models/items/music/panflute/panflute.blend,CC0,BlayTheNinth,https://seleneworlds
 models/items/food/grains/grains.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/food/dough/dough.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/food/honeycomb/honeycomb.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/items/food/seeds/onion_seeds.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/items/food/seeds/tobacco_seeds.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/items/food/seeds/carrot_seeds.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/items/food/seeds/tomato_seeds.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/items/food/seeds/sugarcane_seeds.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/items/food/seeds/hop_seeds.blend,CC0,BlayTheNinth,https://seleneworlds.com

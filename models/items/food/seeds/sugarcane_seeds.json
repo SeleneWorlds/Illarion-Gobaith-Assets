@@ -1,0 +1,10 @@
+{
+  "model": "sugarcane_seeds.blend",
+  "sprites": "illarion/items/food/seeds/item_779",
+  "visual": "items/item_779",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "SeedPile"
+  ]
+}
