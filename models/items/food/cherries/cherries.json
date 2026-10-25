@@ -1,0 +1,13 @@
+{
+  "model": "cherries.blend",
+  "sprites": "illarion/items/food/cherries/item_302",
+  "visual": "items/item_302",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "Cherry_1",
+    "Cherry_2",
+    "Cherry_3",
+    "CherryStems"
+  ]
+}
