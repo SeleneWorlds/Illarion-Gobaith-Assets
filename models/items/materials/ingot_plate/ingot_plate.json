@@ -1,0 +1,11 @@
+{
+  "model": "ingot_plate.blend",
+  "sprites": "illarion/items/materials/ingot_plate/item_2537",
+  "visual": "items/item_2537",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "IngotIron"
+  ],
+  "reflections": "studio"
+}

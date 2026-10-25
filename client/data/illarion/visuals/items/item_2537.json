@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
   "offsetX": 0,
-  "offsetY": -19,
-  "texture": "client/textures/illarion/items/materials/iron_plate.png",
+  "offsetY": -16,
+  "texture": "client/textures/illarion/items/materials/ingot_plate/item_2537.png",
   "metadata": {
     "itemId": 2537
-  }
+  },
+  "surfaceOffsetY": 0
 }
