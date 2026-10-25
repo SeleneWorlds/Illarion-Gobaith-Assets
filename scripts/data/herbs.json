@@ -414,6 +414,32 @@
         0.7
       ],
       "roughness": 0.52
+    },
+    "tobacco_leaf": {
+      "color": [
+        0.16,
+        0.065,
+        0.018
+      ],
+      "light": [
+        0.48,
+        0.26,
+        0.085
+      ],
+      "roughness": 0.92
+    },
+    "tobacco_vein": {
+      "color": [
+        0.24,
+        0.12,
+        0.035
+      ],
+      "light": [
+        0.61,
+        0.38,
+        0.14
+      ],
+      "roughness": 0.9
     }
   },
   "herbs": [
@@ -2647,6 +2673,35 @@
           "pairs": 8,
           "material": "olive",
           "leaflet_width": 0.13
+        }
+      ],
+      "stem_thickness": 1.82
+    },
+    {
+      "item": 772,
+      "slug": "tobacco",
+      "name": "Tobacco",
+      "seed": 772,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "leaf",
+          "base": [
+            -0.1,
+            -0.05,
+            0.01
+          ],
+          "tip": [
+            0.11,
+            0.07,
+            0.04
+          ],
+          "width": 0.15,
+          "shape": "heart",
+          "material": "tobacco_leaf",
+          "curl": 0.065,
+          "vein_material": "tobacco_vein"
         }
       ],
       "stem_thickness": 1.82
