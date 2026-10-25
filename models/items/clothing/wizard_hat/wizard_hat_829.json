@@ -1,0 +1,10 @@
+{
+  "model": "wizard_hat.blend",
+  "sprites": "illarion/items/clothing/wizard_hat/item_829",
+  "visual": "items/item_829",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "WizardHatYellow"
+  ]
+}
