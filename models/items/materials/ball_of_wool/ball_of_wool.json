@@ -1,0 +1,11 @@
+{
+  "model": "ball_of_wool.blend",
+  "sprites": "illarion/items/materials/ball_of_wool/item_168",
+  "visual": "items/item_168",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "BallOfWool",
+    "LooseYarn"
+  ]
+}

@@ -42,7 +42,6 @@ client/textures/illarion/items/*,see models/,see models/,see models/
 client/textures/illarion/items/clothing/armor.png,CC0,Flare,https://opengameart.org/content/cc0-torso-wear-icons
 client/textures/illarion/items/materials/ash.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/containers/bag.png,CC0,Melissa Krautheim,https://opengameart.org/content/fantasy-magic-set
-client/textures/illarion/items/materials/ball_of_wool.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/food/berries.png,CC0,Tanya Riarey,https://opengameart.org/content/2d-game-icons-fruits-vegetables
 client/textures/illarion/items/markers/blocked.png,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/items/blood.png,CC0,AntumDeluge,https://opengameart.org/content/blood-splatters
@@ -496,3 +495,4 @@ models/items/tools/candle_mould/candle_mould.blend,CC0,BlayTheNinth; System G6,h
 models/items/materials/nails/nail.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/materials/nails/nail_pile.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/materials/pins_and_cotters/pins_and_cotters.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/items/materials/ball_of_wool/ball_of_wool.blend,CC0,BlayTheNinth,https://seleneworlds.com
