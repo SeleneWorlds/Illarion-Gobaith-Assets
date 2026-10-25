@@ -3,8 +3,5 @@
   "sprites": "illarion/items/materials/cut_stone/item_733",
   "visual": "items/item_733",
   "direction": "south",
-  "scale": 1,
-  "include": [
-    "fountain_darkmarble_brick_08"
-  ]
+  "scale": 1
 }

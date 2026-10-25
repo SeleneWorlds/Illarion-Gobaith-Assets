@@ -2,7 +2,7 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "offsetX": 0,
-  "offsetY": -7,
+  "offsetY": -10,
   "texture": "client/textures/illarion/items/materials/cut_stone/item_733.png",
   "metadata": {
     "itemId": 733
