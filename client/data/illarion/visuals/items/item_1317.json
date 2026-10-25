@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
-  "offsetX": 2,
-  "offsetY": -10,
-  "texture": "client/textures/illarion/items/containers/bottle.png",
+  "offsetX": 0,
+  "offsetY": -5,
+  "texture": "client/textures/illarion/items/potions/item_1317.png",
   "metadata": {
     "itemId": 1317
-  }
+  },
+  "surfaceOffsetY": 0
 }
