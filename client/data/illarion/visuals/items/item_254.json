@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
-  "offsetX": 5,
-  "offsetY": -3,
-  "texture": "client/textures/illarion/items/materials/gems/diamond_uncut.png",
+  "offsetX": 1,
+  "offsetY": -6,
+  "texture": "client/textures/illarion/items/materials/gems/item_254.png",
   "metadata": {
     "itemId": 254
-  }
+  },
+  "surfaceOffsetY": 0
 }

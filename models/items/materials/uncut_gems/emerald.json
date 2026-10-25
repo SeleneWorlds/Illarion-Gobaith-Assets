@@ -1,0 +1,11 @@
+{
+  "model": "uncut_gems.blend",
+  "sprites": "illarion/items/materials/gems/item_256",
+  "visual": "items/item_256",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "UncutEmerald"
+  ],
+  "reflections": "studio"
+}

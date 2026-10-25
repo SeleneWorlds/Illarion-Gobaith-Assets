@@ -1,0 +1,11 @@
+{
+  "model": "uncut_gems.blend",
+  "sprites": "illarion/items/materials/gems/item_255",
+  "visual": "items/item_255",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "UncutRuby"
+  ],
+  "reflections": "studio"
+}

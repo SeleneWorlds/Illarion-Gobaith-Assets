@@ -1,0 +1,11 @@
+{
+  "model": "uncut_gems.blend",
+  "sprites": "illarion/items/materials/gems/item_257",
+  "visual": "items/item_257",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "UncutTopaz"
+  ],
+  "reflections": "studio"
+}

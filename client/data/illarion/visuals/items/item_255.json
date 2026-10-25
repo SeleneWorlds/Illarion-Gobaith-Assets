@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
-  "offsetX": 3,
-  "offsetY": -3,
-  "texture": "client/textures/illarion/items/materials/gems/ruby_uncut.png",
+  "offsetX": 1,
+  "offsetY": -6,
+  "texture": "client/textures/illarion/items/materials/gems/item_255.png",
   "metadata": {
     "itemId": 255
-  }
+  },
+  "surfaceOffsetY": 0
 }

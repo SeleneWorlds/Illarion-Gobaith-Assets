@@ -1,0 +1,11 @@
+{
+  "model": "uncut_gems.blend",
+  "sprites": "illarion/items/materials/gems/item_251",
+  "visual": "items/item_251",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "UncutAmethyst"
+  ],
+  "reflections": "studio"
+}

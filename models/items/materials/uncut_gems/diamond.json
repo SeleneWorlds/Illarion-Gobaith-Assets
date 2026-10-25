@@ -1,0 +1,11 @@
+{
+  "model": "uncut_gems.blend",
+  "sprites": "illarion/items/materials/gems/item_254",
+  "visual": "items/item_254",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "UncutDiamond"
+  ],
+  "reflections": "studio"
+}

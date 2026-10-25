@@ -1,0 +1,11 @@
+{
+  "model": "uncut_gems.blend",
+  "sprites": "illarion/items/materials/gems/item_252",
+  "visual": "items/item_252",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "UncutBlackstone"
+  ],
+  "reflections": "studio"
+}

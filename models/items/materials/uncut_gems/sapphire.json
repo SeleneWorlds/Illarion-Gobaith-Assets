@@ -1,0 +1,11 @@
+{
+  "model": "uncut_gems.blend",
+  "sprites": "illarion/items/materials/gems/item_253",
+  "visual": "items/item_253",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "UncutSapphire"
+  ],
+  "reflections": "studio"
+}
