@@ -97,7 +97,6 @@ models/items/tools/needle/needle.blend,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/items/food/nuts.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/lighting/oil_lamp.png,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/items/lighting/oil_lamp_lit.png,CC0,BlayTheNinth,https://seleneworlds.com
-client/textures/illarion/items/music/panflute.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
 client/textures/illarion/items/effects/elements/pure_air.png,CC0,Selene contributors (procedural),scripts/render_pure_elements.py
 client/textures/illarion/items/effects/elements/pure_earth.png,CC0,Selene contributors (procedural),scripts/render_pure_elements.py
 client/textures/illarion/items/effects/elements/pure_fire.png,CC0,Selene contributors (procedural),scripts/render_pure_elements.py
@@ -498,3 +497,5 @@ models/items/materials/ingot_plate/ingot_plate.blend,CC-BY 3.0,Scribe,https://op
 models/items/tools/trowel/trowel.blend,CC-BY 3.0,BlayTheNinth; Ouren (Wolfgang Wozniak),https://seleneworlds.com; https://opengameart.org/content/frying-pan
 models/items/weapons/club/club.blend,CC0,Tedium Interactive,https://opengameart.org/content/melee-weapons-0
 models/items/music/harp/harp.blend,CC-BY 3.0,BlayTheNinth; oldtimer; CC0 Textures,https://blendswap.com/blend/7824; https://cc0-textures.com/t/cc0t-wood-050
+models/items/music/flute/flute.blend,CC0,BlayTheNinth; grs,https://blendswap.com/blend/19540
+client/textures/illarion/items/music/panflute.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209

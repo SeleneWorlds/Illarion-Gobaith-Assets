@@ -1,0 +1,13 @@
+{
+  "model": "flute.blend",
+  "sprites": "illarion/items/music/flute/item_90",
+  "visual": "items/item_90",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "Recorder",
+    "Recorder_Bottom",
+    "Recorder_Middle",
+    "RecorderTop"
+  ]
+}
