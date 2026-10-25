@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
-  "offsetX": -3,
-  "offsetY": -28,
-  "texture": "client/textures/illarion/items/currency/dealer_button.png",
+  "offsetX": 0,
+  "offsetY": -9,
+  "texture": "client/textures/illarion/items/currency/item_462.png",
   "metadata": {
     "itemId": 462
-  }
+  },
+  "surfaceOffsetY": 0
 }

@@ -1,0 +1,11 @@
+{
+  "model": "coins.blend",
+  "sprites": "illarion/items/currency/item_462",
+  "visual": "items/item_462",
+  "direction": "west",
+  "scale": 2,
+  "include": [
+    "DealerButton"
+  ],
+  "reflections": "studio"
+}
