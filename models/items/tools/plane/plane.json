@@ -1,0 +1,12 @@
+{
+  "model": "plane.blend",
+  "sprites": "illarion/items/tools/plane/item_2715",
+  "visual": "items/item_2715",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "WoodenPlane",
+    "Cube",
+    "Cube.001"
+  ]
+}

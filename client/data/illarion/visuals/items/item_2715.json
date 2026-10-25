@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
-  "offsetX": 2,
-  "offsetY": -16,
-  "texture": "client/textures/illarion/items/tools/wood_plane.png",
+  "offsetX": 0,
+  "offsetY": -8,
+  "texture": "client/textures/illarion/items/tools/plane/item_2715.png",
   "metadata": {
     "itemId": 2715
-  }
+  },
+  "surfaceOffsetY": 0
 }

@@ -81,7 +81,6 @@ client/textures/illarion/items/clothing/skirt.png,CC0,Flare,https://opengameart.
 client/textures/illarion/items/weapons/sling.png,CC0,Dungeon Crawl Stone Soup,https://opengameart.org/content/cc0-ranged-icons
 client/textures/illarion/items/books/treasure_map.png,CC0,BlayTheNinth; Kutejnikov,https://seleneworlds.com; https://opengameart.org/content/papers
 client/textures/illarion/items/markers/unknownItem.png,CC0,BlayTheNinth,https://seleneworlds.com
-client/textures/illarion/items/tools/wood_plane.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
 client/textures/illarion/tiles/*,see tiles/,see tiles/,see tiles/
 client/textures/illarion/tiles/invisible.png,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/tiles/unknownTile.png,CC0,twiswist,https://opengameart.org/content/inventory-filter-icons
@@ -502,3 +501,4 @@ models/items/food/berries/berries.blend,CC0,BlayTheNinth,https://seleneworlds.co
 models/items/food/grapes/grapes.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/food/blueberries/blueberries.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/food/nuts/nuts.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/items/tools/plane/plane.blend,CC0,BlayTheNinth,https://seleneworlds.com
