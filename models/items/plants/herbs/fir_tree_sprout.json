@@ -1,0 +1,10 @@
+{
+  "model": "fir_tree_sprout.blend",
+  "sprites": "illarion/items/plants/herbs/item_149",
+  "visual": "items/item_149",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

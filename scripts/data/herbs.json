@@ -1671,6 +1671,102 @@
       "stem_thickness": 1.82
     },
     {
+      "item": 149,
+      "slug": "fir_tree_sprout",
+      "name": "Fir tree sprout",
+      "seed": 149,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "root",
+          "points": [
+            [
+              0.0,
+              0.0,
+              0.105
+            ],
+            [
+              0.00825,
+              -0.00825,
+              0.09345
+            ],
+            [
+              0.0165,
+              -0.02475,
+              0.07695
+            ],
+            [
+              0.0297,
+              -0.0396,
+              0.07299
+            ]
+          ],
+          "radius": 0.021,
+          "material": "root"
+        },
+        {
+          "type": "root",
+          "points": [
+            [
+              0.00495,
+              -0.0033,
+              0.09675
+            ],
+            [
+              -0.01155,
+              -0.0198,
+              0.08025
+            ],
+            [
+              -0.0264,
+              -0.033,
+              0.07299
+            ]
+          ],
+          "radius": 0.012,
+          "material": "root"
+        },
+        {
+          "type": "fern",
+          "base": [
+            0,
+            0,
+            0.105
+          ],
+          "tip": [
+            -0.06,
+            0.056,
+            0.293
+          ],
+          "width": 0.112,
+          "pairs": 9,
+          "material": "olive",
+          "leaflet_width": 0.2496,
+          "serrated": true
+        },
+        {
+          "type": "fern",
+          "base": [
+            0,
+            0,
+            0.105
+          ],
+          "tip": [
+            0.128,
+            0.08,
+            0.237
+          ],
+          "width": 0.128,
+          "pairs": 8,
+          "material": "grey_green",
+          "leaflet_width": 0.288,
+          "serrated": true
+        }
+      ],
+      "stem_thickness": 1.82
+    },
+    {
       "item": 152,
       "slug": "life_root",
       "name": "Life root",
