@@ -1,0 +1,14 @@
+{
+  "model": "clay.blend",
+  "sprites": "illarion/items/materials/clay/item_26",
+  "visual": "items/item_26",
+  "direction": "west",
+  "scale": 0.8,
+  "include": [
+    "ClayChunk_1",
+    "ClayChunk_2",
+    "ClayChunk_3",
+    "ClayChunk_4",
+    "ClayChunk_5"
+  ]
+}
