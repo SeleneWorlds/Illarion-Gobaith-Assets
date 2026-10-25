@@ -1,0 +1,10 @@
+{
+  "model": "daydevil_9006.blend",
+  "sprites": "illarion/items/plants/herbs/item_9006",
+  "visual": "items/item_9006",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

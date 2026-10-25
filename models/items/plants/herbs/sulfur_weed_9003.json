@@ -1,0 +1,10 @@
+{
+  "model": "sulfur_weed_9003.blend",
+  "sprites": "illarion/items/plants/herbs/item_9003",
+  "visual": "items/item_9003",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

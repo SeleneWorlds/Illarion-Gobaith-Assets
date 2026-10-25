@@ -1,0 +1,10 @@
+{
+  "model": "blue_birdsberry_9002.blend",
+  "sprites": "illarion/items/plants/herbs/item_9002",
+  "visual": "items/item_9002",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

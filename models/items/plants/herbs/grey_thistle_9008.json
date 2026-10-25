@@ -1,0 +1,10 @@
+{
+  "model": "grey_thistle_9008.blend",
+  "sprites": "illarion/items/plants/herbs/item_9008",
+  "visual": "items/item_9008",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

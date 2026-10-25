@@ -1,0 +1,10 @@
+{
+  "type": "simple",
+  "sortLayerOffset": 300,
+  "offsetX": 2,
+  "offsetY": 0,
+  "texture": "client/textures/illarion/items/plants/herbs/item_9002.png",
+  "metadata": {
+    "itemId": 9002
+  }
+}

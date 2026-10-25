@@ -1,0 +1,10 @@
+{
+  "model": "meadow_rhubarb_9016.blend",
+  "sprites": "illarion/items/plants/herbs/item_9016",
+  "visual": "items/item_9016",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

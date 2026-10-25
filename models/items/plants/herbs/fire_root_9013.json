@@ -1,0 +1,10 @@
+{
+  "model": "fire_root_9013.blend",
+  "sprites": "illarion/items/plants/herbs/item_9013",
+  "visual": "items/item_9013",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

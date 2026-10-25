@@ -1,0 +1,10 @@
+{
+  "model": "desert_berry_9009.blend",
+  "sprites": "illarion/items/plants/herbs/item_9009",
+  "visual": "items/item_9009",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

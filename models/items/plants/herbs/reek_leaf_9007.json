@@ -1,0 +1,10 @@
+{
+  "model": "reek_leaf_9007.blend",
+  "sprites": "illarion/items/plants/herbs/item_9007",
+  "visual": "items/item_9007",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

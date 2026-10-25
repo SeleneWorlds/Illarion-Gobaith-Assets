@@ -1,0 +1,10 @@
+{
+  "model": "water_blossom_9005.blend",
+  "sprites": "illarion/items/plants/herbs/item_9005",
+  "visual": "items/item_9005",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "model": "gossamer_weed_9010.blend",
+  "sprites": "illarion/items/plants/herbs/item_9010",
+  "visual": "items/item_9010",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}
