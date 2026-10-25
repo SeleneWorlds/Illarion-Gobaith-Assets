@@ -1,0 +1,10 @@
+{
+  "model": "rabbit_meat.blend",
+  "sprites": "illarion/items/food/rabbit_meat/item_553",
+  "visual": "items/item_553",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "cow.carcass.001"
+  ]
+}
