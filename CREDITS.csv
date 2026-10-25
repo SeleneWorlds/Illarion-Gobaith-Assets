@@ -97,7 +97,6 @@ client/textures/illarion/items/materials/thread.png,CC0,Idylwild,https://opengam
 client/textures/illarion/items/books/treasure_map.png,CC0,BlayTheNinth; Kutejnikov,https://seleneworlds.com; https://opengameart.org/content/papers
 client/textures/illarion/items/markers/unknownItem.png,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/items/tools/wood_plane.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
-client/textures/illarion/items/materials/wool.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
 client/textures/illarion/tiles/*,see tiles/,see tiles/,see tiles/
 client/textures/illarion/tiles/invisible.png,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/tiles/unknownTile.png,CC0,twiswist,https://opengameart.org/content/inventory-filter-icons
@@ -496,3 +495,4 @@ models/items/materials/nails/nail.blend,CC0,BlayTheNinth,https://seleneworlds.co
 models/items/materials/nails/nail_pile.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/materials/pins_and_cotters/pins_and_cotters.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/materials/ball_of_wool/ball_of_wool.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/items/materials/wool/wool.blend,CC0,BlayTheNinth,https://seleneworlds.com

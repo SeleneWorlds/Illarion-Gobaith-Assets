@@ -1,0 +1,12 @@
+{
+  "model": "wool.blend",
+  "sprites": "illarion/items/materials/wool/item_170",
+  "visual": "items/item_170",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "Wool",
+    "FleeceClumps",
+    "LooseFibers"
+  ]
+}
