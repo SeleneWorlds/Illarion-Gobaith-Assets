@@ -1,0 +1,11 @@
+{
+  "model": "diadem.blend",
+  "sprites": "illarion/items/jewelry/diadem/item_465",
+  "visual": "items/item_465",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "Diadem"
+  ],
+  "reflections": "studio"
+}

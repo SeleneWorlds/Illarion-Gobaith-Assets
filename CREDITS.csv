@@ -68,7 +68,6 @@ client/textures/illarion/items/weapons/club.png,CC0,Flare,https://opengameart.or
 client/textures/illarion/items/materials/coarse_sand.png,CC0,BlayTheNinth; ScratchIO,https://seleneworlds.com; https://opengameart.org/content/2d-cereals
 client/textures/illarion/items/personal/comb/comb.png,CC0,Drummyfish,https://opengameart.org/content/11-common-household-items
 client/textures/illarion/items/food/cookies.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
-client/textures/illarion/items/jewelry/diadem.png,CC0,BlayTheNinth; 7Soul1,https://seleneworlds.com; https://www.deviantart.com/7soul1/art/129892453
 client/textures/illarion/items/materials/gems/diamond_uncut.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/fantasy-crystal-set
 client/textures/illarion/items/food/dough.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/dragon-eggs
 client/textures/illarion/items/music/drum.png,CC0,BlayTheNinth; rubberduck,https://seleneworlds.com; https://opengameart.org/content/isometric-props-and-tents
@@ -499,3 +498,4 @@ models/items/books/scroll/scroll.blend,CC0,Warspawn,https://opengameart.org/cont
 models/items/books/scroll/textures/*,CC0,Warspawn,https://opengameart.org/content/low-poly-scroll
 models/items/books/open_scroll/open_scroll.blend,CC-BY 3.0,BlayTheNinth; Panther-One,https://opengameart.org/content/scroll
 models/items/containers/cauldron/cauldron.blend,CC0,BlayTheNinth; JeremyWoods,https://opengameart.org/content/cauldron
+models/items/jewelry/diadem/diadem.blend,CC0,BlayTheNinth; Nattie,https://blendswap.com/blend/4758
