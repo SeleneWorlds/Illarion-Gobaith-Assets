@@ -48,7 +48,6 @@ client/textures/illarion/items/food/blueberries.png,CC0,BlayTheNinth; Tanya Riar
 client/textures/illarion/items/clothing/boots_leather.png,CC0,Flare,https://opengameart.org/content/cc0-footgear-icons
 client/textures/illarion/items/clothing/boots_plate.png,CC0,Flare,https://opengameart.org/content/cc0-footgear-icons
 client/textures/illarion/items/clothing/boots_robe.png,CC0,Flare,https://opengameart.org/content/cc0-footgear-icons
-client/textures/illarion/items/food/cereals.png,CC0,ScratchIO,https://opengameart.org/content/2d-cereals
 client/textures/illarion/items/clothing/chainmail.png,CC0,Flare,https://opengameart.org/content/cc0-torso-wear-icons
 client/textures/illarion/items/food/cherries.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/personal/comb/comb.png,CC0,Drummyfish,https://opengameart.org/content/11-common-household-items
@@ -496,3 +495,4 @@ models/items/music/drum/drum.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/music/panflute/panflute.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/food/grains/grains.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/food/dough/dough.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/items/food/honeycomb/honeycomb.blend,CC0,BlayTheNinth,https://seleneworlds.com

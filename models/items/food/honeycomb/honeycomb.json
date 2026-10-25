@@ -1,0 +1,10 @@
+{
+  "model": "honeycomb.blend",
+  "sprites": "illarion/items/food/honeycomb/item_2529",
+  "visual": "items/item_2529",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "Honeycomb"
+  ]
+}
