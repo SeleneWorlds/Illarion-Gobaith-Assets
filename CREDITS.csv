@@ -113,7 +113,6 @@ client/textures/illarion/items/oil_lamp.png,CC0,BlayTheNinth,https://seleneworld
 client/textures/illarion/items/oil_lamp_lit.png,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/items/panflute.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
 client/textures/illarion/items/pincers.png,CC0,Glitch,https://opengameart.org/content/100-glitch-icons
-client/textures/illarion/items/planks.png,CC0,Melissa Krautheim,https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/pure_air.png,CC0,Selene contributors (procedural),scripts/render_pure_elements.py
 client/textures/illarion/items/pure_earth.png,CC0,Selene contributors (procedural),scripts/render_pure_elements.py
 client/textures/illarion/items/pure_fire.png,CC0,Selene contributors (procedural),scripts/render_pure_elements.py
@@ -500,3 +499,5 @@ models/items/cutlery/cutlery.blend,CC-BY-SA 3.0,p0ss,https://opengameart.org/con
 models/items/carving_tools/carving_tools.blend,CC-BY-SA 3.0,p0ss,https://opengameart.org/content/cutlery-pack
 models/items/plate/plate_dishes.blend,CC0,System G6,https://opengameart.org/content/medieval-tavern-props-pack
 models/items/round_potion/round_potion.blend,CC-BY 3.0,Clint Bellanger,https://opengameart.org/content/potions
+models/materials/wood/*,CC0,CC0 Textures,https://cc0-textures.com/t/cc0t-wood-050
+models/items/planks/planks.blend,CC0,BlayTheNinth; CC0 Textures,https://cc0-textures.com/t/cc0t-wood-050

@@ -1,0 +1,12 @@
+{
+  "model": "planks.blend",
+  "sprites": "illarion/items/item_2543",
+  "visual": "items/item_2543",
+  "direction": "west",
+  "scale": 1,
+  "materials": {
+    "PlankWood": {
+      "WoodColor": "../../materials/wood/conifer_color.jpg"
+    }
+  }
+}

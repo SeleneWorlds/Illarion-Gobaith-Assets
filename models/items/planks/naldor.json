@@ -1,0 +1,12 @@
+{
+  "model": "planks.blend",
+  "sprites": "illarion/items/item_546",
+  "visual": "items/item_546",
+  "direction": "west",
+  "scale": 1,
+  "materials": {
+    "PlankWood": {
+      "WoodColor": "../../materials/wood/naldor_color.jpg"
+    }
+  }
+}
