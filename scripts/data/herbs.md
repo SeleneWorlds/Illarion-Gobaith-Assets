@@ -51,7 +51,7 @@ Each entry in `herbs` contains:
 - `name`: readable name.
 - `seed`: optional random seed; defaults to the item ID.
 - `scale`, `direction`: sprite render settings, defaulting to `1` and `west`.
-- `stem_thickness`: multiplier for main stems, flower spike stems, fern stems, and berry stalks; defaults to `1`. Current herbs use `1.4`. Roots, veins, and thistle bristles retain their own radii.
+- `stem_thickness`: multiplier for main stems, flower spike stems, fern stems, and berry stalks; defaults to `1`. Current herbs use `1.82`. Roots, veins, and thistle bristles retain their own radii.
 - `parts`: components assembled into the final `Herb` mesh.
 
 Coordinates and dimensions are in Blender world units; Z points up. The current

@@ -349,7 +349,7 @@
             0.3
           ],
           "material": "yellow",
-          "radius": 0.018,
+          "radius": 0.0234,
           "shape": "daisy",
           "petals": 6
         },
@@ -361,12 +361,12 @@
             0.265
           ],
           "material": "yellow",
-          "radius": 0.017,
+          "radius": 0.0221,
           "shape": "daisy",
           "petals": 6
         }
       ],
-      "stem_thickness": 1.4
+      "stem_thickness": 1.82
     },
     {
       "item": 134,
@@ -479,7 +479,7 @@
           ]
         }
       ],
-      "stem_thickness": 1.4
+      "stem_thickness": 1.82
     },
     {
       "item": 135,
@@ -551,12 +551,12 @@
             0.235
           ],
           "material": "yellow",
-          "radius": 0.026,
+          "radius": 0.0338,
           "shape": "daisy",
           "petals": 5
         }
       ],
-      "stem_thickness": 1.4
+      "stem_thickness": 1.82
     },
     {
       "item": 136,
@@ -637,7 +637,7 @@
           ]
         }
       ],
-      "stem_thickness": 1.4
+      "stem_thickness": 1.82
     },
     {
       "item": 137,
@@ -709,13 +709,13 @@
             0.23
           ],
           "material": "yellow",
-          "radius": 0.056,
+          "radius": 0.0728,
           "shape": "cup",
           "petals": 7,
-          "depth": 0.04
+          "depth": 0.052
         }
       ],
-      "stem_thickness": 1.4
+      "stem_thickness": 1.82
     },
     {
       "item": 138,
@@ -771,13 +771,13 @@
             0.28
           ],
           "material": "lavender",
-          "radius": 0.03,
+          "radius": 0.039,
           "shape": "star",
           "petals": 5,
           "center_material": "purple"
         }
       ],
-      "stem_thickness": 1.4
+      "stem_thickness": 1.82
     },
     {
       "item": 140,
@@ -805,7 +805,7 @@
           "curl": 0.018
         }
       ],
-      "stem_thickness": 1.4
+      "stem_thickness": 1.82
     },
     {
       "item": 141,
@@ -879,9 +879,9 @@
             0.245
           ],
           "material": "thistle",
-          "radius": 0.035,
+          "radius": 0.0455,
           "shape": "thistle",
-          "length": 0.085,
+          "length": 0.1105,
           "center_material": "cream",
           "normal": [
             0.15,
@@ -890,7 +890,7 @@
           ]
         }
       ],
-      "stem_thickness": 1.4
+      "stem_thickness": 1.82
     },
     {
       "item": 142,
@@ -1003,7 +1003,7 @@
           ]
         }
       ],
-      "stem_thickness": 1.4
+      "stem_thickness": 1.82
     },
     {
       "item": 143,
@@ -1085,7 +1085,7 @@
           ]
         }
       ],
-      "stem_thickness": 1.4
+      "stem_thickness": 1.82
     },
     {
       "item": 144,
@@ -1163,7 +1163,7 @@
             0.27
           ],
           "material": "white",
-          "radius": 0.053,
+          "radius": 0.0689,
           "shape": "daisy",
           "petals": 13
         },
@@ -1175,12 +1175,12 @@
             0.2
           ],
           "material": "white",
-          "radius": 0.037,
+          "radius": 0.0481,
           "shape": "daisy",
           "petals": 11
         }
       ],
-      "stem_thickness": 1.4
+      "stem_thickness": 1.82
     },
     {
       "item": 145,
@@ -1236,9 +1236,9 @@
             0.16
           ],
           "material": "pale_pink",
-          "radius": 0.013,
+          "radius": 0.0169,
           "shape": "spike",
-          "length": 0.15,
+          "length": 0.195,
           "normal": [
             0.1,
             0,
@@ -1246,7 +1246,7 @@
           ]
         }
       ],
-      "stem_thickness": 1.4
+      "stem_thickness": 1.82
     },
     {
       "item": 147,
@@ -1330,7 +1330,7 @@
           ]
         }
       ],
-      "stem_thickness": 1.4
+      "stem_thickness": 1.82
     },
     {
       "item": 148,
@@ -1386,9 +1386,9 @@
             0.27
           ],
           "material": "pink",
-          "radius": 0.046,
+          "radius": 0.0598,
           "shape": "cup",
-          "depth": 0.058,
+          "depth": 0.0754,
           "petals": 3,
           "center_material": "peach",
           "normal": [
@@ -1398,7 +1398,7 @@
           ]
         }
       ],
-      "stem_thickness": 1.4
+      "stem_thickness": 1.82
     },
     {
       "item": 152,
@@ -1475,7 +1475,7 @@
           "material": "pale_root"
         }
       ],
-      "stem_thickness": 1.4
+      "stem_thickness": 1.82
     },
     {
       "item": 153,
@@ -1503,7 +1503,7 @@
           "curl": 0.065
         }
       ],
-      "stem_thickness": 1.4
+      "stem_thickness": 1.82
     },
     {
       "item": 156,
@@ -1532,7 +1532,7 @@
           "serrated": true
         }
       ],
-      "stem_thickness": 1.4
+      "stem_thickness": 1.82
     },
     {
       "item": 752,
@@ -1688,7 +1688,7 @@
           "material": "olive"
         }
       ],
-      "stem_thickness": 1.4
+      "stem_thickness": 1.82
     },
     {
       "item": 754,
@@ -1732,7 +1732,7 @@
           ]
         }
       ],
-      "stem_thickness": 1.4
+      "stem_thickness": 1.82
     },
     {
       "item": 756,
@@ -1909,7 +1909,7 @@
           "stem_material": "red_stem"
         }
       ],
-      "stem_thickness": 1.4
+      "stem_thickness": 1.82
     },
     {
       "item": 757,
@@ -1981,13 +1981,13 @@
             0.26
           ],
           "material": "purple",
-          "radius": 0.055,
+          "radius": 0.0715,
           "shape": "star",
           "petals": 6,
           "center_material": "lavender"
         }
       ],
-      "stem_thickness": 1.4
+      "stem_thickness": 1.82
     },
     {
       "item": 763,
@@ -2059,13 +2059,13 @@
             0.27
           ],
           "material": "yellow",
-          "radius": 0.055,
+          "radius": 0.0715,
           "shape": "star",
           "petals": 15,
           "center_material": "gold"
         }
       ],
-      "stem_thickness": 1.4
+      "stem_thickness": 1.82
     },
     {
       "item": 765,
@@ -2121,13 +2121,13 @@
             0.19
           ],
           "material": "cream",
-          "radius": 0.05,
+          "radius": 0.065,
           "shape": "star",
           "petals": 9,
           "center_material": "peach"
         }
       ],
-      "stem_thickness": 1.4
+      "stem_thickness": 1.82
     },
     {
       "item": 766,
@@ -2167,9 +2167,9 @@
             0.23
           ],
           "material": "pale_pink",
-          "radius": 0.042,
+          "radius": 0.0546,
           "shape": "bell",
-          "depth": 0.055,
+          "depth": 0.0715,
           "petals": 5,
           "center_material": "pink",
           "normal": [
@@ -2179,7 +2179,7 @@
           ]
         }
       ],
-      "stem_thickness": 1.4
+      "stem_thickness": 1.82
     },
     {
       "item": 768,
@@ -2207,7 +2207,7 @@
           "leaflet_width": 0.13
         }
       ],
-      "stem_thickness": 1.4
+      "stem_thickness": 1.82
     }
   ]
 }

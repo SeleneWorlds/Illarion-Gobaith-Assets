@@ -1,7 +1,7 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "offsetX": -1,
+  "offsetX": -2,
   "offsetY": -1,
   "texture": "client/textures/illarion/items/plants/herbs/item_138.png",
   "metadata": {
