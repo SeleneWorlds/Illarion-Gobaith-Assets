@@ -1,0 +1,7 @@
+{
+  "model": "wax.blend",
+  "sprites": "illarion/items/materials/wax/item_431",
+  "visual": "items/item_431",
+  "direction": "west",
+  "scale": 1
+}

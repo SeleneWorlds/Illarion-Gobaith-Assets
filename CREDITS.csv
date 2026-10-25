@@ -107,7 +107,6 @@ client/textures/illarion/items/weapons/sling.png,CC0,Dungeon Crawl Stone Soup,ht
 client/textures/illarion/items/materials/thread.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/books/treasure_map.png,CC0,BlayTheNinth; Kutejnikov,https://seleneworlds.com; https://opengameart.org/content/papers
 client/textures/illarion/items/markers/unknownItem.png,CC0,BlayTheNinth,https://seleneworlds.com
-client/textures/illarion/items/materials/wax.png,CC0,bluecarrot16,https://opengameart.org/node/98209
 client/textures/illarion/items/materials/wood_nails.png,CC0,BlayTheNinth; Glitch,https://seleneworlds.com; https://opengameart.org/content/100-glitch-icons
 client/textures/illarion/items/tools/wood_plane.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
 client/textures/illarion/items/materials/wool.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
@@ -490,3 +489,4 @@ models/items/music/flute/flute.blend,CC0,BlayTheNinth; grs,https://blendswap.com
 client/textures/illarion/items/music/panflute.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
 models/items/materials/cloth/cloth.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/materials/uncut_gems/uncut_gems.blend,CC-BY 3.0,BlayTheNinth; Clint Bellanger; sandsound,https://opengameart.org/content/gems; https://opengameart.org/content/inventory-items
+models/items/materials/wax/wax.blend,CC0,plaggy,https://opengameart.org/content/jelly
