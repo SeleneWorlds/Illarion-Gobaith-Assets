@@ -1,0 +1,13 @@
+{
+  "model": "drum.blend",
+  "sprites": "illarion/items/music/drum/item_533",
+  "visual": "items/item_533",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "Cylinder",
+    "Cylinder.001",
+    "Cylinder.002",
+    "Cylinder.003"
+  ]
+}
