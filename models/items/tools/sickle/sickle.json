@@ -3,8 +3,5 @@
   "sprites": "illarion/items/tools/sickle/item_126",
   "visual": "items/item_126",
   "direction": "west",
-  "scale": 1,
-  "include": [
-    "sickle"
-  ]
+  "scale": 1
 }

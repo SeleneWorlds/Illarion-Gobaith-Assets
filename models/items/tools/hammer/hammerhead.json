@@ -1,7 +1,8 @@
 {
-  "model": "hammerhead.blend",
+  "model": "hammer.blend",
   "sprites": "illarion/items/tools/hammer/item_2542",
   "visual": "items/item_2542",
   "direction": "west",
+  "include": ["Head"],
   "scale": 1
 }

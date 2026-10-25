@@ -3,9 +3,5 @@
   "sprites": "illarion/items/tools/shovel/item_24",
   "visual": "items/item_24",
   "direction": "west",
-  "scale": 1,
-  "include": [
-    "ShovelHead",
-    "ShovelHandle"
-  ]
+  "scale": 1
 }
