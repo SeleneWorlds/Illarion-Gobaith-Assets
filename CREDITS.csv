@@ -465,7 +465,6 @@ models/items/tools/trowel/trowel.blend,CC-BY 3.0,BlayTheNinth; Ouren (Wolfgang W
 models/items/weapons/club/club.blend,CC0,Tedium Interactive,https://opengameart.org/content/melee-weapons-0
 models/items/music/harp/harp.blend,CC-BY 3.0,BlayTheNinth; oldtimer; CC0 Textures,https://blendswap.com/blend/7824; https://cc0-textures.com/t/cc0t-wood-050
 models/items/music/flute/flute.blend,CC0,BlayTheNinth; grs,https://blendswap.com/blend/19540
-client/textures/illarion/items/music/panflute.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
 models/items/materials/cloth/cloth.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/materials/uncut_gems/uncut_gems.blend,CC-BY 3.0,BlayTheNinth; Clint Bellanger; sandsound,https://opengameart.org/content/gems; https://opengameart.org/content/inventory-items
 models/items/materials/wax/wax.blend,CC0,plaggy,https://opengameart.org/content/jelly
@@ -496,3 +495,4 @@ models/items/materials/piles/ash.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/materials/clay/clay.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/materials/thread/thread.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/music/drum/drum.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/items/music/panflute/panflute.blend,CC0,BlayTheNinth,https://seleneworlds.com

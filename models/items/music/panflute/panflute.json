@@ -1,0 +1,11 @@
+{
+  "model": "panflute.blend",
+  "sprites": "illarion/items/music/panflute/item_532",
+  "visual": "items/item_532",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "Cube",
+    "Cylinder"
+  ]
+}
