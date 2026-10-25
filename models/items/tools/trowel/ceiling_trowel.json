@@ -1,0 +1,11 @@
+{
+  "model": "trowel.blend",
+  "sprites": "illarion/items/tools/trowel/item_382",
+  "visual": "items/item_382",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "Handle",
+    "Head"
+  ]
+}

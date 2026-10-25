@@ -120,7 +120,6 @@ client/textures/illarion/items/materials/thread.png,CC0,Idylwild,https://opengam
 client/textures/illarion/items/materials/gems/topaz.png,CC0,Melissa Krautheim,https://opengameart.org/content/fantasy-crystal-set
 client/textures/illarion/items/materials/gems/topaz_uncut.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/fantasy-crystal-set
 client/textures/illarion/items/books/treasure_map.png,CC0,BlayTheNinth; Kutejnikov,https://seleneworlds.com; https://opengameart.org/content/papers
-client/textures/illarion/items/tools/trowel.png,CC0,Glitch,https://opengameart.org/content/100-glitch-icons
 client/textures/illarion/items/markers/unknownItem.png,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/items/materials/wax.png,CC0,bluecarrot16,https://opengameart.org/node/98209
 client/textures/illarion/items/materials/wood_nails.png,CC0,BlayTheNinth; Glitch,https://seleneworlds.com; https://opengameart.org/content/100-glitch-icons
@@ -498,3 +497,4 @@ models/items/jewelry/diadem/diadem.blend,CC0,BlayTheNinth; Nattie,https://blends
 models/items/jewelry/medal/medal.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/materials/bough/bough.blend,CC0,sandsound,https://opengameart.org/content/inventory-items
 models/items/materials/ingot_plate/ingot_plate.blend,CC-BY 3.0,Scribe,https://opengameart.org/content/gold-treasure
+models/items/tools/trowel/trowel.blend,CC-BY 3.0,BlayTheNinth; Ouren (Wolfgang Wozniak),https://seleneworlds.com; https://opengameart.org/content/frying-pan
