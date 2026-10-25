@@ -1,0 +1,10 @@
+{
+  "model": "yellow_weed.blend",
+  "sprites": "illarion/items/plants/herbs/item_135",
+  "visual": "items/item_135",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

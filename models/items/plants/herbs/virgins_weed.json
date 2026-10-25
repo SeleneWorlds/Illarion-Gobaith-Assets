@@ -1,0 +1,10 @@
+{
+  "model": "virgins_weed.blend",
+  "sprites": "illarion/items/plants/herbs/item_144",
+  "visual": "items/item_144",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

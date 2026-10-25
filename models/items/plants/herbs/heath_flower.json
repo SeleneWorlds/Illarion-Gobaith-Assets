@@ -1,0 +1,10 @@
+{
+  "model": "heath_flower.blend",
+  "sprites": "illarion/items/plants/herbs/item_145",
+  "visual": "items/item_145",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

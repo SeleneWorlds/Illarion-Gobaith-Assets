@@ -1,0 +1,10 @@
+{
+  "model": "sun_herb.blend",
+  "sprites": "illarion/items/plants/herbs/item_133",
+  "visual": "items/item_133",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

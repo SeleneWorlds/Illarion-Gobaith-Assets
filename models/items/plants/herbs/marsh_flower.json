@@ -1,0 +1,10 @@
+{
+  "model": "marsh_flower.blend",
+  "sprites": "illarion/items/plants/herbs/item_763",
+  "visual": "items/item_763",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

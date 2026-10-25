@@ -1,0 +1,10 @@
+{
+  "model": "mandrake.blend",
+  "sprites": "illarion/items/plants/herbs/item_752",
+  "visual": "items/item_752",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

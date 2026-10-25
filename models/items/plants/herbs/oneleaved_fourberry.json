@@ -1,0 +1,10 @@
+{
+  "model": "oneleaved_fourberry.blend",
+  "sprites": "illarion/items/plants/herbs/item_754",
+  "visual": "items/item_754",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

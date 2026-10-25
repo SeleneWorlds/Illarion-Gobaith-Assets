@@ -1,0 +1,10 @@
+{
+  "model": "steppe_fern.blend",
+  "sprites": "illarion/items/plants/herbs/item_156",
+  "visual": "items/item_156",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "model": "foot_leaf.blend",
+  "sprites": "illarion/items/plants/herbs/item_153",
+  "visual": "items/item_153",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

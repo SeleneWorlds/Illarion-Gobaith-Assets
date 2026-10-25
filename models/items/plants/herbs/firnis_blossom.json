@@ -1,0 +1,10 @@
+{
+  "model": "firnis_blossom.blend",
+  "sprites": "illarion/items/plants/herbs/item_148",
+  "visual": "items/item_148",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

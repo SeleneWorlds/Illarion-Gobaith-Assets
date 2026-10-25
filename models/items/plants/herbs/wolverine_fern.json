@@ -1,0 +1,10 @@
+{
+  "model": "wolverine_fern.blend",
+  "sprites": "illarion/items/plants/herbs/item_768",
+  "visual": "items/item_768",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

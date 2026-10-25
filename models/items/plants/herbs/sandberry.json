@@ -1,0 +1,10 @@
+{
+  "model": "sandberry.blend",
+  "sprites": "illarion/items/plants/herbs/item_142",
+  "visual": "items/item_142",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

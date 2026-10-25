@@ -1,0 +1,10 @@
+{
+  "model": "donf_blade.blend",
+  "sprites": "illarion/items/plants/herbs/item_140",
+  "visual": "items/item_140",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

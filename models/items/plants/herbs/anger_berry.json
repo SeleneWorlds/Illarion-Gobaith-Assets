@@ -1,0 +1,10 @@
+{
+  "model": "anger_berry.blend",
+  "sprites": "illarion/items/plants/herbs/item_136",
+  "visual": "items/item_136",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

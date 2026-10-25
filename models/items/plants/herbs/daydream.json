@@ -1,0 +1,10 @@
+{
+  "model": "daydream.blend",
+  "sprites": "illarion/items/plants/herbs/item_765",
+  "visual": "items/item_765",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

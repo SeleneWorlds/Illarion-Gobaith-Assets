@@ -1,0 +1,10 @@
+{
+  "model": "con_blossom.blend",
+  "sprites": "illarion/items/plants/herbs/item_766",
+  "visual": "items/item_766",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "model": "pious_berry.blend",
+  "sprites": "illarion/items/plants/herbs/item_756",
+  "visual": "items/item_756",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

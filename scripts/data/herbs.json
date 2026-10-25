@@ -1,0 +1,2213 @@
+{
+  "version": 1,
+  "materials": {
+    "stem": {
+      "color": [
+        0.075,
+        0.15,
+        0.015
+      ],
+      "light": [
+        0.22,
+        0.34,
+        0.05
+      ]
+    },
+    "leaf": {
+      "color": [
+        0.045,
+        0.16,
+        0.015
+      ],
+      "light": [
+        0.18,
+        0.43,
+        0.04
+      ]
+    },
+    "dark_leaf": {
+      "color": [
+        0.02,
+        0.065,
+        0.025
+      ],
+      "light": [
+        0.075,
+        0.23,
+        0.065
+      ]
+    },
+    "light_leaf": {
+      "color": [
+        0.11,
+        0.26,
+        0.025
+      ],
+      "light": [
+        0.37,
+        0.62,
+        0.085
+      ]
+    },
+    "olive": {
+      "color": [
+        0.12,
+        0.15,
+        0.02
+      ],
+      "light": [
+        0.32,
+        0.38,
+        0.06
+      ]
+    },
+    "vein": {
+      "color": [
+        0.11,
+        0.21,
+        0.025
+      ],
+      "light": [
+        0.27,
+        0.41,
+        0.07
+      ]
+    },
+    "yellow": {
+      "color": [
+        0.61,
+        0.36,
+        0.005
+      ],
+      "light": [
+        1,
+        0.77,
+        0.04
+      ]
+    },
+    "gold": {
+      "color": [
+        0.42,
+        0.18,
+        0.006
+      ],
+      "light": [
+        0.91,
+        0.52,
+        0.015
+      ]
+    },
+    "white": {
+      "color": [
+        0.63,
+        0.61,
+        0.49
+      ],
+      "light": [
+        0.97,
+        0.94,
+        0.79
+      ]
+    },
+    "cream": {
+      "color": [
+        0.39,
+        0.3,
+        0.15
+      ],
+      "light": [
+        0.82,
+        0.71,
+        0.45
+      ]
+    },
+    "pink": {
+      "color": [
+        0.49,
+        0.11,
+        0.16
+      ],
+      "light": [
+        0.95,
+        0.46,
+        0.49
+      ]
+    },
+    "pale_pink": {
+      "color": [
+        0.37,
+        0.16,
+        0.22
+      ],
+      "light": [
+        0.78,
+        0.44,
+        0.52
+      ]
+    },
+    "purple": {
+      "color": [
+        0.13,
+        0.015,
+        0.25
+      ],
+      "light": [
+        0.47,
+        0.12,
+        0.65
+      ]
+    },
+    "lavender": {
+      "color": [
+        0.31,
+        0.1,
+        0.37
+      ],
+      "light": [
+        0.68,
+        0.37,
+        0.76
+      ]
+    },
+    "red": {
+      "color": [
+        0.32,
+        0.006,
+        0.012
+      ],
+      "light": [
+        0.83,
+        0.045,
+        0.065
+      ],
+      "roughness": 0.34
+    },
+    "red_stem": {
+      "color": [
+        0.15,
+        0.018,
+        0.008
+      ],
+      "light": [
+        0.4,
+        0.055,
+        0.018
+      ]
+    },
+    "blackberry": {
+      "color": [
+        0.065,
+        0.025,
+        0.09
+      ],
+      "light": [
+        0.22,
+        0.1,
+        0.3
+      ],
+      "roughness": 0.42
+    },
+    "root": {
+      "color": [
+        0.25,
+        0.17,
+        0.075
+      ],
+      "light": [
+        0.63,
+        0.45,
+        0.21
+      ]
+    },
+    "pale_root": {
+      "color": [
+        0.36,
+        0.32,
+        0.24
+      ],
+      "light": [
+        0.79,
+        0.74,
+        0.61
+      ]
+    },
+    "thistle": {
+      "color": [
+        0.025,
+        0.013,
+        0.015
+      ],
+      "light": [
+        0.12,
+        0.055,
+        0.065
+      ]
+    },
+    "peach": {
+      "color": [
+        0.53,
+        0.26,
+        0.12
+      ],
+      "light": [
+        0.97,
+        0.66,
+        0.35
+      ]
+    }
+  },
+  "herbs": [
+    {
+      "item": 133,
+      "slug": "sun_herb",
+      "name": "Sun herb",
+      "seed": 133,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "stem",
+          "points": [
+            [
+              0,
+              0,
+              0.005
+            ],
+            [
+              0.012,
+              0.0,
+              0.1525
+            ],
+            [
+              0,
+              0,
+              0.3
+            ]
+          ],
+          "radius": 0.003,
+          "material": "stem"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.09
+          ],
+          "tip": [
+            -0.075,
+            -0.02,
+            0.183
+          ],
+          "width": 0.033,
+          "shape": "lance",
+          "material": "leaf"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0.005,
+            0,
+            0.15
+          ],
+          "tip": [
+            0.075,
+            0.015,
+            0.22799999999999998
+          ],
+          "width": 0.034,
+          "shape": "lance",
+          "material": "leaf"
+        },
+        {
+          "type": "stem",
+          "points": [
+            [
+              0.005,
+              0,
+              0.22
+            ],
+            [
+              0.032,
+              0.0,
+              0.2425
+            ],
+            [
+              0.035,
+              0,
+              0.265
+            ]
+          ],
+          "radius": 0.0018,
+          "material": "stem"
+        },
+        {
+          "type": "flower",
+          "at": [
+            0,
+            0,
+            0.3
+          ],
+          "material": "yellow",
+          "radius": 0.018,
+          "shape": "daisy",
+          "petals": 6
+        },
+        {
+          "type": "flower",
+          "at": [
+            0.035,
+            0,
+            0.265
+          ],
+          "material": "yellow",
+          "radius": 0.017,
+          "shape": "daisy",
+          "petals": 6
+        }
+      ],
+      "stem_thickness": 1.4
+    },
+    {
+      "item": 134,
+      "slug": "fourleafed_oneberry",
+      "name": "Fourleafed oneberry",
+      "seed": 134,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.015
+          ],
+          "tip": [
+            0.12,
+            0.0,
+            0.035
+          ],
+          "width": 0.058,
+          "shape": "oval",
+          "material": "leaf"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.015
+          ],
+          "tip": [
+            7.347880794884118e-18,
+            0.12,
+            0.035
+          ],
+          "width": 0.058,
+          "shape": "oval",
+          "material": "leaf"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.015
+          ],
+          "tip": [
+            -0.12,
+            1.4695761589768237e-17,
+            0.035
+          ],
+          "width": 0.058,
+          "shape": "oval",
+          "material": "leaf"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.015
+          ],
+          "tip": [
+            -2.2043642384652355e-17,
+            -0.12,
+            0.035
+          ],
+          "width": 0.058,
+          "shape": "oval",
+          "material": "leaf"
+        },
+        {
+          "type": "stem",
+          "points": [
+            [
+              0,
+              0,
+              0.005
+            ],
+            [
+              0.012,
+              0.0,
+              0.05
+            ],
+            [
+              0,
+              0,
+              0.095
+            ]
+          ],
+          "radius": 0.002,
+          "material": "stem"
+        },
+        {
+          "type": "berries",
+          "at": [
+            0,
+            0,
+            0.095
+          ],
+          "radius": 0.019,
+          "count": 1,
+          "material": "purple",
+          "junction": [
+            0,
+            0,
+            0.075
+          ]
+        }
+      ],
+      "stem_thickness": 1.4
+    },
+    {
+      "item": 135,
+      "slug": "yellow_weed",
+      "name": "Yellow weed",
+      "seed": 135,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "stem",
+          "points": [
+            [
+              0,
+              0,
+              0.005
+            ],
+            [
+              0.0045000000000000005,
+              0.0,
+              0.12
+            ],
+            [
+              -0.015,
+              0,
+              0.235
+            ]
+          ],
+          "radius": 0.003,
+          "material": "stem"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.069
+          ],
+          "tip": [
+            -0.075,
+            -0.02,
+            0.1403
+          ],
+          "width": 0.033,
+          "shape": "lance",
+          "material": "olive"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0.005,
+            0,
+            0.115
+          ],
+          "tip": [
+            0.075,
+            0.015,
+            0.1748
+          ],
+          "width": 0.034,
+          "shape": "lance",
+          "material": "olive"
+        },
+        {
+          "type": "flower",
+          "at": [
+            -0.015,
+            0,
+            0.235
+          ],
+          "material": "yellow",
+          "radius": 0.026,
+          "shape": "daisy",
+          "petals": 5
+        }
+      ],
+      "stem_thickness": 1.4
+    },
+    {
+      "item": 136,
+      "slug": "anger_berry",
+      "name": "Anger berry",
+      "seed": 136,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "stem",
+          "points": [
+            [
+              0,
+              0,
+              0.005
+            ],
+            [
+              0.012,
+              0.0,
+              0.1375
+            ],
+            [
+              0,
+              0,
+              0.27
+            ]
+          ],
+          "radius": 0.0025,
+          "material": "stem"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.078
+          ],
+          "tip": [
+            -0.075,
+            -0.02,
+            0.1586
+          ],
+          "width": 0.033,
+          "shape": "lance",
+          "material": "olive"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0.005,
+            0,
+            0.13
+          ],
+          "tip": [
+            0.075,
+            0.015,
+            0.1976
+          ],
+          "width": 0.034,
+          "shape": "lance",
+          "material": "olive"
+        },
+        {
+          "type": "berries",
+          "at": [
+            0.01,
+            0,
+            0.27
+          ],
+          "radius": 0.018,
+          "count": 1,
+          "material": "lavender",
+          "junction": [
+            0,
+            0,
+            0.245
+          ]
+        }
+      ],
+      "stem_thickness": 1.4
+    },
+    {
+      "item": 137,
+      "slug": "flamegoblet_blossom",
+      "name": "Flamegoblet blossom",
+      "seed": 137,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "stem",
+          "points": [
+            [
+              0,
+              0,
+              0.005
+            ],
+            [
+              0.012,
+              0.0,
+              0.11750000000000001
+            ],
+            [
+              0,
+              0,
+              0.23
+            ]
+          ],
+          "radius": 0.005,
+          "material": "stem"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.045
+          ],
+          "tip": [
+            -0.075,
+            0,
+            0.15
+          ],
+          "width": 0.044,
+          "shape": "lance",
+          "material": "leaf"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.1
+          ],
+          "tip": [
+            0.065,
+            0.01,
+            0.19
+          ],
+          "width": 0.045,
+          "shape": "lance",
+          "material": "leaf"
+        },
+        {
+          "type": "flower",
+          "at": [
+            0,
+            0,
+            0.23
+          ],
+          "material": "yellow",
+          "radius": 0.056,
+          "shape": "cup",
+          "petals": 7,
+          "depth": 0.04
+        }
+      ],
+      "stem_thickness": 1.4
+    },
+    {
+      "item": 138,
+      "slug": "night_angels_blossom",
+      "name": "Night angel's blossom",
+      "seed": 138,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "stem",
+          "points": [
+            [
+              0,
+              0,
+              0.005
+            ],
+            [
+              -0.010499999999999999,
+              0.0,
+              0.14250000000000002
+            ],
+            [
+              -0.045,
+              0,
+              0.28
+            ]
+          ],
+          "radius": 0.0025,
+          "material": "stem"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.07
+          ],
+          "tip": [
+            0.045,
+            0.015,
+            0.16
+          ],
+          "width": 0.027,
+          "shape": "lance",
+          "material": "dark_leaf"
+        },
+        {
+          "type": "flower",
+          "at": [
+            -0.045,
+            0,
+            0.28
+          ],
+          "material": "lavender",
+          "radius": 0.03,
+          "shape": "star",
+          "petals": 5,
+          "center_material": "purple"
+        }
+      ],
+      "stem_thickness": 1.4
+    },
+    {
+      "item": 140,
+      "slug": "donf_blade",
+      "name": "Donf blade",
+      "seed": 140,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "leaf",
+          "base": [
+            -0.14,
+            -0.08,
+            0.008
+          ],
+          "tip": [
+            0.14,
+            0.09,
+            0.02
+          ],
+          "width": 0.115,
+          "shape": "lance",
+          "material": "dark_leaf",
+          "curl": 0.018
+        }
+      ],
+      "stem_thickness": 1.4
+    },
+    {
+      "item": 141,
+      "slug": "black_thistle",
+      "name": "Black thistle",
+      "seed": 141,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "stem",
+          "points": [
+            [
+              0,
+              0,
+              0.005
+            ],
+            [
+              0.012,
+              0.0,
+              0.125
+            ],
+            [
+              0,
+              0,
+              0.245
+            ]
+          ],
+          "radius": 0.004,
+          "material": "stem"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.08
+          ],
+          "tip": [
+            -0.085,
+            -0.005,
+            0.16
+          ],
+          "width": 0.035,
+          "shape": "lobed",
+          "material": "olive",
+          "serrated": true
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0.005,
+            0,
+            0.12
+          ],
+          "tip": [
+            0.08,
+            0.015,
+            0.2
+          ],
+          "width": 0.03,
+          "shape": "lobed",
+          "material": "olive",
+          "serrated": true
+        },
+        {
+          "type": "flower",
+          "at": [
+            0,
+            0,
+            0.245
+          ],
+          "material": "thistle",
+          "radius": 0.035,
+          "shape": "thistle",
+          "length": 0.085,
+          "center_material": "cream",
+          "normal": [
+            0.15,
+            -0.2,
+            1
+          ]
+        }
+      ],
+      "stem_thickness": 1.4
+    },
+    {
+      "item": 142,
+      "slug": "sandberry",
+      "name": "Sandberry",
+      "seed": 142,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "stem",
+          "points": [
+            [
+              0,
+              0,
+              0.005
+            ],
+            [
+              0.012,
+              0.0,
+              0.10250000000000001
+            ],
+            [
+              0,
+              0,
+              0.2
+            ]
+          ],
+          "radius": 0.004,
+          "material": "stem"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.08
+          ],
+          "tip": [
+            -0.105,
+            0.015,
+            0.255
+          ],
+          "width": 0.07,
+          "shape": "oval",
+          "material": "leaf"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.09
+          ],
+          "tip": [
+            0.1,
+            0.025,
+            0.245
+          ],
+          "width": 0.075,
+          "shape": "oval",
+          "material": "light_leaf"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.09
+          ],
+          "tip": [
+            0.02,
+            0.065,
+            0.29
+          ],
+          "width": 0.055,
+          "shape": "oval",
+          "material": "leaf"
+        },
+        {
+          "type": "berries",
+          "at": [
+            -0.045,
+            -0.025,
+            0.08
+          ],
+          "radius": 0.034,
+          "count": 1,
+          "material": "red",
+          "junction": [
+            0,
+            0,
+            0.17
+          ]
+        },
+        {
+          "type": "berries",
+          "at": [
+            0.045,
+            -0.025,
+            0.055
+          ],
+          "radius": 0.037,
+          "count": 1,
+          "material": "red",
+          "junction": [
+            0,
+            0,
+            0.17
+          ]
+        }
+      ],
+      "stem_thickness": 1.4
+    },
+    {
+      "item": 143,
+      "slug": "red_elder",
+      "name": "Red elder",
+      "seed": 143,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "stem",
+          "points": [
+            [
+              0,
+              0,
+              0.005
+            ],
+            [
+              0.012,
+              0.0,
+              0.1125
+            ],
+            [
+              0,
+              0,
+              0.22
+            ]
+          ],
+          "radius": 0.003,
+          "material": "stem"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.115
+          ],
+          "tip": [
+            -0.105,
+            0.02,
+            0.25
+          ],
+          "width": 0.055,
+          "shape": "oval",
+          "material": "leaf"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.13
+          ],
+          "tip": [
+            0.11,
+            0.03,
+            0.255
+          ],
+          "width": 0.055,
+          "shape": "oval",
+          "material": "leaf"
+        },
+        {
+          "type": "berries",
+          "at": [
+            0,
+            -0.02,
+            0.12
+          ],
+          "radius": 0.015,
+          "count": 13,
+          "material": "red",
+          "spread": 0.065,
+          "junction": [
+            0,
+            0,
+            0.195
+          ]
+        }
+      ],
+      "stem_thickness": 1.4
+    },
+    {
+      "item": 144,
+      "slug": "virgins_weed",
+      "name": "Virgin's weed",
+      "seed": 144,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "stem",
+          "points": [
+            [
+              0,
+              0,
+              0.005
+            ],
+            [
+              0.029500000000000002,
+              0.0,
+              0.1375
+            ],
+            [
+              0.035,
+              0,
+              0.27
+            ]
+          ],
+          "radius": 0.003,
+          "material": "stem"
+        },
+        {
+          "type": "stem",
+          "points": [
+            [
+              0.005,
+              0,
+              0.065
+            ],
+            [
+              -0.013000000000000001,
+              0.0,
+              0.1325
+            ],
+            [
+              -0.055,
+              0,
+              0.2
+            ]
+          ],
+          "radius": 0.003,
+          "material": "stem"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.05
+          ],
+          "tip": [
+            0.085,
+            0.015,
+            0.13
+          ],
+          "width": 0.042,
+          "shape": "oval",
+          "material": "leaf"
+        },
+        {
+          "type": "flower",
+          "at": [
+            0.035,
+            0,
+            0.27
+          ],
+          "material": "white",
+          "radius": 0.053,
+          "shape": "daisy",
+          "petals": 13
+        },
+        {
+          "type": "flower",
+          "at": [
+            -0.055,
+            0,
+            0.2
+          ],
+          "material": "white",
+          "radius": 0.037,
+          "shape": "daisy",
+          "petals": 11
+        }
+      ],
+      "stem_thickness": 1.4
+    },
+    {
+      "item": 145,
+      "slug": "heath_flower",
+      "name": "Heath flower",
+      "seed": 145,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "stem",
+          "points": [
+            [
+              0,
+              0,
+              0.005
+            ],
+            [
+              0.012,
+              0.0,
+              0.10250000000000001
+            ],
+            [
+              0,
+              0,
+              0.2
+            ]
+          ],
+          "radius": 0.0025,
+          "material": "stem"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.05
+          ],
+          "tip": [
+            -0.03,
+            0,
+            0.13
+          ],
+          "width": 0.014,
+          "shape": "lance",
+          "material": "leaf"
+        },
+        {
+          "type": "flower",
+          "at": [
+            0,
+            0,
+            0.16
+          ],
+          "material": "pale_pink",
+          "radius": 0.013,
+          "shape": "spike",
+          "length": 0.15,
+          "normal": [
+            0.1,
+            0,
+            1
+          ]
+        }
+      ],
+      "stem_thickness": 1.4
+    },
+    {
+      "item": 147,
+      "slug": "blackberry",
+      "name": "Blackberry",
+      "seed": 147,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "stem",
+          "points": [
+            [
+              0,
+              0,
+              0.005
+            ],
+            [
+              0.012,
+              0.0,
+              0.0975
+            ],
+            [
+              0,
+              0,
+              0.19
+            ]
+          ],
+          "radius": 0.003,
+          "material": "stem"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.1
+          ],
+          "tip": [
+            -0.08,
+            0.015,
+            0.25
+          ],
+          "width": 0.05,
+          "shape": "oval",
+          "material": "leaf",
+          "serrated": true
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.105
+          ],
+          "tip": [
+            0.07,
+            0.01,
+            0.23
+          ],
+          "width": 0.045,
+          "shape": "oval",
+          "material": "leaf",
+          "serrated": true
+        },
+        {
+          "type": "berries",
+          "at": [
+            0,
+            -0.015,
+            0.09
+          ],
+          "radius": 0.016,
+          "count": 13,
+          "material": "blackberry",
+          "spread": 0.032,
+          "junction": [
+            0,
+            0,
+            0.17
+          ]
+        }
+      ],
+      "stem_thickness": 1.4
+    },
+    {
+      "item": 148,
+      "slug": "firnis_blossom",
+      "name": "Firnis blossom",
+      "seed": 148,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "stem",
+          "points": [
+            [
+              0,
+              0,
+              0.005
+            ],
+            [
+              0.0245,
+              0.0,
+              0.1375
+            ],
+            [
+              0.025,
+              0,
+              0.27
+            ]
+          ],
+          "radius": 0.003,
+          "material": "stem"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.07
+          ],
+          "tip": [
+            -0.04,
+            0.005,
+            0.15
+          ],
+          "width": 0.018,
+          "shape": "lance",
+          "material": "leaf"
+        },
+        {
+          "type": "flower",
+          "at": [
+            0.025,
+            0,
+            0.27
+          ],
+          "material": "pink",
+          "radius": 0.046,
+          "shape": "cup",
+          "depth": 0.058,
+          "petals": 3,
+          "center_material": "peach",
+          "normal": [
+            0.45,
+            -0.3,
+            0.85
+          ]
+        }
+      ],
+      "stem_thickness": 1.4
+    },
+    {
+      "item": 152,
+      "slug": "life_root",
+      "name": "Life root",
+      "seed": 152,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "root",
+          "points": [
+            [
+              -0.14,
+              0.035,
+              0.02
+            ],
+            [
+              -0.035,
+              0,
+              0.018
+            ],
+            [
+              0.07,
+              -0.02,
+              0.015
+            ],
+            [
+              0.15,
+              -0.035,
+              0.01
+            ]
+          ],
+          "radius": 0.012,
+          "material": "pale_root"
+        },
+        {
+          "type": "root",
+          "points": [
+            [
+              -0.025,
+              0,
+              0.018
+            ],
+            [
+              0.035,
+              0.055,
+              0.013
+            ],
+            [
+              0.115,
+              0.075,
+              0.005
+            ]
+          ],
+          "radius": 0.007,
+          "material": "pale_root"
+        },
+        {
+          "type": "root",
+          "points": [
+            [
+              0.055,
+              -0.015,
+              0.015
+            ],
+            [
+              0.09,
+              -0.065,
+              0.005
+            ]
+          ],
+          "radius": 0.004,
+          "material": "pale_root"
+        }
+      ],
+      "stem_thickness": 1.4
+    },
+    {
+      "item": 153,
+      "slug": "foot_leaf",
+      "name": "Foot leaf",
+      "seed": 153,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "leaf",
+          "base": [
+            -0.1,
+            -0.05,
+            0.01
+          ],
+          "tip": [
+            0.11,
+            0.07,
+            0.04
+          ],
+          "width": 0.15,
+          "shape": "heart",
+          "material": "light_leaf",
+          "curl": 0.065
+        }
+      ],
+      "stem_thickness": 1.4
+    },
+    {
+      "item": 156,
+      "slug": "steppe_fern",
+      "name": "Steppe fern",
+      "seed": 156,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "fern",
+          "base": [
+            -0.08,
+            -0.06,
+            0.006
+          ],
+          "tip": [
+            0.12,
+            0.09,
+            0.07
+          ],
+          "width": 0.22,
+          "pairs": 11,
+          "material": "light_leaf",
+          "leaflet_width": 0.24,
+          "serrated": true
+        }
+      ],
+      "stem_thickness": 1.4
+    },
+    {
+      "item": 752,
+      "slug": "mandrake",
+      "name": "Mandrake",
+      "seed": 752,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "root",
+          "points": [
+            [
+              0,
+              0,
+              0.105
+            ],
+            [
+              0.025,
+              -0.025,
+              0.07
+            ],
+            [
+              0.05,
+              -0.075,
+              0.02
+            ],
+            [
+              0.09,
+              -0.12,
+              0.008
+            ]
+          ],
+          "radius": 0.021,
+          "material": "root"
+        },
+        {
+          "type": "root",
+          "points": [
+            [
+              0.015,
+              -0.01,
+              0.08
+            ],
+            [
+              -0.035,
+              -0.06,
+              0.03
+            ],
+            [
+              -0.08,
+              -0.1,
+              0.008
+            ]
+          ],
+          "radius": 0.012,
+          "material": "root"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.105
+          ],
+          "tip": [
+            0.095,
+            0.0,
+            0.14
+          ],
+          "width": 0.035,
+          "shape": "lance",
+          "material": "olive"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.105
+          ],
+          "tip": [
+            0.047500000000000014,
+            0.08227241335952167,
+            0.14
+          ],
+          "width": 0.035,
+          "shape": "lance",
+          "material": "olive"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.105
+          ],
+          "tip": [
+            -0.04749999999999998,
+            0.08227241335952168,
+            0.14
+          ],
+          "width": 0.035,
+          "shape": "lance",
+          "material": "olive"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.105
+          ],
+          "tip": [
+            -0.095,
+            1.1634144591899856e-17,
+            0.14
+          ],
+          "width": 0.035,
+          "shape": "lance",
+          "material": "olive"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.105
+          ],
+          "tip": [
+            -0.04750000000000004,
+            -0.08227241335952165,
+            0.14
+          ],
+          "width": 0.035,
+          "shape": "lance",
+          "material": "olive"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.105
+          ],
+          "tip": [
+            0.047500000000000014,
+            -0.08227241335952167,
+            0.14
+          ],
+          "width": 0.035,
+          "shape": "lance",
+          "material": "olive"
+        }
+      ],
+      "stem_thickness": 1.4
+    },
+    {
+      "item": 754,
+      "slug": "oneleaved_fourberry",
+      "name": "Oneleaved fourberry",
+      "seed": 754,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "leaf",
+          "base": [
+            -0.105,
+            -0.075,
+            0.008
+          ],
+          "tip": [
+            0.1,
+            0.07,
+            0.04
+          ],
+          "width": 0.15,
+          "shape": "oval",
+          "material": "dark_leaf"
+        },
+        {
+          "type": "berries",
+          "at": [
+            0.045,
+            0.015,
+            0.075
+          ],
+          "radius": 0.027,
+          "count": 4,
+          "material": "red",
+          "spread": 0.025,
+          "junction": [
+            0.03,
+            0.01,
+            0.12
+          ]
+        }
+      ],
+      "stem_thickness": 1.4
+    },
+    {
+      "item": 756,
+      "slug": "pious_berry",
+      "name": "Pious berry",
+      "seed": 756,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "stem",
+          "points": [
+            [
+              0,
+              0,
+              0.005
+            ],
+            [
+              0.012,
+              0.0,
+              0.1675
+            ],
+            [
+              0,
+              0,
+              0.33
+            ]
+          ],
+          "radius": 0.0035,
+          "material": "red_stem"
+        },
+        {
+          "type": "berries",
+          "at": [
+            -0.048,
+            0,
+            0.095
+          ],
+          "radius": 0.017,
+          "count": 2,
+          "material": "red",
+          "spread": 0.013,
+          "junction": [
+            0,
+            0,
+            0.11
+          ],
+          "stem_material": "red_stem"
+        },
+        {
+          "type": "berries",
+          "at": [
+            0.048,
+            0,
+            0.095
+          ],
+          "radius": 0.017,
+          "count": 2,
+          "material": "red",
+          "spread": 0.013,
+          "junction": [
+            0,
+            0,
+            0.11
+          ],
+          "stem_material": "red_stem"
+        },
+        {
+          "type": "berries",
+          "at": [
+            -0.042,
+            0,
+            0.15
+          ],
+          "radius": 0.017,
+          "count": 2,
+          "material": "red",
+          "spread": 0.013,
+          "junction": [
+            0,
+            0,
+            0.165
+          ],
+          "stem_material": "red_stem"
+        },
+        {
+          "type": "berries",
+          "at": [
+            0.042,
+            0,
+            0.15
+          ],
+          "radius": 0.017,
+          "count": 2,
+          "material": "red",
+          "spread": 0.013,
+          "junction": [
+            0,
+            0,
+            0.165
+          ],
+          "stem_material": "red_stem"
+        },
+        {
+          "type": "berries",
+          "at": [
+            -0.036000000000000004,
+            0,
+            0.20500000000000002
+          ],
+          "radius": 0.017,
+          "count": 2,
+          "material": "red",
+          "spread": 0.013,
+          "junction": [
+            0,
+            0,
+            0.22
+          ],
+          "stem_material": "red_stem"
+        },
+        {
+          "type": "berries",
+          "at": [
+            0.036000000000000004,
+            0,
+            0.20500000000000002
+          ],
+          "radius": 0.017,
+          "count": 2,
+          "material": "red",
+          "spread": 0.013,
+          "junction": [
+            0,
+            0,
+            0.22
+          ],
+          "stem_material": "red_stem"
+        },
+        {
+          "type": "berries",
+          "at": [
+            -0.03,
+            0,
+            0.26
+          ],
+          "radius": 0.017,
+          "count": 2,
+          "material": "red",
+          "spread": 0.013,
+          "junction": [
+            0,
+            0,
+            0.275
+          ],
+          "stem_material": "red_stem"
+        },
+        {
+          "type": "berries",
+          "at": [
+            0.03,
+            0,
+            0.26
+          ],
+          "radius": 0.017,
+          "count": 2,
+          "material": "red",
+          "spread": 0.013,
+          "junction": [
+            0,
+            0,
+            0.275
+          ],
+          "stem_material": "red_stem"
+        }
+      ],
+      "stem_thickness": 1.4
+    },
+    {
+      "item": 757,
+      "slug": "tybalt_star",
+      "name": "Tybalt star",
+      "seed": 757,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "stem",
+          "points": [
+            [
+              0,
+              0,
+              0.005
+            ],
+            [
+              0.012,
+              0.0,
+              0.1325
+            ],
+            [
+              0,
+              0,
+              0.26
+            ]
+          ],
+          "radius": 0.003,
+          "material": "stem"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.075
+          ],
+          "tip": [
+            -0.075,
+            -0.02,
+            0.1525
+          ],
+          "width": 0.033,
+          "shape": "lance",
+          "material": "leaf"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0.005,
+            0,
+            0.125
+          ],
+          "tip": [
+            0.075,
+            0.015,
+            0.19
+          ],
+          "width": 0.034,
+          "shape": "lance",
+          "material": "leaf"
+        },
+        {
+          "type": "flower",
+          "at": [
+            0,
+            0,
+            0.26
+          ],
+          "material": "purple",
+          "radius": 0.055,
+          "shape": "star",
+          "petals": 6,
+          "center_material": "lavender"
+        }
+      ],
+      "stem_thickness": 1.4
+    },
+    {
+      "item": 763,
+      "slug": "marsh_flower",
+      "name": "Marsh flower",
+      "seed": 763,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "stem",
+          "points": [
+            [
+              0,
+              0,
+              0.005
+            ],
+            [
+              0.012,
+              0.0,
+              0.1375
+            ],
+            [
+              0,
+              0,
+              0.27
+            ]
+          ],
+          "radius": 0.003,
+          "material": "dark_leaf"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.081
+          ],
+          "tip": [
+            -0.075,
+            -0.02,
+            0.1647
+          ],
+          "width": 0.033,
+          "shape": "lance",
+          "material": "dark_leaf"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0.005,
+            0,
+            0.135
+          ],
+          "tip": [
+            0.075,
+            0.015,
+            0.20520000000000002
+          ],
+          "width": 0.034,
+          "shape": "lance",
+          "material": "dark_leaf"
+        },
+        {
+          "type": "flower",
+          "at": [
+            0,
+            0,
+            0.27
+          ],
+          "material": "yellow",
+          "radius": 0.055,
+          "shape": "star",
+          "petals": 15,
+          "center_material": "gold"
+        }
+      ],
+      "stem_thickness": 1.4
+    },
+    {
+      "item": 765,
+      "slug": "daydream",
+      "name": "Daydream",
+      "seed": 765,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "stem",
+          "points": [
+            [
+              0,
+              0,
+              0.005
+            ],
+            [
+              0.0045000000000000005,
+              0.0,
+              0.0975
+            ],
+            [
+              -0.015,
+              0,
+              0.19
+            ]
+          ],
+          "radius": 0.002,
+          "material": "stem"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.045
+          ],
+          "tip": [
+            0.045,
+            0.01,
+            0.11
+          ],
+          "width": 0.023,
+          "shape": "lance",
+          "material": "leaf"
+        },
+        {
+          "type": "flower",
+          "at": [
+            -0.015,
+            0,
+            0.19
+          ],
+          "material": "cream",
+          "radius": 0.05,
+          "shape": "star",
+          "petals": 9,
+          "center_material": "peach"
+        }
+      ],
+      "stem_thickness": 1.4
+    },
+    {
+      "item": 766,
+      "slug": "con_blossom",
+      "name": "Con blossom",
+      "seed": 766,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "stem",
+          "points": [
+            [
+              0,
+              0,
+              0.005
+            ],
+            [
+              0.0245,
+              0.0,
+              0.11750000000000001
+            ],
+            [
+              0.025,
+              0,
+              0.23
+            ]
+          ],
+          "radius": 0.003,
+          "material": "red_stem"
+        },
+        {
+          "type": "flower",
+          "at": [
+            0.025,
+            0,
+            0.23
+          ],
+          "material": "pale_pink",
+          "radius": 0.042,
+          "shape": "bell",
+          "depth": 0.055,
+          "petals": 5,
+          "center_material": "pink",
+          "normal": [
+            0.45,
+            -0.45,
+            0.75
+          ]
+        }
+      ],
+      "stem_thickness": 1.4
+    },
+    {
+      "item": 768,
+      "slug": "wolverine_fern",
+      "name": "Wolverine fern",
+      "seed": 768,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "fern",
+          "base": [
+            0,
+            0,
+            0.005
+          ],
+          "tip": [
+            0.015,
+            0,
+            0.3
+          ],
+          "width": 0.18,
+          "pairs": 8,
+          "material": "olive",
+          "leaflet_width": 0.13
+        }
+      ],
+      "stem_thickness": 1.4
+    }
+  ]
+}

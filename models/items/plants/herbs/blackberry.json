@@ -1,0 +1,10 @@
+{
+  "model": "blackberry.blend",
+  "sprites": "illarion/items/plants/herbs/item_147",
+  "visual": "items/item_147",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

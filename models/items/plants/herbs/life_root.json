@@ -1,0 +1,10 @@
+{
+  "model": "life_root.blend",
+  "sprites": "illarion/items/plants/herbs/item_152",
+  "visual": "items/item_152",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "model": "tybalt_star.blend",
+  "sprites": "illarion/items/plants/herbs/item_757",
+  "visual": "items/item_757",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

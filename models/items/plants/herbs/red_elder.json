@@ -1,0 +1,10 @@
+{
+  "model": "red_elder.blend",
+  "sprites": "illarion/items/plants/herbs/item_143",
+  "visual": "items/item_143",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "model": "flamegoblet_blossom.blend",
+  "sprites": "illarion/items/plants/herbs/item_137",
+  "visual": "items/item_137",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

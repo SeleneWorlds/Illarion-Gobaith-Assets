@@ -171,3 +171,9 @@ python3 scripts/render_pure_elements.py
 The generator preserves each item's texture dimensions and placement. Use
 `--output-dir` for experiments and `--preview /tmp/pure-elements.png` for an
 enlarged comparison sheet.
+
+## Procedural herbs
+
+Generate ordinary herb models from the editable [herb catalog](scripts/data/herbs.json).
+See [the generator documentation](scripts/data/herbs.md) for rebuilding and supported
+plant parts.
