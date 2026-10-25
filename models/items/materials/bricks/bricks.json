@@ -1,0 +1,11 @@
+{
+  "model": "bricks.blend",
+  "sprites": "illarion/items/materials/bricks/item_2588",
+  "visual": "items/item_2588",
+  "direction": "west",
+  "scale": 0.55,
+  "include": [
+    "BrickFront",
+    "BrickBack"
+  ]
+}

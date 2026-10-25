@@ -1,12 +1,12 @@
 {
-  "occlusionFade": false,
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
-  "offsetX": -2,
-  "offsetY": -10,
-  "texture": "client/textures/illarion/items/materials/bricks.png",
+  "offsetX": 0,
+  "offsetY": -6,
+  "texture": "client/textures/illarion/items/materials/bricks/item_2588.png",
   "metadata": {
     "itemId": 2588
-  }
+  },
+  "occlusionFade": false,
+  "surfaceOffsetY": 0
 }
