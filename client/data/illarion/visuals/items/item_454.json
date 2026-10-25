@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
   "offsetX": 0,
-  "offsetY": -16,
-  "texture": "client/textures/illarion/items/food/muffin.png",
+  "offsetY": -5,
+  "texture": "client/textures/illarion/items/food/muffin/item_454.png",
   "metadata": {
     "itemId": 454
-  }
+  },
+  "surfaceOffsetY": 0
 }

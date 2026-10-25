@@ -1,0 +1,10 @@
+{
+  "model": "muffin.blend",
+  "sprites": "illarion/items/food/muffin/item_454",
+  "visual": "items/item_454",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "ChocolateMuffin"
+  ]
+}

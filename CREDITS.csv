@@ -81,7 +81,6 @@ client/textures/illarion/items/clothing/leggings_cloth.png,CC0,BlayTheNinth; Fla
 client/textures/illarion/items/clothing/leggings_leather.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
 client/textures/illarion/items/clothing/leggings_plate.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
 client/textures/illarion/items/tools/mold.png,CC0,bluecarrot16,https://opengameart.org/node/98209
-client/textures/illarion/items/food/muffin.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
 client/textures/illarion/items/food/mushroom.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/materials/nails.png,CC0,Glitch,https://opengameart.org/content/100-glitch-icons
 models/items/tools/needle/needle.blend,CC0,BlayTheNinth,https://seleneworlds.com
@@ -489,3 +488,4 @@ models/items/materials/cloth/cloth.blend,CC0,BlayTheNinth,https://seleneworlds.c
 models/items/materials/uncut_gems/uncut_gems.blend,CC-BY 3.0,BlayTheNinth; Clint Bellanger; sandsound,https://opengameart.org/content/gems; https://opengameart.org/content/inventory-items
 models/items/materials/wax/wax.blend,CC0,plaggy,https://opengameart.org/content/jelly
 models/items/materials/leather/leather.blend,CC0,BlayTheNinth; Daniel Andersson,https://seleneworlds.com; https://opengameart.org/content/medieval-props-pack-3
+models/items/food/muffin/muffin.blend,CC0,DREAM_SEARCH_REPEAT,https://opengameart.org/content/little-sweet-pack
