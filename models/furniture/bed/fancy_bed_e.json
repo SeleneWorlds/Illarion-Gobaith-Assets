@@ -1,5 +1,5 @@
 {
-  "model": "bed.blend",
+  "model": "bed_wood.blend",
   "sprites": "illarion/items/item_744",
   "visual": "items/item_744",
   "direction": "east",
