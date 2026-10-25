@@ -1,7 +1,7 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "offsetX": 32,
+  "offsetX": 3,
   "offsetY": -12,
   "texture": "client/textures/illarion/items/food/ham/item_306.png",
   "metadata": {

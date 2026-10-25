@@ -3,5 +3,5 @@
   "sprites": "illarion/items/food/pork/item_307",
   "visual": "items/item_307",
   "direction": "south",
-  "scale": 1.25
+  "scale": 0.9
 }

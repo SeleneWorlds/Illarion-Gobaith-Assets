@@ -1,0 +1,7 @@
+{
+  "model": "lamb.blend",
+  "sprites": "illarion/items/food/lamb/item_2934",
+  "visual": "items/item_2934",
+  "direction": "south",
+  "scale": 1.25
+}
