@@ -100,7 +100,6 @@ client/textures/illarion/items/food/nuts.png,CC0,Idylwild,https://opengameart.or
 client/textures/illarion/items/lighting/oil_lamp.png,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/items/lighting/oil_lamp_lit.png,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/items/music/panflute.png,CC0,BlayTheNinth; bluecarrot16,https://seleneworlds.com; https://opengameart.org/node/98209
-client/textures/illarion/items/tools/pincers.png,CC0,Glitch,https://opengameart.org/content/100-glitch-icons
 client/textures/illarion/items/effects/elements/pure_air.png,CC0,Selene contributors (procedural),scripts/render_pure_elements.py
 client/textures/illarion/items/effects/elements/pure_earth.png,CC0,Selene contributors (procedural),scripts/render_pure_elements.py
 client/textures/illarion/items/effects/elements/pure_fire.png,CC0,Selene contributors (procedural),scripts/render_pure_elements.py
