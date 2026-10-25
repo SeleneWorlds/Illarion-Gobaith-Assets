@@ -1,6 +1,6 @@
 {
   "model": "sapphire.blend",
-  "sprites": "illarion/items/materials/sapphire/item_284",
+  "sprites": "illarion/items/materials/gems/item_284",
   "visual": "items/item_284",
   "direction": "south",
   "scale": 1,

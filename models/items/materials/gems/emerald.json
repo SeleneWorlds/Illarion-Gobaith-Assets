@@ -1,6 +1,6 @@
 {
   "model": "emerald.blend",
-  "sprites": "illarion/items/materials/emerald/item_45",
+  "sprites": "illarion/items/materials/gems/item_45",
   "visual": "items/item_45",
   "direction": "south",
   "scale": 1,

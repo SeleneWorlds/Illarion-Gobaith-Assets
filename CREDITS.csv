@@ -403,8 +403,8 @@ models/items/materials/ingot/ingot.blend,CC-BY 3.0,Scribe,https://opengameart.or
 models/items/currency/coins/coins.blend,CC-BY 3.0,Scribe,https://opengameart.org/content/gold-treasure
 models/items/tools/shovel/shovel.blend,CC0,System G6,https://opengameart.org/content/medieval-tools-pack
 models/items/tools/saw/saw.blend,CC0,sandsound,https://opengameart.org/content/inventory-items
-models/items/materials/sapphire/sapphire.blend,CC0,sandsound,https://opengameart.org/content/inventory-items
-models/items/materials/ruby/ruby.blend,CC0,sandsound,https://opengameart.org/content/inventory-items
+models/items/materials/gems/sapphire.blend,CC0,sandsound,https://opengameart.org/content/inventory-items
+models/items/materials/gems/ruby.blend,CC0,sandsound,https://opengameart.org/content/inventory-items
 models/items/tools/sickle/sickle.blend,CC0,sandsound,https://opengameart.org/content/inventory-items
 models/items/access/lockpick/lockpick.blend,CC0,sandsound,https://opengameart.org/content/inventory-items
 models/items/tools/chisel/chisel.blend,CC0,sandsound,https://opengameart.org/content/inventory-items
@@ -423,8 +423,8 @@ models/items/weapons/bolt/bolt.blend,CC0,StormKMD,https://opengameart.org/conten
 models/items/clothing/crown/crown.blend,CC-BY 4.0,Tianmaru,https://opengameart.org/content/low-poly-crown-0
 models/items/materials/dragon_egg/dragon_egg.blend,CC-BY-SA 4.0,bobjh,https://opengameart.org/content/dragons-egg
 models/items/materials/feather/feather.blend,CC0,AnyRPG,https://opengameart.org/content/feather-pen
-models/items/materials/diamond/diamond.blend,CC-BY 3.0,Clint Bellanger,https://opengameart.org/content/gems
-models/items/materials/emerald/emerald.blend,CC-BY 3.0,Clint Bellanger,https://opengameart.org/content/gems
+models/items/materials/gems/diamond.blend,CC-BY 3.0,Clint Bellanger,https://opengameart.org/content/gems
+models/items/materials/gems/emerald.blend,CC-BY 3.0,Clint Bellanger,https://opengameart.org/content/gems
 models/items/clothing/hat/hat.blend,CC-BY-SA 4.0,enkvadrat,https://opengameart.org/content/leather-cowboy-hat
 models/items/music/horn/horn.blend,CC-BY 3.0,ulf,https://opengameart.org/content/medieval-drinking-horn
 models/items/food/mandarin/mandarin.blend,CC-BY 4.0,Kutejnikov,https://opengameart.org/content/mandarin-orange

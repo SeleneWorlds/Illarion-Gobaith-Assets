@@ -1,6 +1,6 @@
 {
   "model": "ruby.blend",
-  "sprites": "illarion/items/materials/ruby/item_46",
+  "sprites": "illarion/items/materials/gems/item_46",
   "visual": "items/item_46",
   "direction": "south",
   "scale": 1,
