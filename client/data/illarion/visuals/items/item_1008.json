@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
-  "offsetX": -17,
-  "offsetY": -48,
-  "texture": "client/textures/illarion/items/containers/cauldron.png",
+  "offsetX": 0,
+  "offsetY": -7,
+  "texture": "client/textures/illarion/items/containers/cauldron/item_1008.png",
   "metadata": {
-    "itemId": 2488
-  }
+    "itemId": 1008
+  },
+  "surfaceOffsetY": 0
 }

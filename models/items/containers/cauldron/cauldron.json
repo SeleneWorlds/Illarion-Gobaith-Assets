@@ -1,0 +1,11 @@
+{
+  "model": "cauldron.blend",
+  "sprites": "illarion/items/containers/cauldron/item_1008",
+  "visual": "items/item_1008",
+  "direction": "south",
+  "scale": 0.3,
+  "include": [
+    "Cauldron"
+  ],
+  "reflections": "studio"
+}
