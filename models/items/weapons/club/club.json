@@ -1,0 +1,10 @@
+{
+  "model": "club.blend",
+  "sprites": "illarion/items/weapons/club/item_2664",
+  "visual": "items/item_2664",
+  "direction": "handheld",
+  "scale": 1,
+  "include": [
+    "Club"
+  ]
+}
