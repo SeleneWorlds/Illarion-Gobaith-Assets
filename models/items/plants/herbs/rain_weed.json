@@ -1,0 +1,10 @@
+{
+  "model": "rain_weed.blend",
+  "sprites": "illarion/items/plants/herbs/item_761",
+  "visual": "items/item_761",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

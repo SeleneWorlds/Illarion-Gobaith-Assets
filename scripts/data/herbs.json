@@ -376,6 +376,44 @@
         0.12,
         0.09
       ]
+    },
+    "moss_purple": {
+      "color": [
+        0.14,
+        0.025,
+        0.075
+      ],
+      "light": [
+        0.43,
+        0.1,
+        0.25
+      ]
+    },
+    "ice_foliage": {
+      "color": [
+        0.25,
+        0.48,
+        0.58
+      ],
+      "light": [
+        0.72,
+        0.92,
+        0.97
+      ],
+      "roughness": 0.48
+    },
+    "water_foliage": {
+      "color": [
+        0.015,
+        0.18,
+        0.32
+      ],
+      "light": [
+        0.055,
+        0.51,
+        0.7
+      ],
+      "roughness": 0.52
     }
   },
   "herbs": [
@@ -1371,6 +1409,90 @@
       "stem_thickness": 1.82
     },
     {
+      "item": 146,
+      "slug": "desert_sky_capsule",
+      "name": "Desert sky capsule",
+      "seed": 146,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "stem",
+          "points": [
+            [
+              0,
+              0,
+              0.005
+            ],
+            [
+              0.012,
+              0.0,
+              0.11750000000000001
+            ],
+            [
+              0,
+              0,
+              0.23
+            ]
+          ],
+          "radius": 0.005,
+          "material": "stem"
+        },
+        {
+          "type": "flower",
+          "at": [
+            0,
+            0,
+            0.23
+          ],
+          "material": "daydevil_orange",
+          "radius": 0.068,
+          "shape": "cup",
+          "petals": 6,
+          "depth": 0.032,
+          "center_material": "cream",
+          "normal": [
+            0.3,
+            -0.5,
+            0.8
+          ]
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.045
+          ],
+          "tip": [
+            -0.1,
+            0.02,
+            0.1
+          ],
+          "width": 0.09,
+          "shape": "oval",
+          "material": "grey_green"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.065
+          ],
+          "tip": [
+            0.09,
+            0.035,
+            0.13
+          ],
+          "width": 0.08,
+          "shape": "oval",
+          "material": "grey_green"
+        }
+      ],
+      "stem_thickness": 1.82
+    },
+    {
       "item": 147,
       "slug": "blackberry",
       "name": "Blackberry",
@@ -2112,6 +2234,174 @@
       "stem_thickness": 1.82
     },
     {
+      "item": 758,
+      "slug": "heart_blood",
+      "name": "Heart blood",
+      "seed": 758,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "stem",
+          "points": [
+            [
+              0,
+              0,
+              0.005
+            ],
+            [
+              0.012,
+              0.0,
+              0.1325
+            ],
+            [
+              0,
+              0,
+              0.26
+            ]
+          ],
+          "radius": 0.003,
+          "material": "stem"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.075
+          ],
+          "tip": [
+            -0.075,
+            -0.02,
+            0.1525
+          ],
+          "width": 0.033,
+          "shape": "lance",
+          "material": "leaf"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0.005,
+            0,
+            0.125
+          ],
+          "tip": [
+            0.075,
+            0.015,
+            0.19
+          ],
+          "width": 0.034,
+          "shape": "lance",
+          "material": "leaf"
+        },
+        {
+          "type": "flower",
+          "at": [
+            0,
+            0,
+            0.26
+          ],
+          "material": "red",
+          "radius": 0.0715,
+          "shape": "star",
+          "petals": 6,
+          "center_material": "gold"
+        }
+      ],
+      "stem_thickness": 1.82
+    },
+    {
+      "item": 760,
+      "slug": "ice_leaf",
+      "name": "Ice leaf",
+      "seed": 760,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "fern",
+          "base": [
+            -0.08,
+            -0.06,
+            0.006
+          ],
+          "tip": [
+            0.12,
+            0.09,
+            0.07
+          ],
+          "width": 0.22,
+          "pairs": 11,
+          "material": "ice_foliage",
+          "leaflet_width": 0.24,
+          "serrated": true,
+          "stem_material": "ice_foliage"
+        }
+      ],
+      "stem_thickness": 1.82
+    },
+    {
+      "item": 761,
+      "slug": "rain_weed",
+      "name": "Rain weed",
+      "seed": 761,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "fern",
+          "base": [
+            -0.08,
+            -0.06,
+            0.006
+          ],
+          "tip": [
+            0.12,
+            0.09,
+            0.07
+          ],
+          "width": 0.22,
+          "pairs": 11,
+          "material": "water_foliage",
+          "leaflet_width": 0.24,
+          "serrated": true,
+          "stem_material": "water_foliage"
+        }
+      ],
+      "stem_thickness": 1.82
+    },
+    {
+      "item": 762,
+      "slug": "goldcrack_herb",
+      "name": "Goldcrack herb",
+      "seed": 762,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "fern",
+          "base": [
+            -0.08,
+            -0.06,
+            0.006
+          ],
+          "tip": [
+            0.12,
+            0.09,
+            0.07
+          ],
+          "width": 0.22,
+          "pairs": 11,
+          "material": "gold",
+          "leaflet_width": 0.24,
+          "serrated": true,
+          "stem_material": "gold"
+        }
+      ],
+      "stem_thickness": 1.82
+    },
+    {
       "item": 763,
       "slug": "marsh_flower",
       "name": "Marsh flower",
@@ -2185,6 +2475,36 @@
           "shape": "star",
           "petals": 15,
           "center_material": "gold"
+        }
+      ],
+      "stem_thickness": 1.82
+    },
+    {
+      "item": 764,
+      "slug": "dark_moss",
+      "name": "Dark moss",
+      "seed": 764,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "fern",
+          "base": [
+            -0.08,
+            -0.06,
+            0.006
+          ],
+          "tip": [
+            0.12,
+            0.09,
+            0.07
+          ],
+          "width": 0.22,
+          "pairs": 11,
+          "material": "moss_purple",
+          "leaflet_width": 0.24,
+          "serrated": true,
+          "stem_material": "red_stem"
         }
       ],
       "stem_thickness": 1.82
@@ -3313,6 +3633,90 @@
             0,
             1
           ]
+        }
+      ],
+      "stem_thickness": 1.82
+    },
+    {
+      "item": 9012,
+      "slug": "godsflower_9012",
+      "name": "Godsflower",
+      "seed": 9012,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "stem",
+          "points": [
+            [
+              0,
+              0,
+              0.005
+            ],
+            [
+              0.012,
+              0.0,
+              0.11750000000000001
+            ],
+            [
+              0,
+              0,
+              0.23
+            ]
+          ],
+          "radius": 0.005,
+          "material": "stem"
+        },
+        {
+          "type": "flower",
+          "at": [
+            0,
+            0,
+            0.23
+          ],
+          "material": "red",
+          "radius": 0.068,
+          "shape": "cup",
+          "petals": 6,
+          "depth": 0.032,
+          "center_material": "cream",
+          "normal": [
+            0.3,
+            -0.5,
+            0.8
+          ]
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.045
+          ],
+          "tip": [
+            -0.1,
+            0.02,
+            0.1
+          ],
+          "width": 0.09,
+          "shape": "oval",
+          "material": "grey_green"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.065
+          ],
+          "tip": [
+            0.09,
+            0.035,
+            0.13
+          ],
+          "width": 0.08,
+          "shape": "oval",
+          "material": "grey_green"
         }
       ],
       "stem_thickness": 1.82

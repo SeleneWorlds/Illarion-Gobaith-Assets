@@ -1,0 +1,10 @@
+{
+  "model": "goldcrack_herb.blend",
+  "sprites": "illarion/items/plants/herbs/item_762",
+  "visual": "items/item_762",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "model": "dark_moss.blend",
+  "sprites": "illarion/items/plants/herbs/item_764",
+  "visual": "items/item_764",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

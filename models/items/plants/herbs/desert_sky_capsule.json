@@ -1,0 +1,10 @@
+{
+  "model": "desert_sky_capsule.blend",
+  "sprites": "illarion/items/plants/herbs/item_146",
+  "visual": "items/item_146",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

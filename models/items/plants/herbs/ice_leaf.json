@@ -1,0 +1,10 @@
+{
+  "model": "ice_leaf.blend",
+  "sprites": "illarion/items/plants/herbs/item_760",
+  "visual": "items/item_760",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}

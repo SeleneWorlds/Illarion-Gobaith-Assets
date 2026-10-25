@@ -1,0 +1,10 @@
+{
+  "model": "heart_blood.blend",
+  "sprites": "illarion/items/plants/herbs/item_758",
+  "visual": "items/item_758",
+  "direction": "west",
+  "scale": 1.4,
+  "include": [
+    "Herb"
+  ]
+}
