@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
-  "offsetX": -2,
-  "offsetY": -14,
-  "texture": "client/textures/illarion/items/materials/nails.png",
+  "offsetX": -11,
+  "offsetY": -10,
+  "texture": "client/textures/illarion/items/materials/nails/item_2738.png",
   "metadata": {
     "itemId": 2738
-  }
+  },
+  "surfaceOffsetY": 0
 }

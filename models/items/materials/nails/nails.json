@@ -1,0 +1,14 @@
+{
+  "model": "nail_pile.blend",
+  "sprites": "illarion/items/materials/nails/item_2738",
+  "visual": "items/item_2738",
+  "direction": "west",
+  "scale": 0.9,
+  "include": [
+    "NailBackLeft",
+    "NailFrontRight",
+    "NailAcross",
+    "NailDiagonal"
+  ],
+  "reflections": "studio-flat"
+}
