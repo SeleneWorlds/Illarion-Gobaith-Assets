@@ -60,7 +60,6 @@ client/textures/illarion/items/weapons/flail.png,CC0,BlayTheNinth,https://selene
 client/textures/illarion/items/plants/flower.png,CC0,Aswino,https://opengameart.org/content/tileset-pixel
 client/textures/illarion/items/clothing/gloves_leather.png,CC0,Flare,https://opengameart.org/content/cc0-hand-wear-icons
 client/textures/illarion/items/clothing/gloves_plate.png,CC0,Flare,https://opengameart.org/content/cc0-hand-wear-icons
-client/textures/illarion/items/food/grains.png,CC0,ScratchIO,https://opengameart.org/content/2d-cereals
 client/textures/illarion/items/green_blood.png,CC0,AntumDeluge,https://opengameart.org/content/blood-splatters
 client/textures/illarion/items/personal/handkerchief.png,CC0,Kutejnikov,https://opengameart.org/content/papers
 client/textures/illarion/items/clothing/helmet.png,CC0,Flare,https://opengameart.org/content/cc0-headgear-icons
@@ -496,3 +495,4 @@ models/items/materials/clay/clay.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/materials/thread/thread.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/music/drum/drum.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/music/panflute/panflute.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/items/food/grains/grains.blend,CC0,BlayTheNinth,https://seleneworlds.com

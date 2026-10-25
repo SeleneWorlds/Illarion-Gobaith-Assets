@@ -1,0 +1,7 @@
+{
+  "model": "grains.blend",
+  "sprites": "illarion/items/food/grains/item_259",
+  "visual": "items/item_259",
+  "direction": "west",
+  "scale": 1.0
+}
