@@ -1,0 +1,10 @@
+{
+  "model": "cookies.blend",
+  "sprites": "illarion/items/food/cookies/item_453",
+  "visual": "items/item_453",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "Cookies"
+  ]
+}

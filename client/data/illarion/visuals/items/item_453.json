@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
-  "offsetX": -2,
-  "offsetY": -17,
-  "texture": "client/textures/illarion/items/food/cookies.png",
+  "offsetX": -1,
+  "offsetY": -8,
+  "texture": "client/textures/illarion/items/food/cookies/item_453.png",
   "metadata": {
     "itemId": 453
-  }
+  },
+  "surfaceOffsetY": 0
 }
