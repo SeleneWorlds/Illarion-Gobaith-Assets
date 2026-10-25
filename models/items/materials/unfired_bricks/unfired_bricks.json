@@ -1,0 +1,11 @@
+{
+  "model": "unfired_bricks.blend",
+  "sprites": "illarion/items/materials/unfired_bricks/item_736",
+  "visual": "items/item_736",
+  "direction": "west",
+  "scale": 0.55,
+  "include": [
+    "BrickFront",
+    "BrickBack"
+  ]
+}
