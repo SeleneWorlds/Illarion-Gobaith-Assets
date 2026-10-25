@@ -1,0 +1,10 @@
+{
+  "model": "leather.blend",
+  "sprites": "illarion/items/materials/leather/item_69",
+  "visual": "items/item_69",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "RawLeather"
+  ]
+}

@@ -75,7 +75,6 @@ client/textures/illarion/items/clothing/helmet.png,CC0,Flare,https://opengameart
 client/textures/illarion/items/plants/herb.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/markers/invisible_item.png,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/items/access/key/key.png,CC0,Drummyfish,https://opengameart.org/content/11-common-household-items
-client/textures/illarion/items/materials/leather.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/clothing/leather_armor.png,CC0,Flare,https://opengameart.org/content/cc0-torso-wear-icons
 client/textures/illarion/items/clothing/leggings_chain.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
 client/textures/illarion/items/clothing/leggings_cloth.png,CC0,BlayTheNinth; Flare,https://seleneworlds.com; https://opengameart.org/content/cc0-leggings-icons
@@ -93,7 +92,6 @@ client/textures/illarion/items/effects/elements/pure_air.png,CC0,Selene contribu
 client/textures/illarion/items/effects/elements/pure_earth.png,CC0,Selene contributors (procedural),scripts/render_pure_elements.py
 client/textures/illarion/items/effects/elements/pure_fire.png,CC0,Selene contributors (procedural),scripts/render_pure_elements.py
 client/textures/illarion/items/effects/elements/pure_water.png,CC0,Selene contributors (procedural),scripts/render_pure_elements.py
-client/textures/illarion/items/materials/raw_hide.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/food/red_berries.png,CC0,Melissa Krautheim,https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/clothing/robe.png,CC0,Flare,https://opengameart.org/content/cc0-torso-wear-icons
 client/textures/illarion/items/food/root.png,CC0,AntumDeluge,https://opengameart.org/content/cc0-herb-icons
@@ -490,3 +488,4 @@ client/textures/illarion/items/music/panflute.png,CC0,BlayTheNinth; bluecarrot16
 models/items/materials/cloth/cloth.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/materials/uncut_gems/uncut_gems.blend,CC-BY 3.0,BlayTheNinth; Clint Bellanger; sandsound,https://opengameart.org/content/gems; https://opengameart.org/content/inventory-items
 models/items/materials/wax/wax.blend,CC0,plaggy,https://opengameart.org/content/jelly
+models/items/materials/leather/leather.blend,CC0,BlayTheNinth; Daniel Andersson,https://seleneworlds.com; https://opengameart.org/content/medieval-props-pack-3

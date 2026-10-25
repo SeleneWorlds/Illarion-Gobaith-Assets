@@ -1,0 +1,10 @@
+{
+  "model": "leather.blend",
+  "sprites": "illarion/items/materials/leather/item_2547",
+  "visual": "items/item_2547",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "FinishedLeather"
+  ]
+}
