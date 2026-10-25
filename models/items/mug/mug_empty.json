@@ -1,10 +1,11 @@
 {
-  "model": "mug.blend",
+  "model": "beer_mug.blend",
   "sprites": "illarion/items/item_1908",
   "visual": "items/item_1908",
-  "direction": "south",
+  "direction": "west",
   "scale": 0.45,
   "include": [
-    "mug"
-  ]
+    "BeerMug"
+  ],
+  "reflections": "studio"
 }
