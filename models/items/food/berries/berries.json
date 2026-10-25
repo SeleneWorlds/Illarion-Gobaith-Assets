@@ -1,0 +1,7 @@
+{
+  "model": "berries.blend",
+  "sprites": "illarion/items/food/berries/item_81",
+  "visual": "items/item_81",
+  "direction": "west",
+  "scale": 1.2
+}

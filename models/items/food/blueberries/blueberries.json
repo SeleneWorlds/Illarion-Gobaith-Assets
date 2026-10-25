@@ -1,0 +1,20 @@
+{
+  "model": "blueberries.blend",
+  "sprites": "illarion/items/food/blueberries/item_753",
+  "visual": "items/item_753",
+  "direction": "west",
+  "scale": 1.2,
+  "include": [
+    "blueberries_1",
+    "blueberries_2",
+    "blueberries_3",
+    "blueberries_4",
+    "blueberries_5",
+    "blueberries_6",
+    "blueberries_7",
+    "blueberries_8",
+    "blueberries_9",
+    "blueberries_10",
+    "Stems"
+  ]
+}

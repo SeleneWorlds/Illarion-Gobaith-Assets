@@ -1,0 +1,7 @@
+{
+  "model": "grapes.blend",
+  "sprites": "illarion/items/food/grapes/item_388",
+  "visual": "items/item_388",
+  "direction": "west",
+  "scale": 1.2
+}

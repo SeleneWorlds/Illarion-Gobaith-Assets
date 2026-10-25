@@ -41,10 +41,8 @@ client/textures/illarion/chars/invisible.png,CC0,BlayTheNinth,https://seleneworl
 client/textures/illarion/items/*,see models/,see models/,see models/
 client/textures/illarion/items/clothing/armor.png,CC0,Flare,https://opengameart.org/content/cc0-torso-wear-icons
 client/textures/illarion/items/containers/bag.png,CC0,Melissa Krautheim,https://opengameart.org/content/fantasy-magic-set
-client/textures/illarion/items/food/berries.png,CC0,Tanya Riarey,https://opengameart.org/content/2d-game-icons-fruits-vegetables
 client/textures/illarion/items/markers/blocked.png,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/items/blood.png,CC0,AntumDeluge,https://opengameart.org/content/blood-splatters
-client/textures/illarion/items/food/blueberries.png,CC0,BlayTheNinth; Tanya Riarey,https://seleneworlds.com; https://opengameart.org/content/2d-game-icons-fruits-vegetables
 client/textures/illarion/items/clothing/boots_leather.png,CC0,Flare,https://opengameart.org/content/cc0-footgear-icons
 client/textures/illarion/items/clothing/boots_plate.png,CC0,Flare,https://opengameart.org/content/cc0-footgear-icons
 client/textures/illarion/items/clothing/boots_robe.png,CC0,Flare,https://opengameart.org/content/cc0-footgear-icons
@@ -501,3 +499,6 @@ models/items/food/seeds/sugarcane_seeds.blend,CC0,BlayTheNinth,https://selenewor
 models/items/food/seeds/hop_seeds.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/food/cookies/cookies.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/food/cherries/cherries.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/items/food/berries/berries.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/items/food/grapes/grapes.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/items/food/blueberries/blueberries.blend,CC0,BlayTheNinth,https://seleneworlds.com
