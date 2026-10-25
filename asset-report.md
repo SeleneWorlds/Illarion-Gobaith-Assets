@@ -50,7 +50,6 @@
 - `client/textures/illarion/items/materials/bricks.png` used by 2 visuals: `items/item_2588`, `items/item_736`
 - `client/textures/illarion/items/food/cabbage.png` used by 2 visuals: `items/item_290`, `items/item_291`
 - `client/textures/illarion/items/clothing/chainmail.png` used by 2 visuals: `items/item_101`, `items/item_2399`
-- `client/textures/illarion/items/containers/crucible.png` used by 2 visuals: `items/item_2747`, `items/item_2748`
 - `client/textures/illarion/items/clothing/leggings_chain.png` used by 2 visuals: `items/item_2111`, `items/item_2112`
 - `client/textures/illarion/items/longbow.png` used by 2 visuals: `items/item_2708`, `items/item_2718`
 - `client/textures/illarion/items/magic_bow.png` used by 2 visuals: `items/item_2739`, `items/item_2780`
