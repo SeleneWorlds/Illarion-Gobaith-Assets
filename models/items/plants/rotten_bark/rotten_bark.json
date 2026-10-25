@@ -1,0 +1,10 @@
+{
+  "model": "rotten_bark.blend",
+  "sprites": "illarion/items/plants/rotten_bark/item_157",
+  "visual": "items/item_157",
+  "direction": "west",
+  "scale": 1.2,
+  "include": [
+    "RottenBark"
+  ]
+}

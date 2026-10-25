@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
-  "offsetX": 2,
-  "offsetY": -28,
-  "texture": "client/textures/illarion/items/food/root.png",
+  "offsetX": 0,
+  "offsetY": -9,
+  "texture": "client/textures/illarion/items/plants/rotten_bark/item_157.png",
   "metadata": {
     "itemId": 157
-  }
+  },
+  "surfaceOffsetY": 0
 }
