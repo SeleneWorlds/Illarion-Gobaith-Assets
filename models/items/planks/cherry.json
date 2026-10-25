@@ -3,7 +3,7 @@
   "sprites": "illarion/items/item_545",
   "visual": "items/item_545",
   "direction": "west",
-  "scale": 1,
+  "scale": 0.9,
   "materials": {
     "PlankWood": {
       "WoodColor": "../../materials/wood/cherry_color.jpg"
