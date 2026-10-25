@@ -440,6 +440,30 @@
         0.14
       ],
       "roughness": 0.9
+    },
+    "olive_bright_fern": {
+      "color": [
+        0.1344,
+        0.2025,
+        0.0224
+      ],
+      "light": [
+        0.3584,
+        0.513,
+        0.0672
+      ]
+    },
+    "grey_green_bright_fern": {
+      "color": [
+        0.1456,
+        0.2565,
+        0.112
+      ],
+      "light": [
+        0.4032,
+        0.5805,
+        0.28
+      ]
     }
   },
   "herbs": [
@@ -4083,8 +4107,8 @@
           ],
           "width": 0.14,
           "pairs": 9,
-          "material": "olive",
-          "leaflet_width": 0.13,
+          "material": "olive_bright_fern",
+          "leaflet_width": 0.2496,
           "serrated": true
         },
         {
@@ -4101,8 +4125,8 @@
           ],
           "width": 0.16,
           "pairs": 8,
-          "material": "grey_green",
-          "leaflet_width": 0.15,
+          "material": "grey_green_bright_fern",
+          "leaflet_width": 0.288,
           "serrated": true
         }
       ],
