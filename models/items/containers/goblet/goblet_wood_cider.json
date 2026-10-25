@@ -1,0 +1,11 @@
+{
+  "model": "goblet.blend",
+  "sprites": "illarion/items/containers/goblet/item_2189",
+  "visual": "items/item_2189",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "GobletWood",
+    "LiquidCider"
+  ]
+}

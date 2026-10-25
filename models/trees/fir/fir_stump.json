@@ -1,6 +1,6 @@
 {
   "model": "fir.blend",
-  "sprites": "illarion/items/item_309",
+  "sprites": "illarion/items/trees/fir/item_309",
   "visual": "items/item_309",
   "direction": "south",
   "scale": 1.0,

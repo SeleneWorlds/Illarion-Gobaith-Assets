@@ -1,0 +1,10 @@
+{
+  "model": "wheat.blend",
+  "sprites": "illarion/items/food/wheat/item_778",
+  "visual": "items/item_778",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "sugarcane"
+  ]
+}

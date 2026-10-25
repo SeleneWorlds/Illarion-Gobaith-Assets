@@ -1,6 +1,6 @@
 {
   "model": "portal.blend",
-  "sprites": "illarion/items/item_793",
+  "sprites": "illarion/items/structures/portal/item_793",
   "visual": "items/item_793",
   "direction": "south",
   "scale": 1

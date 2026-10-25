@@ -58,7 +58,7 @@ for index, (location, angle) in enumerate([((-0.035, -0.045, 0.045), 0), ((0.035
     obj.rotation_euler.z = angle
 for mat in list(bpy.data.materials):
     if mat != material: bpy.data.materials.remove(mat)
-bpy.ops.wm.save_as_mainfile(filepath=str(ROOT / 'models/items/planks/planks.blend'), relative_remap=True)
+bpy.ops.wm.save_as_mainfile(filepath=str(ROOT / 'models/items/materials/planks/planks.blend'), relative_remap=True)
 # Save relative image paths explicitly for portable library and model files.
 for image in bpy.data.images:
     if image.source == 'FILE': image.filepath = bpy.path.relpath(image.filepath)

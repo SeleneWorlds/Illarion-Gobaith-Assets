@@ -1,6 +1,6 @@
 {
   "model": "../painting/painting.blend",
-  "sprites": "illarion/items/item_2906",
+  "sprites": "illarion/items/furniture/wall_mount/item_2906",
   "visual": "items/item_2906",
   "direction": "west",
   "scale": 1

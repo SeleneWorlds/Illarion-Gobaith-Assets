@@ -1,6 +1,6 @@
 {
   "model": "naldor_tree.blend",
-  "sprites": "illarion/items/item_571",
+  "sprites": "illarion/items/trees/naldor/item_571",
   "visual": "items/item_571",
   "direction": "west",
   "scale": 1.0,

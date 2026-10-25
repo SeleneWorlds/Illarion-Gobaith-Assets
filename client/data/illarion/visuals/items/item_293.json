@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": -7,
   "offsetY": -14,
-  "texture": "client/textures/illarion/items/item_293.png",
+  "texture": "client/textures/illarion/items/weapons/javelin/item_293.png",
   "metadata": {
     "itemId": 293
   }

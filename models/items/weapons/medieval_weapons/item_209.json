@@ -1,0 +1,11 @@
+{
+  "model": "medieval_weapons.blend",
+  "sprites": "illarion/items/weapons/medieval_weapons/item_209",
+  "visual": "items/item_209",
+  "include": [
+    "staff_1"
+  ],
+  "direction": "east",
+  "scale": 1.5,
+  "surfaceOffsetY": 0
+}

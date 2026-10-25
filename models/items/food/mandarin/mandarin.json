@@ -1,0 +1,10 @@
+{
+  "model": "mandarin.blend",
+  "sprites": "illarion/items/food/mandarin/item_199",
+  "visual": "items/item_199",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "Mandarin"
+  ]
+}

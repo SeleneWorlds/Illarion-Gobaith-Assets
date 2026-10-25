@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": 0,
   "offsetY": -19,
-  "texture": "client/textures/illarion/items/scroll.png",
+  "texture": "client/textures/illarion/items/books/scroll.png",
   "metadata": {
     "itemId": 3109
   }

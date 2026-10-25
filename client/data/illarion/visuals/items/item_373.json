@@ -5,10 +5,10 @@
   "offsetX": 8,
   "offsetY": -22,
   "textures": [
-    "client/textures/illarion/items/wind-3.png",
-    "client/textures/illarion/items/wind-4.png",
-    "client/textures/illarion/items/wind-5.png",
-    "client/textures/illarion/items/wind-6.png"
+    "client/textures/illarion/items/effects/fields/wind-3.png",
+    "client/textures/illarion/items/effects/fields/wind-4.png",
+    "client/textures/illarion/items/effects/fields/wind-5.png",
+    "client/textures/illarion/items/effects/fields/wind-6.png"
   ],
   "duration": 0.6,
   "metadata": {

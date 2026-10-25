@@ -1,6 +1,6 @@
 {
   "model": "hole.blend",
-  "sprites": "illarion/items/item_29",
+  "sprites": "illarion/items/structures/hole/item_29",
   "visual": "items/item_29",
   "direction": "south",
   "scale": 1

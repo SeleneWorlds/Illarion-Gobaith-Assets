@@ -1,0 +1,7 @@
+{
+  "model": "apple.blend",
+  "sprites": "illarion/items/food/apple/item_15",
+  "visual": "items/item_15",
+  "direction": "south",
+  "scale": 1
+}

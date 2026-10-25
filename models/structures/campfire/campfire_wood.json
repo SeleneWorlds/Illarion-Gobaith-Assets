@@ -1,6 +1,6 @@
 {
   "model": "campfire_wood.blend",
-  "sprites": "illarion/items/item_298",
+  "sprites": "illarion/items/structures/campfire/item_298",
   "visual": "items/item_298",
   "direction": "south",
   "scale": 0.8

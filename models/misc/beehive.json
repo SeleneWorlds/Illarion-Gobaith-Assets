@@ -1,6 +1,6 @@
 {
   "model": "beehive.blend",
-  "sprites": "illarion/items/item_1005",
+  "sprites": "illarion/items/misc/beehive/item_1005",
   "visual": "items/item_1005",
   "direction": "west",
   "scale": 0.8

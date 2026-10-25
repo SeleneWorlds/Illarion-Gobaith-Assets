@@ -1,0 +1,15 @@
+{
+  "model": "logs.blend",
+  "sprites": "illarion/items/materials/logs/item_543",
+  "visual": "items/item_543",
+  "direction": "west",
+  "scale": 0.6,
+  "materials": {
+    "LogBark": {
+      "WoodColor": "../../../materials/wood/cherry_bark_color.jpg"
+    },
+    "LogEnd": {
+      "WoodColor": "../../../materials/wood/cherry_end_color.jpg"
+    }
+  }
+}

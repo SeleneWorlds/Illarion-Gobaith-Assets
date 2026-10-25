@@ -1,0 +1,10 @@
+{
+  "model": "wheat.blend",
+  "sprites": "illarion/items/food/wheat/item_249",
+  "visual": "items/item_249",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "wheat"
+  ]
+}

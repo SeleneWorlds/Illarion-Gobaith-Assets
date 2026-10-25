@@ -3,7 +3,7 @@
   "sortLayerOffset": 300,
   "offsetX": 0,
   "offsetY": -3,
-  "texture": "client/textures/illarion/items/item_46.png",
+  "texture": "client/textures/illarion/items/materials/ruby/item_46.png",
   "metadata": {
     "itemId": 46
   },

@@ -1,6 +1,6 @@
 {
   "model": "fireplace.blend",
-  "sprites": "illarion/items/item_268",
+  "sprites": "illarion/items/furniture/fireplace/item_268",
   "visual": "items/item_268",
   "direction": "south",
   "scale": 1

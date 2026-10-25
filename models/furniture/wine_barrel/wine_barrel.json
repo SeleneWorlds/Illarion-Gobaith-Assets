@@ -1,6 +1,6 @@
 {
   "model": "wine_barrel.blend",
-  "sprites": "illarion/items/item_339",
+  "sprites": "illarion/items/furniture/wine_barrel/item_339",
   "visual": "items/item_339",
   "direction": "west",
   "scale": 1

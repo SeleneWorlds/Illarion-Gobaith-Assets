@@ -1,0 +1,7 @@
+{
+  "model": "steak.blend",
+  "sprites": "illarion/items/food/steak/item_2940",
+  "visual": "items/item_2940",
+  "direction": "south",
+  "scale": 1
+}

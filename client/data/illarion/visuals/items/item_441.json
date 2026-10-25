@@ -5,7 +5,7 @@
   "animations": {
     "armatureaction.001/north": {
       "textures": [
-        "client/textures/illarion/items/item_441/ArmatureAction.001/north/0001.png"
+        "client/textures/illarion/items/structures/statue/item_441/ArmatureAction.001/north/0001.png"
       ],
       "offsetX": -96,
       "offsetY": -60,
@@ -13,7 +13,7 @@
     },
     "armatureaction.002/north": {
       "textures": [
-        "client/textures/illarion/items/item_441/ArmatureAction.002/north/0001.png"
+        "client/textures/illarion/items/structures/statue/item_441/ArmatureAction.002/north/0001.png"
       ],
       "offsetX": -96,
       "offsetY": -60,
@@ -21,7 +21,7 @@
     },
     "armatureaction/north": {
       "textures": [
-        "client/textures/illarion/items/item_441/ArmatureAction/north/0001.png"
+        "client/textures/illarion/items/structures/statue/item_441/ArmatureAction/north/0001.png"
       ],
       "offsetX": -96,
       "offsetY": -60,

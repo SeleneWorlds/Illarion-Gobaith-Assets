@@ -1,6 +1,6 @@
 {
   "model": "conifer.blend",
-  "sprites": "illarion/items/item_590",
+  "sprites": "illarion/items/trees/conifer/item_590",
   "visual": "items/item_590",
   "direction": "south",
   "scale": 1.0,

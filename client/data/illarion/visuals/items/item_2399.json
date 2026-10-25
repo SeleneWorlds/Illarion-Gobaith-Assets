@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": 0,
   "offsetY": -24,
-  "texture": "client/textures/illarion/items/chainmail.png",
+  "texture": "client/textures/illarion/items/clothing/chainmail.png",
   "metadata": {
     "itemId": 2399
   }

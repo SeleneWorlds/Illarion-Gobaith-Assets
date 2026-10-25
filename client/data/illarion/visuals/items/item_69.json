@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": 0,
   "offsetY": -26,
-  "texture": "client/textures/illarion/items/raw_hide.png",
+  "texture": "client/textures/illarion/items/materials/raw_hide.png",
   "metadata": {
     "itemId": 69
   }

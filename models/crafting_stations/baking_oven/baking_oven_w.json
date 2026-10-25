@@ -1,6 +1,6 @@
 {
   "model": "baking_oven.blend",
-  "sprites": "illarion/items/item_119",
+  "sprites": "illarion/items/crafting_stations/baking_oven/item_119",
   "visual": "items/item_119",
   "direction": "west",
   "scale": 1

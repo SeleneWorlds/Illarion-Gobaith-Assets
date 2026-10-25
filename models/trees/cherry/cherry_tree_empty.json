@@ -1,6 +1,6 @@
 {
   "model": "cherry_tree.blend",
-  "sprites": "illarion/items/item_299",
+  "sprites": "illarion/items/trees/cherry/item_299",
   "visual": "items/item_299",
   "direction": "south",
   "scale": 1.0,

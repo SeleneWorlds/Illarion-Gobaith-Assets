@@ -1,6 +1,6 @@
 {
   "model": "scarecrow.blend",
-  "sprites": "illarion/items/item_2863",
+  "sprites": "illarion/items/structures/scarecrow/item_2863",
   "visual": "items/item_2863",
   "direction": "west",
   "scale": 1

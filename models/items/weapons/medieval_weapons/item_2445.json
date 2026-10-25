@@ -1,0 +1,11 @@
+{
+  "model": "medieval_weapons.blend",
+  "sprites": "illarion/items/weapons/medieval_weapons/item_2445",
+  "visual": "items/item_2445",
+  "include": [
+    "shield_1"
+  ],
+  "direction": "north",
+  "scale": 1.5,
+  "surfaceOffsetY": 0
+}

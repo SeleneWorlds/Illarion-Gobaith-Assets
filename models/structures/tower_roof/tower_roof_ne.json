@@ -1,6 +1,6 @@
 {
   "model": "tower_roof.blend",
-  "sprites": "illarion/items/item_352",
+  "sprites": "illarion/items/structures/tower_roof/item_352",
   "visual": "items/item_352",
   "direction": "north",
   "scale": 1

@@ -1,0 +1,7 @@
+{
+  "model": "mirror.blend",
+  "sprites": "illarion/items/personal/mirror/item_336",
+  "visual": "items/item_336",
+  "direction": "west",
+  "scale": 1
+}

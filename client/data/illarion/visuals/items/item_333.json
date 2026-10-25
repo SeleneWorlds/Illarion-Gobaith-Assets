@@ -3,7 +3,7 @@
   "sortLayerOffset": 300,
   "offsetX": -2,
   "offsetY": -4,
-  "texture": "client/textures/illarion/items/item_333.png",
+  "texture": "client/textures/illarion/items/music/horn/item_333.png",
   "metadata": {
     "itemId": 333
   },

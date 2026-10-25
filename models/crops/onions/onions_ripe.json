@@ -1,6 +1,6 @@
 {
   "model": "onions_ripe.blend",
-  "sprites": "illarion/items/item_537",
+  "sprites": "illarion/items/crops/onions/item_537",
   "visual": "items/item_537",
   "direction": "south",
   "scale": 1.0

@@ -1,6 +1,6 @@
 {
   "model": "table.blend",
-  "sprites": "illarion/items/item_522",
+  "sprites": "illarion/items/furniture/table/item_522",
   "visual": "items/item_522",
   "direction": "west",
   "surfaceOffsetY": 38,

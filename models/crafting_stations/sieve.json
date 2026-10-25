@@ -1,6 +1,6 @@
 {
   "model": "sieve.blend",
-  "sprites": "illarion/items/item_727",
+  "sprites": "illarion/items/crafting_stations/sieve/item_727",
   "visual": "items/item_727",
   "direction": "west",
   "scale": 1

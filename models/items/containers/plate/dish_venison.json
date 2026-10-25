@@ -1,0 +1,11 @@
+{
+  "model": "plate_dishes.blend",
+  "sprites": "illarion/items/containers/plate/item_554",
+  "visual": "items/item_554",
+  "direction": "south",
+  "scale": 0.35,
+  "include": [
+    "plate",
+    "FoodVenison"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "model": "banner_pole.blend",
-  "sprites": "illarion/items/item_2046",
+  "sprites": "illarion/items/structures/banner_pole/item_2046",
   "visual": "items/item_2046",
   "direction": "south",
   "scale": 1

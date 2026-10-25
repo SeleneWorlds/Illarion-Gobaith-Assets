@@ -1,0 +1,11 @@
+{
+  "model": "bowl.blend",
+  "sprites": "illarion/items/containers/bowl/item_2923",
+  "visual": "items/item_2923",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "bowl",
+    "SoupOnionSoup"
+  ]
+}

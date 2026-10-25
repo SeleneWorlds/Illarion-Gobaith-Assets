@@ -1,6 +1,6 @@
 {
   "model": "apple_tree.blend",
-  "sprites": "illarion/items/item_11",
+  "sprites": "illarion/items/trees/apple/item_11",
   "visual": "items/item_11",
   "direction": "south",
   "scale": 1.0,

@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": 2,
   "offsetY": -9,
-  "texture": "client/textures/illarion/items/pure_fire.png",
+  "texture": "client/textures/illarion/items/effects/elements/pure_fire.png",
   "metadata": {
     "itemId": 2553
   }

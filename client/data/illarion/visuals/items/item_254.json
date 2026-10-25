@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": 5,
   "offsetY": -3,
-  "texture": "client/textures/illarion/items/diamond_uncut.png",
+  "texture": "client/textures/illarion/items/materials/gems/diamond_uncut.png",
   "metadata": {
     "itemId": 254
   }

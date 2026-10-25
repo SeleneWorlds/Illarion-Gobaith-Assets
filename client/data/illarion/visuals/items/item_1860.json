@@ -3,7 +3,7 @@
   "sortLayerOffset": 300,
   "offsetX": 0,
   "offsetY": -3,
-  "texture": "client/textures/illarion/items/item_1860.png",
+  "texture": "client/textures/illarion/items/containers/goblet/item_1860.png",
   "metadata": {
     "itemId": 1860
   },

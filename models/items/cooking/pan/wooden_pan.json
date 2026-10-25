@@ -1,0 +1,10 @@
+{
+  "model": "pan.blend",
+  "sprites": "illarion/items/cooking/pan/item_2031",
+  "visual": "items/item_2031",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "PanWood"
+  ]
+}

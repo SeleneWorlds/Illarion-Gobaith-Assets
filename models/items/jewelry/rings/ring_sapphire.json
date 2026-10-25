@@ -1,0 +1,11 @@
+{
+  "model": "rings.blend",
+  "sprites": "illarion/items/jewelry/rings/item_279",
+  "visual": "items/item_279",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "GoldenSapphireRing"
+  ],
+  "reflections": "studio"
+}

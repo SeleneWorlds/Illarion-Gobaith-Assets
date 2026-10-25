@@ -1,6 +1,6 @@
 {
   "model": "coffin.blend",
-  "sprites": "illarion/items/item_337",
+  "sprites": "illarion/items/furniture/coffin/item_337",
   "visual": "items/item_337",
   "direction": "south",
   "scale": 0.55

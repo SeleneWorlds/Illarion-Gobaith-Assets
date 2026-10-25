@@ -1,6 +1,6 @@
 {
   "model": "chair.blend",
-  "sprites": "illarion/items/item_213",
+  "sprites": "illarion/items/furniture/chair/item_213",
   "visual": "items/item_213",
   "direction": "east",
   "scale": 0.6

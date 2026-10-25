@@ -1,6 +1,6 @@
 {
   "model": "wall_torch.blend",
-  "sprites": "illarion/items/item_403",
+  "sprites": "illarion/items/furniture/wall_torch/item_403",
   "visual": "items/item_403",
   "direction": "west",
   "scale": 1

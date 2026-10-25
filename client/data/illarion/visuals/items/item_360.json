@@ -5,11 +5,11 @@
   "offsetX": 0,
   "offsetY": -32,
   "textures": [
-    "client/textures/illarion/items/ice-0.png",
-    "client/textures/illarion/items/ice-1.png",
-    "client/textures/illarion/items/ice-2.png",
-    "client/textures/illarion/items/ice-3.png",
-    "client/textures/illarion/items/ice-4.png"
+    "client/textures/illarion/items/effects/fields/ice-0.png",
+    "client/textures/illarion/items/effects/fields/ice-1.png",
+    "client/textures/illarion/items/effects/fields/ice-2.png",
+    "client/textures/illarion/items/effects/fields/ice-3.png",
+    "client/textures/illarion/items/effects/fields/ice-4.png"
   ],
   "duration": 0.5,
   "metadata": {

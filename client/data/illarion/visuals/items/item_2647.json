@@ -3,7 +3,7 @@
   "sortLayerOffset": 300,
   "offsetX": 4,
   "offsetY": -13,
-  "texture": "client/textures/illarion/items/item_2647.png",
+  "texture": "client/textures/illarion/items/cooking/cutlery/item_2647.png",
   "metadata": {
     "itemId": 2647
   },

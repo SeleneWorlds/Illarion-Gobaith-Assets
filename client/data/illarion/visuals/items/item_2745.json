@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": 0,
   "offsetY": -12,
-  "texture": "client/textures/illarion/items/handkerchief.png",
+  "texture": "client/textures/illarion/items/personal/handkerchief.png",
   "metadata": {
     "itemId": 2745
   }

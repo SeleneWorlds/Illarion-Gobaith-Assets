@@ -9,7 +9,7 @@ from PIL import Image, ImageDraw
 
 
 ROOT = Path(__file__).resolve().parent.parent
-DEFAULT_OUTPUT = ROOT / "client/textures/illarion/items"
+DEFAULT_OUTPUT = ROOT / "client/textures/illarion/items/markers"
 
 
 def blocked() -> Image.Image:

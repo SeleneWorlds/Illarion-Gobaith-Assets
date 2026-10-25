@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": 0,
   "offsetY": -12,
-  "texture": "client/textures/illarion/items/needle.png",
+  "texture": "client/textures/illarion/items/tools/needle.png",
   "metadata": {
     "itemId": 47
   }

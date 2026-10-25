@@ -3,7 +3,7 @@
   "sortLayerOffset": 300,
   "offsetX": 0,
   "offsetY": -3,
-  "texture": "client/textures/illarion/items/item_201.png",
+  "texture": "client/textures/illarion/items/food/onion/item_201.png",
   "metadata": {
     "itemId": 201
   },

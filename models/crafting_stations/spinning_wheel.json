@@ -1,6 +1,6 @@
 {
   "model": "spinning_wheel.blend",
-  "sprites": "illarion/items/item_171",
+  "sprites": "illarion/items/crafting_stations/spinning_wheel/item_171",
   "visual": "items/item_171",
   "direction": "west",
   "scale": 1

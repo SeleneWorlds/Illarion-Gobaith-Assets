@@ -1,0 +1,10 @@
+{
+  "model": "chisel.blend",
+  "sprites": "illarion/items/tools/chisel/item_737",
+  "visual": "items/item_737",
+  "direction": "west",
+  "scale": 1.2,
+  "include": [
+    "chisel"
+  ]
+}

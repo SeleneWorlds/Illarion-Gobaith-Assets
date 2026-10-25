@@ -1,0 +1,10 @@
+{
+  "model": "arrow.blend",
+  "sprites": "illarion/items/weapons/arrow/item_322",
+  "visual": "items/item_322",
+  "direction": "handheld",
+  "scale": 1,
+  "include": [
+    "arrow_wind"
+  ]
+}

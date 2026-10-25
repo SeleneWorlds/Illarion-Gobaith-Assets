@@ -1,6 +1,6 @@
 {
   "model": "battlements.blend",
-  "sprites": "illarion/items/item_672",
+  "sprites": "illarion/items/structures/battlements/item_672",
   "visual": "items/item_672",
   "direction": "north",
   "scale": 1

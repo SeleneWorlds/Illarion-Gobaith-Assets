@@ -1,6 +1,6 @@
 {
   "model": "marker_stone.blend",
-  "sprites": "illarion/items/item_66",
+  "sprites": "illarion/items/rocks/marker_stone/item_66",
   "visual": "items/item_66",
   "direction": "south",
   "scale": 1

@@ -1,6 +1,6 @@
 {
   "model": "altar.blend",
-  "sprites": "illarion/items/item_2801",
+  "sprites": "illarion/items/furniture/altar/item_2801",
   "visual": "items/item_2801",
   "direction": "west",
   "scale": 0.75

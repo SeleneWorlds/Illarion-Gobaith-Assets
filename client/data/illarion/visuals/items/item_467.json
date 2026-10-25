@@ -5,14 +5,14 @@
   "offsetX": 3,
   "offsetY": -50,
   "textures": [
-    "client/textures/illarion/items/light-8.png",
-    "client/textures/illarion/items/light-9.png",
-    "client/textures/illarion/items/light-10.png",
-    "client/textures/illarion/items/light-11.png",
-    "client/textures/illarion/items/light-12.png",
-    "client/textures/illarion/items/light-11.png",
-    "client/textures/illarion/items/light-10.png",
-    "client/textures/illarion/items/light-9.png"
+    "client/textures/illarion/items/effects/fields/light-8.png",
+    "client/textures/illarion/items/effects/fields/light-9.png",
+    "client/textures/illarion/items/effects/fields/light-10.png",
+    "client/textures/illarion/items/effects/fields/light-11.png",
+    "client/textures/illarion/items/effects/fields/light-12.png",
+    "client/textures/illarion/items/effects/fields/light-11.png",
+    "client/textures/illarion/items/effects/fields/light-10.png",
+    "client/textures/illarion/items/effects/fields/light-9.png"
   ],
   "duration": 0.8571428571428571,
   "metadata": {

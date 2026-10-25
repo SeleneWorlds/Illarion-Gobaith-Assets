@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": 0,
   "offsetY": -16,
-  "texture": "client/textures/illarion/items/clay.png",
+  "texture": "client/textures/illarion/items/materials/clay.png",
   "metadata": {
     "itemId": 26
   }

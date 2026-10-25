@@ -1,0 +1,15 @@
+{
+  "model": "stones.blend",
+  "sprites": "illarion/items/materials/stones/item_733",
+  "visual": "items/item_733",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "Stone_01",
+    "Stone_02",
+    "Stone_03",
+    "Stone_04",
+    "Stone_05",
+    "Stone_06"
+  ]
+}

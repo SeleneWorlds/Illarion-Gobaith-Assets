@@ -1,0 +1,10 @@
+{
+  "model": "green_plate.blend",
+  "sprites": "illarion/items/containers/plate/item_1001",
+  "visual": "items/item_1001",
+  "direction": "south",
+  "scale": 0.35,
+  "include": [
+    "GreenPlate"
+  ]
+}

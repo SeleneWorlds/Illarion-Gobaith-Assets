@@ -1,0 +1,7 @@
+{
+  "model": "sausage.blend",
+  "sprites": "illarion/items/food/sausage/item_3051",
+  "visual": "items/item_3051",
+  "direction": "south",
+  "scale": 1.4
+}

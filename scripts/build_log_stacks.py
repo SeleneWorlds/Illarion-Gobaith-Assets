@@ -83,6 +83,6 @@ log('LowerRight',(.115,-.025,.12),1.2,.12,math.radians(-2),1)
 log('Top',(-.01,.055,.315),1.0,.105,math.radians(-12),2)
 for mat in list(bpy.data.materials):
     if mat not in (bark,end): bpy.data.materials.remove(mat)
-path=ROOT/'models/items/logs/logs.blend';path.parent.mkdir(parents=True,exist_ok=True)
+path=ROOT/'models/items/materials/logs/logs.blend';path.parent.mkdir(parents=True,exist_ok=True)
 bpy.ops.wm.save_as_mainfile(filepath=str(path),relative_remap=True)
 print('Verified three closed log meshes with separate bark and cut-end surfaces.')

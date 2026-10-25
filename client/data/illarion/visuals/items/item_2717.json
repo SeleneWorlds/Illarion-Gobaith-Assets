@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": 5,
   "offsetY": -19,
-  "texture": "client/textures/illarion/items/wood_nails.png",
+  "texture": "client/textures/illarion/items/materials/wood_nails.png",
   "metadata": {
     "itemId": 2717
   }

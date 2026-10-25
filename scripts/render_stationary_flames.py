@@ -58,7 +58,7 @@ def render(variant: str, phase: float, seed: int = 90210) -> Image.Image:
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--output-dir', type=Path,
-                        default=ROOT/'client/textures/illarion/items')
+                        default=ROOT/'client/textures/illarion/items/effects/fields')
     parser.add_argument('--update-visuals', action='store_true')
     args = parser.parse_args()
     args.output_dir.mkdir(parents=True, exist_ok=True)

@@ -1,0 +1,15 @@
+{
+  "model": "ore.blend",
+  "sprites": "illarion/items/materials/ore/item_2534",
+  "visual": "items/item_2534",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "MeriniumChunk_01",
+    "MeriniumChunk_02",
+    "MeriniumChunk_03",
+    "MeriniumChunk_04",
+    "MeriniumChunk_05"
+  ],
+  "reflections": "studio"
+}

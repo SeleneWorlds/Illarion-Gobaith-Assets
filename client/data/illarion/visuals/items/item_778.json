@@ -3,7 +3,7 @@
   "sortLayerOffset": 300,
   "offsetX": 0,
   "offsetY": -11,
-  "texture": "client/textures/illarion/items/item_778.png",
+  "texture": "client/textures/illarion/items/food/wheat/item_778.png",
   "metadata": {
     "itemId": 778
   },

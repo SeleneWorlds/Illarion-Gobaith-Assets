@@ -3,7 +3,7 @@
   "sortLayerOffset": 300,
   "offsetX": 0,
   "offsetY": -5,
-  "texture": "client/textures/illarion/items/item_549.png",
+  "texture": "client/textures/illarion/items/weapons/arrow/item_549.png",
   "metadata": {
     "itemId": 549
   },

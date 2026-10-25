@@ -3,7 +3,7 @@
   "sortLayerOffset": 300,
   "offsetX": 0,
   "offsetY": -5,
-  "texture": "client/textures/illarion/items/item_59.png",
+  "texture": "client/textures/illarion/items/potions/item_59.png",
   "metadata": {
     "itemId": 59
   },

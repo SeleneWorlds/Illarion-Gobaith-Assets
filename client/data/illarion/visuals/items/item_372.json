@@ -5,16 +5,16 @@
   "offsetX": 3,
   "offsetY": -52,
   "textures": [
-    "client/textures/illarion/items/giftfeld-6.png",
-    "client/textures/illarion/items/giftfeld-7.png",
-    "client/textures/illarion/items/giftfeld-8.png",
-    "client/textures/illarion/items/giftfeld-9.png",
-    "client/textures/illarion/items/giftfeld-10.png",
-    "client/textures/illarion/items/giftfeld-11.png",
-    "client/textures/illarion/items/giftfeld-10.png",
-    "client/textures/illarion/items/giftfeld-9.png",
-    "client/textures/illarion/items/giftfeld-8.png",
-    "client/textures/illarion/items/giftfeld-7.png"
+    "client/textures/illarion/items/effects/fields/giftfeld-6.png",
+    "client/textures/illarion/items/effects/fields/giftfeld-7.png",
+    "client/textures/illarion/items/effects/fields/giftfeld-8.png",
+    "client/textures/illarion/items/effects/fields/giftfeld-9.png",
+    "client/textures/illarion/items/effects/fields/giftfeld-10.png",
+    "client/textures/illarion/items/effects/fields/giftfeld-11.png",
+    "client/textures/illarion/items/effects/fields/giftfeld-10.png",
+    "client/textures/illarion/items/effects/fields/giftfeld-9.png",
+    "client/textures/illarion/items/effects/fields/giftfeld-8.png",
+    "client/textures/illarion/items/effects/fields/giftfeld-7.png"
   ],
   "duration": 1.125,
   "metadata": {

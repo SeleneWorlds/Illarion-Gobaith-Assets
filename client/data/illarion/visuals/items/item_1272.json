@@ -3,6 +3,6 @@
   "sortLayerOffset": 300,
   "offsetX": 2,
   "offsetY": -6,
-  "texture": "client/textures/illarion/items/item_1272.png",
+  "texture": "client/textures/illarion/items/rocks/small_rock_03/item_1272.png",
   "occlusionFade": false
 }

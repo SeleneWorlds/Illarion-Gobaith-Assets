@@ -3,7 +3,7 @@
   "sortLayerOffset": 300,
   "offsetX": 0,
   "offsetY": -19,
-  "texture": "client/textures/illarion/items/item_546.png",
+  "texture": "client/textures/illarion/items/materials/planks/item_546.png",
   "metadata": {
     "itemId": 546
   },

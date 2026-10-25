@@ -1,6 +1,6 @@
 {
   "model": "reed.blend",
-  "sprites": "illarion/items/item_338",
+  "sprites": "illarion/items/foliage/reed/item_338",
   "visual": "items/item_338",
   "direction": "south",
   "scale": 1

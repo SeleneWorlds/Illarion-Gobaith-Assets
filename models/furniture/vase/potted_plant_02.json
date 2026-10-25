@@ -1,6 +1,6 @@
 {
   "model": "potted_plant.blend",
-  "sprites": "illarion/items/item_276",
+  "sprites": "illarion/items/furniture/vase/item_276",
   "visual": "items/item_276",
   "direction": "south",
   "scale": 1

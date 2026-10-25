@@ -4,7 +4,7 @@
   "surfaceOffsetY": 2,
   "offsetX": 2,
   "offsetY": -21,
-  "texture": "client/textures/illarion/items/root.png",
+  "texture": "client/textures/illarion/items/food/root.png",
   "metadata": {
     "itemId": 772
   }

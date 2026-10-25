@@ -1,6 +1,6 @@
 {
   "model": "../wall_door_open.blend",
-  "sprites": "illarion/items/item_479",
+  "sprites": "illarion/items/walls/castle/item_479",
   "visual": "items/item_479",
   "materials": {
     "Wall": {

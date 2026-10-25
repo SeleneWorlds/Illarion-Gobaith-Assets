@@ -1,6 +1,6 @@
 {
   "model": "bookshelf.blend",
-  "sprites": "illarion/items/item_266",
+  "sprites": "illarion/items/furniture/bookshelf/item_266",
   "visual": "items/item_266",
   "direction": "south",
   "scale": 0.35

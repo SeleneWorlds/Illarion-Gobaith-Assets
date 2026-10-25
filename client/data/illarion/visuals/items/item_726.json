@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": -8,
   "offsetY": -19,
-  "texture": "client/textures/illarion/items/coarse_sand.png",
+  "texture": "client/textures/illarion/items/materials/coarse_sand.png",
   "metadata": {
     "itemId": 726
   }

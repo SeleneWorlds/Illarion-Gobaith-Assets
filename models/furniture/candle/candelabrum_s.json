@@ -1,6 +1,6 @@
 {
   "model": "candelabrum.blend",
-  "sprites": "illarion/items/item_2853",
+  "sprites": "illarion/items/furniture/candle/item_2853",
   "visual": "items/item_2853",
   "direction": "south",
   "scale": 0.55

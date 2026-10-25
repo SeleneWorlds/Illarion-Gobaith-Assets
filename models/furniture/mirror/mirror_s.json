@@ -1,6 +1,6 @@
 {
   "model": "mirror.blend",
-  "sprites": "illarion/items/item_2873",
+  "sprites": "illarion/items/furniture/mirror/item_2873",
   "visual": "items/item_2873",
   "direction": "south",
   "scale": 1

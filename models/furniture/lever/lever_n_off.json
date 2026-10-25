@@ -1,6 +1,6 @@
 {
   "model": "lever.blend",
-  "sprites": "illarion/items/item_434",
+  "sprites": "illarion/items/furniture/lever/item_434",
   "visual": "items/item_434",
   "direction": "north",
   "scale": 1,

@@ -1,0 +1,10 @@
+{
+  "model": "pan.blend",
+  "sprites": "illarion/items/cooking/pan/item_2495",
+  "visual": "items/item_2495",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "PanIron"
+  ]
+}

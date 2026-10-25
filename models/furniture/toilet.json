@@ -1,6 +1,6 @@
 {
   "model": "toilet.blend",
-  "sprites": "illarion/items/item_60",
+  "sprites": "illarion/items/furniture/toilet/item_60",
   "visual": "items/item_60",
   "direction": "west",
   "scale": 1

@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": 3,
   "offsetY": -10,
-  "texture": "client/textures/illarion/items/pincers.png",
+  "texture": "client/textures/illarion/items/tools/pincers.png",
   "metadata": {
     "itemId": 2699
   }

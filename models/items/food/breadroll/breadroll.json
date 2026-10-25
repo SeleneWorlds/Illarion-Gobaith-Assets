@@ -1,0 +1,7 @@
+{
+  "model": "breadroll.blend",
+  "sprites": "illarion/items/food/breadroll/item_191",
+  "visual": "items/item_191",
+  "direction": "west",
+  "scale": 0.8
+}

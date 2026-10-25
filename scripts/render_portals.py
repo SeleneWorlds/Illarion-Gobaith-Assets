@@ -70,7 +70,7 @@ def render(seed: int, variant: str, phase: float) -> Image.Image:
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--seed', type=int, default=90210)
-    parser.add_argument('--output-dir', type=Path, default=ROOT/'client/textures/illarion/items')
+    parser.add_argument('--output-dir', type=Path, default=ROOT/'client/textures/illarion/items/effects/portals')
     parser.add_argument('--preview-dir', type=Path, default=ROOT/'particles/portal-preview')
     parser.add_argument('--write-visuals', action='store_true', help='Update item 10 and 798 visual definitions.')
     args = parser.parse_args()
@@ -85,7 +85,7 @@ def main() -> None:
             visual = json.loads(path.read_text())
             visual.pop('texture', None)
             visual.update(type='animated', offsetX=3, offsetY=-19, surfaceOffsetY=0,
-                          textures=[f'client/textures/illarion/items/{variant}-{i}.png' for i in range(FRAMES)],
+                          textures=[f'client/textures/illarion/items/effects/portals/{variant}-{i}.png' for i in range(FRAMES)],
                           duration=DURATION)
             path.write_text(json.dumps(visual, indent=2)+'\n')
     print(f'Rendered {FRAMES} frames per portal to {args.output_dir}')

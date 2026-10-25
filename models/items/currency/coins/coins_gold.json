@@ -1,0 +1,11 @@
+{
+  "model": "coins.blend",
+  "sprites": "illarion/items/currency/item_61",
+  "visual": "items/item_61",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "CoinsGold"
+  ],
+  "reflections": "studio"
+}

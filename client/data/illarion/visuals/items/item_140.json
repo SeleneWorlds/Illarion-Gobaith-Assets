@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": 0,
   "offsetY": -17,
-  "texture": "client/textures/illarion/items/herb.png",
+  "texture": "client/textures/illarion/items/plants/herb.png",
   "metadata": {
     "itemId": 140
   }

@@ -1,0 +1,10 @@
+{
+  "model": "feather.blend",
+  "sprites": "illarion/items/materials/feather/item_2696",
+  "visual": "items/item_2696",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "Plane"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "model": "flask.blend",
+  "sprites": "illarion/items/containers/flask/item_2501",
+  "visual": "items/item_2501",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "FlaskBeer"
+  ]
+}

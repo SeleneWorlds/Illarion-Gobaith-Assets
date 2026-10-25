@@ -1,0 +1,10 @@
+{
+  "model": "rope.blend",
+  "sprites": "illarion/items/materials/rope/item_2760",
+  "visual": "items/item_2760",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "Rope"
+  ]
+}

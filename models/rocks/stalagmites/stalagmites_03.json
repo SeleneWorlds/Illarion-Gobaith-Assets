@@ -1,6 +1,6 @@
 {
   "model": "stalagmites.blend",
-  "sprites": "illarion/items/item_3099",
+  "sprites": "illarion/items/rocks/stalagmites/item_3099",
   "visual": "items/item_3099",
   "direction": "west",
   "scale": 1

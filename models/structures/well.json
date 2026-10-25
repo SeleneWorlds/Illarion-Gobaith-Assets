@@ -1,6 +1,6 @@
 {
   "model": "well.blend",
-  "sprites": "illarion/items/item_2207",
+  "sprites": "illarion/items/structures/well/item_2207",
   "visual": "items/item_2207",
   "direction": "south",
   "scale": 0.6

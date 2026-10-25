@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": 0,
   "offsetY": -19,
-  "texture": "client/textures/illarion/items/iron_plate.png",
+  "texture": "client/textures/illarion/items/materials/iron_plate.png",
   "metadata": {
     "itemId": 2537
   }

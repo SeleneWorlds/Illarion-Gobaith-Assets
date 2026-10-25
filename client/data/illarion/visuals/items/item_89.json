@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": -3,
   "offsetY": -21,
-  "texture": "client/textures/illarion/items/sling.png",
+  "texture": "client/textures/illarion/items/weapons/sling.png",
   "metadata": {
     "itemId": 89
   }

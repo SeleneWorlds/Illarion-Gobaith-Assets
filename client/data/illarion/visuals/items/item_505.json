@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": 3,
   "offsetY": -19,
-  "texture": "client/textures/illarion/items/treasure_map.png",
+  "texture": "client/textures/illarion/items/books/treasure_map.png",
   "metadata": {
     "itemId": 505
   }

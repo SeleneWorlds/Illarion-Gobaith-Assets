@@ -1,6 +1,6 @@
 {
   "model": "../wall.blend",
-  "sprites": "illarion/items/item_474",
+  "sprites": "illarion/items/walls/castle/item_474",
   "visual": "items/item_474",
   "materials": {
     "Wall": {

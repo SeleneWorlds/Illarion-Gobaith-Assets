@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": -2,
   "offsetY": -17,
-  "texture": "client/textures/illarion/items/mushroom.png",
+  "texture": "client/textures/illarion/items/food/mushroom.png",
   "metadata": {
     "itemId": 163
   }

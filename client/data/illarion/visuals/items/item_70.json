@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": -3,
   "offsetY": -18,
-  "texture": "client/textures/illarion/items/medieval_weapons/item_70.png",
+  "texture": "client/textures/illarion/items/weapons/medieval_weapons/item_70.png",
   "metadata": {
     "itemId": 70
   }

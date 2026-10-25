@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": -2,
   "offsetY": -16,
-  "texture": "client/textures/illarion/items/bricks.png",
+  "texture": "client/textures/illarion/items/materials/bricks.png",
   "metadata": {
     "itemId": 736
   }

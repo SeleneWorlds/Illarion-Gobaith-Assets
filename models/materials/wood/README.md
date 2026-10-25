@@ -28,7 +28,7 @@ Rebuild the material library and two-plank model, then render the board items:
 
 ```sh
 blender -b --python scripts/build_wood_planks.py
-python3 scripts/sprite_pipeline.py models/items/planks
+python3 scripts/sprite_pipeline.py models/items/materials/planks
 ```
 
 The shared plank model uses material `PlankWood`. Each render config overrides
@@ -58,7 +58,7 @@ Regenerate textures from included sources, rebuild the materials/model, and rend
 ```sh
 python3 scripts/generate_log_textures.py
 blender -b --python scripts/build_log_stacks.py
-python3 scripts/sprite_pipeline.py models/items/logs
+python3 scripts/sprite_pipeline.py models/items/materials/logs
 ```
 
 To import fresh original maps, pass `--bark-source /path/to/Bark007_4K-JPG`

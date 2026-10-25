@@ -1,6 +1,6 @@
 {
   "model": "bed_wood.blend",
-  "sprites": "illarion/items/item_741",
+  "sprites": "illarion/items/furniture/bed/item_741",
   "visual": "items/item_741",
   "direction": "east",
   "scale": 0.75

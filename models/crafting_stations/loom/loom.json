@@ -1,6 +1,6 @@
 {
   "model": "loom.blend",
-  "sprites": "illarion/items/item_169",
+  "sprites": "illarion/items/crafting_stations/loom/item_169",
   "visual": "items/item_169",
   "direction": "west",
   "scale": 1

@@ -1,6 +1,6 @@
 {
   "model": "grindstone.blend",
-  "sprites": "illarion/items/item_270",
+  "sprites": "illarion/items/crafting_stations/grindstone/item_270",
   "visual": "items/item_270",
   "direction": "south",
   "scale": 1

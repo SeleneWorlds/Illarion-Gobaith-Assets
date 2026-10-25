@@ -1,6 +1,6 @@
 {
   "model": "tobacco_03.blend",
-  "sprites": "illarion/items/item_776",
+  "sprites": "illarion/items/crops/tobacco/item_776",
   "visual": "items/item_776",
   "direction": "south",
   "scale": 1.0

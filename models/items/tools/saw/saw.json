@@ -1,0 +1,10 @@
+{
+  "model": "saw.blend",
+  "sprites": "illarion/items/tools/saw/item_9",
+  "visual": "items/item_9",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "saw"
+  ]
+}

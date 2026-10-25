@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": 2,
   "offsetY": -10,
-  "texture": "client/textures/illarion/items/helmet.png",
+  "texture": "client/textures/illarion/items/clothing/helmet.png",
   "metadata": {
     "itemId": 2286
   }

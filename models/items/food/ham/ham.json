@@ -1,0 +1,7 @@
+{
+  "model": "ham.blend",
+  "sprites": "illarion/items/food/ham/item_306",
+  "visual": "items/item_306",
+  "direction": "south",
+  "scale": 1
+}

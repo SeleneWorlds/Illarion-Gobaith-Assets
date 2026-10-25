@@ -1,6 +1,6 @@
 {
   "model": "sculpture.blend",
-  "sprites": "illarion/items/item_464",
+  "sprites": "illarion/items/furniture/sculpture/item_464",
   "visual": "items/item_464",
   "direction": "west",
   "scale": 1

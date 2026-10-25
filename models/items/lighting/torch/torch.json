@@ -1,0 +1,7 @@
+{
+  "model": "torch.blend",
+  "sprites": "illarion/items/lighting/torch/item_391",
+  "visual": "items/item_391",
+  "direction": "handheld",
+  "scale": 0.65
+}

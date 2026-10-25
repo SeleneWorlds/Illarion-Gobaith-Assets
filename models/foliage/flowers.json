@@ -1,6 +1,6 @@
 {
   "type": "variants",
-  "sprites": "illarion/items/item_273",
+  "sprites": "illarion/items/foliage/flowers/item_273",
   "visual": "items/item_273",
   "variants": [
     {

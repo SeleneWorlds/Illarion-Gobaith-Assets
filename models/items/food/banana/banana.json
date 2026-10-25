@@ -1,0 +1,7 @@
+{
+  "model": "banana.blend",
+  "sprites": "illarion/items/food/banana/item_80",
+  "visual": "items/item_80",
+  "direction": "south",
+  "scale": 1
+}

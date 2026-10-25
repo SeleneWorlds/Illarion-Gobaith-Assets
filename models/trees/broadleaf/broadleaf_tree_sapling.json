@@ -1,6 +1,6 @@
 {
   "model": "broadleaf_tree.blend",
-  "sprites": "illarion/items/item_588",
+  "sprites": "illarion/items/trees/broadleaf/item_588",
   "visual": "items/item_588",
   "direction": "south",
   "scale": 1.0,

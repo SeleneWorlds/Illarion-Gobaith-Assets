@@ -1,6 +1,6 @@
 {
   "model": "oilpress.blend",
-  "sprites": "illarion/items/item_44",
+  "sprites": "illarion/items/crafting_stations/oilpress/item_44",
   "visual": "items/item_44",
   "direction": "west",
   "scale": 1

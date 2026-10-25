@@ -1,6 +1,6 @@
 {
   "model": "signpost.blend",
-  "sprites": "illarion/items/item_3083",
+  "sprites": "illarion/items/structures/signpost/item_3083",
   "visual": "items/item_3083",
   "direction": "west",
   "scale": 0.5

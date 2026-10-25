@@ -1,6 +1,6 @@
 {
   "model": "wheat.blend",
-  "sprites": "illarion/items/item_247",
+  "sprites": "illarion/items/crops/wheat/item_247",
   "visual": "items/item_247",
   "direction": "west",
   "scale": 1.0,

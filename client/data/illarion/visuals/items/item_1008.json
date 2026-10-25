@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": -17,
   "offsetY": -48,
-  "texture": "client/textures/illarion/items/cauldron.png",
+  "texture": "client/textures/illarion/items/containers/cauldron.png",
   "metadata": {
     "itemId": 2488
   }

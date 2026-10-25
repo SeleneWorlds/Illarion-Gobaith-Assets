@@ -1,0 +1,7 @@
+{
+  "model": "bread.blend",
+  "sprites": "illarion/items/food/bread/item_49",
+  "visual": "items/item_49",
+  "direction": "west",
+  "scale": 1.4
+}

@@ -1,6 +1,6 @@
 {
   "model": "carrots_ripe.blend",
-  "sprites": "illarion/items/item_2492",
+  "sprites": "illarion/items/crops/carrots/item_2492",
   "visual": "items/item_2492",
   "direction": "south",
   "scale": 1.0

@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": -3,
   "offsetY": -12,
-  "texture": "client/textures/illarion/items/item_74.png",
+  "texture": "client/textures/illarion/items/weapons/axe/item_74.png",
   "metadata": {
     "itemId": 77
   }

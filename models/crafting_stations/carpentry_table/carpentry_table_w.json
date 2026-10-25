@@ -1,6 +1,6 @@
 {
   "model": "carpentry_table.blend",
-  "sprites": "illarion/items/item_725",
+  "sprites": "illarion/items/crafting_stations/carpentry_table/item_725",
   "visual": "items/item_725",
   "direction": "west",
   "scale": 1

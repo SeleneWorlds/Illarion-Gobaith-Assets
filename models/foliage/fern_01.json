@@ -1,6 +1,6 @@
 {
   "type": "variants",
-  "sprites": "illarion/items/item_274",
+  "sprites": "illarion/items/foliage/fern_01/item_274",
   "visual": "items/item_274",
   "variants": [
     {

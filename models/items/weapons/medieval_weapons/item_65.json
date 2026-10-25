@@ -1,0 +1,11 @@
+{
+  "model": "medieval_weapons.blend",
+  "sprites": "illarion/items/weapons/medieval_weapons/item_65",
+  "visual": "items/item_65",
+  "include": [
+    "bow_1"
+  ],
+  "direction": "west",
+  "scale": 1.5,
+  "surfaceOffsetY": 0
+}

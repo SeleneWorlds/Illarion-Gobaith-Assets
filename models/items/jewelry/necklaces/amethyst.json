@@ -1,0 +1,12 @@
+{
+  "model": "necklaces.blend",
+  "sprites": "illarion/items/jewelry/necklaces/item_79",
+  "visual": "items/item_79",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "GoldChain",
+    "AmethystPendant"
+  ],
+  "reflections": "studio"
+}

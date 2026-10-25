@@ -16,7 +16,7 @@ class SceneAnimationTests(unittest.TestCase):
     def test_frame_range_validation(self):
         root = Path(__file__).resolve().parent.parent
         path = root / 'models/structures/campfire/campfire.json'
-        base = dict(model='campfire.blend', sprites='illarion/items/item_12', visual='items/item_12')
+        base = dict(model='campfire.blend', sprites='illarion/items/structures/campfire/item_12', visual='items/item_12')
         config = load_model_config_from_raw(path, {**base, 'frameRange': [33, 64]}, root)
         self.assertEqual(config.frame_range, (33, 64))
         self.assertIsNone(load_model_config_from_raw(path, base, root).frame_range)

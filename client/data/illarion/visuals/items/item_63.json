@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": 0,
   "offsetY": -19,
-  "texture": "client/textures/illarion/items/entrails.png",
+  "texture": "client/textures/illarion/items/food/entrails.png",
   "metadata": {
     "itemId": 63
   }

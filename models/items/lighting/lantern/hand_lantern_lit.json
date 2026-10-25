@@ -1,0 +1,10 @@
+{
+  "model": "lantern.blend",
+  "sprites": "illarion/items/lighting/lantern/item_2855",
+  "visual": "items/item_2855",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "LanternLit"
+  ]
+}

@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": -3,
   "offsetY": -28,
-  "texture": "client/textures/illarion/items/dealer_button.png",
+  "texture": "client/textures/illarion/items/currency/dealer_button.png",
   "metadata": {
     "itemId": 462
   }

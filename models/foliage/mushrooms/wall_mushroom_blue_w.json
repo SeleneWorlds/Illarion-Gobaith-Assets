@@ -1,6 +1,6 @@
 {
   "model": "mushroom_01.blend",
-  "sprites": "illarion/items/item_409",
+  "sprites": "illarion/items/foliage/mushrooms/item_409",
   "visual": "items/item_409",
   "direction": "west",
   "scale": 1.0

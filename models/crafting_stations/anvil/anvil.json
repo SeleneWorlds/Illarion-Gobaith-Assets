@@ -1,6 +1,6 @@
 {
   "model": "anvil.blend",
-  "sprites": "illarion/items/item_172",
+  "sprites": "illarion/items/crafting_stations/anvil/item_172",
   "visual": "items/item_172",
   "direction": "west",
   "scale": 0.75

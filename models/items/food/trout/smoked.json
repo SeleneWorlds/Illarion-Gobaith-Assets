@@ -1,0 +1,10 @@
+{
+  "model": "trout.blend",
+  "sprites": "illarion/items/food/trout/item_455",
+  "visual": "items/item_455",
+  "direction": "handheld",
+  "scale": 1.8,
+  "include": [
+    "smoked"
+  ]
+}

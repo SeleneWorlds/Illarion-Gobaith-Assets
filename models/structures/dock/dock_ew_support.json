@@ -1,6 +1,6 @@
 {
   "model": "dock.blend",
-  "sprites": "illarion/items/item_620",
+  "sprites": "illarion/items/structures/dock/item_620",
   "visual": "items/item_620",
   "direction": "west",
   "scale": 1,

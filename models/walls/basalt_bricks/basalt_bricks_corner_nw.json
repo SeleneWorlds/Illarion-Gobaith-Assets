@@ -1,6 +1,6 @@
 {
   "model": "../wall_corner.blend",
-  "sprites": "illarion/items/item_718",
+  "sprites": "illarion/items/walls/basalt_bricks/item_718",
   "visual": "items/item_718",
   "materials": {
     "Wall": {

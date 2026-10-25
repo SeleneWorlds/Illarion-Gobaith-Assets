@@ -1,6 +1,6 @@
 {
   "model": "mage_desk.blend",
-  "sprites": "illarion/items/item_550",
+  "sprites": "illarion/items/crafting_stations/mage_desk/item_550",
   "visual": "items/item_550",
   "direction": "west",
   "scale": 1

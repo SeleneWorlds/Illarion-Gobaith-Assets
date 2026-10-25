@@ -1,0 +1,10 @@
+{
+  "model": "strawberry.blend",
+  "sprites": "illarion/items/food/strawberry/item_151",
+  "visual": "items/item_151",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "strawberry"
+  ]
+}

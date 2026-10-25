@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": 0,
   "offsetY": -24,
-  "texture": "client/textures/illarion/items/mold.png",
+  "texture": "client/textures/illarion/items/tools/mold.png",
   "metadata": {
     "itemId": 734
   }

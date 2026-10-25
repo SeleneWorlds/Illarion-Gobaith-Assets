@@ -1,6 +1,6 @@
 {
   "model": "knight_statue.blend",
-  "sprites": "illarion/items/item_695",
+  "sprites": "illarion/items/structures/statue/item_695",
   "visual": "items/item_695",
   "direction": "west",
   "scale": 0.6

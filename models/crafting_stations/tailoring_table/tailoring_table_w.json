@@ -1,6 +1,6 @@
 {
   "model": "tailoring_table.blend",
-  "sprites": "illarion/items/item_102",
+  "sprites": "illarion/items/crafting_stations/tailoring_table/item_102",
   "visual": "items/item_102",
   "direction": "west",
   "scale": 1

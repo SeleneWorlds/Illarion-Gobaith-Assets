@@ -1,0 +1,11 @@
+{
+  "model": "rings.blend",
+  "sprites": "illarion/items/jewelry/rings/item_280",
+  "visual": "items/item_280",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "GoldenDiamondRing"
+  ],
+  "reflections": "studio"
+}

@@ -1,6 +1,6 @@
 {
   "model": "column.blend",
-  "sprites": "illarion/items/item_511",
+  "sprites": "illarion/items/structures/column/item_511",
   "visual": "items/item_511",
   "direction": "south",
   "scale": 1

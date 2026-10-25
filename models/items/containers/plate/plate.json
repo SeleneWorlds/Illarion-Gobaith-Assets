@@ -1,0 +1,7 @@
+{
+  "model": "plate.blend",
+  "sprites": "illarion/items/containers/plate/item_2952",
+  "visual": "items/item_2952",
+  "direction": "south",
+  "scale": 0.35
+}

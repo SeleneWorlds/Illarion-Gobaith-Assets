@@ -1,0 +1,10 @@
+{
+  "model": "basket.blend",
+  "sprites": "illarion/items/containers/basket/item_799",
+  "visual": "items/item_799",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "basket"
+  ]
+}

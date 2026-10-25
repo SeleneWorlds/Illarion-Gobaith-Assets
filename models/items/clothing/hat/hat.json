@@ -1,0 +1,10 @@
+{
+  "model": "hat.blend",
+  "sprites": "illarion/items/clothing/hat/item_356",
+  "visual": "items/item_356",
+  "direction": "west",
+  "scale": 0.9,
+  "include": [
+    "Baked_1024"
+  ]
+}

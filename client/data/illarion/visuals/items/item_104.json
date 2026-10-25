@@ -3,7 +3,7 @@
   "sortLayerOffset": 300,
   "offsetX": 0,
   "offsetY": -14,
-  "texture": "client/textures/illarion/items/item_104.png",
+  "texture": "client/textures/illarion/items/materials/ingot/item_104.png",
   "metadata": {
     "itemId": 104
   },

@@ -1,6 +1,6 @@
 {
   "model": "../wall_door_open.blend",
-  "sprites": "illarion/items/item_670",
+  "sprites": "illarion/items/walls/sandstone_bricks/item_670",
   "visual": "items/item_670",
   "materials": {
     "Wall": {

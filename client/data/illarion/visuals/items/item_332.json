@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": 5,
   "offsetY": -24,
-  "texture": "client/textures/illarion/items/harp.png",
+  "texture": "client/textures/illarion/items/music/harp.png",
   "metadata": {
     "itemId": 332
   }

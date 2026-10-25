@@ -1,6 +1,6 @@
 {
   "model": "table_round.blend",
-  "sprites": "illarion/items/item_2885",
+  "sprites": "illarion/items/furniture/table/item_2885",
   "visual": "items/item_2885",
   "direction": "west",
   "scale": 1

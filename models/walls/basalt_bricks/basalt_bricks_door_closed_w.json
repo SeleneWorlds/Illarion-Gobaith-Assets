@@ -1,6 +1,6 @@
 {
   "model": "../wall_door.blend",
-  "sprites": "illarion/items/item_710",
+  "sprites": "illarion/items/walls/basalt_bricks/item_710",
   "visual": "items/item_710",
   "materials": {
     "Wall": {

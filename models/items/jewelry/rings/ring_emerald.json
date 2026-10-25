@@ -1,0 +1,11 @@
+{
+  "model": "rings.blend",
+  "sprites": "illarion/items/jewelry/rings/item_281",
+  "visual": "items/item_281",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "EmeraldRing"
+  ],
+  "reflections": "studio"
+}

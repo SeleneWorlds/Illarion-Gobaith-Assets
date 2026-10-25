@@ -1,0 +1,7 @@
+{
+  "model": "wooden_shovel.blend",
+  "sprites": "illarion/items/tools/wooden_shovel/item_312",
+  "visual": "items/item_312",
+  "direction": "west",
+  "scale": 1
+}

@@ -1,0 +1,11 @@
+{
+  "model": "bucket.blend",
+  "sprites": "illarion/items/containers/bucket/item_2680",
+  "visual": "items/item_2680",
+  "direction": "south",
+  "scale": 0.4,
+  "include": [
+    "bucket",
+    "Dye_Blue"
+  ]
+}

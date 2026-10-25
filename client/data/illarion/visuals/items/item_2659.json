@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": -3,
   "offsetY": -14,
-  "texture": "client/textures/illarion/items/brush.png",
+  "texture": "client/textures/illarion/items/tools/brush.png",
   "metadata": {
     "itemId": 2659
   }

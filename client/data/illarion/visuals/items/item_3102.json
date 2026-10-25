@@ -6,10 +6,10 @@
   "offsetX": -2,
   "offsetY": -10,
   "textures": [
-    "client/textures/illarion/items/green_blood-0.png",
-    "client/textures/illarion/items/green_blood-1.png",
-    "client/textures/illarion/items/green_blood-2.png",
-    "client/textures/illarion/items/green_blood-3.png"
+    "client/textures/illarion/items/effects/fields/green_blood-0.png",
+    "client/textures/illarion/items/effects/fields/green_blood-1.png",
+    "client/textures/illarion/items/effects/fields/green_blood-2.png",
+    "client/textures/illarion/items/effects/fields/green_blood-3.png"
   ],
   "metadata": {
     "itemId": "3102"

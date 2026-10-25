@@ -1,0 +1,8 @@
+{
+  "model": "wooden_sword.blend",
+  "sprites": "illarion/items/weapons/wooden_sword/item_445",
+  "visual": "items/item_445",
+  "direction": "handheld",
+  "scale": 1,
+  "surfaceOffsetY": 0
+}

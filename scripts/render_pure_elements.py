@@ -67,7 +67,7 @@ def render(element: str) -> Image.Image:
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--output-dir", type=Path,
-                        default=ROOT / "client/textures/illarion/items")
+                        default=ROOT / "client/textures/illarion/items/effects/elements")
     parser.add_argument("--preview", type=Path, help="Optional enlarged comparison PNG")
     args = parser.parse_args()
     args.output_dir.mkdir(parents=True, exist_ok=True)

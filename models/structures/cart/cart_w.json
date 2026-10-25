@@ -1,6 +1,6 @@
 {
   "model": "cart.blend",
-  "sprites": "illarion/items/item_506",
+  "sprites": "illarion/items/structures/cart/item_506",
   "visual": "items/item_506",
   "direction": "west",
   "scale": 1

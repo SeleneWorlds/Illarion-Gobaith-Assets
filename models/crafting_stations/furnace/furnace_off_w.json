@@ -1,6 +1,6 @@
 {
   "model": "furnace.blend",
-  "sprites": "illarion/items/item_2837",
+  "sprites": "illarion/items/crafting_stations/furnace/item_2837",
   "visual": "items/item_2837",
   "direction": "west"
 }

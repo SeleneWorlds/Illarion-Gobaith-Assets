@@ -4,7 +4,7 @@
   "offsetX": -8,
   "offsetY": -20,
   "textures": [
-    "client/textures/illarion/items/item_1812-0.png",
-    "client/textures/illarion/items/item_1812-1.png"
+    "client/textures/illarion/items/foliage/fern_02/item_1812-0.png",
+    "client/textures/illarion/items/foliage/fern_02/item_1812-1.png"
   ]
 }

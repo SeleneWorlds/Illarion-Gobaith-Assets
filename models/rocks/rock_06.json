@@ -1,6 +1,6 @@
 {
   "model": "rock_01.blend",
-  "sprites": "illarion/items/item_1254",
+  "sprites": "illarion/items/rocks/rock_06/item_1254",
   "visual": "items/item_1254",
   "direction": "west",
   "scale": 1

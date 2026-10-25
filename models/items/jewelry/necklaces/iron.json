@@ -1,0 +1,12 @@
+{
+  "model": "necklaces.blend",
+  "sprites": "illarion/items/jewelry/necklaces/item_222",
+  "visual": "items/item_222",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "IronChain",
+    "IronPendant"
+  ],
+  "reflections": "studio"
+}

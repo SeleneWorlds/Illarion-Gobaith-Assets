@@ -10,4 +10,4 @@ visual-comparison.html
 # Generated Mantaflow fire simulation cache
 /models/structures/campfire/campfire_fire_cache/
 
-/models/items/torch/torch_fire_cache/
+/models/items/lighting/torch/torch_fire_cache/

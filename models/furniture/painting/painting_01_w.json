@@ -1,6 +1,6 @@
 {
   "model": "painting.blend",
-  "sprites": "illarion/items/item_1914",
+  "sprites": "illarion/items/furniture/painting/item_1914",
   "visual": "items/item_1914",
   "direction": "west",
   "scale": 1

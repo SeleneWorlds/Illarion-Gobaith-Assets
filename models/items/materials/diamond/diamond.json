@@ -1,0 +1,11 @@
+{
+  "model": "diamond.blend",
+  "sprites": "illarion/items/materials/diamond/item_285",
+  "visual": "items/item_285",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "PrincessCut"
+  ],
+  "reflections": "studio"
+}

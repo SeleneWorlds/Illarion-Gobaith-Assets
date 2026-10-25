@@ -1,0 +1,16 @@
+{
+  "model": "cutlery.blend",
+  "sprites": "illarion/items/cooking/cutlery/item_2647",
+  "visual": "items/item_2647",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "Spoon",
+    "Fork",
+    "Teaspoon",
+    "Knife",
+    "ChopstickA",
+    "ChopstickB"
+  ],
+  "reflections": "studio"
+}

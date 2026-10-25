@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": -2,
   "offsetY": -9,
-  "texture": "client/textures/illarion/items/blueberries.png",
+  "texture": "client/textures/illarion/items/food/blueberries.png",
   "metadata": {
     "itemId": 753
   }

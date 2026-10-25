@@ -1,6 +1,6 @@
 {
   "model": "oak.blend",
-  "sprites": "illarion/items/item_577",
+  "sprites": "illarion/items/trees/oak/item_577",
   "visual": "items/item_577",
   "direction": "east",
   "scale": 1.0,

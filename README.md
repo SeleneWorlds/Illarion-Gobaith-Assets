@@ -23,10 +23,35 @@ interrupted batch using logs in `/tmp/illarion-upscale-128x64`; keep that direct
 until the migration finishes. Characters whose Blender sources are unavailable
 retain scaled sprites.
 
+## Asset categories
+
+Item model sources live in `models/items/<category>/<model>/`, with categories
+such as `food`, `weapons`, `tools`, `containers`, `books`, `clothing`, and
+`materials`. Keep each model's Blender files, source textures, render JSONs,
+and optional local `scene.json` together. Shared material libraries remain in
+`models/materials/`.
+
+Rendered item textures live in `client/textures/illarion/items/<category>/`.
+Most categories have a model subfolder; all rendered books share `books/`,
+buckets share `containers/bucket/`, and potions share `potions/`. Furniture,
+walls, trees, crops, and other scenery mirror their existing model categories.
+Procedural item effects live in `effects/`, and item markers in `markers/`.
+Visual IDs stay in `client/data/illarion/visuals/items/`; item IDs and runtime
+visual names do not change when texture folders change.
+
+Set each render JSON's `sprites` path to its categorized texture destination.
+The sprite pipeline recursively discovers nested model folders. Run a whole
+category or a single model, for example:
+
+```sh
+python3 scripts/sprite_pipeline.py models/items/food
+python3 scripts/sprite_pipeline.py models/items/containers/bucket
+```
+
 ## Reflections for glossy items
 
 Add `"reflections": "studio"` to a model render JSON to give metallic or glossy
-materials broad reflected highlights, as used by `models/items/coins/`.
+materials broad reflected highlights, as used by `models/items/currency/coins/`.
 The renderer creates a temporary reflection environment and enables Eevee ray
 tracing when available. It keeps the shared sun and uses the scene's
 `ambientStrength` for the reflection intensity. No lights or world shader need
@@ -78,7 +103,7 @@ combined with named armature animations.
 
 ## Portable torches
 
-`models/items/torch/torch.json` renders the unlit torch (item 391).
+`models/items/lighting/torch/torch.json` renders the unlit torch (item 391).
 `torch_lit.json` renders item 392 with a simulated flame at the wrapped head,
 using 32 frames at 24 fps. Both torch surfaces use Standard color management,
 roughness 0.75, and zero emission. Their local `scene.json` lights the visible
@@ -87,8 +112,8 @@ The generated `torch_fire_cache/` is ignored by Git.
 To bake the lit torch on a fresh checkout or after changing its simulation:
 
 ```sh
-blender -b --python scripts/bake_fire.py -- models/items/torch/torch_lit.blend
-python3 scripts/sprite_pipeline.py models/items/torch
+blender -b --python scripts/bake_fire.py -- models/items/lighting/torch/torch_lit.blend
+python3 scripts/sprite_pipeline.py models/items/lighting/torch
 ```
 
 The shared bake command also accepts other fire models with a `Fire_Domain`

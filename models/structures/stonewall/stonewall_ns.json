@@ -1,6 +1,6 @@
 {
   "model": "stonewall.blend",
-  "sprites": "illarion/items/item_877",
+  "sprites": "illarion/items/structures/stonewall/item_877",
   "visual": "items/item_877",
   "direction": "south",
   "surfaceOffsetY": 60,

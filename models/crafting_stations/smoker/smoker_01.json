@@ -1,6 +1,6 @@
 {
   "model": "smoker.blend",
-  "sprites": "illarion/items/item_304",
+  "sprites": "illarion/items/crafting_stations/smoker/item_304",
   "visual": "items/item_304",
   "direction": "west",
   "scale": 1

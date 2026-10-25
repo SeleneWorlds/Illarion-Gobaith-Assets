@@ -1,0 +1,11 @@
+{
+  "model": "goblet.blend",
+  "sprites": "illarion/items/containers/goblet/item_1856",
+  "visual": "items/item_1856",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "GobletGold",
+    "LiquidMead"
+  ]
+}

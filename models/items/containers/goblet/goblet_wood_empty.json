@@ -1,0 +1,10 @@
+{
+  "model": "goblet.blend",
+  "sprites": "illarion/items/containers/goblet/item_2185",
+  "visual": "items/item_2185",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "GobletWood"
+  ]
+}

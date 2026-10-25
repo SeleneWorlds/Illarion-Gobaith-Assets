@@ -1,0 +1,10 @@
+{
+  "model": "carrot.blend",
+  "sprites": "illarion/items/food/carrot/item_2493",
+  "visual": "items/item_2493",
+  "direction": "west",
+  "scale": 1.8,
+  "include": [
+    "carrot"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "model": "../wall_column.blend",
-  "sprites": "illarion/items/item_690",
+  "sprites": "illarion/items/walls/sandstone_bricks/item_690",
   "visual": "items/item_690",
   "materials": {
     "Wall": {

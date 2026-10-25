@@ -1,6 +1,6 @@
 {
   "model": "barrel.blend",
-  "sprites": "illarion/items/item_515",
+  "sprites": "illarion/items/furniture/barrel/item_515",
   "visual": "items/item_515",
   "direction": "west",
   "scale": 0.75

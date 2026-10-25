@@ -1,6 +1,6 @@
 {
   "model": "tomatoes_01.blend",
-  "sprites": "illarion/items/item_538",
+  "sprites": "illarion/items/crops/tomatoes/item_538",
   "visual": "items/item_538",
   "direction": "south",
   "scale": 1.0

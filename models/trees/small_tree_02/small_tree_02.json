@@ -1,6 +1,6 @@
 {
   "model": "small_tree.blend",
-  "sprites": "illarion/items/item_1808",
+  "sprites": "illarion/items/trees/small_tree_02/item_1808",
   "visual": "items/item_1808",
   "direction": "south",
   "scale": 1.0,

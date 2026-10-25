@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": 0,
   "offsetY": -12,
-  "texture": "client/textures/illarion/items/club.png",
+  "texture": "client/textures/illarion/items/weapons/club.png",
   "metadata": {
     "itemId": 2664
   }

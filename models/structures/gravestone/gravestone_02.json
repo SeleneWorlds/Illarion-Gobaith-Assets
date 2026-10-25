@@ -1,6 +1,6 @@
 {
   "model": "gravestone_02.blend",
-  "sprites": "illarion/items/item_520",
+  "sprites": "illarion/items/structures/gravestone/item_520",
   "visual": "items/item_520",
   "direction": "south",
   "scale": 1

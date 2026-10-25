@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": 2,
   "offsetY": -9,
-  "texture": "client/textures/illarion/items/blackstone.png",
+  "texture": "client/textures/illarion/items/materials/gems/blackstone.png",
   "metadata": {
     "itemId": 283
   }

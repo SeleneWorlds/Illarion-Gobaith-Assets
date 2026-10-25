@@ -1,6 +1,6 @@
 {
   "model": "cobweb.blend",
-  "sprites": "illarion/items/item_3095",
+  "sprites": "illarion/items/misc/cobweb_n/item_3095",
   "visual": "items/item_3095",
   "direction": "north",
   "scale": 1

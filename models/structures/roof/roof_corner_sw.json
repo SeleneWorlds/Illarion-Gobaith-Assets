@@ -1,6 +1,6 @@
 {
   "model": "roof_corner.blend",
-  "sprites": "illarion/items/item_503",
+  "sprites": "illarion/items/structures/roof/item_503",
   "visual": "items/item_503",
   "direction": "west",
   "scale": 1

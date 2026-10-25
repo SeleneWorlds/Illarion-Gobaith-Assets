@@ -1,6 +1,6 @@
 {
   "model": "lectern.blend",
-  "sprites": "illarion/items/item_3106",
+  "sprites": "illarion/items/furniture/lectern/item_3106",
   "visual": "items/item_3106",
   "direction": "west",
   "scale": 1

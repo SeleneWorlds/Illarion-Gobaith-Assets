@@ -3,7 +3,7 @@
   "sortLayerOffset": 300,
   "offsetX": 0,
   "offsetY": -3,
-  "texture": "client/textures/illarion/items/item_235.png",
+  "texture": "client/textures/illarion/items/jewelry/rings/item_235.png",
   "metadata": {
     "itemId": 235
   },

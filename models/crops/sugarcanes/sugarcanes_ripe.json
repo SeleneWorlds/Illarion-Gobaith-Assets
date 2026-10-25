@@ -1,6 +1,6 @@
 {
   "model": "sugarcanes.blend",
-  "sprites": "illarion/items/item_782",
+  "sprites": "illarion/items/crops/sugarcanes/item_782",
   "visual": "items/item_782",
   "direction": "west",
   "scale": 1.0,

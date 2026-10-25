@@ -1,6 +1,6 @@
 {
   "model": "bridge.blend",
-  "sprites": "illarion/items/item_604",
+  "sprites": "illarion/items/structures/bridge/item_604",
   "visual": "items/item_604",
   "direction": "west",
   "scale": 1,

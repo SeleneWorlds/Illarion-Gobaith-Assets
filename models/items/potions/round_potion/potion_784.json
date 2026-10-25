@@ -1,0 +1,10 @@
+{
+  "model": "round_potion.blend",
+  "sprites": "illarion/items/potions/item_784",
+  "visual": "items/item_784",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "Potion784"
+  ]
+}

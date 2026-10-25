@@ -1,0 +1,12 @@
+{
+  "model": "planks.blend",
+  "sprites": "illarion/items/materials/planks/item_2716",
+  "visual": "items/item_2716",
+  "direction": "west",
+  "scale": 0.9,
+  "materials": {
+    "PlankWood": {
+      "WoodColor": "../../../materials/wood/apple_color.jpg"
+    }
+  }
+}

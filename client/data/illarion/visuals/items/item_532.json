@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": -2,
   "offsetY": -16,
-  "texture": "client/textures/illarion/items/panflute.png",
+  "texture": "client/textures/illarion/items/music/panflute.png",
   "metadata": {
     "itemId": 532
   }

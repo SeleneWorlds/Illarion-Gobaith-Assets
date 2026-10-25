@@ -1,7 +1,0 @@
-{
-  "model": "scissors.blend",
-  "sprites": "illarion/items/scissors",
-  "visual": "items/item_6",
-  "direction": "west",
-  "scale": 1
-}

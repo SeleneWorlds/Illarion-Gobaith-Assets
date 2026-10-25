@@ -1,0 +1,11 @@
+{
+  "model": "goblet.blend",
+  "sprites": "illarion/items/containers/goblet/item_1855",
+  "visual": "items/item_1855",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "GobletSilver",
+    "LiquidWater"
+  ]
+}

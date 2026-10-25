@@ -1,6 +1,6 @@
 {
   "model": "hops_03.blend",
-  "sprites": "illarion/items/item_731",
+  "sprites": "illarion/items/crops/hops/item_731",
   "visual": "items/item_731",
   "direction": "south",
   "scale": 1.0

@@ -1,6 +1,6 @@
 {
   "model": "chest.blend",
-  "sprites": "illarion/items/item_1362",
+  "sprites": "illarion/items/furniture/chest/item_1362",
   "visual": "items/item_1362",
   "direction": "west",
   "scale": 1

@@ -1,6 +1,6 @@
 {
   "model": "ladder.blend",
-  "sprites": "illarion/items/item_319",
+  "sprites": "illarion/items/structures/ladder/item_319",
   "visual": "items/item_319",
   "direction": "south",
   "scale": 1

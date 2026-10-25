@@ -1,0 +1,12 @@
+{
+  "model": "torch_lit.blend",
+  "sprites": "illarion/items/lighting/torch/item_392",
+  "visual": "items/item_392",
+  "direction": "handheld",
+  "scale": 0.65,
+  "fps": 24,
+  "frameRange": [
+    33,
+    64
+  ]
+}

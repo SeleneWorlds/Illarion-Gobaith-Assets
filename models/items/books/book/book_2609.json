@@ -1,0 +1,10 @@
+{
+  "model": "book.blend",
+  "sprites": "illarion/items/books/item_2609",
+  "visual": "items/item_2609",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "BookBlue"
+  ]
+}

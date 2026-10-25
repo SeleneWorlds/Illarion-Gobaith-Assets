@@ -1,0 +1,11 @@
+{
+  "model": "ruby.blend",
+  "sprites": "illarion/items/materials/ruby/item_46",
+  "visual": "items/item_46",
+  "direction": "south",
+  "scale": 1,
+  "include": [
+    "ruby"
+  ],
+  "reflections": "studio"
+}

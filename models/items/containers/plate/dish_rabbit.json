@@ -1,0 +1,11 @@
+{
+  "model": "plate_dishes.blend",
+  "sprites": "illarion/items/containers/plate/item_555",
+  "visual": "items/item_555",
+  "direction": "south",
+  "scale": 0.35,
+  "include": [
+    "plate",
+    "FoodRabbit"
+  ]
+}

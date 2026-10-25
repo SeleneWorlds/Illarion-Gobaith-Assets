@@ -3,7 +3,7 @@
   "sortLayerOffset": 300,
   "offsetX": -1,
   "offsetY": -18,
-  "texture": "client/textures/illarion/items/item_24.png",
+  "texture": "client/textures/illarion/items/tools/shovel/item_24.png",
   "metadata": {
     "itemId": 24
   },

@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": 3,
   "offsetY": -26,
-  "texture": "client/textures/illarion/items/boots_leather.png",
+  "texture": "client/textures/illarion/items/clothing/boots_leather.png",
   "metadata": {
     "itemId": 698
   }
