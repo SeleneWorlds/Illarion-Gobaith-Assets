@@ -3,7 +3,8 @@
   "sprites": "illarion/items/weapons/medieval_weapons/item_78",
   "visual": "items/item_78",
   "include": [
-    "one_handed_sword_1"
+    "Handle",
+    "Blade"
   ],
   "direction": "handheld",
   "scale": 1.75,

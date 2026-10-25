@@ -3,7 +3,8 @@
   "sprites": "illarion/items/weapons/medieval_weapons/item_230",
   "visual": "items/item_230",
   "include": [
-    "one_handed_mace_1"
+    "Handle",
+    "Head"
   ],
   "direction": "handheld",
   "scale": 1.75,

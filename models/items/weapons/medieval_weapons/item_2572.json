@@ -1,0 +1,11 @@
+{
+  "model": "staff_1.blend",
+  "sprites": "illarion/items/weapons/medieval_weapons/item_2572",
+  "visual": "items/item_2572",
+  "include": [
+    "Handle"
+  ],
+  "direction": "west",
+  "scale": 1.25,
+  "surfaceOffsetY": 0
+}

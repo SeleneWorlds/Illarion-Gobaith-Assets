@@ -1,0 +1,13 @@
+{
+  "model": "dyeing_rod.blend",
+  "sprites": "illarion/items/tools/dyeing_rod/item_2781",
+  "visual": "items/item_2781",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "DyeingRod",
+    "Cylinder",
+    "Cylinder.001",
+    "Cylinder.002"
+  ]
+}

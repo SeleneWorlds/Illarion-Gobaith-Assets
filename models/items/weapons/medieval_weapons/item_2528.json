@@ -1,0 +1,11 @@
+{
+  "model": "one_handed_axe_1.blend",
+  "sprites": "illarion/items/weapons/medieval_weapons/item_2528",
+  "visual": "items/item_2528",
+  "include": [
+    "Handle"
+  ],
+  "direction": "west",
+  "scale": 1.75,
+  "surfaceOffsetY": 0
+}

@@ -3,7 +3,8 @@
   "sprites": "illarion/items/weapons/medieval_weapons/item_2626",
   "visual": "items/item_2626",
   "include": [
-    "two_handed_axe_1"
+    "Handle",
+    "Blade"
   ],
   "direction": "west",
   "scale": 1.5,

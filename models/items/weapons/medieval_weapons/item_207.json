@@ -3,7 +3,8 @@
   "sprites": "illarion/items/weapons/medieval_weapons/item_207",
   "visual": "items/item_207",
   "include": [
-    "staff_1"
+    "Handle",
+    "Head"
   ],
   "direction": "east",
   "scale": 1.5,

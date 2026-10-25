@@ -3,7 +3,8 @@
   "sprites": "illarion/items/weapons/medieval_weapons/item_190",
   "visual": "items/item_190",
   "include": [
-    "dagger_1"
+    "Handle",
+    "Blade"
   ],
   "direction": "handheld",
   "scale": 1.75,

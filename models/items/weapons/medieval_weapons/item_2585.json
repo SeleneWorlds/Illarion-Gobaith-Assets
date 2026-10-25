@@ -1,0 +1,11 @@
+{
+  "model": "two_handed_sword_1.blend",
+  "sprites": "illarion/items/weapons/medieval_weapons/item_2585",
+  "visual": "items/item_2585",
+  "include": [
+    "Handle"
+  ],
+  "direction": "west",
+  "scale": 1.75,
+  "surfaceOffsetY": 0
+}

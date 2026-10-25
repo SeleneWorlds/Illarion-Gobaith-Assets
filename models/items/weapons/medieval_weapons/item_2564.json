@@ -1,0 +1,11 @@
+{
+  "model": "one_handed_sword_1.blend",
+  "sprites": "illarion/items/weapons/medieval_weapons/item_2564",
+  "visual": "items/item_2564",
+  "include": [
+    "Blade"
+  ],
+  "direction": "west",
+  "scale": 1.75,
+  "surfaceOffsetY": 0
+}

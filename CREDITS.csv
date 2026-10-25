@@ -44,7 +44,6 @@ client/textures/illarion/items/materials/ash.png,CC0,BlayTheNinth; Melissa Kraut
 client/textures/illarion/items/containers/bag.png,CC0,Melissa Krautheim,https://opengameart.org/content/fantasy-magic-set
 client/textures/illarion/items/materials/ball_of_wool.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/food/berries.png,CC0,Tanya Riarey,https://opengameart.org/content/2d-game-icons-fruits-vegetables
-client/textures/illarion/items/weapons/blade.png,CC0,BlayTheNinth; Melissa Krautheim,https://seleneworlds.com; https://opengameart.org/content/fantasy-sword-set
 client/textures/illarion/items/markers/blocked.png,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/items/blood.png,CC0,AntumDeluge,https://opengameart.org/content/blood-splatters
 client/textures/illarion/items/food/blueberries.png,CC0,BlayTheNinth; Tanya Riarey,https://seleneworlds.com; https://opengameart.org/content/2d-game-icons-fruits-vegetables
@@ -248,7 +247,6 @@ models/furniture/wall_torch/wall_torch.blend,CC0,System G6,https://opengameart.o
 models/furniture/wine_barrel/wine_barrel.blend,CC0,BlayTheNinth; mastahcez,https://seleneworlds.com; https://opengameart.org/content/crate-barrel-bundle
 models/items/weapons/axe/axe.blend,CC0,kev93,https://opengameart.org/content/low-poly-axe-0
 models/items/tools/hammer/hammerhead.blend,CC0,BlayTheNinth; System G6,https://seleneworlds.com; https://opengameart.org/content/medieval-tools-pack
-models/items/tools/handle/handle.blend,CC0,BlayTheNinth; kev93,https://seleneworlds.com; https://opengameart.org/content/low-poly-axe-0
 models/items/mace/mace.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
 models/items/cooking/rolling_pin/rolling_pin.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/tools/scythe/scythe.blend,CC0,System G6,https://opengameart.org/content/medieval-tools-pack
@@ -497,3 +495,4 @@ models/items/tools/goldsmithing_hammer/goldsmithing_hammer.blend,CC0,BlayTheNint
 models/items/weapons/warhammer/warhammer.blend,CC0,Teh_Bucket,https://opengameart.org/content/war-hammer-0
 models/items/weapons/halberd/halberd.blend,CC0,Umplix,https://opengameart.org/content/halberd-0
 models/foliage/mushrooms/procedural_mushrooms.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/items/tools/dyeing_rod/dyeing_rod.blend,CC0,BlayTheNinth,https://seleneworlds.com

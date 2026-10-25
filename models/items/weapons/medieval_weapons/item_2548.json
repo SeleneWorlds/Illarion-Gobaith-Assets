@@ -1,0 +1,11 @@
+{
+  "model": "one_handed_mace_1.blend",
+  "sprites": "illarion/items/weapons/medieval_weapons/item_2548",
+  "visual": "items/item_2548",
+  "include": [
+    "Handle"
+  ],
+  "direction": "west",
+  "scale": 1.75,
+  "surfaceOffsetY": 0
+}
