@@ -65,7 +65,6 @@ client/textures/illarion/items/clothing/leggings_cloth.png,CC0,BlayTheNinth; Fla
 client/textures/illarion/items/clothing/leggings_leather.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
 client/textures/illarion/items/clothing/leggings_plate.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
 models/items/tools/needle/needle.blend,CC0,BlayTheNinth,https://seleneworlds.com
-client/textures/illarion/items/food/nuts.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/lighting/oil_lamp.png,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/items/lighting/oil_lamp_lit.png,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/items/effects/elements/pure_air.png,CC0,Selene contributors (procedural),scripts/render_pure_elements.py
@@ -502,3 +501,4 @@ models/items/food/cherries/cherries.blend,CC0,BlayTheNinth,https://seleneworlds.
 models/items/food/berries/berries.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/food/grapes/grapes.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/food/blueberries/blueberries.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/items/food/nuts/nuts.blend,CC0,BlayTheNinth,https://seleneworlds.com

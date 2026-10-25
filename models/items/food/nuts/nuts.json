@@ -1,0 +1,13 @@
+{
+  "model": "nuts.blend",
+  "sprites": "illarion/items/food/nuts/item_759",
+  "visual": "items/item_759",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "Walnut_1",
+    "Walnut_2",
+    "Walnut_3",
+    "Walnut_4"
+  ]
+}
