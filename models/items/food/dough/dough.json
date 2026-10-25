@@ -1,0 +1,10 @@
+{
+  "model": "dough.blend",
+  "sprites": "illarion/items/food/dough/item_5",
+  "visual": "items/item_5",
+  "direction": "west",
+  "scale": 0.85,
+  "include": [
+    "Dough"
+  ]
+}
