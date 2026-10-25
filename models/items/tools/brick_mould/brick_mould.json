@@ -1,0 +1,11 @@
+{
+  "model": "brick_mould.blend",
+  "sprites": "illarion/items/tools/brick_mould/item_734",
+  "visual": "items/item_734",
+  "direction": "west",
+  "scale": 1,
+  "include": [
+    "MouldGaps",
+    "MouldSides"
+  ]
+}

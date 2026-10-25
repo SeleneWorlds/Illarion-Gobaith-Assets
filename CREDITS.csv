@@ -77,7 +77,6 @@ client/textures/illarion/items/clothing/leggings_chain.png,CC0,Flare,https://ope
 client/textures/illarion/items/clothing/leggings_cloth.png,CC0,BlayTheNinth; Flare,https://seleneworlds.com; https://opengameart.org/content/cc0-leggings-icons
 client/textures/illarion/items/clothing/leggings_leather.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
 client/textures/illarion/items/clothing/leggings_plate.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
-client/textures/illarion/items/tools/mold.png,CC0,bluecarrot16,https://opengameart.org/node/98209
 client/textures/illarion/items/materials/nails.png,CC0,Glitch,https://opengameart.org/content/100-glitch-icons
 models/items/tools/needle/needle.blend,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/items/food/nuts.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
@@ -495,3 +494,5 @@ models/items/weapons/warhammer/warhammer.blend,CC0,Teh_Bucket,https://opengamear
 models/items/weapons/halberd/halberd.blend,CC0,Umplix,https://opengameart.org/content/halberd-0
 models/foliage/mushrooms/procedural_mushrooms.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/tools/dyeing_rod/dyeing_rod.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/items/tools/brick_mould/brick_mould.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/items/tools/candle_mould/candle_mould.blend,CC0,BlayTheNinth; System G6,https://seleneworlds.com; https://opengameart.org/content/medieval-tavern-props-pack
