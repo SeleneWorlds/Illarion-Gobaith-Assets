@@ -15,7 +15,7 @@ from PIL import Image
 
 
 DEFAULT_DIRECTIONS = ("north", "east", "south", "west")
-SUPPORTED_DIRECTIONS = (*DEFAULT_DIRECTIONS, "northwest", "handheld")
+SUPPORTED_DIRECTIONS = (*DEFAULT_DIRECTIONS, "northwest", "handheld", "armor")
 
 
 @dataclass(frozen=True)

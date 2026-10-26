@@ -66,6 +66,10 @@ and Roughness around 0.15–0.3 for visible shine. The preset does not change
 materials. Omitting `reflections` (or setting it to `"none"`) preserves the
 existing lighting behavior. Variants inherit the option and can override it.
 
+For armor inventory sprites, set `"direction": "armor"` in the model config.
+This rotates the model 15 degrees so the shirt neckline points toward the
+upper-right of the sprite, with the hem toward the lower-left.
+
 ## Procedural rift portals
 
 Items 10 (blue) and 798 (red) use original procedural energy sprites, with eight

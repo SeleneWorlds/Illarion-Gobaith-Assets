@@ -1,0 +1,15 @@
+{
+  "model": "shirt.blend",
+  "sprites": "illarion/items/clothing/shirt/item_457",
+  "visual": "items/item_457",
+  "direction": "armor",
+  "scale": 0.9,
+  "include": [
+    "Shirt"
+  ],
+  "materials": {
+    "ShirtCloth": {
+      "Dye": "dye_green.png"
+    }
+  }
+}
