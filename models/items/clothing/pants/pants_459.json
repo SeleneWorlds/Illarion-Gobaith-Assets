@@ -1,0 +1,15 @@
+{
+  "model": "pants.blend",
+  "sprites": "illarion/items/clothing/pants/item_459",
+  "visual": "items/item_459",
+  "direction": "armor",
+  "scale": 0.9,
+  "include": [
+    "Pants"
+  ],
+  "materials": {
+    "PantsCloth": {
+      "Dye": "dye_red.png"
+    }
+  }
+}
