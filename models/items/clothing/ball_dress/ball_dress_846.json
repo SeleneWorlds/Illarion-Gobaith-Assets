@@ -1,0 +1,28 @@
+{
+  "model": "ball_dress.blend",
+  "sprites": "illarion/items/clothing/ball_dress/item_846",
+  "visual": "items/item_846",
+  "direction": "armor",
+  "scale": 0.9,
+  "include": [
+    "Dress",
+    "Garnish"
+  ],
+  "materials": {
+    "Dress": {
+      "Dye": "dye_royal_blue.png"
+    },
+    "DressAlt": {
+      "Dye": "dye_crimson.png"
+    },
+    "ArmGarnish": {
+      "Dye": "dye_black.png"
+    },
+    "Garnish": {
+      "Dye": "dye_black.png"
+    },
+    "Belt": {
+      "Dye": "dye_black.png"
+    }
+  }
+}
