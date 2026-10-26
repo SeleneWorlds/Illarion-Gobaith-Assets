@@ -1,0 +1,21 @@
+{
+  "model": "fancy_pants.blend",
+  "sprites": "illarion/items/clothing/fancy_pants/item_823",
+  "visual": "items/item_823",
+  "direction": "armor",
+  "scale": 0.9,
+  "include": [
+    "Pants"
+  ],
+  "materials": {
+    "PantsCloth": {
+      "Dye": "dye_gray.png"
+    },
+    "Belt": {
+      "Dye": "dye_charcoal.png"
+    },
+    "BottomGarnish": {
+      "Dye": "dye_charcoal.png"
+    }
+  }
+}
