@@ -1,0 +1,10 @@
+{
+  "model": "dress.blend",
+  "sprites": "illarion/items/clothing/dress/item_385",
+  "visual": "items/item_385",
+  "direction": "armor",
+  "scale": 0.9,
+  "include": [
+    "Dress"
+  ]
+}
