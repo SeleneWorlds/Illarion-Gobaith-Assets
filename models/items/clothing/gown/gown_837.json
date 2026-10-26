@@ -1,0 +1,25 @@
+{
+  "model": "gown.blend",
+  "sprites": "illarion/items/clothing/gown/item_837",
+  "visual": "items/item_837",
+  "direction": "armor",
+  "scale": 0.9,
+  "include": [
+    "Dress",
+    "Garnish"
+  ],
+  "materials": {
+    "Dress": {
+      "Dye": "dye_black.png"
+    },
+    "ArmGarnish": {
+      "Dye": "dye_red.png"
+    },
+    "Garnish": {
+      "Dye": "dye_red.png"
+    },
+    "Belt": {
+      "Dye": "dye_red.png"
+    }
+  }
+}
