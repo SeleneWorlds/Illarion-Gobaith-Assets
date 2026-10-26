@@ -1,0 +1,21 @@
+{
+  "model": "fancy_shirt.blend",
+  "sprites": "illarion/items/clothing/fancy_shirt/item_819",
+  "visual": "items/item_819",
+  "direction": "armor",
+  "scale": 0.9,
+  "include": [
+    "Shirt"
+  ],
+  "materials": {
+    "ShirtCloth": {
+      "Dye": "dye_black.png"
+    },
+    "Belt": {
+      "Dye": "dye_brown.png"
+    },
+    "Garnish": {
+      "Dye": "dye_bone_white.png"
+    }
+  }
+}
