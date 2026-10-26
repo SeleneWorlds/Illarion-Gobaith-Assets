@@ -1,0 +1,15 @@
+{
+  "model": "coat.blend",
+  "sprites": "illarion/items/clothing/coat/item_194",
+  "visual": "items/item_194",
+  "direction": "armor",
+  "scale": 0.9,
+  "include": [
+    "Coat"
+  ],
+  "materials": {
+    "CoatCloth": {
+      "Dye": "dye_black.png"
+    }
+  }
+}
