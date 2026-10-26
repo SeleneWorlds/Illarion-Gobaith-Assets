@@ -1,0 +1,27 @@
+{
+  "model": "coat.blend",
+  "sprites": "illarion/items/clothing/coat/item_547",
+  "visual": "items/item_547",
+  "direction": "armor",
+  "scale": 0.9,
+  "include": [
+    "Coat",
+    "Garnish",
+    "ArmGarnish",
+    "Belt"
+  ],
+  "materials": {
+    "CoatCloth": {
+      "Dye": "dye_rusty_red.png"
+    },
+    "GarnishCloth": {
+      "Dye": "dye_black.png"
+    },
+    "ArmGarnishCloth": {
+      "Dye": "dye_black.png"
+    },
+    "BeltCloth": {
+      "Dye": "dye_black.png"
+    }
+  }
+}

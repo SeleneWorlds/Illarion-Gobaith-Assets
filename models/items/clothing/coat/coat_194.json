@@ -5,11 +5,19 @@
   "direction": "armor",
   "scale": 0.9,
   "include": [
-    "Coat"
+    "Coat",
+    "ArmGarnish",
+    "Parting"
   ],
   "materials": {
     "CoatCloth": {
       "Dye": "dye_black.png"
+    },
+    "ArmGarnishCloth": {
+      "Dye": "dye_yellow.png"
+    },
+    "PartingCloth": {
+      "Dye": "dye_yellow.png"
     }
   }
 }

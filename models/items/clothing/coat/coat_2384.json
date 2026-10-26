@@ -1,0 +1,19 @@
+{
+  "model": "coat.blend",
+  "sprites": "illarion/items/clothing/coat/item_2384",
+  "visual": "items/item_2384",
+  "direction": "armor",
+  "scale": 0.9,
+  "include": [
+    "Coat",
+    "Parting"
+  ],
+  "materials": {
+    "CoatCloth": {
+      "Dye": "dye_dark_turquoise.png"
+    },
+    "PartingCloth": {
+      "Dye": "dye_dark_turquoise_parting.png"
+    }
+  }
+}

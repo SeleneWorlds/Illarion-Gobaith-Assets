@@ -1,8 +1,8 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "offsetX": 4,
-  "offsetY": -25,
+  "offsetX": 6,
+  "offsetY": -26,
   "texture": "client/textures/illarion/items/clothing/coat/item_194.png",
   "metadata": {
     "itemId": 194

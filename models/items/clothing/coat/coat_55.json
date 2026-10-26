@@ -1,0 +1,23 @@
+{
+  "model": "coat.blend",
+  "sprites": "illarion/items/clothing/coat/item_55",
+  "visual": "items/item_55",
+  "direction": "armor",
+  "scale": 0.9,
+  "include": [
+    "Coat",
+    "Parting",
+    "ArmGarnish"
+  ],
+  "materials": {
+    "CoatCloth": {
+      "Dye": "dye_green.png"
+    },
+    "PartingCloth": {
+      "Dye": "dye_yellow.png"
+    },
+    "ArmGarnishCloth": {
+      "Dye": "dye_yellow.png"
+    }
+  }
+}
