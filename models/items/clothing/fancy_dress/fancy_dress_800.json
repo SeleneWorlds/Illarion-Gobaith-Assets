@@ -1,0 +1,24 @@
+{
+  "model": "fancy_dress.blend",
+  "sprites": "illarion/items/clothing/fancy_dress/item_800",
+  "visual": "items/item_800",
+  "direction": "armor",
+  "scale": 0.9,
+  "include": [
+    "Dress"
+  ],
+  "materials": {
+    "Dress": {
+      "Dye": "dye_dark_navy.png"
+    },
+    "Belt": {
+      "Dye": "dye_brown.png"
+    },
+    "ArmGarnish": {
+      "Dye": "dye_golden.png"
+    },
+    "Garnish": {
+      "Dye": "dye_golden.png"
+    }
+  }
+}
