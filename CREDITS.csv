@@ -60,7 +60,6 @@ client/textures/illarion/items/plants/herb.png,CC0,Idylwild,https://opengameart.
 client/textures/illarion/items/markers/invisible_item.png,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/items/clothing/leather_armor.png,CC0,Flare,https://opengameart.org/content/cc0-torso-wear-icons
 client/textures/illarion/items/clothing/leggings_chain.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
-client/textures/illarion/items/clothing/leggings_cloth.png,CC0,BlayTheNinth; Flare,https://seleneworlds.com; https://opengameart.org/content/cc0-leggings-icons
 client/textures/illarion/items/clothing/leggings_leather.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
 client/textures/illarion/items/clothing/leggings_plate.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
 models/items/tools/needle/needle.blend,CC0,BlayTheNinth,https://seleneworlds.com
@@ -75,8 +74,6 @@ client/textures/illarion/items/clothing/robe.png,CC0,Flare,https://opengameart.o
 client/textures/illarion/items/food/root.png,CC0,AntumDeluge,https://opengameart.org/content/cc0-herb-icons
 client/textures/illarion/items/clothing/sandals.png,CC0,Flare,https://opengameart.org/content/cc0-footgear-icons
 client/textures/illarion/items/tools/scissors/scissors.png,CC0,Drummyfish,https://opengameart.org/content/11-common-household-items
-client/textures/illarion/items/clothing/shirt.png,CC0,Flare,https://opengameart.org/content/cc0-torso-wear-icons
-client/textures/illarion/items/clothing/skirt.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
 client/textures/illarion/items/weapons/sling.png,CC0,Dungeon Crawl Stone Soup,https://opengameart.org/content/cc0-ranged-icons
 client/textures/illarion/items/books/treasure_map.png,CC0,BlayTheNinth; Kutejnikov,https://seleneworlds.com; https://opengameart.org/content/papers
 client/textures/illarion/items/markers/unknownItem.png,CC0,BlayTheNinth,https://seleneworlds.com
