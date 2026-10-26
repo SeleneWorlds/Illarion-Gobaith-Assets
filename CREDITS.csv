@@ -65,10 +65,10 @@ client/textures/illarion/items/clothing/leggings_plate.png,CC0,Flare,https://ope
 models/items/tools/needle/needle.blend,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/items/lighting/oil_lamp.png,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/items/lighting/oil_lamp_lit.png,CC0,BlayTheNinth,https://seleneworlds.com
-client/textures/illarion/items/effects/elements/pure_air.png,CC0,Selene contributors (procedural),scripts/render_pure_elements.py
-client/textures/illarion/items/effects/elements/pure_earth.png,CC0,Selene contributors (procedural),scripts/render_pure_elements.py
-client/textures/illarion/items/effects/elements/pure_fire.png,CC0,Selene contributors (procedural),scripts/render_pure_elements.py
-client/textures/illarion/items/effects/elements/pure_water.png,CC0,Selene contributors (procedural),scripts/render_pure_elements.py
+client/textures/illarion/items/effects/elements/pure_air.png,CC0,BlayTheNinth,scripts/render_pure_elements.py
+client/textures/illarion/items/effects/elements/pure_earth.png,CC0,BlayTheNinth,scripts/render_pure_elements.py
+client/textures/illarion/items/effects/elements/pure_fire.png,CC0,BlayTheNinth,scripts/render_pure_elements.py
+client/textures/illarion/items/effects/elements/pure_water.png,CC0,BlayTheNinth,scripts/render_pure_elements.py
 client/textures/illarion/items/food/red_berries.png,CC0,Melissa Krautheim,https://opengameart.org/content/resource-pack-1
 client/textures/illarion/items/clothing/robe.png,CC0,Flare,https://opengameart.org/content/cc0-torso-wear-icons
 client/textures/illarion/items/food/root.png,CC0,AntumDeluge,https://opengameart.org/content/cc0-herb-icons
@@ -502,6 +502,7 @@ models/items/plants/sibanac/sibanac.blend,CC0,Yughues,https://opengameart.org/co
 models/items/plants/herbs/*.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/plants/rotten_bark/rotten_bark.blend,CC0,BlayTheNinth; CC0 Textures,https://cc0-textures.com/t/cc0t-bark-007
 models/items/clothing/shirt/shirt.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/items/clothing/garment/garment.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/clothing/pants/pants.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/clothing/leggings/leggings.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/clothing/dress/dress.blend,CC0,BlayTheNinth,https://seleneworlds.com

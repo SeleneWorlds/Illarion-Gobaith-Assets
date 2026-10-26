@@ -1,0 +1,19 @@
+{
+  "model": "garment.blend",
+  "sprites": "illarion/items/clothing/garment/item_807",
+  "visual": "items/item_807",
+  "direction": "armor",
+  "scale": 0.9,
+  "include": [
+    "Shirt",
+    "ShoulderPads"
+  ],
+  "materials": {
+    "ShirtCloth": {
+      "Dye": "dye_navy_blue.png"
+    },
+    "Gold": {
+      "Dye": "dye_golden.png"
+    }
+  }
+}

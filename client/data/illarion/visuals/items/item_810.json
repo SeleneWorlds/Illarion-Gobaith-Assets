@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
-  "offsetX": 0,
-  "offsetY": -28,
-  "texture": "client/textures/illarion/items/clothing/robe.png",
+  "offsetX": 7,
+  "offsetY": -15,
+  "texture": "client/textures/illarion/items/clothing/garment/item_810.png",
   "metadata": {
     "itemId": 810
-  }
+  },
+  "surfaceOffsetY": 0
 }
