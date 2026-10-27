@@ -464,6 +464,31 @@
         0.95,
         0.458226
       ]
+    },
+    "black_leaf": {
+      "color": [
+        0.012,
+        0.016,
+        0.019
+      ],
+      "light": [
+        0.065,
+        0.075,
+        0.085
+      ],
+      "roughness": 0.68
+    },
+    "black_vein": {
+      "color": [
+        0.045,
+        0.05,
+        0.055
+      ],
+      "light": [
+        0.1,
+        0.11,
+        0.12
+      ]
     }
   },
   "herbs": [
@@ -4217,6 +4242,158 @@
           "shape": "heart",
           "material": "light_leaf",
           "curl": 0.03
+        }
+      ],
+      "stem_thickness": 1.82
+    },
+    {
+      "item": 769,
+      "slug": "desert_berry",
+      "name": "Desert berry",
+      "seed": 769,
+      "scale": 1.4,
+      "direction": "west",
+      "parts": [
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.015
+          ],
+          "tip": [
+            0.135,
+            0.0,
+            0.035
+          ],
+          "width": 0.056,
+          "shape": "oval",
+          "material": "black_leaf",
+          "vein_material": "black_vein"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.015
+          ],
+          "tip": [
+            0.0675,
+            0.116913,
+            0.035
+          ],
+          "width": 0.056,
+          "shape": "oval",
+          "material": "black_leaf",
+          "vein_material": "black_vein"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.015
+          ],
+          "tip": [
+            -0.0675,
+            0.116913,
+            0.035
+          ],
+          "width": 0.056,
+          "shape": "oval",
+          "material": "black_leaf",
+          "vein_material": "black_vein"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.015
+          ],
+          "tip": [
+            -0.135,
+            0.0,
+            0.035
+          ],
+          "width": 0.056,
+          "shape": "oval",
+          "material": "black_leaf",
+          "vein_material": "black_vein"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.015
+          ],
+          "tip": [
+            -0.0675,
+            -0.116913,
+            0.035
+          ],
+          "width": 0.056,
+          "shape": "oval",
+          "material": "black_leaf",
+          "vein_material": "black_vein"
+        },
+        {
+          "type": "leaf",
+          "base": [
+            0,
+            0,
+            0.015
+          ],
+          "tip": [
+            0.0675,
+            -0.116913,
+            0.035
+          ],
+          "width": 0.056,
+          "shape": "oval",
+          "material": "black_leaf",
+          "vein_material": "black_vein"
+        },
+        {
+          "type": "stem",
+          "points": [
+            [
+              0,
+              0,
+              0.005
+            ],
+            [
+              0.012,
+              0.0,
+              0.05
+            ],
+            [
+              0,
+              0,
+              0.095
+            ]
+          ],
+          "radius": 0.002,
+          "material": "black_vein"
+        },
+        {
+          "type": "berries",
+          "at": [
+            0,
+            0,
+            0.095
+          ],
+          "radius": 0.019,
+          "count": 1,
+          "material": "red",
+          "junction": [
+            0,
+            0,
+            0.075
+          ],
+          "stem_material": "black_vein"
         }
       ],
       "stem_thickness": 1.82
