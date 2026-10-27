@@ -121,6 +121,7 @@ To bake the lit torch on a fresh checkout or after changing its simulation:
 
 ```sh
 blender -b --python scripts/bake_fire.py -- models/items/lighting/torch/torch_lit.blend
+blender -b --python scripts/build_wall_torch_flames.py -- --handheld
 python3 scripts/sprite_pipeline.py models/items/lighting/torch
 ```
 
@@ -137,6 +138,7 @@ blender -b --python scripts/build_wall_torch_flames.py
 python3 scripts/sprite_pipeline.py models/furniture/wall_torch
 ```
 
+Both portable and wall torches use the same orange flame and bright yellow core.
 The flame builder converts the baked fire grids into animated surfaces for
 Eevee, preserving the simulation motion without a rectangular volume artifact.
 These surfaces are saved in the Blender source; rendering needs no cache until

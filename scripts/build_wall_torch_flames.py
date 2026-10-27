@@ -1,11 +1,13 @@
-"""Build renderable flame surfaces from the wall torch's baked Mantaflow grids.
+"""Build renderable flame surfaces from baked Mantaflow torch grids.
 
 Run with Blender after scripts/bake_fire.py; keeps the baked flame motion while
 avoiding Eevee's rectangular volume rendering on this asset.
+Pass -- --handheld to rebuild the portable torch with the same flame treatment.
 """
 import gzip
 from pathlib import Path
 import struct
+import sys
 
 import bpy
 import numpy as np
@@ -53,7 +55,9 @@ def surface(grid, level):
 
 
 def main():
-    bpy.ops.wm.open_mainfile(filepath=str(MODEL))
+    handheld = '--handheld' in sys.argv
+    model = ROOT / 'models/items/lighting/torch/torch_lit.blend' if handheld else MODEL
+    bpy.ops.wm.open_mainfile(filepath=str(model))
     for obj in list(bpy.data.objects):
         if obj.name.startswith('BakedFlame_'):
             bpy.data.objects.remove(obj, do_unlink=True)
@@ -94,7 +98,7 @@ def main():
             vertices = surface(grid, level)
             vertices = low + (vertices + .5) / np.array([nx, ny, nz]) * size
             # Keep the fire rooted at the wrapped head while shortening the plume.
-            flame_base = 1.75
+            flame_base = .18 if handheld else 1.75
             vertices[:, 2] = flame_base + (vertices[:, 2] - flame_base) * .64
             mesh = bpy.data.meshes.new(f'Flame_{frame}_{layer}')
             mesh.from_pydata(vertices.tolist(), [],
@@ -108,10 +112,11 @@ def main():
             for key, hidden in [(1, True), (frame-1, True), (frame, False), (frame+1, True)]:
                 obj.hide_render = hidden
                 obj.keyframe_insert(data_path='hide_render', frame=key)
-    # One root rotates every animation frame with the mounted torch.
-    rig = bpy.data.objects.get('WallTorchRoot')
+    # One root rotates every animation frame with the torch.
+    root_name = 'HandheldTorchRoot' if handheld else 'WallTorchRoot'
+    rig = bpy.data.objects.get(root_name)
     if rig is None:
-        rig = bpy.data.objects.new('WallTorchRoot', bpy.data.armatures.new('WallTorchRoot'))
+        rig = bpy.data.objects.new(root_name, bpy.data.armatures.new(root_name))
         bpy.context.collection.objects.link(rig)
     for obj in bpy.context.scene.objects:
         if obj.name.startswith('BakedFlame_') or obj.name == 'torch_2':
@@ -121,7 +126,7 @@ def main():
     domain.hide_render = True
     bpy.context.scene.frame_set(33)
     bpy.context.preferences.filepaths.save_version = 0
-    bpy.ops.wm.save_as_mainfile(filepath=str(MODEL), compress=True)
+    bpy.ops.wm.save_as_mainfile(filepath=str(model), compress=True)
 
 
 if __name__ == '__main__':

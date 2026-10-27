@@ -1,8 +1,8 @@
 {
   "type": "animated",
   "sortLayerOffset": 300,
-  "offsetX": -6,
-  "offsetY": -3,
+  "offsetX": -5,
+  "offsetY": -4,
   "textures": [
     "client/textures/illarion/items/lighting/torch/item_392/static/handheld/0001.png",
     "client/textures/illarion/items/lighting/torch/item_392/static/handheld/0002.png",

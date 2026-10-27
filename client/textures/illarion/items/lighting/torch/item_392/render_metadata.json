@@ -40,18 +40,18 @@
         "static/handheld/0031.png",
         "static/handheld/0032.png"
       ],
-      "offsetX": -6,
-      "offsetY": -3,
+      "offsetX": -5,
+      "offsetY": -4,
       "frames": 32,
       "crop": {
-        "x": 491,
-        "y": 508,
-        "width": 64,
-        "height": 40
+        "x": 480,
+        "y": 485,
+        "width": 63,
+        "height": 47
       },
       "anchor": {
-        "x": 37.9932861328125,
-        "y": 36.5164794921875
+        "x": 36.42449951171875,
+        "y": 42.748443603515625
       }
     }
   }
