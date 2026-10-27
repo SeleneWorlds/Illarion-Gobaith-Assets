@@ -10,10 +10,10 @@
   ],
   "materials": {
     "Dress": {
-      "Dye": "dye_blue.png"
+      "Dye": "dye_green.png"
     },
     "DressAlt": {
-      "Dye": "dye_green.png"
+      "Dye": "dye_blue.png"
     },
     "ArmGarnish": {
       "Dye": "dye_black.png"
