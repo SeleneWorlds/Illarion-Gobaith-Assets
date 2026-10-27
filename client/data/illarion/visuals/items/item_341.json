@@ -1,7 +1,7 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "offsetX": -12,
-  "offsetY": -33,
+  "offsetX": 20,
+  "offsetY": -32,
   "texture": "client/textures/illarion/items/structures/battlements/item_341.png"
 }

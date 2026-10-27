@@ -2,6 +2,6 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "offsetX": 0,
-  "offsetY": -8,
+  "offsetY": 16,
   "texture": "client/textures/illarion/items/walls/castle/item_470.png"
 }

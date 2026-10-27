@@ -3,5 +3,7 @@
   "sprites": "illarion/items/structures/battlements/item_341",
   "visual": "items/item_341",
   "direction": "south",
+  "gridAligned": true,
+  "alphaClip": 0.5,
   "scale": 1
 }
