@@ -127,6 +127,21 @@ python3 scripts/sprite_pipeline.py models/items/lighting/torch
 The shared bake command also accepts other fire models with a `Fire_Domain`
 object, including `models/structures/campfire/campfire.blend`.
 
+The lit wall torches (items 402 and 404) use the same flame setup in
+`models/furniture/wall_torch/wall_torch_lit.blend`, with a separate ignored
+`wall_torch_fire_cache/`. Both directions render 32 frames at 24 fps. To rebuild:
+
+```sh
+blender -b --python scripts/bake_fire.py -- models/furniture/wall_torch/wall_torch_lit.blend
+blender -b --python scripts/build_wall_torch_flames.py
+python3 scripts/sprite_pipeline.py models/furniture/wall_torch
+```
+
+The flame builder converts the baked fire grids into animated surfaces for
+Eevee, preserving the simulation motion without a rectangular volume artifact.
+These surfaces are saved in the Blender source; rendering needs no cache until
+the animation is rebuilt.
+
 ## Wall rendering
 
 Wall configs use `gridAligned: true` and `alphaClip: 0.5`. The mesh defines the

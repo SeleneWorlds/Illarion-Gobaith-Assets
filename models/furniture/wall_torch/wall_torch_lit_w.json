@@ -1,7 +1,13 @@
 {
-  "model": "wall_torch.blend",
+  "model": "wall_torch_lit.blend",
   "sprites": "illarion/items/furniture/wall_torch/item_404",
   "visual": "items/item_404",
   "direction": "west",
-  "scale": 1
+  "scale": 1,
+  "fps": 24,
+  "frameRange": [
+    33,
+    64
+  ],
+  "gridAligned": true
 }

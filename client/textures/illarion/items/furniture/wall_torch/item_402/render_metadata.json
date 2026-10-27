@@ -1,0 +1,58 @@
+{
+  "fps": 24,
+  "tileSize": {
+    "width": 128,
+    "height": 64
+  },
+  "entries": {
+    "static/south": {
+      "textures": [
+        "static/south/0001.png",
+        "static/south/0002.png",
+        "static/south/0003.png",
+        "static/south/0004.png",
+        "static/south/0005.png",
+        "static/south/0006.png",
+        "static/south/0007.png",
+        "static/south/0008.png",
+        "static/south/0009.png",
+        "static/south/0010.png",
+        "static/south/0011.png",
+        "static/south/0012.png",
+        "static/south/0013.png",
+        "static/south/0014.png",
+        "static/south/0015.png",
+        "static/south/0016.png",
+        "static/south/0017.png",
+        "static/south/0018.png",
+        "static/south/0019.png",
+        "static/south/0020.png",
+        "static/south/0021.png",
+        "static/south/0022.png",
+        "static/south/0023.png",
+        "static/south/0024.png",
+        "static/south/0025.png",
+        "static/south/0026.png",
+        "static/south/0027.png",
+        "static/south/0028.png",
+        "static/south/0029.png",
+        "static/south/0030.png",
+        "static/south/0031.png",
+        "static/south/0032.png"
+      ],
+      "offsetX": -18,
+      "offsetY": 76,
+      "frames": 32,
+      "crop": {
+        "x": 493,
+        "y": 452,
+        "width": 36,
+        "height": 117
+      },
+      "anchor": {
+        "x": 36.0,
+        "y": 193.0
+      }
+    }
+  }
+}

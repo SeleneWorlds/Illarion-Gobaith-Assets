@@ -1,0 +1,58 @@
+{
+  "fps": 24,
+  "tileSize": {
+    "width": 128,
+    "height": 64
+  },
+  "entries": {
+    "static/west": {
+      "textures": [
+        "static/west/0001.png",
+        "static/west/0002.png",
+        "static/west/0003.png",
+        "static/west/0004.png",
+        "static/west/0005.png",
+        "static/west/0006.png",
+        "static/west/0007.png",
+        "static/west/0008.png",
+        "static/west/0009.png",
+        "static/west/0010.png",
+        "static/west/0011.png",
+        "static/west/0012.png",
+        "static/west/0013.png",
+        "static/west/0014.png",
+        "static/west/0015.png",
+        "static/west/0016.png",
+        "static/west/0017.png",
+        "static/west/0018.png",
+        "static/west/0019.png",
+        "static/west/0020.png",
+        "static/west/0021.png",
+        "static/west/0022.png",
+        "static/west/0023.png",
+        "static/west/0024.png",
+        "static/west/0025.png",
+        "static/west/0026.png",
+        "static/west/0027.png",
+        "static/west/0028.png",
+        "static/west/0029.png",
+        "static/west/0030.png",
+        "static/west/0031.png",
+        "static/west/0032.png"
+      ],
+      "offsetX": 18,
+      "offsetY": 76,
+      "frames": 32,
+      "crop": {
+        "x": 494,
+        "y": 454,
+        "width": 36,
+        "height": 115
+      },
+      "anchor": {
+        "x": 0.0,
+        "y": 190.99996948242188
+      }
+    }
+  }
+}
