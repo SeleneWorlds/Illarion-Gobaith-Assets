@@ -3,5 +3,10 @@
   "sprites": "illarion/items/furniture/painting/item_751",
   "visual": "items/item_751",
   "direction": "west",
-  "scale": 1
+  "scale": 1,
+  "materials": {
+    "Material": {
+      "Image Texture": "painting-34.jpg"
+    }
+  }
 }

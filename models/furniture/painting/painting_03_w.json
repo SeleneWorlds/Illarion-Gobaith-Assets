@@ -3,5 +3,10 @@
   "sprites": "illarion/items/furniture/painting/item_265",
   "visual": "items/item_265",
   "direction": "west",
-  "scale": 1
+  "scale": 1,
+  "materials": {
+    "Material": {
+      "Image Texture": "sunsetintheswamp.png"
+    }
+  }
 }

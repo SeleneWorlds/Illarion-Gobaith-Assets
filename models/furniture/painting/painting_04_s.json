@@ -3,5 +3,10 @@
   "sprites": "illarion/items/furniture/painting/item_748",
   "visual": "items/item_748",
   "direction": "south",
-  "scale": 1
+  "scale": 1,
+  "materials": {
+    "Material": {
+      "Image Texture": "wizardtower.png"
+    }
+  }
 }
