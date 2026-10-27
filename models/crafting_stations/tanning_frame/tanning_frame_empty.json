@@ -1,7 +1,8 @@
 {
-  "model": "tanning_frame_empty.blend",
+  "model": "tanning_frame.blend",
   "sprites": "illarion/items/crafting_stations/tanning_frame/item_468",
   "visual": "items/item_468",
   "direction": "west",
+  "include": "TanningStand"],
   "scale": 1
 }
