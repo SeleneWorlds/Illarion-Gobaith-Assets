@@ -1,7 +1,7 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "offsetX": 0,
-  "offsetY": -49,
+  "offsetX": -4,
+  "offsetY": -33,
   "texture": "client/textures/illarion/items/crafting_stations/chandler_table/item_428.png"
 }
