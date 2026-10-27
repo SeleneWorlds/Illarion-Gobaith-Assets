@@ -1,7 +1,7 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "offsetX": 0,
-  "offsetY": -41,
+  "offsetX": -2,
+  "offsetY": -35,
   "texture": "client/textures/illarion/items/crafting_stations/carpentry_table/item_724.png"
 }
