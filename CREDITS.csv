@@ -43,7 +43,6 @@ client/textures/illarion/items/clothing/armor.png,CC0,Flare,https://opengameart.
 client/textures/illarion/items/containers/bag.png,CC0,Melissa Krautheim,https://opengameart.org/content/fantasy-magic-set
 client/textures/illarion/items/markers/blocked.png,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/items/blood.png,CC0,AntumDeluge,https://opengameart.org/content/blood-splatters
-client/textures/illarion/items/clothing/boots_plate.png,CC0,Flare,https://opengameart.org/content/cc0-footgear-icons
 client/textures/illarion/items/clothing/chainmail.png,CC0,Flare,https://opengameart.org/content/cc0-torso-wear-icons
 client/textures/illarion/items/personal/comb/comb.png,CC0,Drummyfish,https://opengameart.org/content/11-common-household-items
 client/textures/illarion/items/food/entrails.png,CC0,BlayTheNinth; Reactorcore,https://seleneworlds.com; https://opengameart.org/content/gore-blood-gibs-meat-chunks
@@ -509,3 +508,4 @@ models/items/clothing/fancy_pants/fancy_pants.blend,CC0,BlayTheNinth,https://sel
 models/items/clothing/skirt/skirt.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/clothing/gown/gown.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/clothing/leather_shoes/leather_boots.blend,CC0,hotzst,https://blendswap.com/blend/19332
+models/items/armor/steel_shoes/steel_shoes.blend,CC0,hotzst,https://blendswap.com/blend/19332

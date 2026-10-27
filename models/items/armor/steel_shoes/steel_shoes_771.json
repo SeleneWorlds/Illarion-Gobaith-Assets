@@ -1,0 +1,18 @@
+{
+  "model": "steel_shoes.blend",
+  "sprites": "illarion/items/armor/steel_shoes/item_771",
+  "visual": "items/item_771",
+  "direction": "armor",
+  "scale": 0.9,
+  "reflections": "studio",
+  "include": [
+    "Boots",
+    "Shoes",
+    "Plating"
+  ],
+  "materials": {
+    "FootwearSteel": {
+      "Dye": "dye_steel.png"
+    }
+  }
+}
