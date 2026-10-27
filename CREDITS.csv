@@ -146,11 +146,11 @@ models/crafting_stations/furnace/furnace.blend,CC0,BlayTheNinth; CC0 Textures,ht
 models/crafting_stations/grindstone.blend,CC0,Daniel Andersson,https://opengameart.org/content/medieval-smith-pack
 models/crafting_stations/loom/loom.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/crafting_stations/mage_desk/mage_desk.blend,CC0,Colorado Stark; AnyRPG; sandsound; Warspawn,https://opengameart.org/content/table-0; https://opengameart.org/content/open-books; https://opengameart.org/content/inventory-items; https://opengameart.org/content/low-poly-scroll
-models/crafting_stations/millstone.blend,CC0,BlayTheNinth,https://seleneworlds.com
-models/crafting_stations/oilpress.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/crafting_stations/millstone.blend,CC0,BlayTheNinth; CC0 Textures,https://seleneworlds.com; https://cc0-textures.com/t/cc0t-wood-050
+models/crafting_stations/oilpress.blend,CC0,BlayTheNinth; CC0 Textures,https://seleneworlds.com; https://cc0-textures.com/t/cc0t-wood-050
 models/crafting_stations/sieve.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/crafting_stations/smoker/smoker.blend,CC0,BlayTheNinth; CC0 Textures,https://seleneworlds.com; https://cc0-textures.com/t/cc0t-bricks-080-c
-models/crafting_stations/spinning_wheel.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/crafting_stations/spinning_wheel.blend,CC0,BlayTheNinth; CC0 Textures,https://seleneworlds.com; https://cc0-textures.com/t/cc0t-wood-050
 models/crafting_stations/tailoring_table/tailoring_table.blend,CC0,Colorado Stark; BlayTheNinth; Drummyfish,https://opengameart.org/content/table-0; https://seleneworlds.com; https://opengameart.org/content/11-common-household-items
 models/crafting_stations/tanning_frame/tanning_frame.blend,CC0,Daniel Andersson,https://opengameart.org/content/medieval-props-pack-3
 models/crafting_stations/tanning_frame/tanning_frame_empty.blend,CC0,BlayTheNinth; Daniel Andersson,https://seleneworlds.com; https://opengameart.org/content/medieval-props-pack-3
@@ -193,13 +193,13 @@ models/furniture/chest/chest.blend,CC0,KillGorack,https://opengameart.org/conten
 models/furniture/coffin.blend,CC0,Paul Wortmann,https://opengameart.org/content/coffin-0
 models/furniture/fireplace/fireplace.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/furniture/lectern/lectern.blend,CC0,BlayTheNinth,https://seleneworlds.com
-models/furniture/lever/lever.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/furniture/lever/lever.blend,CC0,BlayTheNinth; CC0 Textures,https://seleneworlds.com; https://cc0-textures.com/t/cc0t-wood-050
 models/furniture/millstone.blend,CC0,BlayTheNinth,https://seleneworlds.com
-models/furniture/mirror/mirror.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/furniture/mirror/mirror.blend,CC0,BlayTheNinth; CC0 Textures,https://seleneworlds.com; https://cc0-textures.com/t/cc0t-wood-050
 models/furniture/painting/painting.blend,CC0,BlayTheNinth; Cethiel,https://seleneworlds.com; https://opengameart.org/content/angel-shield-effect
 models/furniture/sculpture/sculpture.blend,CC0,BlayTheNinth; CC0 Textures; AnthonyMyers,https://seleneworlds.com; https://cc0-textures.com/t/st-calacatta-aria-polished-marble; https://opengameart.org/content/sara-3
 models/furniture/sieve.blend,CC0,BlayTheNinth,https://seleneworlds.com
-models/furniture/stool.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/furniture/stool.blend,CC0,BlayTheNinth; CC0 Textures,https://seleneworlds.com; https://cc0-textures.com/t/cc0t-wood-050
 models/furniture/table/table.blend,CC0,System G6,https://opengameart.org/content/medieval-tavern-props-pack
 models/furniture/table/table_round.blend,CC0,System G6,https://opengameart.org/content/medieval-tavern-props-pack
 models/furniture/throne/throne.blend,CC0,eugeneloza,https://opengameart.org/content/opendungeons-redwood-throne
@@ -254,15 +254,15 @@ models/structures/fountain/fountain_round.blend,CC0,AnyRPG,https://opengameart.o
 models/structures/gravestone/gravestone_01.blend,CC0,AssetQuest,https://opengameart.org/content/low-poly-halloween-kit
 models/structures/gravestone/gravestone_02.blend,CC0,AssetQuest,https://opengameart.org/content/low-poly-halloween-kit
 models/structures/gravestone/gravestone_03.blend,CC0,AssetQuest,https://opengameart.org/content/low-poly-halloween-kit
-models/structures/hole/hole.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/structures/hole/hole.blend,CC0,BlayTheNinth; CC0 Textures,https://seleneworlds.com; https://cc0-textures.com/t/cc0t-wood-050
 models/structures/ladder/ladder.blend,CC0,Simon Lübeß,https://opengameart.org/content/simple-ladder
 models/structures/portal/portal.blend,CC0,HippoDevelopment,https://opengameart.org/content/low-poly-portal
 models/structures/roof/roof.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/structures/roof/roof_corner.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/structures/roof_ledge/roof_ledge.blend,CC0,BlayTheNinth,https://seleneworlds.com
-models/structures/scarecrow/scarecrow.blend,CC0,BlayTheNinth,https://seleneworlds.com
+models/structures/scarecrow/scarecrow.blend,CC0,BlayTheNinth; CC0 Textures,https://seleneworlds.com; https://cc0-textures.com/t/cc0t-wood-050
 models/structures/signpost/signpost.blend,CC0,AnyRPG,https://opengameart.org/content/medieval-signs
-models/structures/skullpost/skullpost.blend,CC0,Paul Wortmann,https://opengameart.org/content/spiked-head-and-skull
+models/structures/skullpost/skullpost.blend,CC0,Paul Wortmann; CC0 Textures,https://opengameart.org/content/spiked-head-and-skull; https://cc0-textures.com/t/cc0t-wood-050
 models/structures/statue/knight_statue.blend,CC0,yd,https://opengameart.org/content/knight-statue
 models/structures/stonewall/*,CC0,BlayTheNinth; Texture Haven,https://seleneworlds.com; https://cc0-textures.com/t/th-aerial-rocks-02
 models/structures/tower_roof/tower_roof.blend,CC0,BlayTheNinth,https://seleneworlds.com
@@ -270,6 +270,8 @@ models/structures/well.blend,CC0,Iconoclast,https://opengameart.org/content/cove
 models/trees/*/*,CC0,BlayTheNinth; Mish7913; EasyTree,https://seleneworlds.com; https://opengameart.org/content/stump; https://extensions.blender.org/add-ons/easy-tree/
 models/trees/palm.blend,CC0,FabinhoSC,https://opengameart.org/content/exotic-palms-lowpoly-style
 models/walls/*,CC0,BlayTheNinth,https://seleneworlds.com
+models/walls/wall_door.blend,CC0,BlayTheNinth; CC0 Textures,https://seleneworlds.com; https://cc0-textures.com/t/cc0t-wood-050
+models/walls/bricks/wall_door.blend,CC0,BlayTheNinth; CC0 Textures,https://seleneworlds.com; https://cc0-textures.com/t/cc0t-wood-050
 models/walls/basalt_bricks/*,CC0,BlayTheNinth; CC0 Textures,https://seleneworlds.com; https://cc0-textures.com/t/cc0t-bricks-056
 models/walls/bricks/*,CC0,BlayTheNinth; CC0 Textures,https://seleneworlds.com; https://cc0-textures.com/t/cc0t-bricks-080-c
 models/walls/dungeon/*,CC0,BlayTheNinth; Texture Haven,https://seleneworlds.com; https://cc0-textures.com/t/th-floor-bricks-02
