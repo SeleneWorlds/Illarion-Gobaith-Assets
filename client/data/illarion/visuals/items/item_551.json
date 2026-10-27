@@ -1,7 +1,7 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "offsetX": 10,
-  "offsetY": -49,
+  "offsetX": 2,
+  "offsetY": -31,
   "texture": "client/textures/illarion/items/crafting_stations/mage_desk/item_551.png"
 }
