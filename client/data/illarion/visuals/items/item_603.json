@@ -1,8 +1,8 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
+  "surfaceOffsetY": 25,
   "offsetX": 0,
   "offsetY": -18,
-  "texture": "client/textures/illarion/items/structures/bridge/item_603.png",
-  "surfaceOffsetY": 25
+  "texture": "client/textures/illarion/items/structures/bridge/item_603.png"
 }
