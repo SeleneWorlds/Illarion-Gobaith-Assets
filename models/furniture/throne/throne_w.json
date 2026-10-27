@@ -3,5 +3,5 @@
   "sprites": "illarion/items/furniture/throne/item_2916",
   "visual": "items/item_2916",
   "direction": "west",
-  "scale": 0.4
+  "scale": 1.0
 }
