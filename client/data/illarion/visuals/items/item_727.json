@@ -2,6 +2,6 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "offsetX": 0,
-  "offsetY": -33,
+  "offsetY": -20,
   "texture": "client/textures/illarion/items/crafting_stations/sieve/item_727.png"
 }
