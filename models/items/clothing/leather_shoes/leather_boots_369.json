@@ -1,0 +1,15 @@
+{
+  "model": "leather_boots.blend",
+  "sprites": "illarion/items/clothing/leather_boots/item_369",
+  "visual": "items/item_369",
+  "direction": "armor",
+  "scale": 0.9,
+  "include": [
+    "Shoes"
+  ],
+  "materials": {
+    "BootLeather": {
+      "Dye": "dye_light_brown.png"
+    }
+  }
+}
