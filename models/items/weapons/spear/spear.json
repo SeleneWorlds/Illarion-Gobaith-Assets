@@ -1,0 +1,10 @@
+{
+  "model": "spear.blend",
+  "sprites": "illarion/items/weapons/spear/item_293",
+  "visual": "items/item_293",
+  "direction": "handheld",
+  "scale": 1.1,
+  "include": [
+    "Spear"
+  ]
+}

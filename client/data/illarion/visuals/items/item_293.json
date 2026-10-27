@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
-  "offsetX": -7,
-  "offsetY": -14,
-  "texture": "client/textures/illarion/items/weapons/javelin/item_293.png",
+  "offsetX": 0,
+  "offsetY": -7,
+  "texture": "client/textures/illarion/items/weapons/spear/item_293.png",
   "metadata": {
     "itemId": 293
-  }
+  },
+  "surfaceOffsetY": 0
 }
