@@ -1,0 +1,10 @@
+{
+  "model": "hops.blend",
+  "sprites": "illarion/items/plants/hops/item_154",
+  "visual": "items/item_154",
+  "direction": "west",
+  "scale": 1.15,
+  "include": [
+    "Hops"
+  ]
+}
