@@ -1,7 +1,7 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "offsetX": 0,
-  "offsetY": -49,
+  "offsetX": 1,
+  "offsetY": -28,
   "texture": "client/textures/illarion/items/crafting_stations/tailoring_table/item_102.png"
 }
