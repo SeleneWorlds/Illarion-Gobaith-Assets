@@ -3,7 +3,7 @@
   "sprites": "illarion/items/containers/mug/item_1910",
   "visual": "items/item_1910",
   "direction": "handheld",
-  "scale": 0.45,
+  "scale": 0.55,
   "include": [
     "BeerMug",
     "BeerHalf"

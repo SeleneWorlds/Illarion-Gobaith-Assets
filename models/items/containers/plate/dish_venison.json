@@ -3,7 +3,7 @@
   "sprites": "illarion/items/containers/plate/item_554",
   "visual": "items/item_554",
   "direction": "south",
-  "scale": 0.35,
+  "scale": 0.45,
   "include": [
     "plate",
     "FoodVenison"

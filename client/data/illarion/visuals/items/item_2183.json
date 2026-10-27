@@ -2,7 +2,7 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "offsetX": 1,
-  "offsetY": -6,
+  "offsetY": -8,
   "texture": "client/textures/illarion/items/containers/mug/item_2183.png",
   "metadata": {
     "itemId": 2183

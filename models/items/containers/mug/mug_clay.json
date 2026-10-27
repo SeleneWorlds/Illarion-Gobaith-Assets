@@ -3,7 +3,7 @@
   "sprites": "illarion/items/containers/mug/item_2183",
   "visual": "items/item_2183",
   "direction": "handheld",
-  "scale": 0.45,
+  "scale": 0.55,
   "include": [
     "mug"
   ]
