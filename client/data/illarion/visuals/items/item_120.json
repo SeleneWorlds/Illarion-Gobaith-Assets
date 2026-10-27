@@ -1,7 +1,7 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "offsetX": -13,
-  "offsetY": -21,
+  "offsetX": -10,
+  "offsetY": -20,
   "texture": "client/textures/illarion/items/crafting_stations/baking_oven/item_120.png"
 }

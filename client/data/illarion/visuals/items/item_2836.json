@@ -1,7 +1,7 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "offsetX": 0,
+  "offsetX": -16,
   "offsetY": -33,
   "texture": "client/textures/illarion/items/crafting_stations/furnace/item_2836.png"
 }
