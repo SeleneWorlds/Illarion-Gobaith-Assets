@@ -1,7 +1,7 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "offsetX": 6,
+  "offsetX": 5,
   "offsetY": -18,
   "texture": "client/textures/illarion/items/jewelry/necklaces/item_79.png",
   "metadata": {
