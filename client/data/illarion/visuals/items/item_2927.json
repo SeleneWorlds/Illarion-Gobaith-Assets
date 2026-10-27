@@ -1,7 +1,7 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "offsetX": 0,
+  "offsetX": -1,
   "offsetY": -2,
   "texture": "client/textures/illarion/items/structures/skullpost/item_2927.png"
 }

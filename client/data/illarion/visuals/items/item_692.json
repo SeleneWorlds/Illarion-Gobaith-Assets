@@ -1,31 +1,8 @@
 {
-  "type": "animator",
-  "animator": "humanoid",
+  "type": "simple",
   "sortLayerOffset": 301,
-  "animations": {
-    "armatureaction.001/south": {
-      "textures": [
-        "client/textures/illarion/items/structures/statue/item_692/ArmatureAction.001/south/0001.png"
-      ],
-      "offsetX": -96,
-      "offsetY": -60,
-      "duration": 0.06666666666666667
-    },
-    "armatureaction.002/south": {
-      "textures": [
-        "client/textures/illarion/items/structures/statue/item_692/ArmatureAction.002/south/0001.png"
-      ],
-      "offsetX": -96,
-      "offsetY": -60,
-      "duration": 0.06666666666666667
-    },
-    "armatureaction/south": {
-      "textures": [
-        "client/textures/illarion/items/structures/statue/item_692/ArmatureAction/south/0001.png"
-      ],
-      "offsetX": -96,
-      "offsetY": -60,
-      "duration": 0.06666666666666667
-    }
-  }
+  "offsetX": 0,
+  "offsetY": -21,
+  "texture": "client/textures/illarion/items/structures/statue/item_692.png",
+  "animator": "humanoid"
 }
