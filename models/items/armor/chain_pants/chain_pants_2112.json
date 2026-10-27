@@ -1,0 +1,11 @@
+{
+  "model": "chain_pants.blend",
+  "sprites": "illarion/items/armor/chain_pants/item_2112",
+  "visual": "items/item_2112",
+  "direction": "armor",
+  "scale": 0.9,
+  "reflections": "studio",
+  "include": [
+    "Pants"
+  ]
+}

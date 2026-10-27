@@ -56,7 +56,6 @@ client/textures/illarion/items/clothing/helmet.png,CC0,Flare,https://opengameart
 client/textures/illarion/items/plants/herb.png,CC0,Idylwild,https://opengameart.org/content/idylwilds-inventory
 client/textures/illarion/items/markers/invisible_item.png,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/items/clothing/leather_armor.png,CC0,Flare,https://opengameart.org/content/cc0-torso-wear-icons
-client/textures/illarion/items/clothing/leggings_chain.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
 client/textures/illarion/items/clothing/leggings_leather.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
 client/textures/illarion/items/clothing/leggings_plate.png,CC0,Flare,https://opengameart.org/content/cc0-leggings-icons
 models/items/tools/needle/needle.blend,CC0,BlayTheNinth,https://seleneworlds.com
@@ -509,3 +508,4 @@ models/items/clothing/skirt/skirt.blend,CC0,BlayTheNinth,https://seleneworlds.co
 models/items/clothing/gown/gown.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/items/clothing/leather_shoes/leather_boots.blend,CC0,hotzst,https://blendswap.com/blend/19332
 models/items/armor/steel_shoes/steel_shoes.blend,CC0,hotzst,https://blendswap.com/blend/19332
+models/items/armor/chain_pants/textures/*.png,CC0,CC0 Textures,https://cc0-textures.com/t/cc0t-chainmail-004
