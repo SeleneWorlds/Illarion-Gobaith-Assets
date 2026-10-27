@@ -2,7 +2,7 @@
   "model": "mug.blend",
   "sprites": "illarion/items/containers/mug/item_2183",
   "visual": "items/item_2183",
-  "direction": "west",
+  "direction": "handheld",
   "scale": 0.45,
   "include": [
     "mug"

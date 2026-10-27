@@ -2,7 +2,7 @@
   "model": "beer_mug.blend",
   "sprites": "illarion/items/containers/mug/item_1906",
   "visual": "items/item_1906",
-  "direction": "west",
+  "direction": "handheld",
   "scale": 0.45,
   "include": [
     "BeerMug",
