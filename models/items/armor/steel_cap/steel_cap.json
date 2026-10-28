@@ -1,0 +1,8 @@
+{
+  "model": "steel_cap.blend",
+  "sprites": "illarion/items/armor/steel_cap/item_202",
+  "visual": "items/item_202",
+  "direction": "armor",
+  "scale": 1.0,
+  "reflections": "studio"
+}

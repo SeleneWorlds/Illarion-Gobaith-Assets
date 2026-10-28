@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
-  "offsetX": 3,
-  "offsetY": -14,
-  "texture": "client/textures/illarion/items/clothing/chain_helmet.png",
+  "offsetX": 1,
+  "offsetY": -9,
+  "texture": "client/textures/illarion/items/armor/steel_cap/item_202.png",
   "metadata": {
     "itemId": 202
-  }
+  },
+  "surfaceOffsetY": 0
 }
