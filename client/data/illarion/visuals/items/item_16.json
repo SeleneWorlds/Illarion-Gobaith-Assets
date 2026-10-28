@@ -3,7 +3,7 @@
   "sortLayerOffset": 300,
   "offsetX": -1,
   "offsetY": -4,
-  "texture": "client/textures/illarion/items/armor/horned_helmet/item_16.png",
+  "texture": "client/textures/illarion/items/armor/orc_helmet/item_16.png",
   "metadata": {
     "itemId": 16
   },
