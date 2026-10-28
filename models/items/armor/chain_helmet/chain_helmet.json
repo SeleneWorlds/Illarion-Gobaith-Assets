@@ -1,0 +1,8 @@
+{
+  "model": "chain_helmet.blend",
+  "sprites": "illarion/items/armor/chain_helmet/item_324",
+  "visual": "items/item_324",
+  "direction": "armor",
+  "scale": 1.0,
+  "reflections": "studio"
+}
