@@ -1,0 +1,8 @@
+{
+  "model": "gynkese_mercenary_helmet.blend",
+  "sprites": "illarion/items/armor/gynkese_mercenary_helmet/item_2302",
+  "visual": "items/item_2302",
+  "direction": "armor",
+  "scale": 1.0,
+  "reflections": "studio"
+}
