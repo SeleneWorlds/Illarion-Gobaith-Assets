@@ -3,6 +3,6 @@
   "sprites": "illarion/items/armor/horned_helmet/item_16",
   "visual": "items/item_16",
   "direction": "armor",
-  "scale": 0.9,
+  "scale": 1.0,
   "reflections": "studio"
 }
