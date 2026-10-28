@@ -1,0 +1,8 @@
+{
+  "model": "serinjah_helmet.blend",
+  "sprites": "illarion/items/armor/serinjah_helmet/item_2444",
+  "visual": "items/item_2444",
+  "direction": "armor",
+  "scale": 1.0,
+  "reflections": "studio"
+}
