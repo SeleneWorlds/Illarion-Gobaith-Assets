@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
-  "offsetX": 7,
+  "offsetX": 2,
   "offsetY": -9,
-  "texture": "client/textures/illarion/items/clothing/helmet.png",
+  "texture": "client/textures/illarion/items/armor/albarian_soldier_helmet/item_2287.png",
   "metadata": {
     "itemId": 2287
-  }
+  },
+  "surfaceOffsetY": 0
 }

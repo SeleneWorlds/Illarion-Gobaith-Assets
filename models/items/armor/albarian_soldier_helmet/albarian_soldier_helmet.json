@@ -1,0 +1,8 @@
+{
+  "model": "albarian_soldier_helmet.blend",
+  "sprites": "illarion/items/armor/albarian_soldier_helmet/item_2287",
+  "visual": "items/item_2287",
+  "direction": "armor",
+  "scale": 1.0,
+  "reflections": "studio"
+}
