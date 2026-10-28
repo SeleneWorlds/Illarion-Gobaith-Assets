@@ -1,0 +1,8 @@
+{
+  "model": "storm_cap.blend",
+  "sprites": "illarion/items/armor/storm_cap/item_2441",
+  "visual": "items/item_2441",
+  "direction": "armor",
+  "scale": 1.0,
+  "reflections": "studio"
+}
