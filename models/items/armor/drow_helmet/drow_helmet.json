@@ -1,0 +1,8 @@
+{
+  "model": "drow_helmet.blend",
+  "sprites": "illarion/items/armor/drow_helmet/item_2303",
+  "visual": "items/item_2303",
+  "direction": "armor",
+  "scale": 1.0,
+  "reflections": "studio"
+}
