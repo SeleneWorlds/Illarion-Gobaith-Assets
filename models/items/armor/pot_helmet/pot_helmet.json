@@ -1,0 +1,8 @@
+{
+  "model": "pot_helmet.blend",
+  "sprites": "illarion/items/armor/pot_helmet/item_94",
+  "visual": "items/item_94",
+  "direction": "armor",
+  "scale": 1.0,
+  "reflections": "studio"
+}
