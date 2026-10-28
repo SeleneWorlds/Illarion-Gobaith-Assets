@@ -1,0 +1,8 @@
+{
+  "model": "round_steel_hat.blend",
+  "sprites": "illarion/items/armor/round_steel_hat/item_2290",
+  "visual": "items/item_2290",
+  "direction": "armor",
+  "scale": 1.0,
+  "reflections": "studio"
+}
