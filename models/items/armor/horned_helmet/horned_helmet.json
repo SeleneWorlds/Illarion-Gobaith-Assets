@@ -1,0 +1,8 @@
+{
+  "model": "horned_helmet.blend",
+  "sprites": "illarion/items/armor/horned_helmet/item_7",
+  "visual": "items/item_7",
+  "direction": "armor",
+  "scale": 1.0,
+  "reflections": "studio"
+}
