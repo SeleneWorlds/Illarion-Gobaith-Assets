@@ -1,0 +1,11 @@
+{
+  "model": "chainmail.blend",
+  "sprites": "illarion/items/armor/chainmail/item_2399",
+  "visual": "items/item_2399",
+  "direction": "armor",
+  "scale": 0.9,
+  "reflections": "studio",
+  "include": [
+    "Armor"
+  ]
+}

@@ -43,7 +43,6 @@ client/textures/illarion/items/clothing/armor.png,CC0,Flare,https://opengameart.
 client/textures/illarion/items/containers/bag.png,CC0,Melissa Krautheim,https://opengameart.org/content/fantasy-magic-set
 client/textures/illarion/items/markers/blocked.png,CC0,BlayTheNinth,https://seleneworlds.com
 client/textures/illarion/items/blood.png,CC0,AntumDeluge,https://opengameart.org/content/blood-splatters
-client/textures/illarion/items/clothing/chainmail.png,CC0,Flare,https://opengameart.org/content/cc0-torso-wear-icons
 client/textures/illarion/items/personal/comb/comb.png,CC0,Drummyfish,https://opengameart.org/content/11-common-household-items
 client/textures/illarion/items/food/entrails.png,CC0,BlayTheNinth; Reactorcore,https://seleneworlds.com; https://opengameart.org/content/gore-blood-gibs-meat-chunks
 client/textures/illarion/items/weapons/flail.png,CC0,BlayTheNinth,https://seleneworlds.com
@@ -515,3 +514,4 @@ models/furniture/painting/coldmountain.png,CC0,JAP,https://opengameart.org/conte
 models/furniture/painting/sunsetintheswamp.png,CC0,JAP,https://opengameart.org/content/oil-painting-landscapes
 models/furniture/painting/wizardtower.png,CC0,JAP,https://opengameart.org/content/oil-painting-landscapes
 models/furniture/painting/painting-34.jpg,CC0,Various Artists,https://opengameart.org/content/30-authentic-medieval-or-least-old-paintings
+models/items/armor/chainmail.blend,CC0,BlayTheNinth,https://seleneworlds.com
