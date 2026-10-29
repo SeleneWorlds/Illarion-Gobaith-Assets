@@ -1,0 +1,8 @@
+{
+  "model": "visored_helmet.blend",
+  "sprites": "illarion/items/armor/visored_helmet/item_184",
+  "visual": "items/item_184",
+  "direction": "armor",
+  "scale": 1.0,
+  "reflections": "studio"
+}
