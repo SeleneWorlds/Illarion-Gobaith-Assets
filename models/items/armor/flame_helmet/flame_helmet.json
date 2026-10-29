@@ -1,0 +1,8 @@
+{
+  "model": "flame_helmet.blend",
+  "sprites": "illarion/items/armor/flame_helmet/item_2286",
+  "visual": "items/item_2286",
+  "direction": "armor",
+  "scale": 1.0,
+  "reflections": "studio"
+}
