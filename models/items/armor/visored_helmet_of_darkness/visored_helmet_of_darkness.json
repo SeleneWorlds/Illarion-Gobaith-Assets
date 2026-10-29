@@ -1,0 +1,8 @@
+{
+  "model": "visored_helmet_of_darkness.blend",
+  "sprites": "illarion/items/armor/visored_helmet_of_darkness/item_185",
+  "visual": "items/item_185",
+  "direction": "armor",
+  "scale": 1.0,
+  "reflections": "studio"
+}
