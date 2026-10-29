@@ -1,0 +1,8 @@
+{
+  "model": "salkamaerian_paladin_helmet.blend",
+  "sprites": "illarion/items/armor/salkamaerian_paladin_helmet/item_2291",
+  "visual": "items/item_2291",
+  "direction": "armor",
+  "scale": 1.0,
+  "reflections": "studio"
+}
