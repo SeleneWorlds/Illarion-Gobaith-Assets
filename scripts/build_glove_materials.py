@@ -19,7 +19,7 @@ def swatch(name, color):
 
 
 light = swatch('cloth_light_gray', (0.65, 0.65, 0.65, 1))
-swatch('cloth_dark_gray', (0.20, 0.20, 0.20, 1))
+swatch('cloth_dark_gray', (0.30, 0.30, 0.30, 1))
 swatch('leather_brown', (0.40, 0.19, 0.08, 1))
 cloth = swatch('surface_cloth', (1, 1, 1, 1))
 swatch('surface_leather', (0, 0, 0, 1))
