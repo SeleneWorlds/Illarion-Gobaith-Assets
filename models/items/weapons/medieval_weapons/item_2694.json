@@ -4,9 +4,18 @@
   "visual": "items/item_2694",
   "include": [
     "Handle",
-    "Blade"
+    "Blade",
+    "BladeGlow"
   ],
   "direction": "handheld",
   "scale": 1.75,
-  "surfaceOffsetY": 0
+  "surfaceOffsetY": 0,
+  "materials": {
+    "SwordBladeGlow": {
+      "Dye": "dye_green.png"
+    },
+    "mat_one_handed_sword_1": {
+      "Dye": "dye_green.png"
+    }
+  }
 }

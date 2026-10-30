@@ -4,9 +4,15 @@
   "visual": "items/item_2656",
   "include": [
     "Handle",
-    "Blade"
+    "Blade",
+    "BladeGlow"
   ],
   "direction": "handheld",
   "scale": 1.75,
-  "surfaceOffsetY": 0
+  "surfaceOffsetY": 0,
+  "materials": {
+    "SwordBladeGlow": {
+      "Dye": "dye_bright_red.png"
+    }
+  }
 }
