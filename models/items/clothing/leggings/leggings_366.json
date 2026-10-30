@@ -1,0 +1,12 @@
+{
+  "model": "leggings.blend",
+  "sprites": "illarion/items/clothing/leggings/item_366",
+  "visual": "items/item_366",
+  "direction": "armor",
+  "scale": 0.9,
+  "include": [
+    "Leggings",
+    "LeatherPadding",
+    "LongLeatherPadding"
+  ]
+}
