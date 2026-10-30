@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
-  "offsetX": 2,
-  "offsetY": -24,
-  "texture": "client/textures/illarion/items/weapons/flail.png",
+  "offsetX": 8,
+  "offsetY": -16,
+  "texture": "client/textures/illarion/items/tools/flail/item_258.png",
   "metadata": {
     "itemId": 258
-  }
+  },
+  "surfaceOffsetY": 0
 }

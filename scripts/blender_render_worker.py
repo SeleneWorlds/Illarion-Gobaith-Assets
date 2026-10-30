@@ -292,8 +292,12 @@ def collect_render_visible_object_names(
     return visible
 
 
-def is_render_visible_mesh(obj: bpy.types.Object, render_visible_names: set[str]) -> bool:
-    if obj.type != "MESH" or obj.hide_render or obj.name not in render_visible_names:
+def is_render_visible_geometry(obj: bpy.types.Object, render_visible_names: set[str]) -> bool:
+    if (
+        obj.type not in {"MESH", "CURVE", "SURFACE", "FONT"}
+        or obj.hide_render
+        or obj.name not in render_visible_names
+    ):
         return False
     parent = obj.parent
     while parent is not None:
@@ -303,29 +307,29 @@ def is_render_visible_mesh(obj: bpy.types.Object, render_visible_names: set[str]
     return True
 
 
-def render_mesh_objects(scene: bpy.types.Scene, root: bpy.types.Object | None) -> list[bpy.types.Object]:
+def render_geometry_objects(scene: bpy.types.Scene, root: bpy.types.Object | None) -> list[bpy.types.Object]:
     render_visible_names = collect_render_visible_object_names(scene.collection)
     if root is None:
-        meshes = [obj for obj in bpy.data.objects if is_render_visible_mesh(obj, render_visible_names)]
+        geometry_objects = [obj for obj in bpy.data.objects if is_render_visible_geometry(obj, render_visible_names)]
     else:
-        meshes = [
+        geometry_objects = [
             obj
             for obj in bpy.data.objects
-            if is_render_visible_mesh(obj, render_visible_names)
+            if is_render_visible_geometry(obj, render_visible_names)
             and (is_descendant_of(obj, root) or uses_armature(obj, root))
         ]
-    if not meshes:
-        raise RuntimeError("No renderable mesh objects were found in the blend file.")
-    return meshes
+    if not geometry_objects:
+        raise RuntimeError("No renderable geometry objects were found in the blend file.")
+    return geometry_objects
 
 
 def directional_rotation_targets(
     root: bpy.types.Object | None,
-    meshes: list[bpy.types.Object],
+    geometry_objects: list[bpy.types.Object],
 ) -> list[bpy.types.Object]:
     if root is None:
-        return list(meshes)
-    return [root] + [mesh for mesh in meshes if not is_descendant_of(mesh, root)]
+        return list(geometry_objects)
+    return [root] + [obj for obj in geometry_objects if not is_descendant_of(obj, root)]
 
 
 def rotation_pivot(
@@ -1037,7 +1041,7 @@ def render_entries(
     scene: bpy.types.Scene,
     camera_object: bpy.types.Object,
     root: bpy.types.Object | None,
-    meshes: list[bpy.types.Object],
+    geometry_objects: list[bpy.types.Object],
     rotation_targets: list[bpy.types.Object],
     base_states: dict[str, ObjectState],
     pivot: Vector,
@@ -1081,8 +1085,8 @@ def render_entries(
                     for frame in frames:
                         scene.frame_set(frame)
                         bpy.context.view_layer.update()
-                        for mesh in meshes:
-                            direction_points.extend(evaluated_world_bbox(depsgraph, mesh))
+                        for obj in geometry_objects:
+                            direction_points.extend(evaluated_world_bbox(depsgraph, obj))
                     position_camera(
                         camera_object,
                         scene,
@@ -1136,8 +1140,8 @@ def render_entries(
                 for frame in frames:
                     scene.frame_set(frame)
                     bpy.context.view_layer.update()
-                    for mesh in meshes:
-                        frame_points.extend(evaluated_world_bbox(depsgraph, mesh))
+                    for obj in geometry_objects:
+                        frame_points.extend(evaluated_world_bbox(depsgraph, obj))
                 position_camera(
                     camera_object,
                     scene,
@@ -1250,7 +1254,7 @@ def main() -> None:
     )
 
     root = find_render_root()
-    meshes = render_mesh_objects(scene, root)
+    geometry_objects = render_geometry_objects(scene, root)
     actions = collect_actions(args.actions)
     if args.frame_range is not None or (root is None and args.actions is None):
         actions = []
@@ -1264,11 +1268,11 @@ def main() -> None:
             raise RuntimeError(f"Unknown direction {direction!r}")
 
     camera_object = ensure_camera(scene)
-    rotation_targets = directional_rotation_targets(root, meshes)
+    rotation_targets = directional_rotation_targets(root, geometry_objects)
     if args.grid_aligned:
-        # Hidden Boolean operands are geometry dependencies, not visible meshes.
+        # Hidden Boolean operands are geometry dependencies, not visible geometry.
         # Rotate them with the wall so openings survive directional renders.
-        pending = list(meshes)
+        pending = list(geometry_objects)
         visited = set()
         while pending:
             obj = pending.pop()
@@ -1324,7 +1328,7 @@ def main() -> None:
             scene,
             camera_object,
             root,
-            meshes,
+            geometry_objects,
             rotation_targets,
             base_states,
             pivot,

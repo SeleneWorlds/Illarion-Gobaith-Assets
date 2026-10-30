@@ -1,0 +1,16 @@
+{
+  "model": "flail.blend",
+  "sprites": "illarion/items/tools/flail/item_258",
+  "visual": "items/item_258",
+  "direction": "handheld",
+  "scale": 1.0,
+  "include": [
+    "Handle",
+    "Beater",
+    "HandleRopeMount",
+    "BeaterRopeMount",
+    "RopeStrand_1",
+    "RopeStrand_2",
+    "RopeStrand_3"
+  ]
+}
