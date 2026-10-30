@@ -8,5 +8,10 @@
   ],
   "direction": "handheld",
   "scale": 1.75,
-  "surfaceOffsetY": 0
+  "surfaceOffsetY": 0,
+  "materials": {
+    "mat_dagger_1": {
+      "Dye": "dye_merinium.png"
+    }
+  }
 }

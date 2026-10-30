@@ -4,9 +4,15 @@
   "visual": "items/item_91",
   "include": [
     "Handle",
-    "Blade"
+    "Blade",
+    "BladeGlow"
   ],
   "direction": "handheld",
   "scale": 1.75,
-  "surfaceOffsetY": 0
+  "surfaceOffsetY": 0,
+  "materials": {
+    "DaggerBladeGlow": {
+      "Dye": "dye_yellow.png"
+    }
+  }
 }
