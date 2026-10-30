@@ -1,0 +1,27 @@
+{
+  "model": "gloves.blend",
+  "sprites": "illarion/items/clothing/gloves/item_2295",
+  "visual": "items/item_2295",
+  "direction": "south",
+  "scale": 1.4,
+  "include": [
+    "Gloves"
+  ],
+  "materials": {
+    "Hand": {
+      "Dye": "cloth_light_gray.png",
+      "Surface": "surface_cloth.png"
+    },
+    "Fingers": {
+      "Dye": "cloth_light_gray.png",
+      "Surface": "surface_cloth.png"
+    },
+    "Knuckles": {
+      "Dye": "cloth_light_gray.png",
+      "Surface": "surface_cloth.png"
+    }
+  },
+  "exclude": [
+    "Wristguards"
+  ]
+}

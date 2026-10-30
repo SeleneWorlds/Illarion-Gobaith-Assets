@@ -1,0 +1,31 @@
+{
+  "model": "gloves.blend",
+  "sprites": "illarion/items/clothing/gloves/item_527",
+  "visual": "items/item_527",
+  "direction": "south",
+  "scale": 1.4,
+  "reflections": "studio-flat",
+  "include": [
+    "Gloves"
+  ],
+  "materials": {
+    "Hand": {
+      "Dye": "leather_brown.png",
+      "Surface": "surface_leather.png",
+      "Metal": "nonmetal.png"
+    },
+    "Fingers": {
+      "Dye": "leather_brown.png",
+      "Surface": "surface_leather.png",
+      "Metal": "nonmetal.png"
+    },
+    "Knuckles": {
+      "Dye": "steel.png",
+      "Surface": "surface_leather.png",
+      "Metal": "metal.png"
+    }
+  },
+  "exclude": [
+    "Wristguards"
+  ]
+}
