@@ -1,5 +1,10 @@
 {
   "model": "dagger_1.blend",
+  "materials": {
+    "mat_dagger_1": {
+      "Dye": "dye_green.png"
+    }
+  },
   "sprites": "illarion/items/weapons/medieval_weapons/item_2668",
   "visual": "items/item_2668",
   "include": [
