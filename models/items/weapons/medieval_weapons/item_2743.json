@@ -1,5 +1,13 @@
 {
-  "model": "one_handed_sword_1.blend",
+  "model": "dagger_1.blend",
+  "materials": {
+    "mat_dagger_1": {
+      "Dye": "dye_pale_red.png"
+    },
+    "mat_dagger_1_BrighterHandle": {
+      "Dye": "dye_bright_red.png"
+    }
+  },
   "sprites": "illarion/items/weapons/medieval_weapons/item_2743",
   "visual": "items/item_2743",
   "include": [

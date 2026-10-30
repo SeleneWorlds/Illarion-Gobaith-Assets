@@ -1,10 +1,16 @@
 {
   "model": "dagger_1.blend",
+  "materials": {
+    "DaggerBladeGlow": {
+      "Dye": "dye_fire.png"
+    }
+  },
   "sprites": "illarion/items/weapons/medieval_weapons/item_2742",
   "visual": "items/item_2742",
   "include": [
     "Handle",
-    "Blade"
+    "Blade",
+    "BladeGlow"
   ],
   "direction": "handheld",
   "scale": 1.75,
