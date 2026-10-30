@@ -1,0 +1,7 @@
+{
+  "model": "wood_greaves.blend",
+  "sprites": "illarion/items/armor/wood_greaves/item_2193",
+  "visual": "items/item_2193",
+  "direction": "armor",
+  "scale": 1.0
+}

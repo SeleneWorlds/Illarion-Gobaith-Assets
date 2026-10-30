@@ -1,0 +1,12 @@
+{
+  "model": "metal_greaves.blend",
+  "sprites": "illarion/items/armor/metal_greaves/item_2117",
+  "visual": "items/item_2117",
+  "direction": "armor",
+  "scale": 1.0,
+  "reflections": "studio",
+  "exclude": [
+    "Bottom",
+    "Cube.002"
+  ]
+}

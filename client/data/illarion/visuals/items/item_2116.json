@@ -1,11 +1,11 @@
 {
   "type": "simple",
   "sortLayerOffset": 300,
-  "surfaceOffsetY": 0,
-  "offsetX": 3,
-  "offsetY": -22,
-  "texture": "client/textures/illarion/items/clothing/leggings_plate.png",
+  "offsetX": -2,
+  "offsetY": -20,
+  "texture": "client/textures/illarion/items/armor/metal_greaves/item_2116.png",
   "metadata": {
     "itemId": 2116
-  }
+  },
+  "surfaceOffsetY": 0
 }
