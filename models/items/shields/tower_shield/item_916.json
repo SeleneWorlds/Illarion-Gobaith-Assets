@@ -1,0 +1,26 @@
+{
+  "model": "tower_shield.blend",
+  "sprites": "illarion/items/shields/tower_shield/item_916",
+  "visual": "items/item_916",
+  "include": [
+    "Shield",
+    "Emblem"
+  ],
+  "direction": "east",
+  "scale": 1.0,
+  "surfaceOffsetY": 0,
+  "reflections": "studio-flat",
+  "materials": {
+    "Emblem": {
+      "Image Texture": "ornate_tower_shield.png"
+    }
+  },
+  "colorOverrides": {
+    "MetalCoating": {
+      "Color": [0.5, 0.025, 0.035, 1.0]
+    },
+    "MetalRim": {
+      "Color": [0.5, 0.025, 0.035, 1.0]
+    }
+  }
+}
