@@ -1,0 +1,13 @@
+{
+  "model": "wooden_shield.blend",
+  "sprites": "illarion/items/shields/wooden_shield/item_17",
+  "visual": "items/item_17",
+  "include": [
+    "Wood",
+    "MetalRim"
+  ],
+  "direction": "north",
+  "scale": 1.0,
+  "surfaceOffsetY": 0,
+  "reflections": "studio"
+}
