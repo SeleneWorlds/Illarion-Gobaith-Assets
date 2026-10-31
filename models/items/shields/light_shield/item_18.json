@@ -1,0 +1,9 @@
+{
+  "model": "light_shield.blend",
+  "sprites": "illarion/items/shields/light_shield/item_18",
+  "visual": "items/item_18",
+  "direction": "east",
+  "scale": 1.0,
+  "surfaceOffsetY": 0,
+  "reflections": "studio-flat"
+}
