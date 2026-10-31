@@ -1,0 +1,8 @@
+{
+  "model": "metal_shield.blend",
+  "sprites": "illarion/items/shields/metal_shield/item_19",
+  "visual": "items/item_19",
+  "direction": "east",
+  "scale": 1.5,
+  "surfaceOffsetY": 0
+}

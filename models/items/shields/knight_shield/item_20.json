@@ -1,0 +1,8 @@
+{
+  "model": "knight_shield.blend",
+  "sprites": "illarion/items/shields/knight_shield/item_20",
+  "visual": "items/item_20",
+  "direction": "east",
+  "scale": 1.5,
+  "surfaceOffsetY": 0
+}
