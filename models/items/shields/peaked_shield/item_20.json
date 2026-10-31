@@ -1,5 +1,10 @@
 {
-  "model": "knight_shield.blend",
+  "model": "peaked_shield.blend",
+  "materials": {
+    "Emblem": {
+      "Image Texture": "knight_shield.png"
+    }
+  },
   "sprites": "illarion/items/shields/knight_shield/item_20",
   "visual": "items/item_20",
   "direction": "east",

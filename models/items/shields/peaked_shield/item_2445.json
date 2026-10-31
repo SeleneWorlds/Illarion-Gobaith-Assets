@@ -1,0 +1,17 @@
+{
+  "model": "peaked_shield.blend",
+  "sprites": "illarion/items/shields/peaked_shield/item_2445",
+  "visual": "items/item_2445",
+  "include": [
+    "Shield"
+  ],
+  "exclude": ["Emblem"],
+  "direction": "east",
+  "scale": 1.5,
+  "surfaceOffsetY": 0,
+  "materialOverrides": {
+    "Shield": {
+      "MetalCoating": "WoodCoating"
+    }
+  }
+}

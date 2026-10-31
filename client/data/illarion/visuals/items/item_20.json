@@ -2,7 +2,7 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
-  "offsetX": -2,
+  "offsetX": 2,
   "offsetY": -14,
   "texture": "client/textures/illarion/items/shields/knight_shield/item_20.png",
   "metadata": {
