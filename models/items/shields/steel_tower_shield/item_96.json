@@ -1,0 +1,9 @@
+{
+  "model": "steel_tower_shield.blend",
+  "sprites": "illarion/items/shields/steel_tower_shield/item_96",
+  "visual": "items/item_96",
+  "direction": "east",
+  "reflections": "studio-flat",
+  "scale": 1.0,
+  "surfaceOffsetY": 0
+}
