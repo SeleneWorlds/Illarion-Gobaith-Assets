@@ -7,11 +7,14 @@
     "Blade"
   ],
   "direction": "handheld",
-  "scale": 1.75,
+  "scale": 1.8,
   "surfaceOffsetY": 0,
   "materials": {
     "mat_dagger_1": {
       "Dye": "dye_silver.png"
+    },
+    "mat_dagger_1_BrighterHandle": {
+      "Dye": "dye_gold.png"
     }
   }
 }

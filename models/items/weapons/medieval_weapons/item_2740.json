@@ -1,5 +1,10 @@
 {
-  "model": "dagger_1.blend",
+  "model": "simple_dagger.blend",
+  "materials": {
+    "mat_dagger_1_BrighterHandle": {
+      "Dye": "dye_bright_red.png"
+    }
+  },
   "sprites": "illarion/items/weapons/medieval_weapons/item_2740",
   "visual": "items/item_2740",
   "include": [

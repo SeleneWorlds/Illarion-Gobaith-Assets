@@ -1,5 +1,5 @@
 {
-  "model": "dagger_1.blend",
+  "model": "dagger_wide_blade.blend",
   "sprites": "illarion/items/weapons/medieval_weapons/item_189",
   "visual": "items/item_189",
   "include": [
