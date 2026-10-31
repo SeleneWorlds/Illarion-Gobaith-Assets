@@ -8,7 +8,12 @@ import math
 import re
 import sys
 from dataclasses import dataclass
+from contextlib import ExitStack, contextmanager
 from pathlib import Path
+
+# Blender does not automatically add the script directory to sys.path.
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from material_override_config import validate_overrides
 
 import bpy
 from bpy_extras.object_utils import world_to_camera_view
@@ -101,6 +106,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--translation", nargs=3, type=float, default=(0, 0, 0))
     parser.add_argument("--alpha-mask", type=Path, default=None)
     parser.add_argument("--materials-json", default=None)
+    parser.add_argument("--material-overrides-json", default=None)
+    parser.add_argument("--color-overrides-json", default=None)
     parser.add_argument("--include-object", action="append", dest="included_objects", default=None)
     parser.add_argument("--exclude-object", action="append", dest="excluded_objects", default=None)
     parser.add_argument(
@@ -646,6 +653,69 @@ def configure_scene(scene: bpy.types.Scene, args: argparse.Namespace) -> None:
     elif scene.render.engine == "CYCLES":
         scene.cycles.samples = 32
         scene.cycles.use_adaptive_sampling = True
+
+
+@contextmanager
+def override_object_materials(overrides):
+    """Replace named slots per object, including on objects sharing mesh data."""
+    states = []
+    try:
+        for object_name, replacements in (overrides or {}).items():
+            obj = bpy.data.objects.get(object_name)
+            if obj is None:
+                raise RuntimeError(f"Unknown object in materialOverrides: {object_name!r}")
+            # Resolve all slots against the original names, before replacing any.
+            slots = [(slot, replacements.get(slot.name)) for slot in obj.material_slots]
+            for source_name in replacements:
+                if not any(slot.name == source_name for slot in obj.material_slots):
+                    raise RuntimeError(f"Object {object_name!r} has no material slot {source_name!r}")
+            for slot, target_name in slots:
+                if target_name is None:
+                    continue
+                target = bpy.data.materials.get(target_name)
+                if target is None:
+                    raise RuntimeError(f"Unknown replacement material: {target_name!r}")
+                states.append((slot, slot.link, slot.material))
+                slot.link = "OBJECT"
+                slot.material = target
+        yield
+    finally:
+        for slot, link, material in reversed(states):
+            slot.material = material
+            slot.link = link
+
+
+@contextmanager
+def override_material_colors(overrides):
+    """Change RGB nodes on temporary copies; restore even after a failed render."""
+    slots = []
+    copies = []
+    try:
+        for material_name, colors in (overrides or {}).items():
+            original = bpy.data.materials.get(material_name)
+            if original is None or original.node_tree is None:
+                raise RuntimeError(f"Unknown node material in colorOverrides: {material_name!r}")
+            material = original.copy()
+            material.use_fake_user = False
+            copies.append(material)
+            for node_name, color in colors.items():
+                node = material.node_tree.nodes.get(node_name)
+                if node is None or node.type != "RGB":
+                    raise RuntimeError(f"colorOverrides requires an RGB node: {material_name!r}/{node_name!r}")
+                node.outputs['Color'].default_value = color
+            for obj in bpy.context.scene.objects:
+                for slot in obj.material_slots:
+                    if slot.material == original:
+                        slots.append((slot, slot.link, slot.material))
+                        slot.link = "OBJECT"
+                        slot.material = material
+        yield
+    finally:
+        for slot, link, material in reversed(slots):
+            slot.material = material
+            slot.link = link
+        for material in copies:
+            bpy.data.materials.remove(material)
 
 
 def apply_material_overrides(
@@ -1228,6 +1298,14 @@ def main() -> None:
     metadata_file = args.metadata_file.resolve()
     output_dir.mkdir(parents=True, exist_ok=True)
     material_overrides = parse_material_overrides(args.materials_json)
+    assignments = validate_overrides(
+        json.loads(args.material_overrides_json) if args.material_overrides_json else None,
+        "materialOverrides",
+    )
+    colors = validate_overrides(
+        json.loads(args.color_overrides_json) if args.color_overrides_json else None,
+        "colorOverrides",
+    )
     visibility_states = apply_object_visibility_filters(
         args.included_objects,
         args.excluded_objects,
@@ -1315,9 +1393,12 @@ def main() -> None:
     )
     material_states: list[MaterialImageState] = []
     loaded_image_names: set[str] = set()
+    override_stack = ExitStack()
 
     try:
+        override_stack.enter_context(override_object_materials(assignments))
         material_states, loaded_image_names = apply_material_overrides(material_overrides)
+        override_stack.enter_context(override_material_colors(colors))
         unit_cube_ortho_scale = calibrate_unit_cube_ortho_scale(
             scene,
             camera_object,
@@ -1356,6 +1437,7 @@ def main() -> None:
             scene.render.border_min_y,
             scene.render.border_max_y,
         ) = original_border_settings
+        override_stack.close()
         restore_material_overrides(material_states)
         cleanup_loaded_images(loaded_image_names)
         if reflection_world is not None:

@@ -13,6 +13,8 @@ from pathlib import Path
 
 from PIL import Image
 
+from material_override_config import validate_overrides
+
 
 DEFAULT_DIRECTIONS = ("north", "east", "south", "west")
 SUPPORTED_DIRECTIONS = (*DEFAULT_DIRECTIONS, "northwest", "handheld", "armor")
@@ -61,6 +63,8 @@ class ModelConfig:
     exclude: tuple[str, ...] | None
     frame_range: tuple[int, int] | None = None
     reflections: str = "none"
+    material_overrides: dict[str, dict[str, str]] | None = None
+    color_overrides: dict[str, dict[str, list[float]]] | None = None
 
 
 @dataclass(frozen=True)
@@ -356,6 +360,8 @@ def load_model_config_from_raw(
         visual=require_string(raw, "visual", path),
         scale=require_positive_number(raw, "scale", path) if "scale" in raw else 1.0,
         materials=optional_material_overrides(raw, path),
+        material_overrides=validate_overrides(raw.get("materialOverrides"), "materialOverrides"),
+        color_overrides=validate_overrides(raw.get("colorOverrides"), "colorOverrides"),
         grid_aligned=raw.get("gridAligned", False),
         translation=tuple(float(v) for v in translation),
         fps=fps,
@@ -891,6 +897,7 @@ def render_model(
         args.blender,
         "--background",
         str(model_config.blend_file),
+        "--python-exit-code", "1",
         "--python",
         str(worker_script),
         "--",
@@ -937,6 +944,11 @@ def render_model(
             for material_name, nodes in model_config.materials.items()
         }
         blender_command.extend(["--materials-json", json.dumps(material_payload, sort_keys=True)])
+
+    if model_config.material_overrides is not None:
+        blender_command.extend(["--material-overrides-json", json.dumps(model_config.material_overrides)])
+    if model_config.color_overrides is not None:
+        blender_command.extend(["--color-overrides-json", json.dumps(model_config.color_overrides)])
 
     if model_config.directions is not None:
         for direction in model_config.directions:

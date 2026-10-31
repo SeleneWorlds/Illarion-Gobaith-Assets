@@ -48,6 +48,34 @@ python3 scripts/sprite_pipeline.py models/items/food
 python3 scripts/sprite_pipeline.py models/items/containers/bucket
 ```
 
+## Material and color overrides
+
+Use `materialOverrides` to assign materials already saved in a shared Blender
+model. Keys are object names, then the original material slot names; values name
+the replacement materials. Assignments affect only that object, even when its
+mesh is shared. Keep unused alternatives with Blender's Fake User enabled.
+
+```json
+"materialOverrides": {
+  "Shield": {"MetalCoating": "WoodCoating"}
+},
+"colorOverrides": {
+  "MetalRim": {"Color": [0.65, 0.4, 0.08, 1.0]}
+},
+"exclude": ["Emblem"]
+```
+
+`colorOverrides` maps material names to named RGB shader nodes and their new
+linear RGB or RGBA values in `[0, 1]` (RGB defaults to alpha 1). Connect the RGB
+node to the material's color input in Blender. Color overrides use temporary
+material copies and do not modify the source model. Missing objects, slots,
+materials, or RGB nodes produce an error.
+
+The existing `materials` field still replaces image texture nodes by filename.
+The renderer applies material assignments, then texture replacements, then color
+overrides. All three fields can be set per variant; a variant replaces the entire
+field when provided, and `null` disables inherited overrides.
+
 ## Reflections for glossy items
 
 Add `"reflections": "studio"` to a model render JSON to give metallic or glossy

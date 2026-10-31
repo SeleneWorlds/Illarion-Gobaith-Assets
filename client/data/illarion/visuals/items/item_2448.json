@@ -2,9 +2,9 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
-  "offsetX": -2,
-  "offsetY": -14,
-  "texture": "client/textures/illarion/items/weapons/medieval_weapons/item_2448.png",
+  "offsetX": 0,
+  "offsetY": -17,
+  "texture": "client/textures/illarion/items/shields/tower_shield/item_2448.png",
   "metadata": {
     "itemId": 2448
   }

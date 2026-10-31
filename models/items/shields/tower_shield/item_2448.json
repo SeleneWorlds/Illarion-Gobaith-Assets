@@ -1,0 +1,23 @@
+{
+  "model": "tower_shield.blend",
+  "sprites": "illarion/items/shields/tower_shield/item_2448",
+  "visual": "items/item_2448",
+  "include": [
+    "Shield"
+  ],
+  "exclude": ["Emblem"],
+  "direction": "east",
+  "scale": 1.0,
+  "surfaceOffsetY": 0,
+  "reflections": "studio-flat",
+  "materialOverrides": {
+    "Shield": {
+      "MetalCoating": "WoodCoating"
+    }
+  },
+  "colorOverrides": {
+    "WoodCoating": {
+      "Color": [1.0, 0.85, 0.65, 1.0]
+    }
+  }
+}
