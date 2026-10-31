@@ -1,10 +1,19 @@
 {
   "model": "one_handed_sword_1.blend",
+  "materials": {
+    "mat_one_handed_sword_1_BrighterHandle": {
+      "Dye": "dye_gold.png"
+    },
+    "SwordHandguard": {
+      "Dye": "dye_gold.png"
+    }
+  },
   "sprites": "illarion/items/weapons/medieval_weapons/item_2675",
   "visual": "items/item_2675",
   "include": [
     "Handle",
-    "Blade"
+    "Blade",
+    "Handguard"
   ],
   "direction": "handheld",
   "scale": 1.75,
