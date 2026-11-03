@@ -1,0 +1,17 @@
+{
+  "model": "sabre.blend",
+  "materials": {
+    "mat_one_handed_sword_1_BrighterHandle": {
+      "Dye": "../medieval_weapons/dye_gold.png"
+    }
+  },
+  "sprites": "illarion/items/weapons/sabre/item_25",
+  "visual": "items/item_25",
+  "include": [
+    "Handle",
+    "Blade"
+  ],
+  "direction": "handheld",
+  "scale": 1.75,
+  "surfaceOffsetY": 0
+}

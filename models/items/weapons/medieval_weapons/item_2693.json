@@ -4,9 +4,16 @@
   "visual": "items/item_2693",
   "include": [
     "Handle",
-    "Blade"
+    "Blade",
+    "BladeGlow",
+    "BladeLightning"
   ],
   "direction": "handheld",
   "scale": 1.75,
-  "surfaceOffsetY": 0
+  "surfaceOffsetY": 0,
+  "materials": {
+    "mat_one_handed_sword_1_BrighterHandle": {
+      "Dye": "dye_orange.png"
+    }
+  }
 }

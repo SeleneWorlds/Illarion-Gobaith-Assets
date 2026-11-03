@@ -1,10 +1,16 @@
 {
   "model": "one_handed_sword_1.blend",
+  "materials": {
+    "SwordBladeGlow": {
+      "Dye": "dye_fire.png"
+    }
+  },
   "sprites": "illarion/items/weapons/medieval_weapons/item_206",
   "visual": "items/item_206",
   "include": [
     "Handle",
-    "Blade"
+    "Blade",
+    "BladeGlow"
   ],
   "direction": "handheld",
   "scale": 1.75,

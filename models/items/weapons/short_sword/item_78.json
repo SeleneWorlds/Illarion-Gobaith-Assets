@@ -1,0 +1,17 @@
+{
+  "model": "short_sword.blend",
+  "materials": {
+    "mat_one_handed_sword_1_BrighterHandle": {
+      "Dye": "../elven_sword/dye_brown.png"
+    }
+  },
+  "sprites": "illarion/items/weapons/short_sword/item_78",
+  "visual": "items/item_78",
+  "include": [
+    "Handle",
+    "Blade"
+  ],
+  "direction": "handheld",
+  "scale": 1.75,
+  "surfaceOffsetY": 0
+}

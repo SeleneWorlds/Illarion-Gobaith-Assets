@@ -1,0 +1,17 @@
+{
+  "model": "elven_sword.blend",
+  "materials": {
+    "mat_one_handed_sword_1_BrighterHandle": {
+      "Dye": "dye_brown.png"
+    }
+  },
+  "sprites": "illarion/items/weapons/elven_sword/item_2778",
+  "visual": "items/item_2778",
+  "include": [
+    "Handle",
+    "Blade"
+  ],
+  "direction": "handheld",
+  "scale": 1.75,
+  "surfaceOffsetY": 0
+}
