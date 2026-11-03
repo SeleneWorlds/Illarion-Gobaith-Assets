@@ -1,0 +1,20 @@
+{
+  "model": "short_sword.blend",
+  "materials": {
+    "mat_one_handed_sword_1_BrighterHandle": {
+      "Dye": "../medieval_weapons/dye_gold.png"
+    },
+    "mat_one_handed_sword_1": {
+      "Dye": "dye_dark_grey.png"
+    }
+  },
+  "sprites": "illarion/items/weapons/short_sword/item_2777",
+  "visual": "items/item_2777",
+  "include": [
+    "Handle",
+    "Blade"
+  ],
+  "direction": "handheld",
+  "scale": 1.75,
+  "surfaceOffsetY": 0
+}

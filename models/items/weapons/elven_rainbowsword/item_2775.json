@@ -1,0 +1,18 @@
+{
+  "model": "elven_rainbowsword.blend",
+  "sprites": "illarion/items/weapons/elven_rainbowsword/item_2775",
+  "materialOverrides": {
+    "Blade": {
+      "mat_one_handed_sword_1": "RainbowMetal"
+    }
+  },
+  "reflections": "studio",
+  "visual": "items/item_2775",
+  "include": [
+    "Handle",
+    "Blade"
+  ],
+  "direction": "handheld",
+  "scale": 1.75,
+  "surfaceOffsetY": 0
+}

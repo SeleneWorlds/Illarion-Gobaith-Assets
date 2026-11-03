@@ -1,0 +1,17 @@
+{
+  "model": "broadsword.blend",
+  "materials": {
+    "mat_one_handed_sword_1_BrighterHandle": {
+      "Dye": "../elven_sword/dye_brown.png"
+    }
+  },
+  "sprites": "illarion/items/weapons/broadsword/item_2658",
+  "visual": "items/item_2658",
+  "include": [
+    "Handle",
+    "Blade"
+  ],
+  "direction": "handheld",
+  "scale": 1.75,
+  "surfaceOffsetY": 0
+}

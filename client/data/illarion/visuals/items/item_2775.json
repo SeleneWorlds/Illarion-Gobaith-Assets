@@ -3,8 +3,8 @@
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
   "offsetX": 0,
-  "offsetY": -9,
-  "texture": "client/textures/illarion/items/weapons/medieval_weapons/item_2775.png",
+  "offsetY": -8,
+  "texture": "client/textures/illarion/items/weapons/elven_rainbowsword/item_2775.png",
   "metadata": {
     "itemId": 2775
   }
