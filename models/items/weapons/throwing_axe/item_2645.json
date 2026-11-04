@@ -1,0 +1,12 @@
+{
+  "model": "throwing_axe.blend",
+  "sprites": "illarion/items/weapons/throwing_axe/item_2645",
+  "visual": "items/item_2645",
+  "include": [
+    "Handle",
+    "Blade"
+  ],
+  "direction": "handheld",
+  "scale": 1.5,
+  "surfaceOffsetY": 0
+}
