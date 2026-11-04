@@ -1,223 +1,106 @@
-# Illarion Gobaith - Open Assets Collection
+# Gobaith Reborn - Open Assets Collection
 
-This is a Selene bundle providing open source textures for use with the [Illarion-Gobaith-Data](https://github.com/SeleneWorlds/Illarion-Gobaith-Data) bundle.
+This Selene bundle provides open source assets for [Gobaith Reborn](https://gobaith-reborn.com/) and the `illarion-gobaith-data` bundle.
 
-It is currently a very barebones collection, with many items sharing the same graphics. Contributions are welcome.
+## Prerequisites
 
-See [CREDITS.csv](./CREDITS.csv) for a full listing of sources.
+The bundle can be used as-is; in order to make changes and rerender, additional tools are required:
 
-## Texture resolution
+- **Python 3.10 or newer** for the command-line scripts.
+- **Pillow** for image processing and **NumPy** for procedural effects.
+- **Blender**, available as `blender` on your `PATH`, for rendering models and running scripts that import `bpy`. These scripts use Blender's bundled Python.
 
-The pack uses a 128×64 isometric tile footprint. Sprites retain their individual
-cropped dimensions; their offsets and the render grid use the same pixel scale.
-Model and terrain source textures stay at their original resolution.
-
-Regenerate model sprites with `python3 scripts/sprite_pipeline.py models` and
-terrain tiles with `python3 scripts/tile_pipeline.py tiles` (Blender and Pillow
-are required). The scene files in `models/` and `tiles/` define the target size.
-
-## Asset categories
-
-Item model sources live in `models/items/<category>/<model>/`, with categories
-such as `food`, `weapons`, `tools`, `containers`, `books`, `clothing`, and
-`materials`. Keep each model's Blender files, source textures, render JSONs,
-and optional local `scene.json` together. Shared material libraries remain in
-`models/materials/`; weapon color swatches live in `models/materials/weapon_dyes/`.
-Each weapon model has its own source folder, including the medieval weapon pack
-(for example `models/items/weapons/dagger_1/`). Shield sources live under
-`models/items/shields/`.
-
-Rendered item textures live in `client/textures/illarion/items/<category>/`.
-Most categories have a model subfolder; all rendered books share `books/`,
-buckets share `containers/bucket/`, and potions share `potions/`. Furniture,
-walls, trees, crops, and other scenery mirror their existing model categories.
-Procedural item effects live in `effects/`, and item markers in `markers/`.
-Visual IDs stay in `client/data/illarion/visuals/items/`; item IDs and runtime
-visual names do not change when texture folders change.
-
-Set each render JSON's `sprites` path to its categorized texture destination.
-The sprite pipeline recursively discovers nested model folders. Run a whole
-category or a single model, for example:
+Run the examples below from this bundle's root directory. A virtual environment keeps Python dependencies separate:
 
 ```sh
-python3 scripts/sprite_pipeline.py models/items/food
-python3 scripts/sprite_pipeline.py models/items/containers/bucket
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install Pillow numpy
 ```
 
-## Material and color overrides
+## Folder structure
 
-Use `materialOverrides` to assign materials already saved in a shared Blender
-model. Keys are object names, then the original material slot names; values name
-the replacement materials. Assignments affect only that object, even when its
-mesh is shared. Keep unused alternatives with Blender's Fake User enabled.
-
-```json
-"materialOverrides": {
-  "Shield": {"MetalCoating": "WoodCoating"}
-},
-"colorOverrides": {
-  "MetalRim": {"Color": [0.65, 0.4, 0.08, 1.0]}
-},
-"exclude": ["Emblem"]
+```text
+client/
+  data/illarion/visuals/  Visual JSON definitions consumed by the client
+  textures/illarion/     Client textures and generated sprite frames
+  sounds/illarion/       Sound effects
+  music/illarion/        Music
+models/                 Blender source models, textures, and render config JSON
+tiles/                  Source tile images, tile configs, and animated water frames
+masks/                  Tile transition and wall alpha masks
+particles/              Particle scenes, source images, and effect previews
+scripts/                Asset generation, rendering, reporting, and checks
+  data/                 Herb catalog and supporting documentation
+bundle.json             Selene bundle metadata
+CREDITS.csv             Asset sources, authors, and licenses
 ```
 
-`colorOverrides` maps material names to named RGB shader nodes and their new
-linear RGB or RGBA values in `[0, 1]` (RGB defaults to alpha 1). Connect the RGB
-node to the material's color input in Blender. Color overrides use temporary
-material copies and do not modify the source model. Missing objects, slots,
-materials, or RGB nodes produce an error.
+The sprite pipeline uses the nearest ancestor `scene.json` for scene settings, such as tile size and lighting. Model JSON files select sprite and visual output paths and can override scale, animations, directions, and materials. Tile configs describe source textures, output paths, and transitions.
 
-The existing `materials` field still replaces image texture nodes by filename.
-The renderer applies material assignments, then texture replacements, then color
-overrides. All three fields can be set per variant; a variant replaces the entire
-field when provided, and `null` disables inherited overrides.
+## Script usage
 
-## Reflections for glossy items
+### Render model sprites
 
-Add `"reflections": "studio"` to a model render JSON to give metallic or glossy
-materials broad reflected highlights, as used by `models/items/currency/coins/`.
-The renderer creates a temporary reflection environment and enables Eevee ray
-tracing when available. It keeps the shared sun and uses the scene's
-`ambientStrength` for the reflection intensity. No lights or world shader need
-to be saved in the model.
-
-For horizontal polished surfaces such as the medal, `"reflections": "studio-flat"`
-positions a softer reflection card for the flat face, preserving the model pose
-and bump-map engraving. The standard `studio` preset stays unchanged.
-
-Keep material settings in Blender: metals generally need a high Metallic value
-and Roughness around 0.15–0.3 for visible shine. The preset does not change
-materials. Omitting `reflections` (or setting it to `"none"`) preserves the
-existing lighting behavior. Variants inherit the option and can override it.
-
-For armor inventory sprites, set `"direction": "armor"` in the model config.
-This rotates the model 15 degrees so the shirt neckline points toward the
-upper-right of the sprite, with the hem toward the lower-left.
-
-## Procedural rift portals
-
-Items 10 (blue) and 798 (red) use original procedural energy sprites, with eight
-94×154 RGBA frames in a 0.4-second loop. Generate them with NumPy and Pillow:
+Render a single model config or recursively process a directory of configs:
 
 ```sh
-python3 scripts/render_portals.py --write-visuals
+python scripts/sprite_pipeline.py models/chars/halfling_male/halfling_male.json
+python scripts/sprite_pipeline.py models/chars
 ```
 
-The generator uses no input images. `--seed` controls the turbulence;
-`--output-dir` and `--preview-dir` can redirect textures and previews for experiments.
-Contact sheets and animated GIFs are in `particles/portal-preview/`.
-These two items are maintained by this generator; the other portal items retain
-their Blender models.
+The pipeline invokes `scripts/blender_render_worker.py`, writes sprite frames under `client/textures/`, and generates visual JSON under `client/data/illarion/visuals/`. Use `--blender /path/to/blender` to select an executable and `--engine CYCLES` to select a render engine. By default, the target texture directory is cleared before rendering; `--keep-output` preserves existing files.
 
-## Simulated campfire
-
-`models/structures/campfire/campfire.blend` contains a Mantaflow gas/fire
-simulation. Its relative `campfire_fire_cache/` directory holds generated baked
-data and is ignored by Git. The rendered PNG frames remain versioned and need
-no simulation cache at runtime. Before rerendering on a fresh checkout, after
-deleting the cache, or after changing the fuel source, domain, or turbulence:
+### Generate tiles
 
 ```sh
-blender -b --python scripts/bake_fire.py -- models/structures/campfire/campfire.blend
-python3 scripts/sprite_pipeline.py models/structures/campfire/campfire.json
+python scripts/tile_pipeline.py tiles/grass.json
+python scripts/tile_pipeline.py tiles
 ```
 
-The bake script is a command-line convenience for Blender's Bake All operation;
-you can also bake the Fire_Domain simulation from Blender's Physics properties.
-Material-only changes can reuse an existing bake.
+The tile pipeline projects source images into isometric textures and writes visual JSON, including transitions where configured. It also supports `--keep-output`.
 
-The config uses `"frameRange": [33, 64]` and `"fps": 24` to export 32 frames
-after the simulation warms up. A single-direction scene frame range produces
-an `animated` visual with a shared crop and anchor across all frames. The
-existing item light is retained. Frame ranges are inclusive and cannot be
-combined with named armature animations.
-
-## Portable torches
-
-`models/items/lighting/torch/torch.json` renders the unlit torch (item 391).
-`torch_lit.json` renders item 392 with a simulated flame at the wrapped head,
-using 32 frames at 24 fps. Both torch surfaces use Standard color management,
-roughness 0.75, and zero emission. Their local `scene.json` lights the visible
-side of the handheld pose to preserve the dark wood texture's detail.
-The generated `torch_fire_cache/` is ignored by Git.
-To bake the lit torch on a fresh checkout or after changing its simulation:
+To regenerate animated water source frames before processing their tile config:
 
 ```sh
-blender -b --python scripts/bake_fire.py -- models/items/lighting/torch/torch_lit.blend
-blender -b --python scripts/build_wall_torch_flames.py -- --handheld
-python3 scripts/sprite_pipeline.py models/items/lighting/torch
+python scripts/render_water_tiles.py --size 256 --frames 16
+python scripts/tile_pipeline.py tiles/water/water.json
 ```
 
-The shared bake command also accepts other fire models with a `Fire_Domain`
-object, including `models/structures/campfire/campfire.blend`.
+### Build models and effects
 
-The lit wall torches (items 402 and 404) use the same flame setup in
-`models/furniture/wall_torch/wall_torch_lit.blend`, with a separate ignored
-`wall_torch_fire_cache/`. Both directions render 32 frames at 24 fps. To rebuild:
+The `build_*.py` scripts procedurally generate particular Blender models. For example:
 
 ```sh
-blender -b --python scripts/bake_fire.py -- models/furniture/wall_torch/wall_torch_lit.blend
-blender -b --python scripts/build_wall_torch_flames.py
-python3 scripts/sprite_pipeline.py models/furniture/wall_torch
+blender -b --python scripts/build_herbs.py -- --validate-only
+blender -b --python scripts/build_herbs.py
 ```
 
-Both portable and wall torches use the same orange flame and bright yellow core.
-The flame builder converts the baked fire grids into animated surfaces for
-Eevee, preserving the simulation motion without a rectangular volume artifact.
-These surfaces are saved in the Blender source; rendering needs no cache until
-the animation is rebuilt.
+The herb builder reads `scripts/data/herbs.json`; `--only` accepts item IDs or slugs to rebuild a subset. Arguments after Blender's `--` are passed to the script.
 
-## Wall rendering
-
-Wall configs use `gridAligned: true` and `alphaClip: 0.5`. The mesh defines the
-silhouette, including window and door openings. Walls rotate around the tile
-origin, including hidden Boolean operands that cut out doors and windows. The
-camera projects that origin onto an integer pixel boundary.
-Cropping pads odd widths to an even width so integer center offsets preserve
-placement exactly. Offsets are calculated from the projected origin rather than
-set by hand. Adjacent tiles are separated by 64 pixels horizontally and 32
-pixels vertically.
-
-A grid-aligned config may set `translation: [x, y, z]` in model units before
-rotation. For example, the south pillar uses `[-0.375, -0.375, 0]` with the
-south direction to place its quarter-tile footprint at the front corner.
-Its sprite offsets are still calculated from the tile origin.
-
-Run the regression checks after rendering:
+Most procedural `render_*_effects.py` scripts run directly with Python and write effect frames and previews. Some require a `--variant`; check their help for supported choices:
 
 ```sh
-python3 -m unittest discover -s scripts -p 'test_*.py'
-python3 scripts/test_wall_alignment.py --preview /tmp/wall-alignment.png
+python scripts/render_fireball.py --variant fireball
+python scripts/render_magic_effects.py --help
 ```
 
-The checks assemble items 240, 38, 33, and 922, inspect both sides of five joins
-for transparent seams, and check pixel anchors, base pixels, mask clipping, and
-crop placement. Item 86 also has a regression check that verifies the open
-doorway and its surrounding frame.
-
-## Contributing
-
-All contributed files must be listed in [CREDITS.csv](./CREDITS.csv) alongside their license identifier, author, and a source URL (if available).
-
-Assets must be under an Open Source license. Proprietary assets are not accepted as part of this bundle.
-
-Submissions must either be handmade or procedurally generated; AI-generated assets will not be accepted.
-
-## Procedural pure elements
-
-The pure water, fire, earth, and air items use original glossy drop sprites,
-rendered without image inputs. Regenerate them with NumPy and Pillow:
+Blender particle scenes use a separate renderer:
 
 ```sh
-python3 scripts/render_pure_elements.py
+blender -b -t 4 --python scripts/render_blender_effects.py
 ```
 
-The generator preserves each item's texture dimensions and placement. Use
-`--output-dir` for experiments and `--preview /tmp/pure-elements.png` for an
-enlarged comparison sheet.
+Other helpers procedurally generate wood and log textures, UI markers, inventory slots, and combat animations. Consult each script's docstring and, where available, `--help` for inputs and output locations. Generators write into the asset tree and can replace existing assets.
 
-## Procedural herbs
+### Check credits
 
-Generate ordinary herb models from the editable [herb catalog](scripts/data/herbs.json).
-See [the generator documentation](scripts/data/herbs.md) for rebuilding and supported
-plant parts.
+```sh
+python scripts/check_missing_credits.py
+```
+
+The credits check reports model `.blend` files and client texture `.png` files without a matching entry in `CREDITS.csv`. 
+
+## Credits and licenses
+
+Assets use multiple licenses. See [CREDITS.csv](./CREDITS.csv) for sources, authors, and individual licenses, and [LICENSE](./LICENSE) for the repository license notice. Update the credits when adding or replacing assets.
