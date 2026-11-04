@@ -1,0 +1,22 @@
+{
+  "model": "greatsword.blend",
+  "sprites": "illarion/items/weapons/greatsword/item_204",
+  "visual": "items/item_204",
+  "include": [
+    "Handle",
+    "Blade"
+  ],
+  "direction": "handheld",
+  "scale": 1.0,
+  "surfaceOffsetY": 0,
+  "colorOverrides": {
+    "mat_two_handed_sword_1_BrighterHandle": {
+      "Color": [
+        1.0,
+        0.45,
+        0.1,
+        1.0
+      ]
+    }
+  }
+}

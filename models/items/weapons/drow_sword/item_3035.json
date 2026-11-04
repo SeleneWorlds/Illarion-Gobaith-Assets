@@ -1,0 +1,30 @@
+{
+  "model": "drow_sword.blend",
+  "sprites": "illarion/items/weapons/drow_sword/item_3035",
+  "visual": "items/item_3035",
+  "include": [
+    "Handle",
+    "Blade"
+  ],
+  "direction": "handheld",
+  "scale": 1.0,
+  "surfaceOffsetY": 0,
+  "colorOverrides": {
+    "mat_two_handed_sword_1_BrighterHandle": {
+      "Color": [
+        0.6,
+        0.35,
+        0.16,
+        1.0
+      ]
+    },
+    "mat_two_handed_sword_1": {
+      "Color": [
+        0.78,
+        0.58,
+        0.35,
+        1.0
+      ]
+    }
+  }
+}

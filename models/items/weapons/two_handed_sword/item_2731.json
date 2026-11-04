@@ -1,0 +1,28 @@
+{
+  "model": "two_handed_sword.blend",
+  "sprites": "illarion/items/weapons/two_handed_sword/item_2731",
+  "visual": "items/item_2731",
+  "include": [
+    "Handle",
+    "Blade",
+    "Handle.001"
+  ],
+  "direction": "handheld",
+  "scale": 1.0,
+  "surfaceOffsetY": 0,
+  "colorOverrides": {
+    "mat_two_handed_sword_1_BrighterHandle": {
+      "Color": [
+        0.6,
+        0.35,
+        0.16,
+        1.0
+      ]
+    }
+  },
+  "materialOverrides": {
+    "Handle.001": {
+      "mat_two_handed_sword_1_BrighterHandle.001": "mat_two_handed_sword_1_BrighterHandle"
+    }
+  }
+}
