@@ -339,20 +339,20 @@ client/textures/illarion/items/wind-[0-9]*.png,CC0,Selene Worlds,
 client/textures/illarion/items/light-[0-9]*.png,CC0,Selene Worlds,
 client/textures/illarion/items/portal-[0-9]*.png,CC0,Selene Worlds,
 client/textures/illarion/items/portal_rot-[0-9]*.png,CC0,Selene Worlds,
-models/items/weapons/bow_1/bow_1.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
-models/items/weapons/crossbow_1/crossbow_1.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
-models/items/weapons/dagger_1/dagger_1.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
+models/items/weapons/bow/bow_1.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
+models/items/weapons/crossbow/crossbow_1.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
+models/items/weapons/dagger/dagger_1.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
 models/items/weapons/dagger_wide_blade/dagger_wide_blade.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
-models/items/weapons/one_handed_axe_1/one_handed_axe_1.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
-models/items/weapons/one_handed_mace_1/one_handed_mace_1.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
-models/items/weapons/one_handed_sword_1/one_handed_sword_1.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
-models/items/shields/shield_1/shield_1.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
+models/items/weapons/one_handed_axe/one_handed_axe_1.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
+models/items/weapons/one_handed_mace/one_handed_mace_1.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
+models/items/weapons/one_handed_sword/one_handed_sword_1.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
+models/items/shields/shield/shield_1.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
 models/items/weapons/simple_dagger/simple_dagger.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
-models/items/weapons/staff_1/staff_1.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
-models/items/weapons/two_handed_axe_1/two_handed_axe_1.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
-models/items/weapons/two_handed_mace_1/two_handed_mace_1.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
+models/items/weapons/staff/staff_1.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
+models/items/weapons/two_handed_axe/two_handed_axe_1.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
+models/items/weapons/two_handed_mace/two_handed_mace_1.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
 models/items/weapons/two_handed_sword/two_handed_sword.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
-models/items/weapons/wand_1/wand_1.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
+models/items/weapons/wand/wand_1.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
 models/items/personal/comb/comb.blend,CC0,Drummyfish,https://opengameart.org/content/11-common-household-items
 models/items/tools/scissors/scissors.blend,CC0,Drummyfish,https://opengameart.org/content/11-common-household-items
 models/items/access/key/key.blend,CC-BY 4.0,Drummyfish; animatedheaven (Animated Heaven - Designs of Eternity),https://opengameart.org/content/11-common-household-items; https://opengameart.org/content/stylized-magic-book
