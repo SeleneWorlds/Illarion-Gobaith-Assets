@@ -1,6 +1,6 @@
 {
-  "model": "one_handed_sword_1.blend",
-  "sprites": "illarion/items/weapons/medieval_weapons/item_2701",
+  "model": "longsword.blend",
+  "sprites": "illarion/items/weapons/longsword/item_2701",
   "visual": "items/item_2701",
   "include": [
     "Handle",

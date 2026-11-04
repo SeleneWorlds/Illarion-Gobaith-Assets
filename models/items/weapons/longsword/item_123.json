@@ -1,0 +1,20 @@
+{
+  "model": "longsword.blend",
+  "sprites": "illarion/items/weapons/longsword/item_123",
+  "visual": "items/item_123",
+  "include": [
+    "Handle",
+    "Blade"
+  ],
+  "direction": "handheld",
+  "scale": 1.75,
+  "surfaceOffsetY": 0,
+  "materials": {
+    "mat_one_handed_sword_1": {
+      "Dye": "../medieval_weapons/dye_merinium.png"
+    },
+    "mat_one_handed_sword_1_BrighterHandle": {
+      "Dye": "../medieval_weapons/dye_gold.png"
+    }
+  }
+}
