@@ -2,9 +2,9 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
-  "offsetX": -5,
-  "offsetY": -23,
-  "texture": "client/textures/illarion/items/weapons/two_handed_axe_1/item_2640.png",
+  "offsetX": -3,
+  "offsetY": -4,
+  "texture": "client/textures/illarion/items/weapons/orc_axe/item_2640.png",
   "metadata": {
     "itemId": 2640
   }
