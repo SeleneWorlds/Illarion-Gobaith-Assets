@@ -16,13 +16,6 @@ Regenerate model sprites with `python3 scripts/sprite_pipeline.py models` and
 terrain tiles with `python3 scripts/tile_pipeline.py tiles` (Blender and Pillow
 are required). The scene files in `models/` and `tiles/` define the target size.
 
-`scripts/upscale_pack.py` performs the one-time migration from the legacy 76×37
-pack, scaling existing sprites and masks with nearest-neighbor sampling before
-regenerating terrain and available models. Its `--resume` option retries an
-interrupted batch using logs in `/tmp/illarion-upscale-128x64`; keep that directory
-until the migration finishes. Characters whose Blender sources are unavailable
-retain scaled sprites.
-
 ## Asset categories
 
 Item model sources live in `models/items/<category>/<model>/`, with categories
@@ -114,8 +107,7 @@ The generator uses no input images. `--seed` controls the turbulence;
 `--output-dir` and `--preview-dir` can redirect textures and previews for experiments.
 Contact sheets and animated GIFs are in `particles/portal-preview/`.
 These two items are maintained by this generator; the other portal items retain
-their Blender models. Run this command after the one-time upscale migration,
-which can replace animated item definitions.
+their Blender models.
 
 ## Simulated campfire
 
@@ -126,7 +118,7 @@ no simulation cache at runtime. Before rerendering on a fresh checkout, after
 deleting the cache, or after changing the fuel source, domain, or turbulence:
 
 ```sh
-blender -b --python scripts/bake_campfire.py
+blender -b --python scripts/bake_fire.py -- models/structures/campfire/campfire.blend
 python3 scripts/sprite_pipeline.py models/structures/campfire/campfire.json
 ```
 
