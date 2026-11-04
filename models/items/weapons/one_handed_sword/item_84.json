@@ -1,0 +1,17 @@
+{
+  "model": "one_handed_sword_1.blend",
+  "sprites": "illarion/items/weapons/one_handed_sword_1/item_84",
+  "visual": "items/item_84",
+  "include": [
+    "Handle",
+    "Blade"
+  ],
+  "direction": "handheld",
+  "scale": 1.75,
+  "surfaceOffsetY": 0,
+  "materials": {
+    "mat_one_handed_sword_1": {
+      "Dye": "../../../materials/weapon_dyes/dye_gold.png"
+    }
+  }
+}

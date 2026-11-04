@@ -1,0 +1,13 @@
+{
+  "model": "one_handed_sword_1.blend",
+  "sprites": "illarion/items/weapons/one_handed_sword_1/item_2654",
+  "visual": "items/item_2654",
+  "include": [
+    "Handle",
+    "Blade",
+    "BladeGlow"
+  ],
+  "direction": "handheld",
+  "scale": 1.75,
+  "surfaceOffsetY": 0
+}

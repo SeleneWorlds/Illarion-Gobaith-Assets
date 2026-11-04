@@ -1,0 +1,24 @@
+{
+  "model": "dagger_1.blend",
+  "materials": {
+    "mat_dagger_1": {
+      "Dye": "../../../materials/weapon_dyes/dye_green.png"
+    },
+    "DaggerBladeGlow": {
+      "Dye": "../../../materials/weapon_dyes/dye_green.png"
+    },
+    "mat_dagger_1_BrighterHandle": {
+      "Dye": "../../../materials/weapon_dyes/dye_gold.png"
+    }
+  },
+  "sprites": "illarion/items/weapons/dagger_1/item_2689",
+  "visual": "items/item_2689",
+  "include": [
+    "Handle",
+    "Blade",
+    "BladeGlow"
+  ],
+  "direction": "handheld",
+  "scale": 1.75,
+  "surfaceOffsetY": 0
+}

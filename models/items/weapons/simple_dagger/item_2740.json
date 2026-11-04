@@ -1,0 +1,17 @@
+{
+  "model": "simple_dagger.blend",
+  "materials": {
+    "mat_dagger_1_BrighterHandle": {
+      "Dye": "../../../materials/weapon_dyes/dye_bright_red.png"
+    }
+  },
+  "sprites": "illarion/items/weapons/simple_dagger/item_2740",
+  "visual": "items/item_2740",
+  "include": [
+    "Handle",
+    "Blade"
+  ],
+  "direction": "handheld",
+  "scale": 1.75,
+  "surfaceOffsetY": 0
+}

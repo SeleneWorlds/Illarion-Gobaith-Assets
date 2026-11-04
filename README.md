@@ -29,7 +29,10 @@ Item model sources live in `models/items/<category>/<model>/`, with categories
 such as `food`, `weapons`, `tools`, `containers`, `books`, `clothing`, and
 `materials`. Keep each model's Blender files, source textures, render JSONs,
 and optional local `scene.json` together. Shared material libraries remain in
-`models/materials/`.
+`models/materials/`; weapon color swatches live in `models/materials/weapon_dyes/`.
+Each weapon model has its own source folder, including the medieval weapon pack
+(for example `models/items/weapons/dagger_1/`). Shield sources live under
+`models/items/shields/`.
 
 Rendered item textures live in `client/textures/illarion/items/<category>/`.
 Most categories have a model subfolder; all rendered books share `books/`,

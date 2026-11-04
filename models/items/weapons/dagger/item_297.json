@@ -1,0 +1,17 @@
+{
+  "model": "dagger_1.blend",
+  "sprites": "illarion/items/weapons/dagger_1/item_297",
+  "visual": "items/item_297",
+  "include": [
+    "Handle",
+    "Blade"
+  ],
+  "direction": "handheld",
+  "scale": 1.75,
+  "surfaceOffsetY": 0,
+  "materials": {
+    "mat_dagger_1": {
+      "Dye": "../../../materials/weapon_dyes/dye_gold.png"
+    }
+  }
+}

@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": -7,
   "offsetY": -10,
-  "texture": "client/textures/illarion/items/weapons/medieval_weapons/item_206.png",
+  "texture": "client/textures/illarion/items/weapons/one_handed_sword_1/item_206.png",
   "metadata": {
     "itemId": "206"
   }

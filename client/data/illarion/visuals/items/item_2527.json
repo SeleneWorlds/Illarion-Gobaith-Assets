@@ -4,7 +4,7 @@
   "surfaceOffsetY": 0,
   "offsetX": 5,
   "offsetY": -16,
-  "texture": "client/textures/illarion/items/weapons/medieval_weapons/item_2527.png",
+  "texture": "client/textures/illarion/items/weapons/two_handed_mace_1/item_2527.png",
   "metadata": {
     "itemId": 2527
   }

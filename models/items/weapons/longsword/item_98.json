@@ -11,10 +11,10 @@
   "surfaceOffsetY": 0,
   "materials": {
     "mat_one_handed_sword_1": {
-      "Dye": "../medieval_weapons/dye_silver.png"
+      "Dye": "../../../materials/weapon_dyes/dye_silver.png"
     },
     "mat_one_handed_sword_1_BrighterHandle": {
-      "Dye": "../medieval_weapons/dye_silver.png"
+      "Dye": "../../../materials/weapon_dyes/dye_silver.png"
     }
   }
 }

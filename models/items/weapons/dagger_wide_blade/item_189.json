@@ -1,0 +1,12 @@
+{
+  "model": "dagger_wide_blade.blend",
+  "sprites": "illarion/items/weapons/dagger_wide_blade/item_189",
+  "visual": "items/item_189",
+  "include": [
+    "Handle",
+    "Blade"
+  ],
+  "direction": "handheld",
+  "scale": 1.75,
+  "surfaceOffsetY": 0
+}

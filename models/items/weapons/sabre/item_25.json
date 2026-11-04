@@ -2,7 +2,7 @@
   "model": "sabre.blend",
   "materials": {
     "mat_one_handed_sword_1_BrighterHandle": {
-      "Dye": "../medieval_weapons/dye_gold.png"
+      "Dye": "../../../materials/weapon_dyes/dye_gold.png"
     }
   },
   "sprites": "illarion/items/weapons/sabre/item_25",

@@ -1,0 +1,12 @@
+{
+  "model": "staff_1.blend",
+  "sprites": "illarion/items/weapons/staff_1/item_76",
+  "visual": "items/item_76",
+  "include": [
+    "Handle",
+    "Head"
+  ],
+  "direction": "east",
+  "scale": 1.5,
+  "surfaceOffsetY": 0
+}

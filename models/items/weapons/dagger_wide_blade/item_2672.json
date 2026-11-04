@@ -1,0 +1,18 @@
+{
+  "model": "dagger_wide_blade.blend",
+  "materials": {
+    "mat_dagger_1": {
+      "Dye": "../../../materials/weapon_dyes/dye_green.png"
+    }
+  },
+  "sprites": "illarion/items/weapons/dagger_wide_blade/item_2672",
+  "visual": "items/item_2672",
+  "include": [
+    "Handle",
+    "Blade",
+    "BladeGlow"
+  ],
+  "direction": "handheld",
+  "scale": 1.75,
+  "surfaceOffsetY": 0
+}

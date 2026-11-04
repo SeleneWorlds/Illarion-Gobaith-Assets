@@ -1,0 +1,18 @@
+{
+  "model": "dagger_1.blend",
+  "materials": {
+    "DaggerBladeGlow": {
+      "Dye": "../../../materials/weapon_dyes/dye_fire.png"
+    }
+  },
+  "sprites": "illarion/items/weapons/dagger_1/item_2742",
+  "visual": "items/item_2742",
+  "include": [
+    "Handle",
+    "Blade",
+    "BladeGlow"
+  ],
+  "direction": "handheld",
+  "scale": 1.75,
+  "surfaceOffsetY": 0
+}

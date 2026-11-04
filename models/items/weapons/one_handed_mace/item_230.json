@@ -1,0 +1,12 @@
+{
+  "model": "one_handed_mace_1.blend",
+  "sprites": "illarion/items/weapons/one_handed_mace_1/item_230",
+  "visual": "items/item_230",
+  "include": [
+    "Handle",
+    "Head"
+  ],
+  "direction": "handheld",
+  "scale": 1.75,
+  "surfaceOffsetY": 0
+}

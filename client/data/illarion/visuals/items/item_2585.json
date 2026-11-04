@@ -2,9 +2,9 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
-  "offsetX": 33,
-  "offsetY": 6,
-  "texture": "client/textures/illarion/items/weapons/medieval_weapons/item_2585.png",
+  "offsetX": 28,
+  "offsetY": 9,
+  "texture": "client/textures/illarion/items/weapons/two_handed_sword/item_2585.png",
   "metadata": {
     "itemId": 2585
   }

@@ -1,0 +1,18 @@
+{
+  "model": "one_handed_sword_1.blend",
+  "sprites": "illarion/items/weapons/one_handed_sword_1/item_2704",
+  "visual": "items/item_2704",
+  "include": [
+    "Handle",
+    "Blade",
+    "BladeGlow"
+  ],
+  "direction": "handheld",
+  "scale": 1.75,
+  "surfaceOffsetY": 0,
+  "materials": {
+    "SwordBladeGlow": {
+      "Dye": "../../../materials/weapon_dyes/dye_red_purple.png"
+    }
+  }
+}
