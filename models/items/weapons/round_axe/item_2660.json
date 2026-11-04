@@ -1,0 +1,15 @@
+{
+  "model": "round_axe.blend",
+  "sprites": "illarion/items/weapons/round_axe/item_2660",
+  "visual": "items/item_2660",
+  "include": [
+    "Handle",
+    "Blade",
+    "HandleTop",
+    "HandleBase"
+  ],
+  "direction": "handheld",
+  "scale": 1.0,
+  "surfaceOffsetY": 0,
+  "reflections": "studio"
+}

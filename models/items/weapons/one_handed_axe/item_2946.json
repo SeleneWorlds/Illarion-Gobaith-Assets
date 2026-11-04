@@ -1,12 +1,12 @@
 {
-  "model": "one_handed_axe_1.blend",
-  "sprites": "illarion/items/weapons/one_handed_axe_1/item_2946",
+  "model": "one_handed_axe.blend",
+  "sprites": "illarion/items/weapons/one_handed_axe/item_2946",
   "visual": "items/item_2946",
   "include": [
     "Handle",
     "Blade"
   ],
-  "direction": "west",
-  "scale": 1.5,
+  "direction": "handheld",
+  "scale": 1.0,
   "surfaceOffsetY": 0
 }

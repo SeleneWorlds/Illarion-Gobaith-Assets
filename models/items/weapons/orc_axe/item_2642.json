@@ -1,0 +1,14 @@
+{
+  "model": "orc_axe.blend",
+  "sprites": "illarion/items/weapons/orc_axe/item_2642",
+  "visual": "items/item_2642",
+  "include": [
+    "Handle",
+    "Blade",
+    "HandleTop",
+    "HandleBase"
+  ],
+  "direction": "handheld",
+  "scale": 1.0,
+  "surfaceOffsetY": 0
+}
