@@ -2,9 +2,9 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
-  "offsetX": -1,
-  "offsetY": -14,
-  "texture": "client/textures/illarion/items/weapons/one_handed_axe_1/item_2635.png",
+  "offsetX": -2,
+  "offsetY": -5,
+  "texture": "client/textures/illarion/items/weapons/halfling_axe/item_2635.png",
   "metadata": {
     "itemId": 2635
   }

@@ -1,0 +1,17 @@
+{
+  "model": "halfling_axe.blend",
+  "sprites": "illarion/items/weapons/halfling_axe/item_2635",
+  "visual": "items/item_2635",
+  "include": [
+    "Handle",
+    "Blade"
+  ],
+  "direction": "handheld",
+  "scale": 1.5,
+  "surfaceOffsetY": 0,
+  "materials": {
+    "mat_one_handed_axe_1": {
+      "Dye": "../../../materials/weapon_dyes/dye_green.png"
+    }
+  }
+}

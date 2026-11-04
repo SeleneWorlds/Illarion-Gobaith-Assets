@@ -1,0 +1,12 @@
+{
+  "model": "halfling_axe.blend",
+  "sprites": "illarion/items/weapons/halfling_axe/item_2711",
+  "visual": "items/item_2711",
+  "include": [
+    "Handle",
+    "Blade"
+  ],
+  "direction": "handheld",
+  "scale": 1.5,
+  "surfaceOffsetY": 0
+}

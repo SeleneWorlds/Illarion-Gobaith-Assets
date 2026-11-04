@@ -1,0 +1,39 @@
+{
+  "model": "battleaxe.blend",
+  "sprites": "illarion/items/weapons/battleaxe/item_296",
+  "visual": "items/item_296",
+  "include": [
+    "Handle",
+    "Blade",
+    "HandleTip",
+    "HandleBase"
+  ],
+  "direction": "handheld",
+  "scale": 1.0,
+  "surfaceOffsetY": 0,
+  "reflections": "studio",
+  "materialOverrides": {
+    "HandleTip": {
+      "mat_one_handed_axe_1": "SteelMetal"
+    },
+    "Blade": {
+      "mat_one_handed_axe_1": "SilverMetal"
+    },
+    "Handle": {
+      "mat_one_handed_axe_1_BrighterHandle": "SteelMetal"
+    },
+    "HandleBase": {
+      "mat_one_handed_sword_1_BrighterHandle": "BrownGrip"
+    }
+  },
+  "colorOverrides": {
+    "SilverMetal": {
+      "Color": [
+        0.205079,
+        0.42869,
+        0.752942,
+        1.0
+      ]
+    }
+  }
+}
