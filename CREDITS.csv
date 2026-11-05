@@ -544,3 +544,5 @@ models/items/weapons/halfling_axe/halfling_axe.blend,CC0,System G6,https://openg
 models/items/weapons/throwing_axe/throwing_axe.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
 models/items/weapons/orc_axe/orc_axe.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
 models/items/weapons/round_axe/round_axe.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
+client/textures/illarion/ui/rune_m*.png,CC0,AntumDeluge,https://opengameart.org/content/cc0-rune-icons
+runes/*.svg,CC0,AntumDeluge,https://opengameart.org/content/cc0-rune-icons

@@ -29,6 +29,7 @@ client/
 models/                 Blender source models, textures, and render config JSON
 tiles/                  Source tile images, tile configs, and animated water frames
 masks/                  Tile transition and wall alpha masks
+runes/                  Rune SVG source artwork
 particles/              Particle scenes, source images, and effect previews
 scripts/                Asset generation, rendering, reporting, and checks
   data/                 Herb catalog and supporting documentation
@@ -92,6 +93,22 @@ blender -b -t 4 --python scripts/render_blender_effects.py
 ```
 
 Other helpers procedurally generate wood and log textures, UI markers, inventory slots, and combat animations. Consult each script's docstring and, where available, `--help` for inputs and output locations. Generators write into the asset tree and can replace existing assets.
+
+### Render runes
+
+Install KDE SVG tools (`ksvgtopng`) and the Noto Sans Egyptian Hieroglyphs,
+CJK JP, Symbols, Symbols 2, and Math fonts used by the SVG text glyphs. Then run:
+
+```sh
+python3 scripts/render_runes.py
+```
+
+This renders every SVG in `runes/` to a transparent 86 × 86 PNG, preserving the
+square SVG canvas proportions, with the same
+filename stem in `client/textures/illarion/ui/`, replacing matching PNGs. Defaults
+are relative to the script, so it can run from any directory. Use `--width` and
+`--height` to change the output dimensions, `--source` and `--output` to override directories,
+or `--renderer` to select a `ksvgtopng` executable.
 
 ### Check credits
 
