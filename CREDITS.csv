@@ -214,7 +214,7 @@ models/misc/bonepile/bonepile.blend,CC0,BlayTheNinth; Paul Wortmann,https://sele
 models/misc/cobweb.blend,CC0,p0ss,https://opengameart.org/content/spider-webs
 models/misc/dead_sheep.blend,CC0,BlayTheNinth; quaternius,https://seleneworlds.com; https://opengameart.org/content/lowpoly-animated-farm-animal-pack
 models/misc/rotting_skeleton.blend,CC0,BlayTheNinth; Gord Goodwin,https://seleneworlds.com; https://opengameart.org/content/skeleton-with-rig
-models/misc/skull/skull.blend,CC0,BlayTheNinth; Paul Wortmann,https://seleneworlds.com; https://opengameart.org/content/spiked-head-and-skull
+models/misc/skull/skull.blend,CC0,Paul Wortmann,https://opengameart.org/content/spiked-head-and-skull
 models/misc/spike_trap/spike_trap.blend,CC0,BlayTheNinth,https://seleneworlds.com
 models/passive_mobs/cow.blend,CC0,quaternius,https://opengameart.org/content/lowpoly-animated-farm-animal-pack
 models/passive_mobs/deer.blend,CC0,CDmir,https://opengameart.org/content/old-deer-male
@@ -548,3 +548,4 @@ client/textures/illarion/ui/rune_m*.png,CC0,AntumDeluge,https://opengameart.org/
 runes/*.svg,CC0,AntumDeluge,https://opengameart.org/content/cc0-rune-icons
 models/items/weapons/large_waraxe/large_waraxe.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
 models/items/weapons/waraxe/waraxe.blend,CC0,System G6,https://opengameart.org/content/medieval-weapon-pack
+models/items/weapons/skull_staff/skull_staff.blend,CC0;CC0,System G6;Paul Wortmann,https://opengameart.org/content/medieval-weapon-pack;https://opengameart.org/content/spiked-head-and-skull

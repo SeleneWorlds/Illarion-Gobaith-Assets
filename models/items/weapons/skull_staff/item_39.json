@@ -1,0 +1,12 @@
+{
+  "model": "skull_staff.blend",
+  "sprites": "illarion/items/weapons/skull_staff/item_39",
+  "visual": "items/item_39",
+  "include": [
+    "Handle",
+    "Head"
+  ],
+  "direction": "handheld",
+  "scale": 1.0,
+  "surfaceOffsetY": 0
+}
