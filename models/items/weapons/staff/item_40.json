@@ -6,7 +6,15 @@
     "Handle",
     "Head"
   ],
-  "direction": "east",
+  "direction": "handheld",
   "scale": 1.5,
-  "surfaceOffsetY": 0
+  "surfaceOffsetY": 0,
+  "materialOverrides": {
+    "Handle": {
+      "mat_staff_1_BrighterHandle": "YellowStaff"
+    },
+    "Head": {
+      "mat_staff_1": "YellowStaff"
+    }
+  }
 }

@@ -1,0 +1,14 @@
+{
+  "model": "flail.blend",
+  "sprites": "illarion/items/weapons/flail/item_231",
+  "visual": "items/item_231",
+  "include": [
+    "Handle",
+    "Head",
+    "Chain"
+  ],
+  "direction": "handheld",
+  "scale": 1.0,
+  "surfaceOffsetY": 0,
+  "reflections": "studio"
+}

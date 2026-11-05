@@ -2,9 +2,9 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
-  "offsetX": 0,
-  "offsetY": -5,
-  "texture": "client/textures/illarion/items/weapons/one_handed_mace_1/item_231.png",
+  "offsetX": -2,
+  "offsetY": -8,
+  "texture": "client/textures/illarion/items/weapons/flail/item_231.png",
   "metadata": {
     "itemId": 231
   }

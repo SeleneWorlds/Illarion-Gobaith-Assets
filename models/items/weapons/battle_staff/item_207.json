@@ -1,0 +1,17 @@
+{
+  "model": "battle_staff.blend",
+  "sprites": "illarion/items/weapons/battle_staff/item_207",
+  "visual": "items/item_207",
+  "include": [
+    "Handle",
+    "Head"
+  ],
+  "direction": "handheld",
+  "scale": 1.5,
+  "surfaceOffsetY": 0,
+  "materialOverrides": {
+    "Head": {
+      "mat_staff_1": "LightYellowHead"
+    }
+  }
+}

@@ -2,9 +2,9 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
-  "offsetX": 0,
-  "offsetY": -24,
-  "texture": "client/textures/illarion/items/weapons/staff_1/item_207.png",
+  "offsetX": -10,
+  "offsetY": -11,
+  "texture": "client/textures/illarion/items/weapons/battle_staff/item_207.png",
   "metadata": {
     "itemId": 207
   }
