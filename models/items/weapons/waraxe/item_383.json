@@ -1,0 +1,14 @@
+{
+  "model": "waraxe.blend",
+  "sprites": "illarion/items/weapons/waraxe/item_383",
+  "visual": "items/item_383",
+  "include": [
+    "Handle",
+    "Blade",
+    "Garnish"
+  ],
+  "direction": "handheld",
+  "scale": 1.0,
+  "surfaceOffsetY": 0,
+  "reflections": "studio"
+}

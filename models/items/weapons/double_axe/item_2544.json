@@ -1,6 +1,6 @@
 {
-  "model": "two_handed_axe_1.blend",
-  "sprites": "illarion/items/weapons/two_handed_axe_1/item_2544",
+  "model": "double_axe.blend",
+  "sprites": "illarion/items/weapons/double_axe/item_2544",
   "visual": "items/item_2544",
   "include": [
     "Handle"

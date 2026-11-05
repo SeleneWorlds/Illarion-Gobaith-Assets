@@ -2,9 +2,9 @@
   "type": "simple",
   "sortLayerOffset": 300,
   "surfaceOffsetY": 0,
-  "offsetX": -5,
-  "offsetY": -23,
-  "texture": "client/textures/illarion/items/weapons/two_handed_axe_1/item_188.png",
+  "offsetX": -1,
+  "offsetY": -8,
+  "texture": "client/textures/illarion/items/weapons/large_waraxe/item_188.png",
   "metadata": {
     "itemId": 188
   }

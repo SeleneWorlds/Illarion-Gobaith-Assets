@@ -1,0 +1,21 @@
+{
+  "model": "large_waraxe.blend",
+  "sprites": "illarion/items/weapons/large_waraxe/item_2723",
+  "visual": "items/item_2723",
+  "include": [
+    "Handle",
+    "Blade",
+    "TopBlade"
+  ],
+  "direction": "handheld",
+  "scale": 1.0,
+  "surfaceOffsetY": 0,
+  "materials": {
+    "mat_two_handed_axe_1": {
+      "Dye": "../../../materials/weapon_dyes/dye_bright_red.png"
+    },
+    "mat_two_handed_axe_1_BrighterHandle": {
+      "Dye": "../../../materials/weapon_dyes/dye_light_gray.png"
+    }
+  }
+}

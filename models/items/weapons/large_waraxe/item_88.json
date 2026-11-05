@@ -1,0 +1,13 @@
+{
+  "model": "large_waraxe.blend",
+  "sprites": "illarion/items/weapons/large_waraxe/item_88",
+  "visual": "items/item_88",
+  "include": [
+    "Handle",
+    "Blade",
+    "TopBlade"
+  ],
+  "direction": "handheld",
+  "scale": 1.0,
+  "surfaceOffsetY": 0
+}

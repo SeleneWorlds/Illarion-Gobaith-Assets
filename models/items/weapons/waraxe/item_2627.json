@@ -1,0 +1,20 @@
+{
+  "model": "waraxe.blend",
+  "sprites": "illarion/items/weapons/waraxe/item_2627",
+  "visual": "items/item_2627",
+  "include": [
+    "Handle",
+    "Blade",
+    "Garnish",
+    "BladeGlow"
+  ],
+  "direction": "handheld",
+  "scale": 1.0,
+  "surfaceOffsetY": 0,
+  "reflections": "studio",
+  "materials": {
+    "WaraxeBladeGlow": {
+      "Dye": "../../../materials/weapon_dyes/dye_fire.png"
+    }
+  }
+}

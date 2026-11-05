@@ -1,0 +1,12 @@
+{
+  "model": "double_axe.blend",
+  "sprites": "illarion/items/weapons/double_axe/item_205",
+  "visual": "items/item_205",
+  "include": [
+    "Handle",
+    "Blade"
+  ],
+  "direction": "handheld",
+  "scale": 1.5,
+  "surfaceOffsetY": 0
+}

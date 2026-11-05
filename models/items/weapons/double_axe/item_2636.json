@@ -1,0 +1,17 @@
+{
+  "model": "double_axe.blend",
+  "sprites": "illarion/items/weapons/double_axe/item_2636",
+  "visual": "items/item_2636",
+  "include": [
+    "Handle",
+    "Blade"
+  ],
+  "direction": "handheld",
+  "scale": 1.5,
+  "surfaceOffsetY": 0,
+  "materials": {
+    "mat_two_handed_axe_1": {
+      "Dye": "../../../materials/weapon_dyes/dye_green.png"
+    }
+  }
+}

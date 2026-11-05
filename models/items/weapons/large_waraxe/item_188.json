@@ -1,0 +1,17 @@
+{
+  "model": "large_waraxe.blend",
+  "sprites": "illarion/items/weapons/large_waraxe/item_188",
+  "visual": "items/item_188",
+  "include": [
+    "Handle",
+    "Blade"
+  ],
+  "direction": "handheld",
+  "scale": 1.0,
+  "surfaceOffsetY": 0,
+  "materials": {
+    "mat_two_handed_axe_1_BrighterHandle": {
+      "Dye": "../../../materials/weapon_dyes/dye_orange.png"
+    }
+  }
+}
